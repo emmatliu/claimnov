@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2e32cde6e080f990873638f2e113767a6a19c824",
+   "title": "Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech",
+   "is_B": true
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "685af6d2bcdff7170574643b2c5ab4fbcc36f597",
+   "title": "WaveGrad: Estimating Gradients for Waveform Generation",
+   "date": "2020-09-02"
+  },
+  {
+   "id": "34bf13e58c7226d615afead0c0f679432502940e",
+   "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+   "date": "2020-09-21"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+   "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+   "date": "2019-07-12"
+  },
+  {
+   "id": "2aab1a79341e4967e31b8efab4dfaf1f96596b74",
+   "title": "Diffusion models for Handwriting Generation",
+   "date": "2020-11-13"
+  },
+  {
+   "id": "37e52ff4714c7a08900b518127e438a195b84611",
+   "title": "MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis",
+   "date": "2019-10-08"
+  },
+  {
+   "id": "df0402517a7338ae28bc54acaac400de6b456a46",
+   "title": "WaveNet: A Generative Model for Raw Audio",
+   "date": "2016-09-12"
+  },
+  {
+   "id": "5947715535cbe84ee62bd00c1d3fe9929d3f84c7",
+   "title": "Parallel Wavegan: A Fast Waveform Generation Model Based on Generative Adversarial Networks with Multi-Resolution Spectrogram",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "0f899b92b7fb03b609fee887e4b6f3b633eaf30d",
+   "title": "Variational Inference with Normalizing Flows",
+   "date": "2015-05-21"
+  },
+  {
+   "id": "1156e277fa7ec195b043161d3c5c97715da17658",
+   "title": "Improved Techniques for Training Score-Based Generative Models",
+   "date": "2020-06-16"
+  },
+  {
+   "id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+   "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+   "date": "2015-03-11"
+  },
+  {
+   "id": "e9675f461418a9c591486e5d4cecd4b42addfd75",
+   "title": "Learning Gradient Fields for Shape Generation",
+   "date": "2020-08-14"
+  },
+  {
+   "id": "85381e0e89e98ea1ed8bd3dfa533d911263757df",
+   "title": "High Fidelity Speech Synthesis with Adversarial Networks",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "4e468d3da1797d791db8d514d695b183acb027ee",
+   "title": "HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis",
+   "date": "2020-10-12"
+  },
+  {
+   "id": "f6cbf83e1ce3b099d656d2346b261d5ef7f2b62e",
+   "title": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis",
+   "date": "2017-11-28"
+  },
+  {
+   "id": "b16492ec402d3d38b2d61de9c4ad37f03966ab9f",
+   "title": "Permutation Invariant Graph Generation via Score-Based Generative Modeling",
+   "date": "2020-03-02"
+  },
+  {
+   "id": "21b786b3f870fc7fa247c143aa41de88b1fc6141",
+   "title": "Glow: Generative Flow with Invertible 1x1 Convolutions",
+   "date": "2018-07-09"
+  },
+  {
+   "id": "edf73ab12595c6709f646f542a0d2b33eb20a3f4",
+   "title": "Improved Training of Wasserstein GANs",
+   "date": "2017-03-31"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.6891,
+  0.6635,
+  0.6221,
+  0.6004,
+  0.5981,
+  0.5656,
+  0.514,
+  0.4837,
+  0.4752,
+  0.4684,
+  0.4682,
+  0.4659,
+  0.4656,
+  0.4613,
+  0.458,
+  0.454,
+  0.4465,
+  0.4312,
+  0.4256
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_26dd808175870b5fc7426b11353acdcc0066304a",
+   "title": "Robustness Certificates for Sparse Adversarial Attacks by Randomized Ablation",
+   "is_B": true
+  },
+  {
+   "id": "2fff1d71c751ad8bdaaa96b625d2b65eb2fb5eaa",
+   "title": "Certified Adversarial Robustness with Additive Noise",
+   "date": "2018-09-10"
+  },
+  {
+   "id": "3e86a51d1f2051ab8f448b66c6dcc17924d17cfa",
+   "title": "Certified Robustness to Adversarial Examples with Differential Privacy",
+   "date": "2018-02-09"
+  },
+  {
+   "id": "795cecaa1adb92c6a71a823b52f7a4a714a2921e",
+   "title": "Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "5812dae376cc07b955244a8e1ce11c3e4b9775ac",
+   "title": "Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "63a010c69f00e65c946a68b546bbd42cbed03564",
+   "title": "MagNet: A Two-Pronged Defense against Adversarial Examples",
+   "date": "2017-05-25"
+  },
+  {
+   "id": "4b23012689e0f17912fb38d4984775e567cff8d6",
+   "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "f7f73185e3975bb62a3c42b2ba6bd4db57fee8ed",
+   "title": "Certified Adversarial Robustness via Randomized Smoothing",
+   "date": "2019-02-08"
+  },
+  {
+   "id": "1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+   "title": "Towards Evaluating the Robustness of Neural Networks",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "fd7789de401811fd8692466b8d49230e7184655f",
+   "title": "Towards the first adversarially robust neural network model on MNIST",
+   "date": "2018-05-23"
+  },
+  {
+   "id": "43a4a354b67ab6d5531355a368094815d2d2593d",
+   "title": "On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models",
+   "date": "2018-10-30"
+  },
+  {
+   "id": "8e37a3b227b68953f8067215828dc8b8714cb21b",
+   "title": "Boosting Adversarial Attacks with Momentum",
+   "date": "2017-10-17"
+  },
+  {
+   "id": "819167ace2f0caae7745d2f25a803979be5fbfae",
+   "title": "The Limitations of Deep Learning in Adversarial Settings",
+   "date": "2015-11-24"
+  },
+  {
+   "id": "6adf016e7531c91100d3cf4a74f5d4c87b26b528",
+   "title": "Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks",
+   "date": "2015-11-14"
+  },
+  {
+   "id": "975b6ec05f04662a967af8c7504b7f552a0ee0bd",
+   "title": "Defensive Distillation is Not Robust to Adversarial Examples",
+   "date": "2016-07-14"
+  },
+  {
+   "id": "b544ca32b66b4c9c69bcfa00d63ee4b799d8ab6b",
+   "title": "Adversarial examples in the physical world",
+   "date": "2016-07-08"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "997b8460d87fb41a928e3e47b06ebbe2d1e2798d",
+   "title": "Dropping Pixels for Adversarial Robustness",
+   "date": "2019-05-01"
+  }
+ ],
+ "n_candidates": 24,
+ "sims": [
+  0.5672,
+  0.535,
+  0.5346,
+  0.5323,
+  0.5139,
+  0.5016,
+  0.4894,
+  0.4876,
+  0.484,
+  0.4833,
+  0.4697,
+  0.4523,
+  0.4458,
+  0.4404,
+  0.4331,
+  0.4187,
+  0.4145,
+  0.411,
+  0.406
+ ]
+}

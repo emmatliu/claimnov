@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_aab368284210c1bb917ec2d31b84588e3d2d7eb4",
+   "title": "Unsupervised Representation Learning by Predicting Image Rotations",
+   "is_B": true
+  },
+  {
+   "id": "684fe9e2d4f7b9b108b9305f7a69907b5e541725",
+   "title": "Multi-task Self-Supervised Visual Learning",
+   "date": "2017-08-25"
+  },
+  {
+   "id": "164b8826b9a30adf69630e634b308046b8cec619",
+   "title": "Colorization as a Proxy Task for Visual Understanding",
+   "date": "2017-03-11"
+  },
+  {
+   "id": "a6fd96a900d4130940b488863b71fd09ad41ccb9",
+   "title": "Discriminative Unsupervised Feature Learning with Convolutional Neural Networks",
+   "date": "2014-06-26"
+  },
+  {
+   "id": "6a25e474075e26ddd18a24cd80deeb1d2ab33b42",
+   "title": "Representation Learning by Learning to Count",
+   "date": "2017-08-22"
+  },
+  {
+   "id": "8e63784bd5a24d5e3035e2a11753e65e6e56625d",
+   "title": "Learning Representations for Automatic Colorization",
+   "date": "2016-03-22"
+  },
+  {
+   "id": "fc1b1c9364c58ec406f494dd944b609a6a038ba6",
+   "title": "Unsupervised Visual Representation Learning by Context Prediction",
+   "date": "2015-05-19"
+  },
+  {
+   "id": "575a0e97702edcb0621a47b574949bac50e34200",
+   "title": "Unsupervised Learning by Predicting Noise",
+   "date": "2017-04-18"
+  },
+  {
+   "id": "7d0effebfa4bed19b6ba41f3af5b7e5b6890de87",
+   "title": "Context Encoders: Feature Learning by Inpainting",
+   "date": "2016-04-25"
+  },
+  {
+   "id": "dfbfaaec46d38392f61d683c340ee92a0a66e5d9",
+   "title": "Learning to See by Moving",
+   "date": "2015-05-07"
+  },
+  {
+   "id": "8388f1be26329fa45e5807e968a641ce170ea078",
+   "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "2eecf2a2788117b808b72321802731efc86526b2",
+   "title": "Joint Unsupervised Learning of Deep Representations and Image Clusters",
+   "date": "2016-04-13"
+  },
+  {
+   "id": "1db6e3078597386ac4222ba6c3f4f61b61f53539",
+   "title": "Adversarial Feature Learning",
+   "date": "2016-05-31"
+  },
+  {
+   "id": "55e022fb7581bb9e1fce678d21fb25ffbb3fbb88",
+   "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+   "date": "2014-12-06"
+  },
+  {
+   "id": "2ec8f7e0257a07d3914322b36072d1bbcd58a1e0",
+   "title": "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles",
+   "date": "2016-03-30"
+  },
+  {
+   "id": "8201e6e687f2de477258e9be53ba7b73ee30d7de",
+   "title": "Colorful Image Colorization",
+   "date": "2016-03-28"
+  },
+  {
+   "id": "c33522fc5d2cf92c5a10f32ba9416365944cdb85",
+   "title": "Scaling the Scattering Transform: Deep Hybrid Networks",
+   "date": "2017-03-27"
+  },
+  {
+   "id": "35d181da0b939bdf3bdf579969e5fe69e277e03e",
+   "title": "Learning Features by Watching Objects Move",
+   "date": "2016-12-19"
+  },
+  {
+   "id": "5e83ab70d0cbc003471e87ec306d27d9c80ecb16",
+   "title": "Network In Network",
+   "date": "2013-12-16"
+  },
+  {
+   "id": "c3af47db3186691270192d5399bb5259e05c87a7",
+   "title": "Data-dependent Initializations of Convolutional Neural Networks",
+   "date": "2015-11-21"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.5515,
+  0.542,
+  0.4908,
+  0.4742,
+  0.4637,
+  0.4589,
+  0.4576,
+  0.4538,
+  0.4417,
+  0.4381,
+  0.4378,
+  0.4256,
+  0.4206,
+  0.4171,
+  0.4123,
+  0.4071,
+  0.4047,
+  0.404,
+  0.4025
+ ]
+}

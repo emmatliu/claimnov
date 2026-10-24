@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_91db2f1dae977f2cf139ce194173487133b1ad67",
+   "title": "Better Supervisory Signals by Observing Learning Paths",
+   "is_B": true
+  },
+  {
+   "id": "f2757aa80c3dbb86f7a7034fc193e6bb61a2171e",
+   "title": "Understanding and Improving Knowledge Distillation",
+   "date": "2020-02-10"
+  },
+  {
+   "id": "7ea2a78a8d8a6327bd13aa4f2d9ace9231bd9662",
+   "title": "Revisiting Knowledge Distillation via Label Smoothing Regularization",
+   "date": "2020-06-01"
+  },
+  {
+   "id": "8de7f044a673d1f5e3b454d0663811f91aa9811a",
+   "title": "On the Efficacy of Knowledge Distillation",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "2444be7584d1f5a7e2aa9f65078de09154f14ea1",
+   "title": "Born Again Neural Networks",
+   "date": "2018-05-12"
+  },
+  {
+   "id": "a8cab29d2230924dffe89d6dda15ba42790c5ebf",
+   "title": "Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation",
+   "date": "2019-05-17"
+  },
+  {
+   "id": "5826c8c4cc9fb2fc03659f501ecd0b8cef8bd581",
+   "title": "Self-Distillation as Instance-Specific Label Smoothing",
+   "date": "2020-06-09"
+  },
+  {
+   "id": "255e6239bcc51047d020d41ce0179c1270f3c22f",
+   "title": "Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning",
+   "date": "2020-12-17"
+  },
+  {
+   "id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+   "title": "Distilling the Knowledge in a Neural Network",
+   "date": "2015-03-09"
+  },
+  {
+   "id": "c255d00a59bba05c9cba1922b0503bcc54b41a46",
+   "title": "S2SD: Simultaneous Similarity-based Self-Distillation for Deep Metric Learning",
+   "date": "2020-09-17"
+  },
+  {
+   "id": "f8de25118af2abc4c48afb947d6ec298e05ef1e5",
+   "title": "When Does Label Smoothing Help?",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "91d331d2bdd5fc86400c40c497bcb4c741c652be",
+   "title": "Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach",
+   "date": "2016-09-13"
+  },
+  {
+   "id": "93582c7fd94b8c855001bf16e08fb7a8f98b7e9e",
+   "title": "Self-Adaptive Training: beyond Empirical Risk Minimization",
+   "date": "2020-02-24"
+  },
+  {
+   "id": "373edd20ffbe31850ec805c43af1dd7e4f0d7672",
+   "title": "Distilling Effective Supervision From Severe Label Noise",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "c9b08639a28ab70a06ba9a09eaae98b2fe3dc6c9",
+   "title": "Early-Learning Regularization Prevents Memorization of Noisy Labels",
+   "date": "2020-06-30"
+  },
+  {
+   "id": "d65ce2b8300541414bfe51d03906fca72e93523c",
+   "title": "On Calibration of Modern Neural Networks",
+   "date": "2017-06-14"
+  },
+  {
+   "id": "d2a2be6ce932a0f1939f31cfff4d64ea3d76723d",
+   "title": "Human Uncertainty Makes Classification More Robust",
+   "date": "2019-08-19"
+  },
+  {
+   "id": "68d5ffe0637e704ab2ff25e93e631f76790c5707",
+   "title": "Characterizing Structural Regularities of Labeled Data in Overparameterized Models",
+   "date": "2020-02-08"
+  },
+  {
+   "id": "1029daa28aa772e441470e61bdd610c222e92932",
+   "title": "On Exact Computation with an Infinitely Wide Neural Net",
+   "date": "2019-04-26"
+  },
+  {
+   "id": "f7b032a4df721d4ed2bab97f6acd33d62477b7a5",
+   "title": "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer",
+   "date": "2016-11-05"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.783,
+  0.773,
+  0.737,
+  0.707,
+  0.6423,
+  0.611,
+  0.6107,
+  0.5238,
+  0.5166,
+  0.4934,
+  0.4634,
+  0.4609,
+  0.4497,
+  0.4383,
+  0.4141,
+  0.407,
+  0.4002,
+  0.3891,
+  0.3678
+ ]
+}

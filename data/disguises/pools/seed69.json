@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_284cb91da412b899ada87a44cbe30d5f64da882f",
+   "title": "Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models",
+   "date": "2026-05-23",
+   "is_B": true
+  },
+  {
+   "id": "160bd03eea8cce6f173787f5219df47911ec028d",
+   "title": "Safety-Aligned Weights Are Not Enough: Refusal-Teacher-Guided Finetuning Enhances Safety and Downstream Performance under Harmful Finetuning Attacks",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "06ec6318e0f95a7159b4d3da0cb9ecba172c5fc4",
+   "title": "NLSR: Neuron-Level Safety Realignment of Large Language Models Against Harmful Fine-Tuning",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "e002b6ce5283d88ce0c21afbca27b3aea091e78f",
+   "title": "Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation",
+   "date": "2024-09-03"
+  },
+  {
+   "id": "be4156b6c5b804af6a20e5f723e521df6981b6fc",
+   "title": "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning",
+   "date": "2024-08-18"
+  },
+  {
+   "id": "0e0e706e13f160e74cac9556f28ab9a358c148d2",
+   "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+   "date": "2023-10-05"
+  },
+  {
+   "id": "c2718c3ce5ca5a2e68e4f718c473d73816c9d407",
+   "title": "Panacea: Mitigating Harmful Fine-tuning for Large Language Models via Post-fine-tuning Perturbation",
+   "date": "2025-01-30"
+  },
+  {
+   "id": "d1b5151231a790c7a60f620e21860593dae9a1c5",
+   "title": "LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B",
+   "date": "2023-10-31"
+  },
+  {
+   "id": "fd59c78825ae11c117b57e08e8003250343362a3",
+   "title": "Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models",
+   "date": "2024-05-27"
+  },
+  {
+   "id": "c2f03b07c069259730f119f10737a1e033440a0c",
+   "title": "Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets",
+   "date": "2025-05-17"
+  },
+  {
+   "id": "f1de0ef4befcafe5736f9a0255a546e43af17889",
+   "title": "Representation Noising: A Defence Mechanism Against Harmful Finetuning",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "27a2ee8b77dbfe02b908d3e929eaba42121ecf83",
+   "title": "AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "781494434d8b9dfec52134de59e2aa4215583169",
+   "title": "Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning",
+   "date": "2025-06-04"
+  },
+  {
+   "id": "e06217b5d1c0bad7e67eb70094bd4a327359f6ef",
+   "title": "Lisa: Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning Attack",
+   "date": "2024-05-28"
+  },
+  {
+   "id": "34fa74eda21ccf9c237b2e4cb43ca98e545bfafb",
+   "title": "LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning",
+   "date": "2025-06-18"
+  },
+  {
+   "id": "abdb6e912fe86a60600b438b0e36b502f6412b24",
+   "title": "Vaccine: Perturbation-aware Alignment for Large Language Model",
+   "date": "2024-02-02"
+  },
+  {
+   "id": "18a37eb07951c79c3290a4be400a938383a8d31c",
+   "title": "Targeted Vaccine: Safety Alignment for Large Language Models Against Harmful Fine-Tuning via Layer-Wise Perturbation",
+   "date": "2024-10-13"
+  },
+  {
+   "id": "c5b9f501c01fec7afff1c5df862803f88f19236b",
+   "title": "Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs",
+   "date": "2024-07-22"
+  },
+  {
+   "id": "a95f8c0228b9d8940632c982e0c6106b701a105b",
+   "title": "Making Harmful Behaviors Unlearnable for Large Language Models",
+   "date": "2023-11-02"
+  },
+  {
+   "id": "a4c921bdef167ae54cc3a40643e6e3ed13d49a61",
+   "title": "Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions",
+   "date": "2023-09-14"
+  }
+ ],
+ "n_candidates": 50,
+ "sims": [
+  0.7684,
+  0.762,
+  0.7602,
+  0.7519,
+  0.751,
+  0.7416,
+  0.7313,
+  0.7288,
+  0.7141,
+  0.7059,
+  0.6883,
+  0.6856,
+  0.6813,
+  0.6791,
+  0.6694,
+  0.6684,
+  0.6594,
+  0.6592,
+  0.6591
+ ]
+}

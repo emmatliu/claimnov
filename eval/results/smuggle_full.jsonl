@@ -1,0 +1,880 @@
+{"item": "seed0_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "Palu: KV-Cache Compression with Low-Rank Projection"]}
+{"item": "seed0_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed0_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed0_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed0_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 5.75}
+{"item": "seed0_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank C", "hit_B": true}
+{"item": "seed0_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank C", "hit_B": true}
+{"item": "seed0_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"]}
+{"item": "seed0_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "Palu: KV-Cache Compression with Low-Rank Projection"]}
+{"item": "seed0_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression"]}
+{"item": "seed0_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": false, "evidence": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy"}
+{"item": "seed0_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": "Palu: KV-Cache Compression with Low-Rank Projection"}
+{"item": "seed0_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control"}
+{"item": "seed0_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed0_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed0_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": false, "rating": 3}
+{"item": "seed0_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 6.75}
+{"item": "seed0_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 8.75}
+{"item": "seed0_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Stra", "hit_B": false}
+{"item": "seed0_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank C", "hit_B": true}
+{"item": "seed0_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": false, "evidence": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Stra", "hit_B": false}
+{"item": "seed0_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 6.25}
+{"item": "seed0_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": ["ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression"]}
+{"item": "seed0_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed0_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank C", "hit_B": true}
+{"item": "seed1_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "VidTok: A Versatile and Open-Source Video Tokenizer", "ElasticTok: Adaptive Tokenization for Image and Video"]}
+{"item": "seed0_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank C", "hit_B": true}
+{"item": "seed1_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": ["VidTok: A Versatile and Open-Source Video Tokenizer", "ElasticTok: Adaptive Tokenization for Image and Video", "OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation"]}
+{"item": "seed0_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection"}
+{"item": "seed0_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": false, "evidence": "Phenaki: Variable Length Video Generation From Open Domain Textual Description"}
+{"item": "seed1_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": false, "rating": 3}
+{"item": "seed1_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed1_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed0_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed0_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 9.25}
+{"item": "seed0_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed0_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed1_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "VidTok: A Versatile and Open-Source Video Tokenizer", "ElasticTok: Adaptive Tokenization for Image and Video"]}
+{"item": "seed1_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": false, "evidence": "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length", "hit_B": false}
+{"item": "seed1_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 6.75}
+{"item": "seed1_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models", "Jailbreaking Black Box Large Language Models in Twenty Queries", "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States"]}
+{"item": "seed2_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed1_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed2_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed1_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed1_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed1_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": false, "evidence": "ElasticTok: Adaptive Tokenization for Image and Video"}
+{"item": "seed1_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed1_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 5.94}
+{"item": "seed1_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed2_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 7.0}
+{"item": "seed2_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": ["Universal and Transferable Adversarial Attacks on Aligned Language Models", "Improving Alignment and Robustness with Circuit Breakers", "On the Role of Attention Heads in Large Language Model Safety"]}
+{"item": "seed2_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models", "Jailbreaking Black Box Large Language Models in Twenty Queries", "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation"]}
+{"item": "seed2_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 8.75}
+{"item": "seed2_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed1_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed2_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed1_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": ["Jailbreaking Black Box Large Language Models in Twenty Queries", "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation", "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks"]}
+{"item": "seed2_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 9.5}
+{"item": "seed2_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 6.25}
+{"item": "seed2_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed2_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety", "hit_B": false}
+{"item": "seed2_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed3_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["MixMin: Finding Data Mixtures via Convex Minimization", "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", "Towards Efficient LLMs Annealing with Principled Sample Selection"]}
+{"item": "seed2_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed2_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed3_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": true, "evidence": ["Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima", "Not All Samples Are Created Equal: Deep Learning with Importance Sampling"]}
+{"item": "seed3_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 5}
+{"item": "seed3_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": false, "evidence": "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden", "hit_B": false}
+{"item": "seed2_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": false, "evidence": "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden", "hit_B": false}
+{"item": "seed3_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Towards Efficient LLMs Annealing with Principled Sample Selection", "A Survey on Efficient Large Language Model Training: From Data-centric Perspectives", "Scaling Laws for Optimal Data Mixtures"]}
+{"item": "seed3_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 7.0}
+{"item": "seed3_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 5}
+{"item": "seed3_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed3_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed3_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed3_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 5.75}
+{"item": "seed3_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed3_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics", "Harnessing non-adversarial robustness in large language models", "When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs"]}
+{"item": "seed3_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed3_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed3_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 8.25}
+{"item": "seed3_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed3_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 8.0}
+{"item": "seed3_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 6.88}
+{"item": "seed4_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed4_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Harnessing non-adversarial robustness in large language models", "When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs", "Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics"]}
+{"item": "seed4_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed3_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed4_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": ["When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs", "Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics", "Certified Robustness for Large Language Models with Self-Denoising"]}
+{"item": "seed4_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed4_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed4_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed4_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 5.31}
+{"item": "seed4_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 7.5}
+{"item": "seed4_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed5_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["Paging with Succinct Predictions", "Towards Optimal Robustness in Learning-Augmented Paging", "Competitive Paging Algorithms"]}
+{"item": "seed5_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed4_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 8.44}
+{"item": "seed5_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed4_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed4_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Paging with Succinct Predictions", "Towards Optimal Robustness in Learning-Augmented Paging", "Competitive Paging Algorithms"]}
+{"item": "seed5_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed5_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 8.12}
+{"item": "seed5_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed5_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed5_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed5_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": ["Paging with Succinct Predictions", "Competitive Paging Algorithms", "A strongly competitive randomized paging algorithm"]}
+{"item": "seed5_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed5_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 8.25}
+{"item": "seed5_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": false, "rating": 3}
+{"item": "seed5_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed5_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed6_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["Matroid Algorithms Under Size-Sensitive Independence Oracles", "Accelerating Matroid Optimization through Fast Imprecise Oracles", "Matroid Secretary Problems"]}
+{"item": "seed6_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed5_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 9.06}
+{"item": "seed6_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed5_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 5}
+{"item": "seed5_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 9.25}
+{"item": "seed5_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": false, "evidence": "Competitive caching with machine learned advice", "hit_B": false}
+{"item": "seed5_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": false, "evidence": "Competitive caching with machine learned advice", "hit_B": false}
+{"item": "seed5_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Matroid Algorithms Under Size-Sensitive Independence Oracles", "Matroid Secretary Problems", "Breaking the quadratic barrier for matroid intersection"]}
+{"item": "seed6_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 9.06}
+{"item": "seed6_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed6_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed6_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": true, "evidence": ["Accelerating Matroid Optimization through Fast Imprecise Oracles", "Matroid Secretary Problems", "Large-Scale Trade-Off Curve Computation for Incentive Allocation with Cardinality and Matroid Constraints"]}
+{"item": "seed6_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 5}
+{"item": "seed6_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 8.12}
+{"item": "seed6_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed6_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 9.5}
+{"item": "seed7_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["The Superposition of Diffusion Models Using the It\u00f4 Density Estimator", "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models", "Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC"]}
+{"item": "seed6_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed6_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 9.38}
+{"item": "seed7_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed6_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": ["Classifier-Free Diffusion Guidance", "Diffusion Illusions: Hiding Images in Plain Sight", "Diffusion policy: Visuomotor policy learning via action diffusion"]}
+{"item": "seed7_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 7.19}
+{"item": "seed6_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models", "Denoising Diffusion Probabilistic Models", "Denoising Diffusion Implicit Models"]}
+{"item": "seed7_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed7_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed7_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed7_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": false, "evidence": "The Superposition of Diffusion Models Using the It\u00f4 Density Estimator"}
+{"item": "seed7_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 7.25}
+{"item": "seed7_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed7_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 9.38}
+{"item": "seed8_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["Ratio-Variance Regularized Policy Optimization", "A Stochastic Trust-Region Framework for Policy Optimization", "Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs"]}
+{"item": "seed8_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed7_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed7_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed7_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 7.5}
+{"item": "seed8_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": true, "evidence": ["Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs", "A Stochastic Trust-Region Framework for Policy Optimization", "What Can RL Bring to VLA Generalization? An Empirical Study"]}
+{"item": "seed7_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control", "Ratio-Variance Regularized Policy Optimization", "Proximal Policy Optimization Algorithms"]}
+{"item": "seed8_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": true, "evidence": ["V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control", "Proximal Policy Optimization Algorithms", "A Stochastic Trust-Region Framework for Policy Optimization"]}
+{"item": "seed8_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed8_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 7.19}
+{"item": "seed8_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": false, "rating": 3}
+{"item": "seed8_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed9_r1_B_in", "gate": "v1", "rung": 1, "cond": "B_in", "novel": false, "evidence": ["What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity", "Curiosity-Driven Exploration by Self-Supervised Prediction", "BYOL-Explore: Exploration by Bootstrapped Prediction"]}
+{"item": "seed9_r1_B_in", "gate": "coi", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r1_B_in", "gate": "si", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r1_B_in", "gate": "arc", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r1_B_in", "gate": "module", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed8_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 9.69}
+{"item": "seed9_r1_B_in", "gate": "ra", "rung": 1, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed8_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed8_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r1_B_in", "gate": "scholareval", "rung": 1, "cond": "B_in", "novel": true, "score": 6.25}
+{"item": "seed8_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r1_B_in", "gate": "v2_reflection", "rung": 1, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r1_B_out", "gate": "v1", "rung": 1, "cond": "B_out", "novel": false, "evidence": ["Curiosity-Driven Exploration by Self-Supervised Prediction", "BYOL-Explore: Exploration by Bootstrapped Prediction", "Latent World Models For Intrinsically Motivated Exploration"]}
+{"item": "seed8_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r1_B_in", "gate": "veto_sonnet", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r1_B_out", "gate": "coi", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r1_B_in", "gate": "veto_haiku", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r2_B_in", "gate": "v1", "rung": 2, "cond": "B_in", "novel": false, "evidence": ["Curiosity-Driven Exploration by Self-Supervised Prediction", "Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration", "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"]}
+{"item": "seed9_r2_B_out", "gate": "v1", "rung": 2, "cond": "B_out", "novel": false, "evidence": ["Curiosity-Driven Exploration by Self-Supervised Prediction", "Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration", "Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models"]}
+{"item": "seed9_r2_B_in", "gate": "coi", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r2_B_out", "gate": "coi", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_in", "gate": "si", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r2_B_in", "gate": "arc", "rung": 2, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r1_B_out", "gate": "si", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r1_B_out", "gate": "arc", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_in", "gate": "module", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r1_B_out", "gate": "module", "rung": 1, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_out", "gate": "si", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_out", "gate": "arc", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_out", "gate": "module", "rung": 2, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_in", "gate": "ra", "rung": 2, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed9_r2_B_out", "gate": "ra", "rung": 2, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed9_r1_B_out", "gate": "ra", "rung": 1, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed9_r2_B_in", "gate": "scholareval", "rung": 2, "cond": "B_in", "novel": true, "score": 7.5}
+{"item": "seed9_r2_B_in", "gate": "v2_reflection", "rung": 2, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r2_B_in", "gate": "veto_sonnet", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r2_B_out", "gate": "scholareval", "rung": 2, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed9_r2_B_in", "gate": "veto_haiku", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed0_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration", "Palu: KV-Cache Compression with Low-Rank Projection"]}
+{"item": "seed0_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r2_B_out", "gate": "v2_reflection", "rung": 2, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r2_B_out", "gate": "veto_sonnet", "rung": 2, "cond": "B_out", "novel": false, "evidence": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents", "hit_B": false}
+{"item": "seed0_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": false, "evidence": "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration"}
+{"item": "seed0_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r1_B_out", "gate": "scholareval", "rung": 1, "cond": "B_out", "novel": true, "score": 8.12}
+{"item": "seed9_r2_B_out", "gate": "veto_haiku", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "AI and Memory Wall"]}
+{"item": "seed9_r1_B_out", "gate": "v2_reflection", "rung": 1, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed0_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed0_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection"}
+{"item": "seed0_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed0_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r1_B_out", "gate": "veto_sonnet", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r1_B_out", "gate": "veto_haiku", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": ["LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy", "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "AI and Memory Wall"]}
+{"item": "seed0_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed0_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 8.25}
+{"item": "seed0_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection"}
+{"item": "seed0_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed0_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed0_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 9.5}
+{"item": "seed0_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "VidTok: A Versatile and Open-Source Video Tokenizer", "ElasticTok: Adaptive Tokenization for Image and Video"]}
+{"item": "seed0_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed0_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Stra", "hit_B": false}
+{"item": "seed0_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed1_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": false, "evidence": ["Pyramidal Flow Matching for Efficient Video Generative Modeling", "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer", "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer"]}
+{"item": "seed1_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": false, "evidence": "Phenaki: Variable Length Video Generation From Open Domain Textual Description"}
+{"item": "seed1_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed0_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed1_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed0_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed0_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": false, "evidence": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Stra", "hit_B": false}
+{"item": "seed1_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed0_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection", "hit_B": false}
+{"item": "seed1_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["Pyramidal Flow Matching for Efficient Video Generative Modeling", "VideoGPT: Video Generation using VQ-VAE and Transformers", "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer"]}
+{"item": "seed1_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed1_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed1_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization"}
+{"item": "seed1_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 9.69}
+{"item": "seed1_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed1_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 6.5}
+{"item": "seed1_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed1_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 6.88}
+{"item": "seed1_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Jailbreaking Black Box Large Language Models in Twenty Queries", "Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes", "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States"]}
+{"item": "seed2_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed1_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed2_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": false, "evidence": ["Jailbreaking Black Box Large Language Models in Twenty Queries", "Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes", "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States"]}
+{"item": "seed1_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed2_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed1_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Adaptive Length Image Tokenization via Recurrent Allocation"}
+{"item": "seed2_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed1_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed1_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": false, "rating": 3}
+{"item": "seed1_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed2_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 8.5}
+{"item": "seed2_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 6.5}
+{"item": "seed1_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.06}
+{"item": "seed2_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": false, "evidence": "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden", "hit_B": false}
+{"item": "seed2_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": ["Improving Alignment and Robustness with Circuit Breakers", "Universal and Transferable Adversarial Attacks on Aligned Language Models", "Understanding Refusal in Language Models with Sparse Autoencoders"]}
+{"item": "seed1_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": false, "evidence": "LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior", "hit_B": false}
+{"item": "seed2_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety"}
+{"item": "seed2_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": null}
+{"item": "seed1_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed3_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", "SuperGlue: Learning Feature Matching With Graph Neural Networks", "Towards Efficient LLMs Annealing with Principled Sample Selection"]}
+{"item": "seed2_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed2_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models"}
+{"item": "seed2_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed2_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed3_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed2_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 7.25}
+{"item": "seed2_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed2_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Atten", "hit_B": true}
+{"item": "seed3_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 6.75}
+{"item": "seed3_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed3_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": true, "evidence": ["Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", "Not All Samples Are Created Equal: Deep Learning with Importance Sampling", "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima"]}
+{"item": "seed3_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["Towards Efficient LLMs Annealing with Principled Sample Selection", "Not All Samples Are Created Equal: Deep Learning with Importance Sampling", "MixMin: Finding Data Mixtures via Convex Minimization"]}
+{"item": "seed3_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed2_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed3_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection"}
+{"item": "seed3_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed3_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed2_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 8.0}
+{"item": "seed3_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 5.62}
+{"item": "seed3_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed2_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed2_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": false, "evidence": "On the Role of Attention Heads in Large Language Model Safety", "hit_B": false}
+{"item": "seed3_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed3_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed3_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed2_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering", "Large Margin Neural Language Model", "Certified Robustness for Large Language Models with Self-Denoising"]}
+{"item": "seed3_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": true, "evidence": ["Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", "Exploring Generalization in Deep Learning", "SuperGlue: Learning Feature Matching With Graph Neural Networks"]}
+{"item": "seed4_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": false, "evidence": ["How are Prompts Different in Terms of Sensitivity?", "Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements", "When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs"]}
+{"item": "seed4_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed3_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed4_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 5}
+{"item": "seed4_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed3_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 7.81}
+{"item": "seed4_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 5.31}
+{"item": "seed3_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed4_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["How adversarial attacks can disrupt seemingly stable accurate classifiers", "Harnessing non-adversarial robustness in large language models", "Robust Large Margin Deep Neural Networks"]}
+{"item": "seed4_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed3_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models"}
+{"item": "seed4_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed4_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed4_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Robust Learning-Augmented Caching: An Experimental Study", "Competitive caching with machine learned advice", "Better and Simpler Learning-Augmented Online Caching"]}
+{"item": "seed5_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed4_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed4_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed4_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 7.25}
+{"item": "seed4_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed4_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed5_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": false, "evidence": ["Competitive caching with machine learned advice", "Robust Learning-Augmented Caching: An Experimental Study", "Algorithms for Caching and MTS with reduced number of predictions"]}
+{"item": "seed5_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed5_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": false, "evidence": "Competitive caching with machine learned advice"}
+{"item": "seed5_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed4_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed4_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 6.25}
+{"item": "seed5_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed4_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed5_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed4_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": ["Competitive caching with machine learned advice", "Algorithms for Caching and MTS with reduced number of predictions", "Robust Learning-Augmented Caching: An Experimental Study"]}
+{"item": "seed5_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 9.06}
+{"item": "seed5_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Competitive caching with machine learned advice"}
+{"item": "seed5_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": true, "evidence": ["Online Metric Algorithms with Untrusted Predictions", "Algorithms for Caching and MTS with reduced number of predictions", "Improving Online Algorithms via ML Predictions"]}
+{"item": "seed5_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed5_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": false, "evidence": "Near-Optimal Bounds for Online Caching with Machine Learned Advice", "hit_B": false}
+{"item": "seed5_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed5_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed5_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging"}
+{"item": "seed5_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed6_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Matroid Algorithms Under Size-Sensitive Independence Oracles", "Matroid Secretary Problems", "On the Parallel Complexity of Finding a Matroid Basis"]}
+{"item": "seed6_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed5_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.38}
+{"item": "seed6_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed5_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Competitive caching with machine learned advice", "hit_B": false}
+{"item": "seed6_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed5_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Online Metric Algorithms with Untrusted Predictions", "hit_B": false}
+{"item": "seed5_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 8.12}
+{"item": "seed5_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed5_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Competitive caching with machine learned advice", "hit_B": false}
+{"item": "seed5_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Online Metric Algorithms with Untrusted Predictions", "hit_B": false}
+{"item": "seed6_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["Matroid Algorithms Under Size-Sensitive Independence Oracles", "A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization", "Large-Scale Trade-Off Curve Computation for Incentive Allocation with Cardinality and Matroid Constraints"]}
+{"item": "seed6_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": true, "evidence": ["Accelerating Matroid Optimization through Fast Imprecise Oracles", "Combining Preference Elicitation with Local Search and Greedy Search for Matroid Optimization", "Fully Dynamic Submodular Maximization over Matroids"]}
+{"item": "seed6_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed6_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 8.75}
+{"item": "seed6_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles"}
+{"item": "seed6_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed6_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed6_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed6_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 7.81}
+{"item": "seed6_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed6_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed6_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed7_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models", "Denoising Diffusion Probabilistic Models", "The Superposition of Diffusion Models Using the It\u00f4 Density Estimator"]}
+{"item": "seed6_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed6_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": true, "evidence": ["Compositional Sculpting of Iterative Generative Processes", "Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget", "Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC"]}
+{"item": "seed7_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed6_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.69}
+{"item": "seed7_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed7_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed6_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed6_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 7.0}
+{"item": "seed7_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 9.75}
+{"item": "seed7_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed6_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models", "Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget", "Compositional Sculpting of Iterative Generative Processes"]}
+{"item": "seed7_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed7_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models"}
+{"item": "seed7_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed7_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Ratio-Variance Regularized Policy Optimization", "Provably Convergent Policy Optimization via Metric-aware Trust Region Methods", "Proximal Policy Optimization Algorithms"]}
+{"item": "seed7_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed7_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed8_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed7_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed8_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": false, "rating": 3}
+{"item": "seed7_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 6.5}
+{"item": "seed7_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.38}
+{"item": "seed7_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed7_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Model", "hit_B": true}
+{"item": "seed7_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": true, "evidence": ["A Stochastic Trust-Region Framework for Policy Optimization", "Relative Entropy Policy Search", "V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control"]}
+{"item": "seed8_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 7.5}
+{"item": "seed8_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed7_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["A Stochastic Trust-Region Framework for Policy Optimization", "Ratio-Variance Regularized Policy Optimization", "Guaranteed Trust Region Optimization via Two-Phase KL Penalization"]}
+{"item": "seed8_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed8_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Guaranteed Trust Region Optimization via Two-Phase KL Penalization"}
+{"item": "seed8_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Provably Convergent Policy Optimization via Metric-aware Trust Region Methods"}
+{"item": "seed8_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed8_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 5}
+{"item": "seed8_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization"}
+{"item": "seed8_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed8_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed8_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed8_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed8_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 10.0}
+{"item": "seed8_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 7.5}
+{"item": "seed8_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed8_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed8_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r3_B_in", "gate": "v1", "rung": 3, "cond": "B_in", "novel": false, "evidence": ["Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning", "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model", "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents"]}
+{"item": "seed9_r3_B_in", "gate": "coi", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_in", "gate": "si", "rung": 3, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r3_B_in", "gate": "arc", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_in", "gate": "module", "rung": 3, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_out", "gate": "v1", "rung": 3, "cond": "B_out", "novel": true, "evidence": ["Curiosity-Driven Exploration by Self-Supervised Prediction", "Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration", "BYOL-Explore: Exploration by Bootstrapped Prediction"]}
+{"item": "seed9_r4_B_in", "gate": "v1", "rung": 4, "cond": "B_in", "novel": false, "evidence": ["What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity", "Curiosity-Driven Exploration by Self-Supervised Prediction", "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents"]}
+{"item": "seed9_r3_B_out", "gate": "coi", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r4_B_in", "gate": "coi", "rung": 4, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r4_B_in", "gate": "si", "rung": 4, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity"}
+{"item": "seed9_r4_B_in", "gate": "arc", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r4_B_in", "gate": "module", "rung": 4, "cond": "B_in", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_in", "gate": "ra", "rung": 3, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed9_r3_B_out", "gate": "si", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_out", "gate": "arc", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_out", "gate": "module", "rung": 3, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r4_B_in", "gate": "ra", "rung": 4, "cond": "B_in", "novel": true, "rating": 4}
+{"item": "seed9_r3_B_out", "gate": "ra", "rung": 3, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed9_r3_B_in", "gate": "scholareval", "rung": 3, "cond": "B_in", "novel": true, "score": 6.56}
+{"item": "seed9_r3_B_in", "gate": "v2_reflection", "rung": 3, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r3_B_in", "gate": "veto_sonnet", "rung": 3, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r3_B_in", "gate": "veto_haiku", "rung": 3, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r4_B_out", "gate": "v1", "rung": 4, "cond": "B_out", "novel": false, "evidence": null}
+{"item": "seed9_r4_B_out", "gate": "coi", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_out", "gate": "scholareval", "rung": 3, "cond": "B_out", "novel": true, "score": 9.38}
+{"item": "seed9_r4_B_out", "gate": "si", "rung": 4, "cond": "B_out", "novel": false, "evidence": "BYOL-Explore: Exploration by Bootstrapped Prediction"}
+{"item": "seed9_r4_B_out", "gate": "arc", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r4_B_in", "gate": "scholareval", "rung": 4, "cond": "B_in", "novel": true, "score": 6.75}
+{"item": "seed9_r4_B_out", "gate": "module", "rung": 4, "cond": "B_out", "novel": true, "evidence": null}
+{"item": "seed9_r3_B_out", "gate": "v2_reflection", "rung": 3, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r4_B_in", "gate": "v2_reflection", "rung": 4, "cond": "B_in", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r4_B_in", "gate": "veto_sonnet", "rung": 4, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r4_B_in", "gate": "veto_haiku", "rung": 4, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Lin", "hit_B": true}
+{"item": "seed9_r4_B_out", "gate": "ra", "rung": 4, "cond": "B_out", "novel": true, "rating": 4}
+{"item": "seed9_r3_B_out", "gate": "veto_sonnet", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r3_B_out", "gate": "veto_haiku", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r4_B_out", "gate": "scholareval", "rung": 4, "cond": "B_out", "novel": true, "score": 9.06}
+{"item": "seed9_r4_B_out", "gate": "v2_reflection", "rung": 4, "cond": "B_out", "novel": true, "verdict_slot_imposed": true}
+{"item": "seed9_r4_B_out", "gate": "veto_sonnet", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r4_B_out", "gate": "veto_haiku", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adapt", "hit_B": true}
+{"item": "seed0_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Project", "hit_B": false}
+{"item": "seed0_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Project", "hit_B": false}
+{"item": "seed1_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed0_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": false, "evidence": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Project", "hit_B": false}
+{"item": "seed1_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence ", "hit_B": true}
+{"item": "seed1_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence ", "hit_B": true}
+{"item": "seed2_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed2_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed3_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed4_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed5_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed5_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": false, "evidence": "Better and Simpler Learning-Augmented Online Caching", "hit_B": false}
+{"item": "seed6_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed6_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed9_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via ", "hit_B": true}
+{"item": "seed9_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression", "hit_B": false}
+{"item": "seed1_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed1_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Adaptive Length Image Tokenization via Recurrent Allocation", "hit_B": false}
+{"item": "seed2_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence ", "hit_B": true}
+{"item": "seed3_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed3_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Towards Efficient LLMs Annealing with Principled Sample Selection", "hit_B": true}
+{"item": "seed4_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed4_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Harnessing non-adversarial robustness in large language models", "hit_B": true}
+{"item": "seed5_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": false, "evidence": "Near-Optimal Bounds for Online Caching with Machine Learned Advice", "hit_B": false}
+{"item": "seed6_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed7_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffu", "hit_B": true}
+{"item": "seed7_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffu", "hit_B": true}
+{"item": "seed8_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed9_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via ", "hit_B": true}
+{"item": "seed9_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r1_B_in", "gate": "veto_opus", "rung": 1, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffu", "hit_B": true}
+{"item": "seed7_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffu", "hit_B": true}
+{"item": "seed8_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed9_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression", "hit_B": false}
+{"item": "seed1_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization", "hit_B": true}
+{"item": "seed2_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence ", "hit_B": true}
+{"item": "seed3_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed6_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Matroid Algorithms Under Size-Sensitive Independence Oracles", "hit_B": true}
+{"item": "seed7_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via ", "hit_B": true}
+{"item": "seed9_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r1_B_out", "gate": "veto_opus", "rung": 1, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed9_r2_B_in", "gate": "veto_opus", "rung": 2, "cond": "B_in", "novel": false, "evidence": "What You Think is What You See: Driving Exploration in VLM Agents via ", "hit_B": true}
+{"item": "seed0_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adapt", "hit_B": true}
+{"item": "seed8_r2_B_out", "gate": "veto_opus", "rung": 2, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed0_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed1_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed2_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed3_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed4_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Towards Optimal Robustness in Learning-Augmented Paging", "hit_B": true}
+{"item": "seed4_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r4_B_in", "gate": "veto_opus", "rung": 4, "cond": "B_in", "novel": false, "evidence": "Near-Optimal Bounds for Online Caching with Machine Learned Advice", "hit_B": false}
+{"item": "seed6_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed5_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed7_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_in", "gate": "veto_opus", "rung": 3, "cond": "B_in", "novel": false, "evidence": "Ratio-Variance Regularized Policy Optimization", "hit_B": true}
+{"item": "seed6_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r3_B_out", "gate": "veto_opus", "rung": 3, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}
+{"item": "seed8_r4_B_out", "gate": "veto_opus", "rung": 4, "cond": "B_out", "novel": true, "evidence": null, "hit_B": false}

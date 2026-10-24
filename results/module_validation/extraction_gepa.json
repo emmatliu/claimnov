@@ -1,0 +1,67 @@
+{
+ "caption": "Extraction prompt: pre/post GEPA (two-sample replicates, 20-paper human GT)",
+ "data": {
+  "pre_gepa": {
+   "gt_f1": [
+    0.646,
+    0.667
+   ],
+   "dim_kappa": [
+    0.596,
+    0.662
+   ],
+   "tell_cov": "41-42/75"
+  },
+  "gepa_r4p0l1": {
+   "gt_f1": [
+    0.674,
+    0.695
+   ],
+   "dim_kappa": [
+    0.793,
+    0.744
+   ],
+   "tell_cov": "38-39/75"
+  },
+  "rerun_noise_band": {
+   "f1": 0.02,
+   "kappa": 0.07
+  }
+ },
+ "nano_swap_check": {
+  "gpt5nano_on_gepa_prompt": {
+   "gt_f1": 0.642,
+   "precision": 0.557,
+   "recall": 0.756,
+   "dim_kappa": 0.696,
+   "mean_claims": 3.3,
+   "tell_cov": "41/75 (via claim inflation)"
+  },
+  "entailment": {
+   "auc": "0.44-0.46 (below plateau)",
+   "a2_separation": 0.87
+  },
+  "statistics": {
+   "paired_auc_delta": {
+    "value": 0.059,
+    "ci95": [
+     -0.022,
+     0.139
+    ],
+    "one_sided_p": 0.072
+   }
+  }
+ },
+ "mini_swap_check": {
+  "gpt5mini_extraction": {
+   "gt_f1": 0.673,
+   "dim_kappa": 0.742,
+   "tell_cov": "43/75",
+   "mean_claims": "2.8-3.0 (within constraint)"
+  },
+  "gpt5mini_entailment": {
+   "auc": "0.438-0.503 (off plateau)",
+   "a2_separation": 0.67
+  }
+ }
+}

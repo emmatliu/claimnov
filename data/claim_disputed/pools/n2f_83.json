@@ -1,0 +1,102 @@
+{
+ "pool": [
+  {
+   "id": "B_24110157f3247109c51cef3e0a33f65d650d86e4",
+   "title": "A micro-macro Markov chain Monte Carlo method for molecular dynamics using reaction coordinate proposals I: direct reconstruction",
+   "is_B": true
+  },
+  {
+   "id": "c52418d7f0a9cecc106f1097911179c2726b938d",
+   "title": "Efficient identification of critical regions via flow matching-based Monte Carlo initialization",
+   "date": "2025-08-21"
+  },
+  {
+   "id": "be55a1132d4db91fb550383ea8246de1898fe761",
+   "title": "General state space Markov chains and MCMC algorithms",
+   "date": "2004-04-02"
+  },
+  {
+   "id": "74defd863af4579846e493a34aaf14bc62ca8984",
+   "title": "MCMC Methods for Functions: ModifyingOld Algorithms to Make Them Faster",
+   "date": "2012-02-03"
+  },
+  {
+   "id": "c693efd77dc94bc6479dc1097632ced5004fc975",
+   "title": "From molecular dynamics to Brownian dynamics",
+   "date": "2014-01-15"
+  },
+  {
+   "id": "2922a19f30250cea09ee7541960b36d51e88731d",
+   "title": "Transition events in butane simulations: Similarities across models",
+   "date": "2001-07-27"
+  },
+  {
+   "id": "5b93e939304d560f29093477793d1125b639875e",
+   "title": "A mathematical formalization of the parallel replica dynamics",
+   "date": "2011-05-23"
+  },
+  {
+   "id": "f0a31cede7c2ce6ee31576ed9cbf1c93fb4728cb",
+   "title": "Fast Langevin based algorithm for MCMC in high dimensions",
+   "date": "2015-07-08"
+  },
+  {
+   "id": "020c81196c3c42238a03a6c047c07784d8047977",
+   "title": "Adaptive resolution molecular-dynamics simulation: changing the degrees of freedom on the fly.",
+   "date": "2005-10-10"
+  },
+  {
+   "id": "634399c926248fffa069aa36bf10ee5711372db0",
+   "title": "Multilevel coarse graining and nano-pattern discovery in many particle stochastic systems",
+   "date": "2011-09-02"
+  },
+  {
+   "id": "8c741f665b4c186806169e67126f6fd21acfe7cd",
+   "title": "Spatial multi-level interacting particle simulations and information theory-based error quantification",
+   "date": "2012-08-03"
+  },
+  {
+   "id": "edc8f1b588f66a3b2d675fb55a46eebbcc7dddb5",
+   "title": "Effective dynamics using conditional expectations",
+   "date": "2009-06-26"
+  },
+  {
+   "id": "dc065a5fbd600153ef0ffff7b3e43b2c8c0dd0bb",
+   "title": "Coupled Coarse Graining and Markov Chain Monte Carlo for Lattice Systems",
+   "date": "2010-06-18"
+  },
+  {
+   "id": "7db6007473025e4b739fa634a53fe35bad6f3a57",
+   "title": "Grand-canonical-like molecular-dynamics simulations by using an adaptive-resolution technique",
+   "date": "2013-01-21"
+  },
+  {
+   "id": "fac38e01a308c3383c40fefb9f1288ab29803e04",
+   "title": "Exact Relation between Potential of Mean Force and Free-Energy Profile",
+   "date": "2012-09-06"
+  },
+  {
+   "id": "0fba1e23d617affbb52d75bdc329bd72b2a00535",
+   "title": "Efficient, multiple-range random walk algorithm to calculate the density of states.",
+   "date": "2000-11-10"
+  }
+ ],
+ "n_candidates": 15,
+ "sims": [
+  0.2429,
+  0.2119,
+  0.2093,
+  0.2034,
+  0.2017,
+  0.1851,
+  0.1767,
+  0.1761,
+  0.175,
+  0.1748,
+  0.1662,
+  0.1636,
+  0.1418,
+  0.116,
+  0.0699
+ ]
+}

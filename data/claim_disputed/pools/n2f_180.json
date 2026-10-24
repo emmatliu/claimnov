@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_f7f73185e3975bb62a3c42b2ba6bd4db57fee8ed",
+   "title": "Certified Adversarial Robustness via Randomized Smoothing",
+   "is_B": true
+  },
+  {
+   "id": "5812dae376cc07b955244a8e1ce11c3e4b9775ac",
+   "title": "Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "33a0803fc10233bd05756ed83db92e8d827d3396",
+   "title": "Randomized Smoothing for Stochastic Optimization",
+   "date": "2011-03-22"
+  },
+  {
+   "id": "637c25f7e8f37226f829cd9264d4eeea50f75e7b",
+   "title": "Robustness of classifiers: from adversarial to random noise",
+   "date": "2016-08-31"
+  },
+  {
+   "id": "255d2c2af6d7abbbebfc03dab51cd8574ad3558e",
+   "title": "Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation",
+   "date": "2017-05-23"
+  },
+  {
+   "id": "f538dca4def5167a32fbc12107b69a05f0c9d832",
+   "title": "SmoothGrad: removing noise by adding noise",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "a1ea2a1dea5b126c24be2886c52b720b17e78b2d",
+   "title": "Certifiably Robust Interpretation in Deep Learning",
+   "date": "2019-05-28"
+  },
+  {
+   "id": "2fff1d71c751ad8bdaaa96b625d2b65eb2fb5eaa",
+   "title": "Certified Adversarial Robustness with Additive Noise",
+   "date": "2018-09-10"
+  },
+  {
+   "id": "430ee6ad5375b5be370fb234f29e6af03b43f107",
+   "title": "Computational Limitations in Robust Classification and Win-Win Results",
+   "date": "2019-02-04"
+  },
+  {
+   "id": "7005fe514458b538b7516b41af5f5e1971154070",
+   "title": "Adversarial vulnerability for any classifier",
+   "date": "2018-02-23"
+  },
+  {
+   "id": "20f85256555ad612148e52f9363e52f9d661728b",
+   "title": "Scaling provable adversarial defenses",
+   "date": "2018-05-31"
+  },
+  {
+   "id": "966e3c7a65ec75a6359b55c0cecaf3896d318432",
+   "title": "Certified Defenses against Adversarial Examples",
+   "date": "2018-01-29"
+  },
+  {
+   "id": "7ad8c18994108a630c4564400f6137bf4d8b7818",
+   "title": "Semidefinite relaxations for certifying robustness to adversarial examples",
+   "date": "2018-11-02"
+  },
+  {
+   "id": "0bd8c29a206c46dccca63c010a95734018c98d2e",
+   "title": "Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "262f8776fdc3c32de103d624ac36943282f310c6",
+   "title": "Robustness of classifiers to uniform $\\ell_p$ and Gaussian noise",
+   "date": "2018-02-22"
+  },
+  {
+   "id": "ba4883eafede39be6494a80c8b999abc46fa6b5e",
+   "title": "Adversarial examples from computational constraints",
+   "date": "2018-05-25"
+  },
+  {
+   "id": "1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "804fb9542f4f56e264dd2df57c255a9a2011c00f",
+   "title": "Adversarially Robust Generalization Requires More Data",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "4b23012689e0f17912fb38d4984775e567cff8d6",
+   "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "a573ecb0960d0d2c115c0ad3fc971aa6cdb578eb",
+   "title": "Improving the Robustness of Deep Neural Networks via Stability Training",
+   "date": "2016-04-15"
+  }
+ ],
+ "n_candidates": 62,
+ "sims": [
+  0.7058,
+  0.6571,
+  0.5789,
+  0.5627,
+  0.5389,
+  0.5355,
+  0.5261,
+  0.5234,
+  0.5213,
+  0.5153,
+  0.5131,
+  0.5056,
+  0.5027,
+  0.502,
+  0.5004,
+  0.5003,
+  0.4918,
+  0.4831,
+  0.4819
+ ]
+}

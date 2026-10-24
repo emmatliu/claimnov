@@ -1,0 +1,587 @@
+[
+ {
+  "id": "be4f6f13ac0913716f9a8dcf1d4c26a1f8057354",
+  "title": "ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "1e2a82ef5e0325a26ca0344c4f8c256c52fae7ec",
+  "title": "\u03c00.5: a Vision-Language-Action Model with Open-World Generalization",
+  "date": "2025-04-22"
+ },
+ {
+  "id": "731c50b0d6af4c1cb8d95f506541681ea487973b",
+  "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "96f9a89c1dbb0713cbfa6a8304cd5142dbdb369c",
+  "title": "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "9d60da11b2af826310882f1a81e0b125c0600a00",
+  "title": "AgiBot World Colosseo: A Large-Scale Manipulation Platform for Scalable and Intelligent Embodied Systems",
+  "date": "2025-03-09"
+ },
+ {
+  "id": "dc263909d1706b36c2e39a1e827781588545c236",
+  "title": "OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction",
+  "date": "2025-03-05"
+ },
+ {
+  "id": "5088b84507462bf725bb4898623d1dead4c6a206",
+  "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+  "date": "2025-02-27"
+ },
+ {
+  "id": "5976a31d1b0f3edb4032803168e33cb7fdacb5a4",
+  "title": "ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "442b8903a2e8808ec9956c0b17dc9d974d8156c4",
+  "title": "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control",
+  "date": "2025-02-09"
+ },
+ {
+  "id": "3880f5bad862ba1b18f4f8ec060038b326b118ed",
+  "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+  "date": "2025-01-16"
+ },
+ {
+  "id": "a8504c190e8b58177993a457a76acc76b41db6cf",
+  "title": "LMFusion: Adapting Pretrained Language Models for Multimodal Generation",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "f9c20da09df84344f06159b0133306ec95e84d37",
+  "title": "Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning",
+  "date": "2024-12-17"
+ },
+ {
+  "id": "ee0fb97abf3ade9a7ea62e4507a58b3c1b6fbaa4",
+  "title": "From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons",
+  "date": "2024-12-11"
+ },
+ {
+  "id": "54caf5927a6d656bb84d2a16e16fa2b0c5d6f522",
+  "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation",
+  "date": "2024-11-29"
+ },
+ {
+  "id": "18ea06ae95cad35d3c79610d16dd2a3c9ee208a5",
+  "title": "Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models",
+  "date": "2024-11-07"
+ },
+ {
+  "id": "7e7e59d2e247d99954081080ddd5aae93d10b9e0",
+  "title": "\u03c00: A Vision-Language-Action Flow Model for General Robot Control",
+  "date": "2024-10-31"
+ },
+ {
+  "id": "c40a6438a8f2841c57ab091b041aca180f03d1e9",
+  "title": "ALOHA Unleashed: A Simple Recipe for Robot Dexterity",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "41ba8127b73abd32051a89764cb976095b1dee94",
+  "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "dc62bc6536e9e3ad80242f10f44c046e4c7bd3d1",
+  "title": "TinyVLA: Toward Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation",
+  "date": "2024-09-19"
+ },
+ {
+  "id": "5b3991fe7d8f6fc0a7fbd42938e2988ea37efe14",
+  "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+  "date": "2024-08-20"
+ },
+ {
+  "id": "56b545002ebb897de167a2de1603f06ab8f6bb0a",
+  "title": "Robotic Control via Embodied Chain-of-Thought Reasoning",
+  "date": "2024-07-11"
+ },
+ {
+  "id": "440d7944dc701dbe4030d3fbad49036700fba788",
+  "title": "PaliGemma: A versatile 3B VLM for transfer",
+  "date": "2024-07-10"
+ },
+ {
+  "id": "94773f22b5befd0e167a7de525d29bec2b09937a",
+  "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+  "date": "2024-06-24"
+ },
+ {
+  "id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+  "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+  "date": "2024-06-13"
+ },
+ {
+  "id": "d26b3b535126c914084860b0633fae9b524bf095",
+  "title": "BAKU: An Efficient Transformer for Multi-Task Policy Learning",
+  "date": "2024-06-11"
+ },
+ {
+  "id": "1d2753d74025e7a71594506623be81f18b073adb",
+  "title": "Octo: An Open-Source Generalist Robot Policy",
+  "date": "2024-05-20"
+ },
+ {
+  "id": "32112b798f70faab00e14806f51d46058cf5e597",
+  "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+  "date": "2024-05-16"
+ },
+ {
+  "id": "ee5070fe52fd17da9a89d3f342fb07cc9ae51afe",
+  "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+  "date": "2024-03-19"
+ },
+ {
+  "id": "e788d5c6dc79f106296f8ad296bcbe512028d5f0",
+  "title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+  "date": "2024-03-14"
+ },
+ {
+  "id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+  "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+  "date": "2024-03-05"
+ },
+ {
+  "id": "de2a19f2b0331e89689baf24c29868f068b16657",
+  "title": "On Bringing Robots Home",
+  "date": "2023-11-27"
+ },
+ {
+  "id": "56cb3506586c540d4bd2c573fad66d22dff69826",
+  "title": "CapsFusion: Rethinking Image-Text Data at Scale",
+  "date": "2023-10-31"
+ },
+ {
+  "id": "148e95859248878a0695a31ef6165614a01df631",
+  "title": "RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking",
+  "date": "2023-09-05"
+ },
+ {
+  "id": "6a375be82efc01ec4ed73334655935a56ba82d38",
+  "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+  "date": "2023-08-24"
+ },
+ {
+  "id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+  "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+  "date": "2023-07-28"
+ },
+ {
+  "id": "c8ef5b72b608a9e51b506aed28fb41fce7e13a86",
+  "title": "RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot",
+  "date": "2023-07-02"
+ },
+ {
+  "id": "948e8cfae92c2004f2dd5c9316f5972f8baaea21",
+  "title": "OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents",
+  "date": "2023-06-21"
+ },
+ {
+  "id": "98cfd7b1b29453c4e82536f5afdc6ddc58bbb1b3",
+  "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+  "date": "2023-06-05"
+ },
+ {
+  "id": "91eb20f923ea3b0246868902aef4e9bea572b800",
+  "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+  "date": "2023-04-23"
+ },
+ {
+  "id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+  "title": "Visual Instruction Tuning",
+  "date": "2023-04-17"
+ },
+ {
+  "id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+  "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+  "date": "2023-03-07"
+ },
+ {
+  "id": "38fe8f324d2162e63a967a9ac6648974fc4c66f3",
+  "title": "PaLM-E: An Embodied Multimodal Language Model",
+  "date": "2023-03-06"
+ },
+ {
+  "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+  "title": "Flow Matching for Generative Modeling",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "d13f262e72c805c52e4c5767b5caa69e24d8bef7",
+  "title": "Rectified Flow: A Marginal Preserving Approach to Optimal Transport",
+  "date": "2022-09-29"
+ },
+ {
+  "id": "244054a4254a2147e43a3dad9c124b9b7eb4a04a",
+  "title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+  "date": "2022-09-07"
+ },
+ {
+  "id": "26218bdcc3945c7edae7aa2adbfba4cd820a2df3",
+  "title": "Flamingo: a Visual Language Model for Few-Shot Learning",
+  "date": "2022-04-29"
+ },
+ {
+  "id": "6bae20930eaa0d9d489317f3b3b1aaaf18205ef8",
+  "title": "Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets",
+  "date": "2021-09-27"
+ },
+ {
+  "id": "616e0ed02ca024a8c1d4b86167f7486ea92a13d9",
+  "title": "VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning",
+  "date": "2021-02-20"
+ },
+ {
+  "id": "26d6386ca5a60509a9454b2def7c9163230405ad",
+  "title": "Institutional Review Board",
+  "date": "2020-02-02"
+ },
+ {
+  "id": "3e519d85cdcefdd1d2ad89829d6ad445695d8c58",
+  "title": "RoboNet: Large-Scale Multi-Robot Learning",
+  "date": "2019-10-24"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+  "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "date": "2016-12-02"
+ },
+ {
+  "id": "d257fd97dbe944563fa06f0a3bd6d6d490194de4",
+  "title": "Chameleon",
+  "date": "2016-09-01"
+ },
+ {
+  "id": "696ca58d93f6404fea0fc75c62d1d7b378f47628",
+  "title": "Microsoft COCO Captions: Data Collection and Evaluation Server",
+  "date": "2015-04-01"
+ },
+ {
+  "id": "6caa36f5b779e4d9b865f41eba891caa3fdeb41d",
+  "title": "Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "892c30b13fbece1948891efb44e1dc811f833c10",
+  "title": "IG-RFT: An Interaction-Guided RL Framework for VLA Models in Long-Horizon Robotic Manipulation",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "4a0d4a622640312f192254d505e939c58340ef4c",
+  "title": "ActionCodec: What Makes for Good Action Tokenizers",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "f7937828184d3e2d704a6342bdcefa0fe516b2e8",
+  "title": "DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "ae8aa1cced293fd9134c2c9757f419c68a17e4d9",
+  "title": "Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "c1bb5a3bd50fe90ef8cb51db0031c7169ce1b8f0",
+  "title": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "80719305ec87dc97dc5a4036225e98ef01765ac9",
+  "title": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "734cbfee42c97463f52d52c95c5e03af2e6bd638",
+  "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "7e6e47349ec17de83a8c5b832983bff3470f6476",
+  "title": "LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "3863ff519e1e726ca7aa64910663dd6da9aabce5",
+  "title": "ST4VLA: Spatially Guided Training for Vision-Language-Action Models",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "86f934aeb0e32cde020a5e4a3f884659b3708e7b",
+  "title": "VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "a63c7f137569e527b61522584bc2816ce38c5812",
+  "title": "TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "088211a917be33e10ffe9f9060fede92d83066e8",
+  "title": "A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "71c64af6e9038888756d4b6eaba211b382d40503",
+  "title": "CoLA-Flow Policy: Temporally Coherent Imitation Learning via Continuous Latent Action Flow Matching for Robotic Manipulation",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "34bb730be497273a7b413710b82213063b07e3c5",
+  "title": "Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "52058c41b3b6a1e48018794f206c8f59f27a24a4",
+  "title": "Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "c37d345192270ac282d73d3572bd87b838b94ef6",
+  "title": "CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "b1bafe4f1bf70db30adb58fc68ebca2518a0d50d",
+  "title": "Limited Linguistic Diversity in Embodied AI Datasets",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "923ca28eb947b7744c96fa99d41e405c1dc2969b",
+  "title": "VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "a27ed321a043cf5a2eb42a24bc059f80b37104f6",
+  "title": "Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "b8e34568d1b631b37449085da7f825ad78c0949a",
+  "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+  "date": "2025-12-27"
+ },
+ {
+  "id": "718c8968f59b76700b58539a5c6a87f5e948357a",
+  "title": "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "241d6767eb483038411a1220c3451b54b906a6d3",
+  "title": "An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "f968681410e0890a785067f14228ec44bd3ec2fa",
+  "title": "Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "4bb3dff0314bc6d094125d1e067f7f42799c4404",
+  "title": "Mind to Hand: Purposeful Robotic Control via Embodied Reasoning",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "6e3206b3b9302698c4a2df8df26bce6b9710c1bc",
+  "title": "VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "a2ef704f26685d810f896ef1a4bcf5e34aae4af8",
+  "title": "MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "269422e60f757c1fe58ec4eb5e962dee080f43d1",
+  "title": "Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "319e005858f32a7b1eddb05a62b1652ca8ea4611",
+  "title": "\u03c0*0.6: a VLA That Learns From Experience",
+  "date": "2025-11-18"
+ },
+ {
+  "id": "a5759589dae6862dc5790244f222e09c7e6dba46",
+  "title": "Decoupled Action Expert: Confining Task Knowledge to the Conditioning Pathway",
+  "date": "2025-11-15"
+ },
+ {
+  "id": "36d038ad0b4fb8353529b50cc493bcd97297979c",
+  "title": "How Do VLAs Effectively Inherit from VLMs?",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "d876989dfd9edd2a3c95b5bf39e9f499b8689b1a",
+  "title": "EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "19e96723c98eb4dd58e65e40bb6b9bfb985a4218",
+  "title": "Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "5444dd08c9b57e0c4dc9d26464af5d2908aa92b6",
+  "title": "Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "a77606bdf0d27e18331eea613b671dc7ef78d0cb",
+  "title": "GigaBrain-0: A World Model-Powered Vision-Language-Action Model",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "3346e4abf4f195e418d342875984835823a714db",
+  "title": "MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "08e42ff0b8c7c167d572a1a57a01751c64e87f58",
+  "title": "VLA-0: Building State-of-the-Art VLAs with Zero Modification",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "57b7b3e11909edfbe589a435897744bd6585b720",
+  "title": "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "ac3967e50c764f0f1dd791f511ce5afdb9ac8ade",
+  "title": "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "9855c60d2ecdcf7edc4622ecd004f0db147fc22b",
+  "title": "X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "58b30fe15c8fe3603f3f032ed28de6df606aabe8",
+  "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "55041819f8ac012e04dae6ef79659ead0dea1ed0",
+  "title": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "73b2cc8e29934580ac027c8b3c3b664b3ca22444",
+  "title": "MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "55fdd698faac77a2a5cc50edce4dbefc63e7c284",
+  "title": "ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "36ffbe7f7bebe6ea2117284ed679cf8d876265ea",
+  "title": "Contrastive Representation Regularization for Vision-Language-Action Models",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "925d79a0c31a8b7966fac5e6b64904089aabe918",
+  "title": "dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "cf3e01ec29ce6d6ec3446646327bd6b54fea9d6f",
+  "title": "Pure Vision Language Action (VLA) Models: A Comprehensive Survey",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "c7a2cf4dce9f9365b6c0f8893f9c8a7db84ae061",
+  "title": "FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks",
+  "date": "2025-09-21"
+ },
+ {
+  "id": "b7db25b357fdf23dcca5f3f8e9e2b0f5dd4320f9",
+  "title": "Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "1d8142ab42bfba12f42feee687f0c77555b5bab2",
+  "title": "FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies",
+  "date": "2025-09-05"
+ },
+ {
+  "id": "6948c850513f82cb608bbf9198ddfd552a647565",
+  "title": "EO-1: An Open Unified Embodied Foundation Model for General Robot Control",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "e30e7b2e70556078190f63ac50f613a2f1efd6b3",
+  "title": "CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "3b9027dfc9fbddee4723e3c08e4f315be0612318",
+  "title": "LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes",
+  "date": "2025-08-23"
+ },
+ {
+  "id": "4f157904d3f624c018d09dec7d9e95278a2e6f9e",
+  "title": "Survey of Vision-Language-Action Models for Embodied Manipulation",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "dce821cddbf6a3eb435de04d9353681925aaaecf",
+  "title": "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "c0caf3a0f22f18d492265a4eb83424bc5794c534",
+  "title": "InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation",
+  "date": "2025-07-23"
+ },
+ {
+  "id": "81e7b9d43653f22a3325cf7cc4039593ff44ffb2",
+  "title": "Vision Language Action Models in Robotic Manipulation: A Systematic Review",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "1a28214089b1d48416292dc07043f16634694b2a",
+  "title": "General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting",
+  "date": "2025-06-20"
+ },
+ {
+  "id": "d8ff6390de28ab7833a038eafdc8c45394a24864",
+  "title": "CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "9423579dfc77ea66e63bd8d712060acedafff19e",
+  "title": "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "a457360428673433157dbc1d71d47359667a10d2",
+  "title": "CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "c25b7f5f7c86eeeba5bd897fae216f5d0ac6c62d",
+  "title": "DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "97c03a7d630285a42fa9bc5c11b5722873561401",
+  "title": "Vanishing Depth: Training Generalized Depth Adapters with Sinusoidal Depth Preprocessing for Pretrained RGB Encoders",
+  "date": "2025-03-25"
+ }
+]

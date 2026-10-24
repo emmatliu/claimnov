@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e52e37cd91366f07df1f98e88f87010f494dd16e",
+   "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+   "is_B": true
+  },
+  {
+   "id": "83cbe32c099061886703141335bcd9398012af78",
+   "title": "VolumeDeform: Real-Time Volumetric Non-rigid Reconstruction",
+   "date": "2016-03-27"
+  },
+  {
+   "id": "74f5a632a9966823919dfc91d65ce273a973294c",
+   "title": "ElasticFusion: Dense SLAM Without A Pose Graph",
+   "date": "2015-12-31"
+  },
+  {
+   "id": "6399a8bd59679d6a451b15ec42c0b19558ff306e",
+   "title": "ElasticFusion: Real-time dense SLAM and light source estimation",
+   "date": "2016-09-29"
+  },
+  {
+   "id": "34fe40d959ca476d711e0997fc093b2abdd56171",
+   "title": "BundleFusion",
+   "date": "2016-04-05"
+  },
+  {
+   "id": "0389da0dc8aacb7b1d8ccfb5f13fa01a7afae862",
+   "title": "Real-Time Large-Scale Dense 3D Reconstruction with Loop Closure",
+   "date": "2016-10-08"
+  },
+  {
+   "id": "eaf8f44d907280d844aa98e48310d11306edf3cb",
+   "title": "Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices",
+   "date": "2015-11-15"
+  },
+  {
+   "id": "09c0c993500f5d15b3ccbfbec11bbb445bf51e57",
+   "title": "SemanticFusion: Dense 3D semantic mapping with convolutional neural networks",
+   "date": "2016-09-16"
+  },
+  {
+   "id": "8a05db7a75c65ee61c3ca7a6e5401b946166290d",
+   "title": "Semantic Scene Completion from a Single Depth Image",
+   "date": "2016-11-28"
+  },
+  {
+   "id": "7705d1db0b2cdd45a75f9ead53cd39938a26706f",
+   "title": "Learning to Navigate the Energy Landscape",
+   "date": "2016-03-18"
+  },
+  {
+   "id": "4cdcf2ae5e1fafebd9b3613247a7b1962584da34",
+   "title": "Volumetric and Multi-view CNNs for Object Classification on 3D Data",
+   "date": "2016-04-12"
+  },
+  {
+   "id": "db20b07036ef078aaa4a0068dd01f1fa5605b002",
+   "title": "Shape Completion Using 3D-Encoder-Predictor CNNs and Shape Synthesis",
+   "date": "2016-12-01"
+  },
+  {
+   "id": "3c6a46c9f8d029289ac361e14fed76c2f6a4a8d8",
+   "title": "Chisel: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially Hashed Signed Distance Fields",
+   "date": "2015-07-13"
+  },
+  {
+   "id": "1ba8376f416e90fe434977ae9f300997667498d2",
+   "title": "Multi-view Convolutional Neural Networks for 3D Shape Recognition",
+   "date": "2015-05-05"
+  },
+  {
+   "id": "6fc6803df5f9ae505cae5b2f178ade4062c768d0",
+   "title": "Fully convolutional networks for semantic segmentation",
+   "date": "2014-11-14"
+  },
+  {
+   "id": "353758f7f38e1e14e545959bca73f3830c878e4b",
+   "title": "Unfolding an Indoor Origami World",
+   "date": "2014-09-06"
+  },
+  {
+   "id": "723e52c0d0140df7a6e264f1042af89ce9277e6e",
+   "title": "SUN3D: A Database of Big Spaces Reconstructed Using SfM and Object Labels",
+   "date": "2013-12-01"
+  },
+  {
+   "id": "b7e4314fa04590c8a6716bf7da5ae511d8c91841",
+   "title": "SemanticPaint",
+   "date": "2015-10-13"
+  },
+  {
+   "id": "282cf28ac9508bd66a6ddf0709c9db9dc0fdf162",
+   "title": "A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM",
+   "date": "2014-09-29"
+  },
+  {
+   "id": "571ada47c83332bc79ccb0850dc12ebdc733fa56",
+   "title": "A Robust 3D-2D Interactive Tool for Scene Segmentation and Annotation",
+   "date": "2016-10-19"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.5542,
+  0.524,
+  0.5222,
+  0.5127,
+  0.5086,
+  0.5067,
+  0.5033,
+  0.4879,
+  0.4872,
+  0.4794,
+  0.4688,
+  0.4677,
+  0.4592,
+  0.4513,
+  0.448,
+  0.4412,
+  0.4282,
+  0.4182,
+  0.4124
+ ]
+}

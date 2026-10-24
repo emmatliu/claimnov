@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_fc998c5e7b0fd1609d5a91d700fec3ec9c72838c",
+   "title": "Comparing dynamics: deep neural networks versus glassy systems",
+   "is_B": true
+  },
+  {
+   "id": "f9e6af73d33e7aac3f349bef927fcd666e8e00db",
+   "title": "Three Factors Influencing Minima in SGD",
+   "date": "2017-11-13"
+  },
+  {
+   "id": "b6583fe9c9dc52bb129aff4cefc60519349f3b4c",
+   "title": "Entropy-SGD: biasing gradient descent into wide valleys",
+   "date": "2016-11-06"
+  },
+  {
+   "id": "8ec5896b4490c6e127d1718ffc36a3439d84cb81",
+   "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+   "date": "2016-09-15"
+  },
+  {
+   "id": "8501e330d78391f4e690886a8eb8fac867704ea6",
+   "title": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks",
+   "date": "2017-05-01"
+  },
+  {
+   "id": "ad8a12a19e74d9788f8fe92f5c0dfea7b6a52aba",
+   "title": "The Loss Surfaces of Multilayer Networks",
+   "date": "2014-11-30"
+  },
+  {
+   "id": "54ddb00fa691728944fd8becea90a373d21597cf",
+   "title": "Understanding deep learning requires rethinking generalization",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "0f94591cc05e6f75c21749d507ef58d204f63b7d",
+   "title": "Topology and Geometry of Half-Rectified Network Optimization",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "2f8eb618406e5ae3fe73b9b4ffe2b346107febaa",
+   "title": "Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "0528ec31d633d1588a711c41b6adf624442df21f",
+   "title": "Empirical Analysis of the Hessian of Over-Parametrized Neural Networks",
+   "date": "2017-06-14"
+  },
+  {
+   "id": "c8179f5dcdaba9458a3e67dae66964ff8665c356",
+   "title": "Unreasonable effectiveness of learning neural networks: From accessible states and robust ensembles to basic algorithmic schemes",
+   "date": "2016-05-20"
+  },
+  {
+   "id": "bdf6ad58338279634d647447751442db8a6e2f77",
+   "title": "Stuck in a What? Adventures in Weight Space",
+   "date": "2016-02-18"
+  },
+  {
+   "id": "981ce6b655cc06416ff6bf7fac8c6c2076fd7fac",
+   "title": "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization",
+   "date": "2014-06-10"
+  },
+  {
+   "id": "540393e544757f103efd549ac5196de117950f94",
+   "title": "Explorations on high dimensional landscapes",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "8151fbde700614ab25d6165b9ce5f76456c180d4",
+   "title": "Eigenvalues of the Hessian in Deep Learning: Singularity and Beyond",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "a4f7bcef2888c48eed5f870edc64df1482b1e4d3",
+   "title": "Phase space geometry and slow dynamics",
+   "date": "1995-10-13"
+  },
+  {
+   "id": "9b8be6c3ebd7a79975067214e5eaea05d4ac2384",
+   "title": "Gradient Descent Converges to Minimizers",
+   "date": "2016-02-16"
+  },
+  {
+   "id": "97616121e0153bdd279630a645751d6616451f30",
+   "title": "No bad local minima: Data independent training error guarantees for multilayer neural networks",
+   "date": "2016-05-26"
+  },
+  {
+   "id": "576405549347f54b9d808a22c5c42cd05daac365",
+   "title": "Activated aging dynamics and effective trap model description in the random energy model",
+   "date": "2017-08-10"
+  },
+  {
+   "id": "c07c46b2a28b17e8d3bd6a4831cfd2c44887f421",
+   "title": "Theory of phase-ordering kinetics",
+   "date": "1993-03-15"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.7438,
+  0.6676,
+  0.6494,
+  0.6398,
+  0.6024,
+  0.5915,
+  0.5876,
+  0.5826,
+  0.5819,
+  0.577,
+  0.5746,
+  0.5679,
+  0.5505,
+  0.5152,
+  0.5142,
+  0.5141,
+  0.5072,
+  0.4534,
+  0.4531
+ ]
+}

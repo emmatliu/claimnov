@@ -1,0 +1,86 @@
+{
+ "caption": "50-pair entailment annotation study re-scored across judge tiers (verbatim legacy prompts; context = paper titles, the only context field in the workbook)",
+ "data": {
+  "n_rows": 50,
+  "human": {
+   "alpha": 0.423,
+   "pairwise_exact": 0.407,
+   "pairwise_within1": 0.74
+  },
+  "n_majority": 37,
+  "models": {
+   "gpt-4o-mini": {
+    "claim_only": {
+     "n": 37,
+     "alpha": 0.727,
+     "mad": 0.622,
+     "exact": 0.432,
+     "within1": 0.946
+    },
+    "context": {
+     "n": 37,
+     "alpha": 0.725,
+     "mad": 0.568,
+     "exact": 0.486,
+     "within1": 0.946
+    }
+   },
+   "haiku-4.5": {
+    "claim_only": {
+     "n": 37,
+     "alpha": 0.856,
+     "mad": 0.351,
+     "exact": 0.676,
+     "within1": 0.973
+    },
+    "context": {
+     "n": 37,
+     "alpha": 0.844,
+     "mad": 0.378,
+     "exact": 0.649,
+     "within1": 0.973
+    }
+   },
+   "sonnet-4.6": {
+    "claim_only": {
+     "n": 37,
+     "alpha": 0.777,
+     "mad": 0.486,
+     "exact": 0.568,
+     "within1": 0.946
+    },
+    "context": {
+     "n": 37,
+     "alpha": 0.747,
+     "mad": 0.541,
+     "exact": 0.514,
+     "within1": 0.946
+    }
+   },
+   "opus-4.6": {
+    "claim_only": {
+     "n": 37,
+     "alpha": 0.74,
+     "mad": 0.541,
+     "exact": 0.514,
+     "within1": 0.946
+    },
+    "context": {
+     "n": 37,
+     "alpha": 0.571,
+     "mad": 0.73,
+     "exact": 0.351,
+     "within1": 0.919
+    }
+   }
+  },
+  "cost_usd": 0.087,
+  "gold_distribution": {
+   "1": 2,
+   "2": 12,
+   "3": 7,
+   "4": 10,
+   "5": 6
+  }
+ }
+}

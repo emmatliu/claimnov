@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_d88d69a64f236309e95c611cacd2dfdd35496758",
+   "title": "CLEVRER: CoLlision Events for Video REpresentation and Reasoning",
+   "is_B": true
+  },
+  {
+   "id": "17b851cfc672b65ccf16a7bdbe85d5db9527483b",
+   "title": "COPHY: Counterfactual Learning of Physical Dynamics",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "a1786540a4e15f0757e1b84a02f98ed436a969e0",
+   "title": "A Compositional Object-Based Approach to Learning Physical Dynamics",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "f110cfdbe9ded7a384bcf5c0d56e536bd275a7eb",
+   "title": "Unsupervised Learning for Physical Interaction through Video Prediction",
+   "date": "2016-05-23"
+  },
+  {
+   "id": "29ade9f04f11dd8d434f051563f03928ed62c21b",
+   "title": "Simulation as an engine of physical scene understanding",
+   "date": "2013-10-21"
+  },
+  {
+   "id": "6dfc2ff03534a4325d06c6f88c3144831996629b",
+   "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+   "date": "2018-11-27"
+  },
+  {
+   "id": "eff328e0ecfb9a7a2d6664ee38aa32a61c7b9f42",
+   "title": "Visual Question Reasoning on General Dependency Tree",
+   "date": "2018-03-31"
+  },
+  {
+   "id": "9e30db707d77f0c06caec3301222cdfc26a9e3a6",
+   "title": "Video-HOCA: A Diagnostic Benchmark for Physical Anomaly Reasoning in Video-LLMs",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "96eed42e813bc074fce623c884923a67e3c9e63e",
+   "title": "Interpretable Intuitive Physics Model",
+   "date": "2018-08-29"
+  },
+  {
+   "id": "414ab203d8fc3ecfbf40d004960d3a4774830b48",
+   "title": "Visual Interaction Networks: Learning a Physics Simulator from Video",
+   "date": "2017-06-05"
+  },
+  {
+   "id": "f696ea202d5f2af57c66b6f9f2783f124399e0dd",
+   "title": "CATER: A diagnostic dataset for Compositional Actions and TEmporal Reasoning",
+   "date": "2019-10-10"
+  },
+  {
+   "id": "cd0a7c58964905ccfddbad1614165320ccc56393",
+   "title": "Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning",
+   "date": "2018-03-14"
+  },
+  {
+   "id": "d4efd4b08999758a3a80085fb674eb99f7c6f2e1",
+   "title": "A dataset and architecture for visual reasoning with a working memory",
+   "date": "2018-03-16"
+  },
+  {
+   "id": "39c02227c37f0856e368d3dd5899f0867195a92e",
+   "title": "Learning Visual Predictive Models of Physics for Playing Billiards",
+   "date": "2015-11-23"
+  },
+  {
+   "id": "ae42c0cff384495683192b06bd985cdd7a54632a",
+   "title": "Interaction Networks for Learning about Objects, Relations and Physics",
+   "date": "2016-12-01"
+  },
+  {
+   "id": "03eb382e04cca8cca743f7799070869954f1402a",
+   "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+   "date": "2016-12-20"
+  },
+  {
+   "id": "289fb3709475f5c87df8d97f129af54029d27fee",
+   "title": "Compositional Attention Networks for Machine Reasoning",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "0c41d7cfadcdaa5a66694bd57fa5eaf807043ef9",
+   "title": "Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering",
+   "date": "2018-03-01"
+  },
+  {
+   "id": "ed62a56b81511d7fcf6d247014987163d9668982",
+   "title": "\"What Happens If...\" Learning to Predict the Effect of Forces in Images",
+   "date": "2016-03-17"
+  },
+  {
+   "id": "7cfa5c97164129ce3630511f639040d28db1d4b7",
+   "title": "FiLM: Visual Reasoning with a General Conditioning Layer",
+   "date": "2017-09-01"
+  }
+ ],
+ "n_candidates": 57,
+ "sims": [
+  0.6743,
+  0.6367,
+  0.6093,
+  0.5941,
+  0.5883,
+  0.5848,
+  0.5792,
+  0.5755,
+  0.5644,
+  0.5621,
+  0.5582,
+  0.5425,
+  0.5418,
+  0.5401,
+  0.537,
+  0.5327,
+  0.5294,
+  0.5214,
+  0.5126
+ ]
+}

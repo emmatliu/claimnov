@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_19170460ff4204727ac0a739e688778e82ba9a5b",
+   "title": "Dual-Latent Memory Routing for Vision-Language Reasoning",
+   "date": "2026-09-02",
+   "is_B": true
+  },
+  {
+   "id": "2a2b8ae584838c3bd387d57857881821f2847acb",
+   "title": "Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "9df0947ec8a14c43e69f3b72ece5e9af2b8e8215",
+   "title": "Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "68e63d7210a9191cd79412af3cca5dd858ab52ca",
+   "title": "LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL",
+   "date": "2025-03-10"
+  },
+  {
+   "id": "b43daa4bae16dd4a94fa106a970debf4f896f736",
+   "title": "Vision-Language Memory for Spatial Reasoning",
+   "date": "2025-11-25"
+  },
+  {
+   "id": "41ef3c27b666dff5a35325fb9269687a5cc43d49",
+   "title": "Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent",
+   "date": "2025-02-17"
+  },
+  {
+   "id": "a2276e8466c1adbdd08c6f0a94553afdc38407ee",
+   "title": "VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models",
+   "date": "2025-11-14"
+  },
+  {
+   "id": "df7a98e0c627dc58079cc73566457a77feebb4d2",
+   "title": "Grounded Chain-of-Thought for Multimodal Large Language Models",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "c15fc0ff90a3bab9676227da860ea3fd7d9b9b8d",
+   "title": "Cantor: Inspiring Multimodal Chain-of-Thought of MLLM",
+   "date": "2024-04-24"
+  },
+  {
+   "id": "f5d194b600e4e4021564f3647afde07308ac41d3",
+   "title": "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "af74d38cd7e170e82191f94beaf22cd287e8ef83",
+   "title": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory",
+   "date": "2025-08-13"
+  },
+  {
+   "id": "427c1f7e70712ec4433e859c493bfb4d8d18c713",
+   "title": "Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models",
+   "date": "2024-03-26"
+  },
+  {
+   "id": "a6fa28d3912660eed29714aacde394b87bf1c315",
+   "title": "OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe",
+   "date": "2025-11-20"
+  },
+  {
+   "id": "6aa55900c2bcf1860938520bdf1952f462ed37a1",
+   "title": "Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "f8839fba75d4e68a0a39898224f10f494fea5e24",
+   "title": "Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "50daa134ce31d75c34d6ffd2b93300954b48984d",
+   "title": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "0f9a3c5c6a54fca6be2afa0fd5fd34eed96a31e8",
+   "title": "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-Grained Correctional Human Feedback",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "648242da75c178138c386185ae9e6cabf8ae2b71",
+   "title": "Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs",
+   "date": "2025-03-11"
+  },
+  {
+   "id": "fbdae74a028cab22302589195f7eb620f3a59f87",
+   "title": "RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models",
+   "date": "2024-10-17"
+  },
+  {
+   "id": "ee8c1a46c90f1261c23479e15c6bed7f67ad8943",
+   "title": "Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning",
+   "date": "2024-03-25"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.7329,
+  0.7303,
+  0.7275,
+  0.6937,
+  0.6734,
+  0.6718,
+  0.6664,
+  0.6549,
+  0.6538,
+  0.6528,
+  0.6506,
+  0.647,
+  0.6413,
+  0.6396,
+  0.6366,
+  0.6293,
+  0.627,
+  0.6257,
+  0.6253
+ ]
+}

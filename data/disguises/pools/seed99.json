@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_cac68b3517190983448f5f2da1e4b9423f687b1b",
+   "title": "WaterSIC: information-theoretically (near) optimal linear layer quantization",
+   "date": "2026-03-05",
+   "is_B": true
+  },
+  {
+   "id": "8fbf2eb4587b5c271979c3f96eee1b109496143e",
+   "title": "QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "56b828717f32251a5e0f0be9c0113077f23c8429",
+   "title": "QuIP: 2-Bit Quantization of Large Language Models With Guarantees",
+   "date": "2023-07-25"
+  },
+  {
+   "id": "d02246c65eec119fa86288e0455448c72ee959cd",
+   "title": "QTIP: Quantization with Trellises and Incoherence Processing",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "b95168c834b00c6e227e87758356d1452fc07b72",
+   "title": "QuEST: Stable Training of LLMs with 1-Bit Weights and Activations",
+   "date": "2025-02-07"
+  },
+  {
+   "id": "0fdd18ad60691f109508e46de101bb5254f65af5",
+   "title": "ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "2c994fadbb84fb960d8306ee138dbeef41a5b323",
+   "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+   "date": "2022-11-18"
+  },
+  {
+   "id": "2209dd35db8098b6c80caeda705f75339f141e22",
+   "title": "Extreme Compression of Large Language Models via Additive Quantization",
+   "date": "2024-01-11"
+  },
+  {
+   "id": "eb2c2330177f765038a2b17e2ee3498965865797",
+   "title": "OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models",
+   "date": "2023-08-25"
+  },
+  {
+   "id": "bb114f127fdf5d98e2730cc63e3486a867c35935",
+   "title": "FlatQuant: Flatness Matters for LLM Quantization",
+   "date": "2024-10-12"
+  },
+  {
+   "id": "31618d9d49f78f5c7881e9d13049e141445a3283",
+   "title": "The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm",
+   "date": "2025-07-24"
+  },
+  {
+   "id": "5c23ede95571641b2facf58aa387983e7d54c26a",
+   "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "db9507cdd3e2d7d9c90ed185bd831e55c62dcec9",
+   "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "189ad5e057cfd5345133578d1f90a33114e3bbd6",
+   "title": "Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression",
+   "date": "2025-05-11"
+  },
+  {
+   "id": "679f5e2736bde51c2cd24cea0ef885f9e62f3751",
+   "title": "NestQuant: Nested Lattice Quantization for Matrix Products and LLMs",
+   "date": "2025-02-13"
+  },
+  {
+   "id": "0d1df9c6cc890700f54d9b8c9bd4430e77a9e1c6",
+   "title": "Float8@2bits: Entropy Coding Enables Data-Free Model Compression",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "01a4ef6091b0df15959de83540363e0b46701b8f",
+   "title": "Model-Preserving Adaptive Rounding",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "a7ed153f848cd8a299c866f50d74b55f16d606ce",
+   "title": "SpinQuant: LLM quantization with learned rotations",
+   "date": "2024-05-26"
+  },
+  {
+   "id": "5815514dfaf76df5075d726dc4e6655912e66ea2",
+   "title": "GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance",
+   "date": "2025-05-11"
+  },
+  {
+   "id": "dd85e6cab147d237a0b1ab6f674570d3efb4d4a0",
+   "title": "QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs",
+   "date": "2024-03-30"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.6806,
+  0.6707,
+  0.6436,
+  0.6362,
+  0.6309,
+  0.6266,
+  0.6191,
+  0.6177,
+  0.6149,
+  0.6094,
+  0.6067,
+  0.6058,
+  0.5863,
+  0.5845,
+  0.581,
+  0.577,
+  0.5734,
+  0.5731,
+  0.5667
+ ]
+}

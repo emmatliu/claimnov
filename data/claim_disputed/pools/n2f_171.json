@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_6acbb829ca05a24f759fcf8a4c2caf097e2c8bbc",
+   "title": "Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds",
+   "is_B": true
+  },
+  {
+   "id": "491188ac198663094537cb4c38ac1c8808ef7440",
+   "title": "PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding",
+   "date": "2020-07-21"
+  },
+  {
+   "id": "2b2c5bc9816271334cbb1317f2c669f88c2de387",
+   "title": "Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation",
+   "date": "2018-10-31"
+  },
+  {
+   "id": "b227f3e4c0dc96e5ac5426b85485a70f2175a205",
+   "title": "Representation Learning with Contrastive Predictive Coding",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "664a42d19faf669c03ce05bda2e48a52efc90e1f",
+   "title": "Self-Supervised Learning of Point Clouds via Orientation Estimation",
+   "date": "2020-08-01"
+  },
+  {
+   "id": "30d148d21c20c1682bfbea5ffa41d83c8abdc64c",
+   "title": "Representation Learning and Adversarial Generation of 3D Point Clouds",
+   "date": "2017-07-08"
+  },
+  {
+   "id": "d602759a888f23494dd4bcc4c3573fc68bce6c4a",
+   "title": "Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds From Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction",
+   "date": "2019-07-30"
+  },
+  {
+   "id": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+   "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+   "date": "2019-11-13"
+  },
+  {
+   "id": "7f768fa192a76ab097ccfda0a68523bc36425423",
+   "title": "What makes for good views for contrastive learning",
+   "date": "2020-05-20"
+  },
+  {
+   "id": "fc1b1c9364c58ec406f494dd944b609a6a038ba6",
+   "title": "Unsupervised Visual Representation Learning by Context Prediction",
+   "date": "2015-05-19"
+  },
+  {
+   "id": "322a79919356c4c107e20e46e4bde3ce000b67b7",
+   "title": "Spatiotemporal Contrastive Video Representation Learning",
+   "date": "2020-08-09"
+  },
+  {
+   "id": "897035ae01cb6dde31f6e881c15a9470c36c5bfd",
+   "title": "View Inter-Prediction GAN: Unsupervised Representation Learning for 3D Shapes by Learning Global Shape Memories to Support Local View Predictions",
+   "date": "2018-11-07"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "97f4d09175705be4677d675fa27e55defac44800",
+   "title": "Contrastive Multiview Coding",
+   "date": "2019-06-13"
+  },
+  {
+   "id": "23ddf3661847ed93feeb8fd2005a4b9d7b951afe",
+   "title": "Pointwise Convolutional Neural Networks",
+   "date": "2017-12-14"
+  },
+  {
+   "id": "5eb4a5ac7faa2fc75e1739b45c511ba3fab5bb56",
+   "title": "Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling",
+   "date": "2017-12-19"
+  },
+  {
+   "id": "199123c3a93521a397ee4f2ae8c852b0b252f5ba",
+   "title": "PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection",
+   "date": "2019-12-31"
+  },
+  {
+   "id": "1cae417456711c4da184f5efcd1b7464a7a0661a",
+   "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding",
+   "date": "2019-05-22"
+  },
+  {
+   "id": "0a41e869936d4f08e4027fdc38ea4c8968a3bbdb",
+   "title": "Holistic++ Scene Understanding: Single-View 3D Holistic Scene Parsing and Human Pose Estimation With Human-Object Interaction and Physical Commonsense",
+   "date": "2019-09-04"
+  },
+  {
+   "id": "8ca14e5107ab49aea72e884b033ea6fb13c1e547",
+   "title": "PointGrow: Autoregressively Learned Point Cloud Generation with Self-Attention",
+   "date": "2018-10-12"
+  }
+ ],
+ "n_candidates": 64,
+ "sims": [
+  0.7245,
+  0.6743,
+  0.653,
+  0.6371,
+  0.6244,
+  0.6154,
+  0.6096,
+  0.5973,
+  0.5917,
+  0.579,
+  0.5766,
+  0.5711,
+  0.5697,
+  0.564,
+  0.5593,
+  0.5588,
+  0.556,
+  0.5553,
+  0.5549
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "pool": [
+  {
+   "id": "B_1a8aff8fbd424f6a434158014858573afb989246",
+   "title": "Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy",
+   "date": "2026-06-07",
+   "is_B": true
+  },
+  {
+   "id": "02e8d0aa89ee6e5a3ff67a19e872815637038304",
+   "title": "Generalized Gaussian Mechanism for Differential Privacy",
+   "date": "2016-02-19"
+  },
+  {
+   "id": "e5ce74caec45ac404e8da969ee88068b277d29d5",
+   "title": "Beyond Laplace and Gaussian: Exploring the Generalized Gaussian Mechanism for Private Machine Learning",
+   "date": "2025-06-14"
+  },
+  {
+   "id": "7d45ac8d29160103cd0bba76aa99b0f60f23a1cd",
+   "title": "Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising",
+   "date": "2018-05-16"
+  },
+  {
+   "id": "69b6df93aa8169c03bc0e5a92b85b38e18cfd459",
+   "title": "Less is More: Revisiting Gaussian Mechanism for Differential Privacy",
+   "date": "2023-06-04"
+  },
+  {
+   "id": "55dd34dfc448bb09e598a8bddb3a3fd10d4b47d0",
+   "title": "Optimal Multidimensional Differentially Private Mechanisms in the Large-Composition Regime",
+   "date": "2023-06-25"
+  },
+  {
+   "id": "9e4e7f0b3b563275bf7f0022b001175b6c179a13",
+   "title": "A Central Limit Theorem for Differentially Private Query Answering",
+   "date": "2021-03-15"
+  },
+  {
+   "id": "cdbf4a931878809adb9e33edf90adcb87dcced75",
+   "title": "Approximate Differential Privacy of the \u21132 Mechanism",
+   "date": "2025-02-21"
+  },
+  {
+   "id": "d546bdbd0a836f2ca01f5f0f16d8c8c76320fdcf",
+   "title": "Eureka: A General Framework for Black-box Differential Privacy Estimators",
+   "date": "2024-05-19"
+  },
+  {
+   "id": "7eeeb6ddeaebc4817d030ed37bdea646b50428b5",
+   "title": "The Normal Distributions Indistinguishability Spectrum and its Application to Privacy-Preserving Machine Learning",
+   "date": "2023-09-03"
+  },
+  {
+   "id": "295b56bf2623f5f561d3b91634e3e1f17d2a548c",
+   "title": "On the geometry of differential privacy",
+   "date": "2009-07-21"
+  },
+  {
+   "id": "08c43944c22a3e10cecd5936f04f3e07b0e636c1",
+   "title": "Numerical Composition of Differential Privacy",
+   "date": "2021-06-05"
+  },
+  {
+   "id": "9a9892367f4d30d926a507420f09fcef6033da89",
+   "title": "Graphical-model based estimation and inference for differential privacy",
+   "date": "2019-01-26"
+  },
+  {
+   "id": "597f72e80555f2072274bcc4b2a6d6999457ec3e",
+   "title": "Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences",
+   "date": "2018-07-04"
+  },
+  {
+   "id": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+   "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+   "date": "2006-03-04"
+  },
+  {
+   "id": "2f0ab8040034e128175d424616b504d22cac485c",
+   "title": "Composable and versatile privacy via truncated CDP",
+   "date": "2018-06-20"
+  },
+  {
+   "id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+   "title": "Deep Learning with Differential Privacy",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "cd24b3d31f1fd9f77e3a90eab832361fceded8f9",
+   "title": "DP-CGAN: Differentially Private Synthetic Data and Label Generation",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "cd0db1266961a9cd3e61aeab6456d35c32d77a39",
+   "title": "Harnessing large-language models to generate private synthetic text",
+   "date": "2023-06-02"
+  }
+ ],
+ "n_candidates": 18,
+ "sims": [
+  0.8466,
+  0.8281,
+  0.8202,
+  0.7927,
+  0.7435,
+  0.7318,
+  0.6824,
+  0.6744,
+  0.6517,
+  0.6505,
+  0.618,
+  0.6125,
+  0.6123,
+  0.5808,
+  0.5252,
+  0.5213,
+  0.5149,
+  0.4934
+ ]
+}

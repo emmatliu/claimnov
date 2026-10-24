@@ -1,0 +1,114 @@
+{
+ "pool": [
+  {
+   "id": "B_22e87114a60ca052f528703133be3d98168bf099",
+   "title": "Enhanced detection of Mpox using federated learning with hybrid ResNet-ViT and adaptive attention mechanisms",
+   "is_B": true
+  },
+  {
+   "id": "eba65a0316666af1ded9db859b38709e8d058ff4",
+   "title": "Deep hybrid model for Mpox disease diagnosis from skin lesion images",
+   "date": "2024-02-26"
+  },
+  {
+   "id": "1c99da810c8a20086bb12e266af14c273fc20291",
+   "title": "Metaheuristics optimization-based ensemble of deep neural networks for Mpox disease detection",
+   "date": "2023-08-01"
+  },
+  {
+   "id": "f389d3f9f0f6b5ee289c61c218be2c39f17c2cab",
+   "title": "CGO-ensemble: Chaos game optimization algorithm-based fusion of deep neural networks for accurate Mpox detection",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "58ff3e217514699340914845230d6fb98d1e55ad",
+   "title": "Impact of Aggregation Functions and Learning Settings in Privacy\u2010Preserving Federated Learning for Skin Cancer Detection",
+   "date": "2026-01-01"
+  },
+  {
+   "id": "07e07b7c4cfe251c11e6ef6faf0d5a1a310183d5",
+   "title": "Automated Monkeypox Skin Lesion Detection Using Deep Learning and Transfer Learning Techniques",
+   "date": "2023-03-01"
+  },
+  {
+   "id": "b6715ad126e6ef694c0f660fa666ed92af66f8bf",
+   "title": "A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "3af3b0ce94a4c2cbbee57be6e47e5e02a4fea5a8",
+   "title": "MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models",
+   "date": "2024-05-31"
+  },
+  {
+   "id": "cf164e6a2001cc7d160d88197b082e6c2153c547",
+   "title": "A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity",
+   "date": "2023-06-25"
+  },
+  {
+   "id": "bb1bd21aedea425d5e06b0b85b6aeeb45b1ccb02",
+   "title": "Explainable Deep Learning Approach for Mpox Skin Lesion Detection with Grad-CAM",
+   "date": "2024-09-19"
+  },
+  {
+   "id": "4823a18a6d7623d7b678411b1e96bad90f50fbcf",
+   "title": "Deep and Transfer Learning Approaches for Automated Early Detection of Monkeypox (Mpox) Alongside Other Similar Skin Lesions and Their Classification",
+   "date": "2023-08-23"
+  },
+  {
+   "id": "072395d308c72f6a1f0163f82602949959fe8fb4",
+   "title": "Explainable AI for Symptom-Based Detection of Monkeypox: a machine learning approach",
+   "date": "2025-03-26"
+  },
+  {
+   "id": "f8e95d07e78369d3b792753734a58d1c14dd2f24",
+   "title": "A deep-learning algorithm to classify skin lesions from mpox virus infection",
+   "date": "2023-03-01"
+  },
+  {
+   "id": "b139e9350c527006faed4fe3e38c023508755869",
+   "title": "A field diagnostic method for rapid and sensitive detection of mpox virus",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "2a67a0080ea1624fd53784a3c55d09602188082e",
+   "title": "Development of a multiplex real-time PCR assay for the simultaneous detection of mpox virus and orthopoxvirus infections.",
+   "date": "2024-05-22"
+  },
+  {
+   "id": "289d1127a4a9236cdcd2f1312181670ce41ba2fb",
+   "title": "Artificial intelligence (AI) in Monkeypox infection prevention",
+   "date": "2022-10-11"
+  },
+  {
+   "id": "eab5408d8e65049d381ced3371f56e51a07b0f2b",
+   "title": "Mpox: a review of laboratory detection techniques",
+   "date": "2023-08-01"
+  },
+  {
+   "id": "3f2851aec1ea40096ed60c5298de25e5083cfb44",
+   "title": "Could it be monkeypox? Use of an AI-based epidemic early warning system to monitor rash and fever illness",
+   "date": "2023-06-14"
+  }
+ ],
+ "n_candidates": 17,
+ "sims": [
+  0.3972,
+  0.3747,
+  0.3686,
+  0.3489,
+  0.3477,
+  0.3474,
+  0.3462,
+  0.3452,
+  0.3434,
+  0.3191,
+  0.3036,
+  0.2715,
+  0.2425,
+  0.2167,
+  0.2123,
+  0.1931,
+  0.16
+ ]
+}

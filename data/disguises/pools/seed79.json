@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_b8979f41917c109cc525d9596700e3185a12017b",
+   "title": "NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search",
+   "date": "2026-05-01",
+   "is_B": true
+  },
+  {
+   "id": "45977cf5dd92542c8e988c505cbf17bc14d8650f",
+   "title": "Efficient Multi-agent Reinforcement Learning by Planning",
+   "date": "2024-05-20"
+  },
+  {
+   "id": "3d53bb6020cf87a11d34176517acfb3c5265b53c",
+   "title": "Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "ce3d521a333c24359f7252efb5df6b0eb6ff1389",
+   "title": "Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction",
+   "date": "2024-06-02"
+  },
+  {
+   "id": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+   "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+   "date": "2019-11-19"
+  },
+  {
+   "id": "e8a146517171a0b9f34d4a5d9d0f832c4a03bae7",
+   "title": "Self-Adaptive Monte Carlo Tree Search in General Game Playing",
+   "date": "2020-06-01"
+  },
+  {
+   "id": "2a78e2a8635d24326e69d772ec1473b7e002e082",
+   "title": "Learning and Planning in Complex Action Spaces",
+   "date": "2021-04-13"
+  },
+  {
+   "id": "7c3ece1ba41c415d7e81cfa5ca33a8de66efd434",
+   "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+   "date": "2017-06-07"
+  },
+  {
+   "id": "34e7d1efaadd4ad89e80b19db4327591f852480c",
+   "title": "BalMCTS: Balancing Objective Function and Search Nodes in MCTS for Constraint Optimization Problems",
+   "date": "2023-12-26"
+  },
+  {
+   "id": "3b3d7adb9047d01af6dfa2975ad8addd69715e96",
+   "title": "Mastering Atari Games with Limited Data",
+   "date": "2021-10-30"
+  },
+  {
+   "id": "79e1221ba7c4bb06884c3ab0d5945c6ea8aaecee",
+   "title": "SMACv2: An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning",
+   "date": "2022-12-14"
+  },
+  {
+   "id": "56ca9b304e0476feaa6dd4fd1cccc8c0a1a9d8eb",
+   "title": "QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning",
+   "date": "2019-05-14"
+  },
+  {
+   "id": "3a315c81a98851f0614c09fef6a14c30d6a1e63c",
+   "title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games",
+   "date": "2021-03-02"
+  },
+  {
+   "id": "250bf5e1d40a619080dec553914c2905db6008c7",
+   "title": "Value-Decomposition Networks For Cooperative Multi-Agent Learning",
+   "date": "2017-06-16"
+  },
+  {
+   "id": "82055eed2ba0d7156a54c586249742c848e5d565",
+   "title": "The StarCraft Multi-Agent Challenge",
+   "date": "2019-02-11"
+  },
+  {
+   "id": "daad3a6d0a7e23e50797c5eb8102d4693e0bff7f",
+   "title": "MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation",
+   "date": "2026-02-04"
+  },
+  {
+   "id": "3f5f13c6f5c659754086a7faa51d6bc60f577cd1",
+   "title": "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning",
+   "date": "2020-03-19"
+  },
+  {
+   "id": "e95065487a25cbf2ea6283f421dc07d5ba18919e",
+   "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward",
+   "date": "2025-04-11"
+  },
+  {
+   "id": "d8d8aef756a7bce6c44aa1e7422f67d17cdff315",
+   "title": "MAC-PO: Multi-Agent Experience Replay via Collective Priority Optimization",
+   "date": "2023-02-21"
+  },
+  {
+   "id": "1c4809748affb4d4f24d013ab4cd1b58ce4bd1f1",
+   "title": "Weighted QMIX: Expanding Monotonic Value Function Factorisation",
+   "date": "2020-06-18"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.6773,
+  0.6631,
+  0.6483,
+  0.6245,
+  0.6181,
+  0.595,
+  0.5665,
+  0.5576,
+  0.5562,
+  0.5548,
+  0.5482,
+  0.5439,
+  0.5428,
+  0.5384,
+  0.5383,
+  0.5343,
+  0.528,
+  0.5248,
+  0.5069
+ ]
+}

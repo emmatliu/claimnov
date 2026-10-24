@@ -1,0 +1,1017 @@
+[
+ {
+  "id": "b5b813e2bce43faab58d795620f210ab1e35dbfd",
+  "title": "A Diffusion-TGAN Framework for Spatio-Temporal Speed Imputation and Trajectory Reconstruction",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "19177e632ae9edef95d775e9240b70633ee86022",
+  "title": "Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "44f5f813406dc762745c15796333787bea9bc9a3",
+  "title": "UniMapGen: A Generative Framework for Large-Scale Map Construction from Multi-modal Data",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "743473c549534d70e9d30332fede05fdceae6f78",
+  "title": "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "22d550c8673321140f37db9301ec3804c7ac3b39",
+  "title": "Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "bf05e759011b54b38a142c844ef230efb5cc0d89",
+  "title": "Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "aa3cc9b2d17eae33b55bd90e43d188301c3414d8",
+  "title": "ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "70bcbabcc71f49682dbca7810744136c8334a193",
+  "title": "From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "fda3ff7597d8e3efbd5186effb07a9c9bbbfa2be",
+  "title": "SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "904d979399f96d7f43e23dfd957c1ff1164bbbfc",
+  "title": "An intelligent multilane roadway recognition method based on pseudo-tagging",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "b4f39231109b9fed59a33bc54ef6a2922761bd41",
+  "title": "QFFT, Question-Free Fine-Tuning for Adaptive Reasoning",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "7426cc7e392f0947e222117d152ab68e49a2286e",
+  "title": "M4V: Multimodal Mamba for Efficient Text-to-Video Generation",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "7a244c4509ace9654f6843c6116065bad56bb6c2",
+  "title": "Technical Report for Argoverse2 Scenario Mining Challenges on Iterative Error Correction and Spatially-Aware Prompting",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "ed4d0cdac476d4514bd8a7f2b6b7101df423ae86",
+  "title": "Hume: Introducing System-2 Thinking in Visual-Language-Action Model",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "e44058e7e14e5c7fd439fc8ed641d91090f35a3e",
+  "title": "REARANK: Reasoning Re-ranking Agent via Reinforcement Learning",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "4661b7e8f6bb4f0cc1d4a767a92534f1def344b8",
+  "title": "CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "4046e8f4ac46a533f67aa9432609c150aba5faff",
+  "title": "Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "88ecda31867c681925d4fe52d01ded7c13a9f6be",
+  "title": "Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation",
+  "date": "2025-05-09"
+ },
+ {
+  "id": "16bd112239794ef6841c824b388399a62e637b61",
+  "title": "ForgetMe: Benchmarking the selective forgetting capabilities of generative models",
+  "date": "2025-04-17"
+ },
+ {
+  "id": "573c80c002290484ad160300197bd4017c381f6b",
+  "title": "DAMMFND: Domain-Aware Multimodal Multi-view Fake News Detection",
+  "date": "2025-04-11"
+ },
+ {
+  "id": "8c336013060874eb153a93aa7e20646d82fb3ccd",
+  "title": "FoodSky: A food-oriented large language model that can pass the chef and dietetic examinations",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "8aad05e5086a04cef872924d25964606f3156242",
+  "title": "VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior",
+  "date": "2025-03-30"
+ },
+ {
+  "id": "2d7f3a99e916fc80ff890d109699f9682253e66d",
+  "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+  "date": "2025-03-27"
+ },
+ {
+  "id": "3da7c094d5df83e77a1d59db07a533577d899cd4",
+  "title": "Tracking Meets Large Multimodal Models for Driving Scenario Understanding",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "fc565ca01e704ea9a72cdbaab8546b1af046b619",
+  "title": "From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models",
+  "date": "2025-03-08"
+ },
+ {
+  "id": "05ab61cb986ee3778f1a5628176af3976f097ef9",
+  "title": "Teaching Your Models to Understand Code via Focal Preference Alignment",
+  "date": "2025-03-04"
+ },
+ {
+  "id": "4578312cad81f12bfb5e4ec93ce05782ff8caab8",
+  "title": "Openfly: A comprehensive platform for aerial vision-language navigation",
+  "date": "2025-02-25"
+ },
+ {
+  "id": "820c0952bdf09861673b06393bf824a40e5a618e",
+  "title": "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "a13fcb4ef35286a5af2dc6c0df9a2ebd668b0801",
+  "title": "CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning",
+  "date": "2025-02-15"
+ },
+ {
+  "id": "c20ea082e9869122992721db3165b925ec14422a",
+  "title": "Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "dba354d1eda4108f1dce54f162d3ba403881ab49",
+  "title": "Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models",
+  "date": "2025-02-10"
+ },
+ {
+  "id": "10301766e5686bda76722ef2af1362213b934cc0",
+  "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model",
+  "date": "2025-01-27"
+ },
+ {
+  "id": "0d2193f32bf5ed080a6edc7551c2628ffad7814e",
+  "title": "Do generative video models understand physical principles?",
+  "date": "2025-01-14"
+ },
+ {
+  "id": "4dc55df230f5bee65400cf2e24d388f99674c52d",
+  "title": "GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation",
+  "date": "2025-01-14"
+ },
+ {
+  "id": "163f8f91005c6844f2617e1e33ef484b30e08f2a",
+  "title": "Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series",
+  "date": "2025-01-07"
+ },
+ {
+  "id": "c0a66b65d4c5a6ba35bcbee4c92971d532cb6001",
+  "title": "RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions",
+  "date": "2024-12-31"
+ },
+ {
+  "id": "db96a98464fe6033b03724f9cc2a83a7fa455ddc",
+  "title": "DrivingGPT: Unifying Driving World Modeling and Planning with Multi-Modal Autoregressive Transformers",
+  "date": "2024-12-24"
+ },
+ {
+  "id": "af548607b73fcd51683842d2fbefb3f97205e885",
+  "title": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
+  "date": "2024-12-18"
+ },
+ {
+  "id": "5d916d12b84ad1307c983e58702d21f3c142d909",
+  "title": "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
+  "date": "2024-12-15"
+ },
+ {
+  "id": "48c71989c7e715b946ccc1c25e85726643c2ff4c",
+  "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model",
+  "date": "2024-12-12"
+ },
+ {
+  "id": "045237d01ace21094707c6510c9a43d8b1fbc65c",
+  "title": "ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance",
+  "date": "2024-12-09"
+ },
+ {
+  "id": "f76ae83c992356e972665e1d35bc38b34eee7647",
+  "title": "UniScene: Unified Occupancy-centric Driving Scene Generation",
+  "date": "2024-12-06"
+ },
+ {
+  "id": "9d87ffb32b65ad39c6bbb98c4a02fb02af46b7d0",
+  "title": "Intelligent recognition method for urban road grid patterns by fusing mesh and road features",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "af45e21a4b036fb3e2d30ba3b10978233daeda0e",
+  "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration",
+  "date": "2024-11-29"
+ },
+ {
+  "id": "041231348b74f78c4d32d007d636c164d8173d0f",
+  "title": "OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation",
+  "date": "2024-11-27"
+ },
+ {
+  "id": "71d62a6c0b84604a376174cf728e36d6f3c23f1e",
+  "title": "DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "cad9dd10a76050bd8ccfb6b0a57b17d9c1d9cc61",
+  "title": "Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map",
+  "date": "2024-10-31"
+ },
+ {
+  "id": "4d9e66789ea1fe8930a482194a4ae36679506359",
+  "title": "EMMA: End-to-End Multimodal Model for Autonomous Driving",
+  "date": "2024-10-30"
+ },
+ {
+  "id": "9466560a4af87ed045d0fef10175ffa4fcdef2e6",
+  "title": "MagicFight: Personalized Martial Arts Combat Video Generation",
+  "date": "2024-10-28"
+ },
+ {
+  "id": "4b5038d7742fc606b494f17847e1692a31271f7e",
+  "title": "FedBCGD: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning",
+  "date": "2024-10-28"
+ },
+ {
+  "id": "77b6c2c2c493a542bec4aef2db99fd8aadd9ce66",
+  "title": "DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes",
+  "date": "2024-10-23"
+ },
+ {
+  "id": "b438a496045feccd1c028f1ce034062636a1ee04",
+  "title": "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "55f2727dc3a155808599fd0142672e092e0557ef",
+  "title": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "f848c06cf8030c7f1f02a7ccc49d3c644926ce07",
+  "title": "Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "e01af49d646f9e8428467a7f36abae31a4e4b27a",
+  "title": "Making Large Language Models Better Planners with Reasoning-Decision Alignment",
+  "date": "2024-08-25"
+ },
+ {
+  "id": "9dc337bd18bc0201839942931b12aff8ec1c93f5",
+  "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation",
+  "date": "2024-08-22"
+ },
+ {
+  "id": "1446e8a4ae7f851772edef992c23eed9c4cbe8cd",
+  "title": "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining",
+  "date": "2024-08-05"
+ },
+ {
+  "id": "bb8e7374a6de37794f167c40c7bea4229798f6f4",
+  "title": "SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "a5e61c6d84fa0b558cb04f2731f80cc46d0e4016",
+  "title": "NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+  "date": "2024-06-21"
+ },
+ {
+  "id": "a175ace09df66fff1692ee3ed42319ac37667830",
+  "title": "Enhancing End-to-End Autonomous Driving with Latent World Model",
+  "date": "2024-06-12"
+ },
+ {
+  "id": "b15e6e2b1d81bc110f8fc98c3caf2e25e2512539",
+  "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
+  "date": "2024-06-10"
+ },
+ {
+  "id": "ece57d6dcb7ee3e88d2ee94328badb5b41098744",
+  "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability",
+  "date": "2024-05-27"
+ },
+ {
+  "id": "19530fd9c7de946d394766c5e7b5cfb266470620",
+  "title": "Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving",
+  "date": "2024-05-24"
+ },
+ {
+  "id": "a3326a57275d3f36794ec71bf2722a06904bb785",
+  "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles",
+  "date": "2024-05-22"
+ },
+ {
+  "id": "32112b798f70faab00e14806f51d46058cf5e597",
+  "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+  "date": "2024-05-16"
+ },
+ {
+  "id": "993c13274474f6313ac612b79df80fc549d86b66",
+  "title": "DriveWorld: 4D Pre-Trained Scene Understanding via World Models for Autonomous Driving",
+  "date": "2024-05-07"
+ },
+ {
+  "id": "5de2dd75319f5bdfd4ba68ce61eaaaaa532dfc8d",
+  "title": "Language-Image Models with 3D Understanding",
+  "date": "2024-05-06"
+ },
+ {
+  "id": "a70f267ce46eb8b46e9482e9bacb00e64b03c6ea",
+  "title": "Generalized Predictive Model for Autonomous Driving",
+  "date": "2024-03-14"
+ },
+ {
+  "id": "d64e270e92d20cb071c2f188f523cd63b28ecd5a",
+  "title": "Embodied Understanding of Driving Scenarios",
+  "date": "2024-03-07"
+ },
+ {
+  "id": "f54c02f651b2568b00143c1fad2942860f353324",
+  "title": "VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning",
+  "date": "2024-02-20"
+ },
+ {
+  "id": "758c2dc290c037a6f211ec503beee70abe2d1197",
+  "title": "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models",
+  "date": "2024-02-19"
+ },
+ {
+  "id": "8f0c0066680a19580e0373eecfd6f50e62d4efb9",
+  "title": "Driving Everywhere with Large Language Model Policy Adaptation",
+  "date": "2024-02-08"
+ },
+ {
+  "id": "4013689f1f543da38950b72cc263cc439634b595",
+  "title": "Visual Point Cloud Forecasting Enables Scalable Autonomous Driving",
+  "date": "2023-12-29"
+ },
+ {
+  "id": "3c8cc9a5ee373d51e0bf71621b6eb6901c762e8f",
+  "title": "DriveLM: Driving with Graph Visual Question Answering",
+  "date": "2023-12-21"
+ },
+ {
+  "id": "4b1b5e219fb41a7413599c3b2ca6a7fdf045d1a5",
+  "title": "Generative Multimodal Models are In-Context Learners",
+  "date": "2023-12-20"
+ },
+ {
+  "id": "98de0a73fc32e04b58d76579aef964cf686b25da",
+  "title": "Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving",
+  "date": "2023-12-06"
+ },
+ {
+  "id": "37262eae27907fce421698c66e48e1a996c64f19",
+  "title": "Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?",
+  "date": "2023-12-05"
+ },
+ {
+  "id": "c95c4fb96868d6512c32988632a7b101a42c455d",
+  "title": "Dolphins: Multimodal Language Model for Driving",
+  "date": "2023-12-01"
+ },
+ {
+  "id": "db2aae1bd6e71e7c23716d0eb50d12aa72a0f0f2",
+  "title": "Driving Into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+  "date": "2023-11-29"
+ },
+ {
+  "id": "0e4e899e8d4de9bd8d0ea43e32afd0baca7b6bf0",
+  "title": "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving",
+  "date": "2023-11-27"
+ },
+ {
+  "id": "357e182a38219625dd37cba526befe5f8429aa4b",
+  "title": "A Language Agent for Autonomous Driving",
+  "date": "2023-11-17"
+ },
+ {
+  "id": "ccd6f8b6544f112de632e49bfbe592a0a654537d",
+  "title": "DriveGPT4: Interpretable End-to-End Autonomous Driving Via Large Language Model",
+  "date": "2023-10-02"
+ },
+ {
+  "id": "98478ac589e5b40a20630ff54bb4eec4ab4c5f6b",
+  "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+  "date": "2023-09-29"
+ },
+ {
+  "id": "7b689adb8c156d6158660f90d1c86888ee281f63",
+  "title": "DreamLLM: Synergistic Multimodal Comprehension and Creation",
+  "date": "2023-09-20"
+ },
+ {
+  "id": "0ef8bbccbfab7e6d9c8bd09bcadfe9c5bbbff512",
+  "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+  "date": "2023-09-18"
+ },
+ {
+  "id": "40298b8d50109c52fc10763eddc64a07cf8acb31",
+  "title": "Planting a SEED of Vision in Large Language Model",
+  "date": "2023-07-16"
+ },
+ {
+  "id": "94053805cd59f2e9a47fe3f080c7e7afefb337cc",
+  "title": "Generative Pretraining in Multimodality",
+  "date": "2023-07-11"
+ },
+ {
+  "id": "2ba2a875161b6f09815817542f02f1ac9171952a",
+  "title": "What does CLIP know about a red circle? Visual prompt engineering for VLMs",
+  "date": "2023-04-13"
+ },
+ {
+  "id": "aae2e7454945b904ca1d438d2ae4d4941ba11409",
+  "title": "VAD: Vectorized Scene Representation for Efficient Autonomous Driving",
+  "date": "2023-03-21"
+ },
+ {
+  "id": "fdd7d5b0f6b8641c356e170fd264cd11f70ba657",
+  "title": "Planning-oriented Autonomous Driving",
+  "date": "2022-12-20"
+ },
+ {
+  "id": "14e8c201e42e8372def8919fa104ff835556e58c",
+  "title": "Model-Based Imitation Learning for Urban Driving",
+  "date": "2022-10-14"
+ },
+ {
+  "id": "d193a474ac10f5edda3e17b7871750516971954e",
+  "title": "MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation",
+  "date": "2022-09-19"
+ },
+ {
+  "id": "6caa7cce613702a2b204642e2324c61598921e56",
+  "title": "ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning",
+  "date": "2022-07-15"
+ },
+ {
+  "id": "1a8ac422f4e594155af1721837009264ce14fe32",
+  "title": "TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving",
+  "date": "2022-05-31"
+ },
+ {
+  "id": "23dd78e424d32f6a48660dcd67ce994b8a7db8be",
+  "title": "STaR: Bootstrapping Reasoning With Reasoning",
+  "date": "2022-03-28"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "02f316857c1d20649b18e5fec3e92dda8ef1d0a0",
+  "title": "DriveGAN: Towards a Controllable High-Quality Neural Simulation",
+  "date": "2021-04-30"
+ },
+ {
+  "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "date": "2021-02-26"
+ },
+ {
+  "id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "date": "2020-10-22"
+ },
+ {
+  "id": "9e475a514f54665478aac6038c262e5a6bac5e64",
+  "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+  "date": "2019-03-26"
+ },
+ {
+  "id": "f466157848d1a7772fb6d02cdac9a7a5e7ef982e",
+  "title": "Neural Discrete Representation Learning",
+  "date": "2017-11-02"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "8f6514be5a1f1c80797dc9ab392cf222a7fc2ad6",
+  "title": "MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "1dbc97f49abe9fd5271081913b61586c365a82c9",
+  "title": "NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "3f1615cce110d303ac2c1139b9054f1fd61fd586",
+  "title": "VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "31a6759523e9068bf66ca590560d2178618299a3",
+  "title": "Uncertainty-Aware Evidential Fusion for Multi-Modal Object Detection in Autonomous Driving",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "2557cf46a8b56bffeed9538942be19c533aabe51",
+  "title": "Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "ce65343fa59211c18b3f49f3d7422eaa818941a8",
+  "title": "ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "7a3b51a048a9af59c0021f77e2351277779df0a5",
+  "title": "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "69f38c9531cbdf1d8e12bd6a934c86631615db75",
+  "title": "FARTrack: Fast Autoregressive Visual Tracking with High Performance",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "ee3dae20458b3392a3b0b4ae4a58e1aaf2b93b34",
+  "title": "AWGformer: Adaptive Wavelet-Guided Transformer for Multi-Resolution Time Series Forecasting",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "b8f843747d231bdbfa9dad341c9abbb649609d82",
+  "title": "HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "9f470e4333cbc24e5d1b90e55555b44eb60ed5b9",
+  "title": "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "c1859f12b5fa7bd0ef2114462a7bd9c70cea41c2",
+  "title": "SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "bf18abcd8f8816f05d51477598c7026157efc9d8",
+  "title": "Cascading Credit Risk Assessment in Multiplex Supply Chain Networks",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "497a214b7ab3d0571fa4bd4909df0996fdbd92a0",
+  "title": "UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "fa61154a583d8150e6fcc5cf05a8129685fdc573",
+  "title": "SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "643b66eab9df61691dbb4206ca1403019d44f12a",
+  "title": "DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models",
+  "date": "2026-01-03"
+ },
+ {
+  "id": "7654dc33fe9b6b5a556f5ecb3f091b4337c68a0e",
+  "title": "Large (Vision) Language Models for Autonomous Vehicles: Current Trends and Future Directions",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "21a7ace0b23dc4bb393717f143f1e518f363d9fb",
+  "title": "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "e9d816a37c9ee12c52310c06000c998fd7d858fb",
+  "title": "AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "08b7debb4e2a06bac6b0dc6b8a86300123cd2f61",
+  "title": "Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "e0d5a840d7e4a5b385e9bf1de72abb9aeeb5e5df",
+  "title": "Does Tone Change the Answer? Evaluating Prompt Politeness Effects on Modern LLMs: GPT, Gemini, and LLaMA",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "ac765fefe6b590ddd7ad41272982cfed1dff6286",
+  "title": "From Human Intention to Action Prediction: Intention-Driven End-to-End Autonomous Driving",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "42f8f1be66ae239521de87ce2e4f5b46d3430629",
+  "title": "InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "7cdf3dbfb81ba113ee13abec76c77be61cab78fe",
+  "title": "An integrated tiny-YOLO v3 and Q-iteration framework for stable, energy-efficient autonomous navigation of quadruped robots on AMB82-mini microcontrollers",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "5a6bd8189d8bd244c7605b6760acbc5d2112c055",
+  "title": "Latent Chain-of-Thought World Modeling for End-to-End Driving",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "2a0fa0be8403241e94298b71ba26b75d9297a3ce",
+  "title": "UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "de533c59c29975e1d9a2f38ebe7c5b15172680af",
+  "title": "IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "2f554d4f6d67c4c976890ff586fa2fb9df2e1ef4",
+  "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "873733f5313ddffe957729652f7e2dab89a71844",
+  "title": "dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "64524c57f2172f90acd26b71bee1ab2c29bbb73d",
+  "title": "E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "14defaa615d7d045ebd31db7836de97c95817415",
+  "title": "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "774f8ee7497b3e22388a7ee32777123af7aeddc8",
+  "title": "Infrared-Visible Fusion via Cross-Modality Attention and Small-Object Enhancement for Pedestrian Detection",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "30a09a717eddebe814b6c497f0099c477f86c149",
+  "title": "SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "9b13350418e8f1bb3439f64d12026c84da9caca0",
+  "title": "Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "3c0c864d193f17aa38cf884ac3c12161e6b38338",
+  "title": "A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "17a9fb38809d447b5c8abc46ecd9a930ac8f5ac5",
+  "title": "GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "144b024f9532d8d919ae7a97550ed5c70c1ff4d1",
+  "title": "DTAHF-Net: Domain-Trust Alignment and Hierarchical Fusion for Multimodal Fake News Detection",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "24e04254cf2030f924ded50d387f8d53186e2ad6",
+  "title": "A Survey on RL-Powered Visual Reasoning for Multimodal Models",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "3ecd7085b7532d84bad39b6fe3d71cb586831b24",
+  "title": "Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "87e4c349ae538d66966bbdd9995641dfe2a504d8",
+  "title": "Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "c8535a71a0d7cb822ea230c12cc52123398390a3",
+  "title": "ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "e0e81f09d9c2c48640bc086339a140eec50e7187",
+  "title": "FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization Guarantees for Federated Large Models",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "85bb53ff5912c92545db3ceb42df329c05ff5c6b",
+  "title": "CATCH: A Modular Cross-domain Adaptive Template with Hook",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "19e96723c98eb4dd58e65e40bb6b9bfb985a4218",
+  "title": "Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "02de7f73e5283f6fae27afdb7542f3db6dffa8d7",
+  "title": "MMM-Fact: A Multimodal, Multi-Domain Fact-Checking Dataset with Multi-Level Retrieval Difficulty",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "5b77895198d5a31aa62003c1abd97a08e2f4306a",
+  "title": "Consistency of Local and Global Flatness for Federated Learning",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "6f4c2d6a3e2e6c9cf0acf33b62252de7ec3e0b75",
+  "title": "HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "e4ddcdaf256f4c35452977a8430083fae6700e34",
+  "title": "A Lightweight YOLOv4-SVM Model for Automated Waste Monitoring in Smart Cities",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "915cd90c233e3866e4aa26886c4724d6d93acb2e",
+  "title": "Optimal Hovering Control Strategy for UAVs Using PPO",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "4dcdd7e707f894e72b6c15d7628aa2693cc649c2",
+  "title": "Advances and Future Prospects of Vision-Language-Action Models in Autonomous Driving",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "9e86d8aa5bf5fec85eab9393c7c98ba69197547e",
+  "title": "PHE: Structure and Semantic Enhanced Pre-Training of Graph Neural Networks for Large-Scale Heterogeneous Graphs",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "72c82250b959bc1ae4fa8ed771b3f6587c6d0614",
+  "title": "Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "5c08528942de10e269b8aad53e1ee2e66ba62173",
+  "title": "OmniNWM: Omniscient Driving Navigation World Models",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "a9ed1fac9d64503af81e2de6f10e4c478eda30af",
+  "title": "A Comprehensive Survey on World Models for Embodied AI",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "f2e78516751a2059b502da40367305fc5106f30d",
+  "title": "VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "e7cf6f8e0c0278a926e588a2d1fb5c0b406207b1",
+  "title": "Enhanced Pre-training of Graph Neural Networks for Million-Scale Heterogeneous Graphs",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "3b1e5374d070547c2e419afddeff208dd1709775",
+  "title": "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "5a02b00c2354acbf2144d8e12a0ac37c883677d9",
+  "title": "FT-MDT: Extracting Decision Trees from Medical Texts via a Novel Low-rank Adaptation Method",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "1c730037a6747b74f10e804054e98b07231453b1",
+  "title": "UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "5ff06af73e196fb2f3b4dd4cb8ab7cf7958f8d27",
+  "title": "AMAS: Adaptively Determining Communication Topology for LLM-based Multi-Agent System",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "72503589e0843bd13f5c0181deaa7d8b38b6eddf",
+  "title": "Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "36461aa9e4def6da456ca9f55b435a9e7f632714",
+  "title": "Hy-Facial: hybrid feature extraction by dimensionality reduction methods for enhanced facial expression classification",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "183cc8e582d3f07d90cb7834b27555db7b2d76a8",
+  "title": "Seeing Space and Motion: Enhancing Latent Actions with Geometric and Dynamic Awareness for Vision-Language-Action Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "e049e65408084f3cdbaf1bd6afaeeffbad7c4cf2",
+  "title": "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "8b0bdb58ee114bf0ef571f8f52e55465a35b4aba",
+  "title": "Learning How to Use Tools, Not Just When: Pattern-Aware Tool-Integrated Reasoning",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "4d7ac4cc98e25d366be3d4781ad29e7813d412b1",
+  "title": "RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "d419565e9c06b39fda6972578c9b0febf54e40de",
+  "title": "Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "a300af0cf72dac8a9c7af4a1593b114cb13e83b6",
+  "title": "DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "32cd1fbf3f8cae90c635d00745d80af76a1cda76",
+  "title": "PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "263c35ec254039b0952c86d8e2c9b8f7a54eedb1",
+  "title": "AdsQA: Towards Advertisement Video Understanding",
+  "date": "2025-09-10"
+ },
+ {
+  "id": "44b6dc2fc831363a8d1ebf57cb02301f606b2c3b",
+  "title": "Learning \u201cwhere to look\u201d for visual exploration of autonomous mobile robot in indoor unknown environments",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "b25ea06accaa4b9a650b31fc02805f09ddfe840f",
+  "title": "Depth-aware super-resolution via distance-adaptive variational formulation",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "d8f8557e5fb3bb90acf576b36ac5165af0746c6c",
+  "title": "Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "e30e7b2e70556078190f63ac50f613a2f1efd6b3",
+  "title": "CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "82068622983ef2a1343be21b5e0500880271da50",
+  "title": "Coarse-to-Fine Personalized LLM Impressions for Streamlined Radiology Reports",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "7c6672cfb4a116f6d5254fe094e870982c290fcf",
+  "title": "Energy-Constrained Motion Planning and Scheduling for Autonomous Robots in Complex Environments",
+  "date": "2025-08-15"
+ },
+ {
+  "id": "b91d3aba7278c4c3982e025a822f47447d6b5e35",
+  "title": "Understanding Dynamic Scenes in Ego Centric 4D Point Clouds",
+  "date": "2025-08-10"
+ },
+ {
+  "id": "2d19ea0cf82d2f46ab3a259f551c7ce436d6b1ea",
+  "title": "SIFThinker: Spatially-Aware Image Focus for Visual Reasoning",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "1e912b8f0d1bb5e5fb041f9931a8d6979aa9daf0",
+  "title": "TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "9fc4eda67553190ff76fb4c5beae413b2e45dca8",
+  "title": "MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "d9b9373ca63f6a3bfbabc59d575f6554105e6a70",
+  "title": "GS-Occ3D: Scaling Vision-Only Occupancy Reconstruction with Gaussian Splatting",
+  "date": "2025-07-25"
+ },
+ {
+  "id": "62d01aecd95aba540bd06bff492b0c38a698481d",
+  "title": "Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "5ea964ec8e7c6d00895f7a8335431ddab15b3a5e",
+  "title": "OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "262ef2526499a65f9f3012930d2c7502eda9d8c3",
+  "title": "Neural-Driven Image Editing",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "72c749cc9ee05bee3963488a1b1e68f0d63d6015",
+  "title": "Look-Back: Implicit Visual Re-focusing in MLLM Reasoning",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "8fd77be0916e8b3249d101cbc1f270017b5c2bcf",
+  "title": "Beyond First-Order: Training LLMs with Stochastic Conjugate Subgradients and AdamW",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "b61abd58e9b5f701a70648c4de6a77708cb7644c",
+  "title": "A Survey on Vision-Language-Action Models for Autonomous Driving",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "67f34123b6b0346213ccff0bd44a0a095fa97320",
+  "title": "USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "957d8c92e2a5c6d0cb3218afdadf1d849594756a",
+  "title": "Language-Driven Coordination and Learning in Multi-Agent Simulation Environments",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "f8d27f375b98271ba6ede0fa36a4626b04530ca4",
+  "title": "Evaluating Supervised Learning Models for Fraud Detection: A Comparative Study of Classical and Deep Architectures on Imbalanced Transaction Data",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "e085c2c398c9f0f11118a6bd32baac1bbfb426a9",
+  "title": "Subject Information Extraction for Novelty Detection with Domain Shifts",
+  "date": "2025-04-30"
+ },
+ {
+  "id": "7806b0ae77ca2f83f68a382c2a635e95dcb134ba",
+  "title": "DynamicID: Zero-Shot Multi-ID Image Personalization With Flexible Facial Editability",
+  "date": "2025-03-09"
+ },
+ {
+  "id": "1f9f9c0bdda1727d983ef6e45ce870f4166b2a04",
+  "title": "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey",
+  "date": "2025-02-14"
+ },
+ {
+  "id": "73857d9f4a3f4a97b681b993a0daf9cbd1d0a9b8",
+  "title": "A Survey of World Models for Autonomous Driving",
+  "date": "2025-01-20"
+ },
+ {
+  "id": "9dcc5bc59ef386b13cdaeaf32d93313dab0c36e7",
+  "title": "DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving",
+  "date": "2024-12-12"
+ },
+ {
+  "id": "b0128df0068cd2d7dbd0a4a10f12daa2a7a466a8",
+  "title": "A GEN AI Framework for Medical Note Generation",
+  "date": "2024-09-27"
+ },
+ {
+  "id": "baafcf73457fcfd9aa44a164a78ca986ef88ac2c",
+  "title": "Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation",
+  "date": "2024-09-14"
+ },
+ {
+  "id": "0036c59db87679c64ac08a2aa5dc802c29156664",
+  "title": "PriorDrive: Enhancing Online HD Mapping with Unified Vector Priors",
+  "date": "2024-09-09"
+ },
+ {
+  "id": "6180615110d86033887d0dc4feebe8e8a162346f",
+  "title": "Large Language Models Meet NLP: A Survey",
+  "date": "2024-05-21"
+ },
+ {
+  "id": "46e7dd4cdebe9a5dabf0081a8eca133885754e84",
+  "title": "Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation",
+  "date": "2023-10-01"
+ }
+]

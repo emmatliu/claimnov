@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4123f5e560b753657688b10baebf4bf9a245814a",
+   "title": "Probabilistic verification of fairness properties via concentration",
+   "is_B": true
+  },
+  {
+   "id": "f484a58bcd467a237962ae230e0e79bc7bd7d940",
+   "title": "A Confidence-Based Approach for Balancing Fairness and Accuracy",
+   "date": "2016-01-21"
+  },
+  {
+   "id": "043f084e379a44608c470059c2aa174a323e9774",
+   "title": "Counterfactual Fairness",
+   "date": "2017-03-20"
+  },
+  {
+   "id": "57797e2432b06dfbb7debd6f13d0aab45d374426",
+   "title": "Algorithmic Decision Making and the Cost of Fairness",
+   "date": "2017-01-28"
+  },
+  {
+   "id": "ee2c3b095ad226a211fd674ec1d4c960c07af107",
+   "title": "Avoiding Discrimination through Causal Reasoning",
+   "date": "2017-06-08"
+  },
+  {
+   "id": "5fb808edfaae574ee7f4553ad7090ca1fed9b585",
+   "title": "Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment",
+   "date": "2016-10-26"
+  },
+  {
+   "id": "ed6297433cfc580837e87592f550cc96296c7d0a",
+   "title": "Inherent Trade-Offs in the Fair Determination of Risk Scores",
+   "date": "2016-09-19"
+  },
+  {
+   "id": "a3ec84e1d148f770de3cadb83d7e33931e1ff998",
+   "title": "The Selective Labels Problem: Evaluating Algorithmic Predictions in the Presence of Unobservables",
+   "date": "2017-08-01"
+  },
+  {
+   "id": "adaa0523a5c9d5f92aa2009a51226391d8e62380",
+   "title": "Fairness through awareness",
+   "date": "2011-04-19"
+  },
+  {
+   "id": "87ce79fb2c5ef284dad9ec0d65add385ddaf040a",
+   "title": "Fair Inference on Outcomes",
+   "date": "2017-05-29"
+  },
+  {
+   "id": "8807d0b75adf5aa6beb02ff4b9fbbc8335c46ad6",
+   "title": "Fairness testing: testing software for discrimination",
+   "date": "2017-08-21"
+  },
+  {
+   "id": "0fee3b6c72f7676b4934651e517d0a328048c600",
+   "title": "Certifying and Removing Disparate Impact",
+   "date": "2014-12-11"
+  },
+  {
+   "id": "d21fde0f55ee0285c66334d37b8920c867959784",
+   "title": "AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation",
+   "date": "2018-05-20"
+  },
+  {
+   "id": "d42b11ce90c9c69a20ed015b73dc33e0e4100a7b",
+   "title": "Equality of Opportunity in Supervised Learning",
+   "date": "2016-10-07"
+  },
+  {
+   "id": "d31655b3f82038c513eed0e4a84c8f1c89d5bfdb",
+   "title": "Safety Verification of Deep Neural Networks",
+   "date": "2016-10-21"
+  },
+  {
+   "id": "eda3115c50ef33b36d77cc867b792e8486e17fe8",
+   "title": "Statistical Model Checking: An Overview",
+   "date": "2010-05-08"
+  },
+  {
+   "id": "6d6809d45bbfba2d5cd086bda6cc2efb34cb79ff",
+   "title": "An abstract Monte-Carlo method for the analysis of probabilistic programs",
+   "date": "2007-01-30"
+  },
+  {
+   "id": "73f56fd3fdcbff8131b8a70ebcc05264cecc3d99",
+   "title": "Measuring Neural Net Robustness with Constraints",
+   "date": "2016-05-24"
+  },
+  {
+   "id": "4556f3f9463166aa3e27b2bec798c0ca7316bd65",
+   "title": "Three naive Bayes approaches for discrimination-free classification",
+   "date": "2010-09-01"
+  },
+  {
+   "id": "edce5208900a2702eee5b2452781909a4c8aa77a",
+   "title": "Verifying Neural Networks with Mixed Integer Programming",
+   "date": "2017-11-20"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.6638,
+  0.6581,
+  0.6288,
+  0.5973,
+  0.589,
+  0.5867,
+  0.5862,
+  0.584,
+  0.5735,
+  0.5556,
+  0.5423,
+  0.5014,
+  0.4648,
+  0.464,
+  0.461,
+  0.4584,
+  0.4531,
+  0.4341,
+  0.4129
+ ]
+}

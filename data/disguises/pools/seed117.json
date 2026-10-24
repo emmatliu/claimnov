@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_225ce6e473bab439edd638b29b997b44a7668667",
+   "title": "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants",
+   "date": "2026-03-10",
+   "is_B": true
+  },
+  {
+   "id": "b0266f2afc4505e595ddca26e48cf1707c36b548",
+   "title": "ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "78d91e51ce50e20139a132aefbe374e6e1125996",
+   "title": "Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks",
+   "date": "2025-05-12"
+  },
+  {
+   "id": "f48b6e503ab68a50a77af89c9d6d4d22422a2a3d",
+   "title": "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
+   "date": "2025-05-06"
+  },
+  {
+   "id": "0176a64b895de803bbf1d4628e4f8cd6fa82d6d7",
+   "title": "Benchmarks and Metrics for Evaluations of Code Generation: A Critical Review",
+   "date": "2024-06-18"
+  },
+  {
+   "id": "776763a5563815697737a404770c88726debd3fd",
+   "title": "WebDevJudge: Evaluating (M)LLMs as Critiques for Web Development Quality",
+   "date": "2025-10-21"
+  },
+  {
+   "id": "7c44b7fdcec2e517799f6c54f6ba42bf1a89d2e6",
+   "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+   "date": "2024-10-09"
+  },
+  {
+   "id": "b77b4a7d499e9095a851612aea15141114beaee5",
+   "title": "FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow",
+   "date": "2025-05-23"
+  },
+  {
+   "id": "438e5e441d6c55de517273aa99bbd19f56dbd786",
+   "title": "FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback",
+   "date": "2025-12-05"
+  },
+  {
+   "id": "d868a185c5d6ffda30583a714bb703461de797dd",
+   "title": "ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "24505479190bdc42053db1fbd56a36afd637e376",
+   "title": "Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping",
+   "date": "2024-10-21"
+  },
+  {
+   "id": "9686f718fc9955bfdb6f8ce3e37fe46f57bc123b",
+   "title": "Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs",
+   "date": "2024-06-28"
+  },
+  {
+   "id": "c8b18682965ff9dccc0130dab3d679f78cefa617",
+   "title": "A Survey on Large Language Models for Code Generation",
+   "date": "2024-06-01"
+  },
+  {
+   "id": "a38e0f993e4805ba8a9beae4c275c91ffcec01df",
+   "title": "Program Synthesis with Large Language Models",
+   "date": "2021-08-16"
+  },
+  {
+   "id": "94a5f96308729e31c1ffbc0f0618db87795092fe",
+   "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "592ac35991e583fc37c26ee6659d2deb85142ad9",
+   "title": "Large language models empowered agent-based modeling and simulation: a survey and perspectives",
+   "date": "2023-12-19"
+  },
+  {
+   "id": "ee88a623365270dc72f906d85c371d3084db7f3d",
+   "title": "A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models",
+   "date": "2025-03-30"
+  },
+  {
+   "id": "e05795cdb5b0c11e72016c79122777c5b3a7ed48",
+   "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+   "date": "2025-08-08"
+  },
+  {
+   "id": "91360031e430be76c20c4b02f3da08c3052d54af",
+   "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "398a0625e8707a0b41ac58eaec51e8feb87dd7cb",
+   "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+   "date": "2020-10-08"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.7326,
+  0.7039,
+  0.6895,
+  0.6841,
+  0.6143,
+  0.6136,
+  0.6127,
+  0.6013,
+  0.5874,
+  0.587,
+  0.5855,
+  0.5748,
+  0.5731,
+  0.5524,
+  0.5352,
+  0.5316,
+  0.5201,
+  0.5093,
+  0.4856
+ ]
+}

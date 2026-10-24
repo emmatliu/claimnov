@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_b8f669bc6fbd0d60020f90b164e74d8a463a3c75",
+   "title": "Training-Free Bayesian Filtering with Generative Emulators",
+   "date": "2026-05-19",
+   "is_B": true
+  },
+  {
+   "id": "cd597ae291bc7343ee7700dcdf5e86d4796c86d5",
+   "title": "Particle filters for high\u2010dimensional geoscience applications: A review",
+   "date": "2018-07-27"
+  },
+  {
+   "id": "116ca2fd9c6d899dcaf346524ab46f3b24ad8059",
+   "title": "An Ensemble Score Filter for Tracking High-Dimensional Nonlinear Dynamical Systems",
+   "date": "2023-09-01"
+  },
+  {
+   "id": "aa4e6d0a0110d7997ae12a058d4bbb3d115a6049",
+   "title": "Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "61e46884567be7cad12e999365b16a8d3414b678",
+   "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "056f01d6a5128db73d493b687efe3855ad51291f",
+   "title": "FlowDAS: A Stochastic Interpolant-based Framework for Data Assimilation",
+   "date": "2025-01-13"
+  },
+  {
+   "id": "0ee9dae6af0d8c1bbd9f580f957292065d8e0b1d",
+   "title": "Learning Diffusion Priors from Observations by Expectation Maximization",
+   "date": "2024-05-22"
+  },
+  {
+   "id": "e407d0a028edfeecec9af8b81d6597c97b842747",
+   "title": "Flow Matching for Efficient and Scalable Data Assimilation",
+   "date": "2025-08-18"
+  },
+  {
+   "id": "b0846918967905a329ca507827af8f830ef34baf",
+   "title": "Training-Free Data Assimilation with GenCast",
+   "date": "2025-09-23"
+  },
+  {
+   "id": "ffde2508da9e9e1dc7e571c57c4f84005813265f",
+   "title": "Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems",
+   "date": "2024-09-30"
+  },
+  {
+   "id": "f465f81c6547c8688b414fbb7786eaba52527567",
+   "title": "Efficient data assimilation for spatiotemporal chaos: A local ensemble transform Kalman filter",
+   "date": "2005-11-28"
+  },
+  {
+   "id": "6651ff3d8c89a3cddfeef0c5d03ac4cb121758e3",
+   "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+   "date": "2022-04-29"
+  },
+  {
+   "id": "0eb62ccf8090693e419be323ad544c6aa5a8c513",
+   "title": "Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data",
+   "date": "2024-08-29"
+  },
+  {
+   "id": "4ee8c12311f05e5b4ae82c6f83cf067677d69e5c",
+   "title": "Score-based Data Assimilation",
+   "date": "2023-06-18"
+  },
+  {
+   "id": "244d8dc93c0af56a4f9db9b474d5b3ed1793a995",
+   "title": "DiffDA: a diffusion model for weather-scale data assimilation",
+   "date": "2024-01-11"
+  },
+  {
+   "id": "4ffa257fea828c7ff2d9908c7315b85c7018e690",
+   "title": "DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants",
+   "date": "2025-11-29"
+  },
+  {
+   "id": "22296ea460bd88c1b331ac95f046715b71e6a0ca",
+   "title": "Probabilistic Forecasting with Stochastic Interpolants and F\u00f6llmer Processes",
+   "date": "2024-03-20"
+  },
+  {
+   "id": "014576b866078524286802b1d0e18628520aa886",
+   "title": "Denoising Diffusion Implicit Models",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "a1d7885bf8aea568c7d9e5bdd6cd94e90d4da906",
+   "title": "Generative Diffusion for Regional Surrogate Models From Sea\u2010Ice Simulations",
+   "date": "2024-10-01"
+  },
+  {
+   "id": "b6dceb2828dfe8ccc8f5d42cdd3218d8d829fbd8",
+   "title": "Accelerating Eulerian Fluid Simulation With Convolutional Networks",
+   "date": "2016-07-13"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.7493,
+  0.6573,
+  0.6346,
+  0.6301,
+  0.6215,
+  0.6215,
+  0.5986,
+  0.5825,
+  0.5792,
+  0.5778,
+  0.577,
+  0.5648,
+  0.5641,
+  0.5556,
+  0.552,
+  0.5485,
+  0.54,
+  0.5374,
+  0.5358
+ ]
+}

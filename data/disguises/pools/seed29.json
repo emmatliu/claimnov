@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ff3ffbc9ea7a6918911198feb8a80f8dea43bf9c",
+   "title": "Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs",
+   "date": "2026-07-15",
+   "is_B": true
+  },
+  {
+   "id": "8ebbb1527fde3da8a649380340da4ccc57093b34",
+   "title": "Spectral informed neural networks",
+   "date": "2024-08-29"
+  },
+  {
+   "id": "1243a54adbaadc28e972789e3484baf805f5c6fd",
+   "title": "Solving high-dimensional partial differential equations using deep learning",
+   "date": "2017-07-09"
+  },
+  {
+   "id": "c03e0043358e9fd2eaf6903c6cb5c383d258a04b",
+   "title": "CAN-PINN: A Fast Physics-Informed Neural Network Based on Coupled-Automatic-Numerical Differentiation Method",
+   "date": "2021-10-29"
+  },
+  {
+   "id": "d86084808994ac54ef4840ae65295f3c0ec4decd",
+   "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+   "date": "2019-02-01"
+  },
+  {
+   "id": "d5aa02bcdbb5d2b39cfd9440fe0cdb6932737ee3",
+   "title": "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "9991ed822509644c1f7400bb35f076363a99b367",
+   "title": "From continuous-time formulations to discretization schemes: tensor trains and robust regression for BSDEs and parabolic PDEs",
+   "date": "2023-07-28"
+  },
+  {
+   "id": "9efba39749e37a7eb44db04ac84d35a2769939a3",
+   "title": "Sparse Spectral Methods for Solving High-Dimensional and Multiscale Elliptic PDEs",
+   "date": "2023-02-01"
+  },
+  {
+   "id": "f5bf423037e11bbb78f28165e59ed3cbcfdd37a9",
+   "title": "Sinc Kolmogorov-Arnold network and its application for solving PDEs with singularities",
+   "date": "2024-10-05"
+  },
+  {
+   "id": "786799f5ec3fec2b588bd3b841f1b5e9ab240fb7",
+   "title": "Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators",
+   "date": "2024-11-27"
+  },
+  {
+   "id": "32e607b38ae0ffdfee2afadcb4bf9ba194622c37",
+   "title": "Compressive Fourier collocation methods for high-dimensional diffusion equations with periodic boundary conditions",
+   "date": "2022-06-02"
+  },
+  {
+   "id": "31ea44f20a529ff8d8b2070bfbd0295d072a713d",
+   "title": "An Efficient Spectral Method to Solve Multi-Dimensional Linear Partial Different Equations Using Chebyshev Polynomials",
+   "date": "2019-01-16"
+  },
+  {
+   "id": "850a2f4b84aca17e9b04cbc1a80e04ca2ede3ae0",
+   "title": "A Natural Deep Ritz Method for Essential Boundary Value Problems",
+   "date": "2024-11-15"
+  },
+  {
+   "id": "52b975170b33e19855b2970b2e978fa3ea786465",
+   "title": "When and why PINNs fail to train: A neural tangent kernel perspective",
+   "date": "2020-07-28"
+  },
+  {
+   "id": "7c13f12796ec8e90429ea40f3943f1b164fc3ccf",
+   "title": "Deep Finite Volume Method for Partial Differential Equations",
+   "date": "2023-05-11"
+  },
+  {
+   "id": "061afb8e7812cef2841b54939faeb25fbd07a934",
+   "title": "Enhancing computational efficiency in multiscale systems using deep learning of coordinates and flow maps",
+   "date": "2024-04-28"
+  },
+  {
+   "id": "c566c4e45f62978e124f7836d32460dd446df9aa",
+   "title": "An exact in time Fourier pseudospectral method with multiple conservation laws for three-dimensional Maxwell\u2019s equations",
+   "date": "2024-03-25"
+  },
+  {
+   "id": "b204e04c85a27bb74019a82fdad3a6b5d9d2c3b2",
+   "title": "Semi-spectral Chebyshev method in quantum mechanics",
+   "date": "2006-06-12"
+  },
+  {
+   "id": "4f701e1144be1e89d29b135726e1b796c726332b",
+   "title": "An Efficient Spectral Method for Elliptic PDEs in Complex Domains with Circular Embedding",
+   "date": "2021-01-01"
+  },
+  {
+   "id": "ed58d6e30d5c5a80ea49724951651365ed2d34f1",
+   "title": "Solution of the Fokker\u2013Planck Equation by Cross Approximation Method in the Tensor Train Format",
+   "date": "2021-02-16"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.7942,
+  0.6555,
+  0.6551,
+  0.6403,
+  0.6136,
+  0.6103,
+  0.6085,
+  0.6022,
+  0.5955,
+  0.5944,
+  0.5854,
+  0.585,
+  0.5811,
+  0.5767,
+  0.5289,
+  0.4981,
+  0.4976,
+  0.4976,
+  0.4919
+ ]
+}

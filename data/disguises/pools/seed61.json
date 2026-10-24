@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_44fc9b32d6b8bc133851000f2c6c78b037211d11",
+   "title": "Exact Functional ANOVA Decomposition for Categorical Inputs Models",
+   "date": "2026-03-03",
+   "is_B": true
+  },
+  {
+   "id": "071523b21e9c7d47959b145ecc2954097535bf70",
+   "title": "Hoeffding decomposition of functions of random dependent variables",
+   "date": "2025-04-01"
+  },
+  {
+   "id": "b7596df89a53f67a7bedd09f6c97efe263daf96c",
+   "title": "Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models",
+   "date": "2019-11-12"
+  },
+  {
+   "id": "acbe62b7bb8427b6acf0a316be06c017bd29ad9e",
+   "title": "Tree Ensemble Explainability through the Hoeffding Functional Decomposition and TreeHFD Algorithm",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "d5077354f5eca6694b4ea4ebe9dc26d19c6e83ab",
+   "title": "On Shapley Value for Measuring Importance of Dependent Inputs",
+   "date": "2016-10-06"
+  },
+  {
+   "id": "7ee42892d7798651d3bf3fad17268ba47db29fcf",
+   "title": "SHAP values via sparse Fourier representation",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "ed5873040480fdcbe4a3d48e281218ce1097d1aa",
+   "title": "Generalized Hoeffding-Sobol Decomposition for Dependent Variables -Application to Sensitivity Analysis",
+   "date": "2011-12-08"
+  },
+  {
+   "id": "2604797ff947ba554980344a81fa91d5323abdf7",
+   "title": "Variational Autoencoders and Nonlinear ICA: A Unifying Framework",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "b6530a0079b62615ec44d6a36ae011d4df40af9b",
+   "title": "Feature relevance quantification in explainable AI: A causality problem",
+   "date": "2019-10-29"
+  },
+  {
+   "id": "0126f8d40bd682b1c4659f3f7d2a64fb6a515354",
+   "title": "Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework",
+   "date": "2023-02-23"
+  },
+  {
+   "id": "442e10a3c6640ded9408622005e3c2a8906ce4c2",
+   "title": "A Unified Approach to Interpreting Model Predictions",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "c9430e952f067bf946987c7a9e49feba6bb5c5f2",
+   "title": "On the Tractability of SHAP Explanations",
+   "date": "2020-09-18"
+  },
+  {
+   "id": "861aaf3e9c8af9e23f1990d20815f7602d664619",
+   "title": "Consistent Individualized Feature Attribution for Tree Ensembles",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "838a641bfd31b4b2a5237d62ed5ad9badbdd4e29",
+   "title": "Model interpretation using improved local regression with variable importance",
+   "date": "2022-09-12"
+  },
+  {
+   "id": "4f5e178d2cecc2c10fcb82ddd9c20a16d210bdbc",
+   "title": "The many Shapley values for model explanation",
+   "date": "2019-08-22"
+  },
+  {
+   "id": "d0af907985d9ad1cf8e9a585e447b4c57b3f2895",
+   "title": "A benchmark of categorical encoders for binary classification",
+   "date": "2023-07-17"
+  },
+  {
+   "id": "c4770c2fb78ef733d11cdc59084469e8e28c1590",
+   "title": "Bivariate Decision Trees: Smaller, Interpretable, More Accurate",
+   "date": "2024-08-24"
+  },
+  {
+   "id": "ebfa6690ce8aa2c8bb110fff840555e60ef4d24e",
+   "title": "Analysis of Boolean Functions",
+   "date": "2012-05-01"
+  },
+  {
+   "id": "76a9f336481b39515d6cea2920696f11fb686451",
+   "title": "Quantifying Attention Flow in Transformers",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "5fa06d856ba6ae9cd1366888f8134d7fd0db75b9",
+   "title": "Revisiting Deep Learning Models for Tabular Data",
+   "date": "2021-06-22"
+  }
+ ],
+ "n_candidates": 21,
+ "sims": [
+  0.6175,
+  0.5984,
+  0.5595,
+  0.5181,
+  0.5158,
+  0.5091,
+  0.4589,
+  0.4549,
+  0.45,
+  0.4364,
+  0.4348,
+  0.4339,
+  0.396,
+  0.3817,
+  0.3731,
+  0.3685,
+  0.3419,
+  0.3004,
+  0.2427
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+   "title": "Scaling Laws for Neural Language Models",
+   "is_B": true
+  },
+  {
+   "id": "21da617a0f79aabf94272107184606cefe90ab75",
+   "title": "Generating Long Sequences with Sparse Transformers",
+   "date": "2019-04-23"
+  },
+  {
+   "id": "ac4dafdef1d2b685b7f28a11837414573d39ff4e",
+   "title": "Universal Transformers",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "7a064df1aeada7e69e5173f7d4c8606f4470365b",
+   "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "a1c922be467d1c0c64b963e65dae41778b81b2a0",
+   "title": "Deep Learning Scaling is Predictable, Empirically",
+   "date": "2017-12-01"
+  },
+  {
+   "id": "572b6fe8d75032c159896c644319dacdf594e9c6",
+   "title": "One Epoch Is All You Need",
+   "date": "2019-06-16"
+  },
+  {
+   "id": "09c76da2361d46689825c4efc37ad862347ca577",
+   "title": "A bit of progress in language modeling",
+   "date": "2001-08-01"
+  },
+  {
+   "id": "54a13bcc9613dcaa76fb25fbe96572f376cfcca9",
+   "title": "Adafactor: Adaptive Learning Rates with Sublinear Memory Cost",
+   "date": "2018-04-11"
+  },
+  {
+   "id": "083afaf8c8eb4d3f61a884221b340c3436c4bc13",
+   "title": "Beyond human-level accuracy: computational challenges in deep learning",
+   "date": "2019-02-16"
+  },
+  {
+   "id": "2270b8628fd8ca67ae39d277f45bc3c38ac63d5f",
+   "title": "Mesh-TensorFlow: Deep Learning for Supercomputers",
+   "date": "2018-11-01"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "eefa0df7c5678fa6004f8b48dbbc1c2696702fee",
+   "title": "An Empirical Model of Large-Batch Training",
+   "date": "2018-12-14"
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "69a037af886a6235d9af3cdeef4c7233d34c86ce",
+   "title": "Growing a Brain: Fine-Tuning by Increasing Model Capacity",
+   "date": "2017-07-21"
+  },
+  {
+   "id": "7628b62d64d2e5c33a13a5a473bc41b2391c1ebc",
+   "title": "Scaling to Very Very Large Corpora for Natural Language Disambiguation",
+   "date": "2001-07-06"
+  },
+  {
+   "id": "4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9",
+   "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "d28c18a3c2a0afdc0a8634d18345af8d36e1f948",
+   "title": "A Constructive Prediction of the Generalization Error Across Scales",
+   "date": "2019-09-27"
+  },
+  {
+   "id": "d9f6ada77448664b71128bb19df15765336974a6",
+   "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+   "date": "2019-05-02"
+  },
+  {
+   "id": "e0c6abdbdecf04ffac65c440da77fb9d66bb474c",
+   "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+   "date": "2019-06-19"
+  }
+ ],
+ "n_candidates": 39,
+ "sims": [
+  0.6313,
+  0.6266,
+  0.6043,
+  0.6023,
+  0.5617,
+  0.5617,
+  0.5251,
+  0.5189,
+  0.5119,
+  0.504,
+  0.5021,
+  0.4912,
+  0.4815,
+  0.4701,
+  0.4656,
+  0.4627,
+  0.4586,
+  0.451,
+  0.4501
+ ]
+}

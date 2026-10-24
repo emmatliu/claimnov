@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_f93267745e6d63e4dcbbc9657b918367afddf13f",
+   "title": "Asymptotic study of stochastic adaptive algorithm in non-convex landscape",
+   "is_B": true
+  },
+  {
+   "id": "33b2e7cb9c3d3cc902a8cd5118862815d406d31a",
+   "title": "AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization",
+   "date": "2018-06-05"
+  },
+  {
+   "id": "e5ac0048c813c7fee1167628c5a505c4669b0518",
+   "title": "On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes",
+   "date": "2018-05-21"
+  },
+  {
+   "id": "5a7dcd5d2654d77dc924b52a5504ea491c213c84",
+   "title": "Stochastic optimization with momentum: Convergence, fluctuations, and traps avoidance",
+   "date": "2020-12-07"
+  },
+  {
+   "id": "f84c7a92190ea0702af6a1ee1744c7094472df65",
+   "title": "Convergence and Dynamical Behavior of the ADAM Algorithm for Nonconvex Stochastic Optimization",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "0054eb42d8ad63b1988fe32df6284762619dcada",
+   "title": "Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent",
+   "date": "2017-11-01"
+  },
+  {
+   "id": "27f197e0401b854d14a41829e09209e38fe920b6",
+   "title": "A Sufficient Condition for Convergences of Adam and RMSProp",
+   "date": "2018-11-23"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "0dadb9383f3d8b2b1d45f09c6b41d88fd9b7d430",
+   "title": "Accelerated gradient methods for nonconvex nonlinear and stochastic programming",
+   "date": "2013-10-14"
+  },
+  {
+   "id": "ff623bdd3025930b6c48e44822b95790760354d8",
+   "title": "On the convergence of the Stochastic Heavy Ball Method",
+   "date": "2020-06-14"
+  },
+  {
+   "id": "dabe13bb60f95d85ac94cdbc371c7ec59d4de0d1",
+   "title": "Adaptivity of averaged stochastic gradient descent to local strong convexity for logistic regression",
+   "date": "2013-03-25"
+  },
+  {
+   "id": "480a81964387b7c30083b522f00ec9129f062052",
+   "title": "Momentum and stochastic momentum for stochastic gradient, Newton, proximal point and subspace descent methods",
+   "date": "2017-12-27"
+  },
+  {
+   "id": "92cb9b838458e10b5a205addcd7f76cb19c860f9",
+   "title": "Rate of convergence of the Nesterov accelerated gradient method in the subcritical case \u03b1 \u2264 3",
+   "date": "2017-06-18"
+  },
+  {
+   "id": "8424a9e5a4456a2c45a42e392b9c01cd0c5c9467",
+   "title": "Stochastic First- and Zeroth-Order Methods for Nonconvex Stochastic Programming",
+   "date": "2013-09-22"
+  },
+  {
+   "id": "d5502ba57cb831ae542f3ae7d155788ff70af425",
+   "title": "A Descent Lemma Beyond Lipschitz Gradient Continuity: First-Order Methods Revisited and Applications",
+   "date": "2017-05-01"
+  },
+  {
+   "id": "7281b9295da6258faadc990ff4042e51709e9dc1",
+   "title": "A general system of differential equations to model first order adaptive algorithms",
+   "date": "2018-10-31"
+  },
+  {
+   "id": "d21703674ae562bae4a849a75847cdd9ead417df",
+   "title": "Optimization Methods for Large-Scale Machine Learning",
+   "date": "2016-06-15"
+  },
+  {
+   "id": "a07f0966ad63c2dbe4a7f0bd35e2fcb4b6deaa94",
+   "title": "Optimal non-asymptotic bound of the Ruppert-Polyak averaging without strong convexity",
+   "date": "2017-09-11"
+  },
+  {
+   "id": "9a093b438e341216ed6a8251f9264aad7ccbdd64",
+   "title": "Convergence rate and averaging of nonlinear two-time-scale stochastic approximation algorithms",
+   "date": "2006-08-01"
+  },
+  {
+   "id": "6a17e23fd63f1bccca7e0e602152ce31170e5945",
+   "title": "A Differential Equation for Modeling Nesterov's Accelerated Gradient Method: Theory and Insights",
+   "date": "2014-12-08"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.771,
+  0.7481,
+  0.7152,
+  0.7032,
+  0.7018,
+  0.6887,
+  0.6655,
+  0.6652,
+  0.6522,
+  0.652,
+  0.6455,
+  0.6101,
+  0.6022,
+  0.5967,
+  0.5949,
+  0.5929,
+  0.5457,
+  0.5437,
+  0.5385
+ ]
+}

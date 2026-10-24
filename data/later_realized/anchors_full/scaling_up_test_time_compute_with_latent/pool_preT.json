@@ -1,0 +1,817 @@
+[
+ {
+  "id": "9d135dadacc10d1992b95235653cbd44af87f3bb",
+  "title": "How Do Latent Reasoning Methods Perform Under Weak and Strong Supervision?",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "b5101c1b8dc7cadf34a2fa8f106fc61bf5a70fb0",
+  "title": "Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "6c08e3e406d5443c13b45250cea3de07473f6f0c",
+  "title": "Communication-Inspired Tokenization for Structured Image Representations",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "e6e0c5f139e61db106081bd58f5858f834280f26",
+  "title": "Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "3424224387065678fc1b320e9d08b87867d44f7c",
+  "title": "Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "f545b590ea777b589f551261685320bfae9151da",
+  "title": "From Growing to Looping: A Unified View of Iterative Computation in LLMs",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "27f377984f259774ce896d9610a34af22b6915aa",
+  "title": "Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "0dfd577d08abc042cb935951476ff029c15dd8a3",
+  "title": "BFS-PO: Best-First Search for Large Reasoning Models",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "ede269d0f96bff8146fc3096e96156306f0b0a24",
+  "title": "SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "45ecf6033663a38e661c2ceb9c1225413a6aba71",
+  "title": "Tiny Recursive Reasoning with Mamba-2 Attention Hybrid",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "ec2982331d588edc49210f8c98872a6425eb5b1d",
+  "title": "LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "872a16c75c22754aef23db3f318e429d103500d7",
+  "title": "Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "7d4cd5722d05892938fd78def205931327404fb7",
+  "title": "Step-resolved data attribution for looped transformers",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "26f6877b10cfcb8ebe7941defd08fec72ce177a9",
+  "title": "Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "ad81ecea14b3034c1910dd51a35e87e9cc9648b6",
+  "title": "Understanding Dynamic Compute Allocation in Recurrent Transformers",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "c334b50ea68b42844a02f5b198aa67a43760f0cb",
+  "title": "Pretraining with Token-Level Adaptive Latent Chain-of-Thought",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "bfe8b7bd21113fd5cd6402968655184bb08c7850",
+  "title": "Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "d1b22560b4b3b4fee2bafef792611e5f6fac169a",
+  "title": "Latent Reasoning with Supervised Thinking States",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "adc37dd3feb4a846c39ca1182f81b7d38933f47e",
+  "title": "Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "18c56e2b9e54518db0f5ad2cd2873269813e7fcc",
+  "title": "Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "e81a7b74b70d297fcc0aa7c80fb6a11649c90e0b",
+  "title": "Emergent Search and Backtracking in Latent Reasoning Models",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "d2c939f200ec9b189db66d7790ab1dc6c7dfc1ec",
+  "title": "LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "30e7b2338f9fada55addb68e870803975da2bcc2",
+  "title": "Multimodal Latent Reasoning via Hierarchical Visual Cues Injection",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "ec7dbd668b068625f7269cc9fcb216152b8eaa39",
+  "title": "Inverse Depth Scaling From Most Layers Being Similar",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "cde1fcb9ab02fdf1e96fd3d5bbc19486bb0b8a22",
+  "title": "On the Role of Computation in Reinforcement Learning",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "e2f7df520d5f93d3f27931fee7e9d20577329c58",
+  "title": "LoopViT: Scaling Visual ARC with Looped Transformers",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "3846bae473a95e8a57cb3dcc37f109bf036c85b0",
+  "title": "LaDi-RL: Latent Diffusion Reasoning Prevents Entropy Collapse in Reinforcement Learning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "cc8cce4bca464fd5b71b52bfdd55a9f251e6a542",
+  "title": "Universal Redundancies in Time Series Foundation Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "bab1a580126eba1d70129ee4e093919e1f62996e",
+  "title": "Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "f870afc4767cfa108f43ea02ddb9f5af54079df8",
+  "title": "From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "1bc896ab38d691d5bc5ee9abfd0fb9b5d0c9a370",
+  "title": "Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "ce18d7b92e8679c14bd6697c2d750d0b16ce2b5d",
+  "title": "Silence the Judge: Reinforcement Learning with Self-Verifier via Latent Geometric Clustering",
+  "date": "2026-01-13"
+ },
+ {
+  "id": "1b899dba75ee6bdfcfb77577258a0c747554db62",
+  "title": "Inference-Time Scaling for Visual AutoRegressive Modeling by Searching Representative Samples",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "bb86d141b945c1db212f1eb6b0bdd676397060fa",
+  "title": "Block-Recurrent Dynamics in Vision Transformers",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "ae20731997793ef95dc8a1684f5897050626af87",
+  "title": "JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "59aa5ef698deb60834ce98ad3c3a90b2100a1f5a",
+  "title": "Mull-Tokens: Modality-Agnostic Latent Thinking",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "5a64abef01314df44c6d280ac58a5cbfd55c2629",
+  "title": "Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "9495e4e37a5dd703d16156cd0bbcf293613587a5",
+  "title": "Unsupervised decoding of encoded reasoning using language model interpretability",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "91c9ecef2f342fc76f7fef3c38f5ccbe4f4696ef",
+  "title": "WPDSI: A deep learning method for wheat phenology detection from single-temporal images",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "9e9f35e433706a4f91fc15366df28779c049752e",
+  "title": "AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "401d0f8dbeaa466fe9f1261e40178e3eeba83655",
+  "title": "Gradient descent for deep equilibrium single-index models",
+  "date": "2025-11-21"
+ },
+ {
+  "id": "5795abdce816c21a809497433ba9de75076e24fc",
+  "title": "SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "39cc224ee611de761a132fe04987350d6d642a4a",
+  "title": "Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "8dc955cb31e1e3efb6b3c8641692cb0cb0fbe440",
+  "title": "Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "d3aea575400f0414938f53d8cc813268d205b91b",
+  "title": "Controllably Efficient Language Models",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "ec9ed3515d76766c1cdfe100b90647a9c3f59259",
+  "title": "Transformers as Intrinsic Optimizers: Forward Inference through the Energy Principle",
+  "date": "2025-11-02"
+ },
+ {
+  "id": "60ede7464454260a047fae294c928a73405180f7",
+  "title": "Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "01e02419e46eff0b6624b28f6d0b299587ea2baf",
+  "title": "Parallel Loop Transformer for Efficient Test-Time Computation Scaling",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "901ba81d0ed1cfbecef6227e730715d6e4d6f8e7",
+  "title": "A Concrete Roadmap towards Safety Cases based on Chain-of-Thought Monitoring",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "8b1fc2b0b7f33fc5549105f57c6a860e0fbd100e",
+  "title": "Soft-Masked Diffusion Language Models",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "d97b0c0f27457ee584381b3e92593b74206c0a0b",
+  "title": "Dr.LLM: Dynamic Layer Routing in LLMs",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "9fe57fae344af8017e04b13a9b4b652d9953a31b",
+  "title": "Catch Your Breath: Adaptive Computation for Self-Paced Sequence Production",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "4802f2844db7be0c4023ac21ebe1550cd0e7c4ff",
+  "title": "Agentic Systems in Radiology: Design, Applications, Evaluation, and Challenges",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "4e7e06263d2d7a6201d80f65ccf9fcbb1c90ab37",
+  "title": "The Geometry of Reasoning: Flowing Logics in Representation Space",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "0a15c6b1f830ade6f3fb085a92a4ceccfdd68754",
+  "title": "Parallel Test-Time Scaling for Latent Reasoning Models",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "e9d4b1cf31dfd7d9c1258f981ea34a8ab0911917",
+  "title": "Can Reasoning Path still be Effective as Input? Bridging Post-Reasoning to Chain-of-Thought Compression",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "ee22a1ba6f92815bfeff2c8b795956a0b8a2fbe2",
+  "title": "Selection, Reflection and Self-Refinement: Revisit Reasoning Tasks via a Causal Lens",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "1fe94818c7f4a8a4df6c0cef8d44ace2edaa7734",
+  "title": "MeSH: Memory-as-State-Highways for Recursive Transformers",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "b0564eae13472c58d9895f4259b344a27bee0650",
+  "title": "ReSplat: Learning Recurrent Gaussian Splatting",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "cb2f2799820e508d1485af0a8be7ee46f8790af9",
+  "title": "Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "ebad77d3a23fcdf5b0faeb8ed534524adbdc511c",
+  "title": "SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "63fc4f619bab220bfd5869b55d4feb6384283e64",
+  "title": "LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "411dcad9fda56a26f6b20cfe1b1bcfc1efa74f75",
+  "title": "Typed Chain-of-Thought: A Curry-Howard Framework for Verifying LLM Reasoning",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "a5670414404b036d2de7c29b47624fce6bbc497e",
+  "title": "Exploring System 1 and 2 communication for latent reasoning in LLMs",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "52d02488e30c9a529e7f775109e79f01ebe25c96",
+  "title": "Theory of Scaling Laws for In-Context Regression: Depth, Width, Context and Time",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "3a862efc1eac2ac9c1aa6ba04266032d210f7f49",
+  "title": "Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in its Latent Thoughts",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "ee2cf3b7267f7b1e545d6acba8ce3fa8d3cb66ca",
+  "title": "Alternatives To Next Token Prediction In Text Generation - A Survey",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "f9036e5d506f37569e5929909c7df0691b707d45",
+  "title": "MARCOS: Deep Thinking by Markov Chain of Continuous Thoughts",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "edf31ba3b76379997f19e1be24fe9ad7e8828559",
+  "title": "LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "aa475f7900389f242dbe344c46e3474043759398",
+  "title": "Explore-Execute Chain: Towards an Efficient Structured Reasoning Paradigm",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "2d6d6d51eb96c918de563cf19cbeb54c63828486",
+  "title": "Two-Scale Latent Dynamics for Recurrent-Depth Transformers",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "146677a3e91c233acaa0d237f2a4ca02fa9dc647",
+  "title": "PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "6e9b10bb88846acd86cde8ea7f8c797c4cd3a7bb",
+  "title": "A Unifying Framework for Parallelizing Sequential Models with Linear Dynamical Systems",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "c8cc7343aa4398fddc988f6399061ae46d3b7972",
+  "title": "MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "e8b056326e53a977ac59f846488ecefac18b5107",
+  "title": "Who's Laughing Now? An Overview of Computational Humour Generation and Explanation",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "9c1a8741e12b446eea3a3a9d23372c88147c6d47",
+  "title": "Learning to Reason with Mixture of Tokens",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "3eca476743048e142c220d0c5bcee3a017f8ef57",
+  "title": "Future Policy Approximation for Offline Reinforcement Learning in LLM Reasoning",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "114d36118ab5ce4b06c63fd95cd79d86aef40f85",
+  "title": "SIM-CoT: Supervised Implicit Chain-of-Thought",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "f14e707fd9926b010350e45c37e8193bbf752a2c",
+  "title": "Soft Tokens, Hard Truths",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "013d549ea71965ea58e478281675c7da80f88503",
+  "title": "MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE",
+  "date": "2025-09-21"
+ },
+ {
+  "id": "017ec1d87e7d9e9b61fd5901c31a30abd8cbb703",
+  "title": "LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "50a62bbfffdd0873ec8a60a4f64fef76093d3af1",
+  "title": "From Long to Short: LLMs Excel at Trimming Own Reasoning Chains",
+  "date": "2025-09-07"
+ },
+ {
+  "id": "2429de2c3f2b7ddcdf1f8b2d34c6eb8b75cc47f9",
+  "title": "A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "2b8eb9de3fd1f2a32d47a67e9b9f39966b28972c",
+  "title": "Analog optical computer for AI inference and combinatorial optimization",
+  "date": "2025-09-03"
+ },
+ {
+  "id": "bb525aab2e9e86c6ed324494c4565c05946d67ae",
+  "title": "Implicit Reasoning in Large Language Models: A Comprehensive Survey",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "d015ad46f4154715dfbdfe35481988e1e6c52a96",
+  "title": "ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "63116b4ea5bd0255097d4cb1617ef317ace8c841",
+  "title": "BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens",
+  "date": "2025-08-24"
+ },
+ {
+  "id": "9c51e133dade2a86b86297a168f156c608b79a8a",
+  "title": "Predictability Enables Parallelization of Nonlinear State Space Models",
+  "date": "2025-08-22"
+ },
+ {
+  "id": "175720cc5b1ae343711044c4a5c2af3bf14f06c4",
+  "title": "Dream 7B: Diffusion Large Language Models",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "bfe1defb11b69a7fe337e5473e81ee34db1b80d9",
+  "title": "Bridging Search and Recommendation through Latent Cross Reasoning",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "283da6590d52a05a6da0cfdd3f8344e08a3db0c8",
+  "title": "LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "5cb7f60b8e75143af89eacdf58f721e597640c16",
+  "title": "Introducing HALC: A general pipeline for finding optimal prompting strategies for automated coding with LLMs in the computational social sciences",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "246f439afc4aca962ec9978948d63b6ff62478a2",
+  "title": "Learning Temporal Abstractions via Variational Homomorphisms in Option-Induced Abstract MDPs",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "79cdd3a41ec8f5cb050f87d38f0bc33fa16c6b3e",
+  "title": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+  "date": "2025-07-15"
+ },
+ {
+  "id": "875418bb21265276be9298b50e52a6c53ff3a202",
+  "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "c2475513585f38f7043c4eeecad3967a881d6248",
+  "title": "AbbIE: Autoregressive Block-Based Iterative Encoder for Efficient Sequence Modeling",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "2b1bf167ae6f9b8ea6e9a97c49d8334d65c08a42",
+  "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "396de1a0dbef6040abe823f01a60455327e5bdfc",
+  "title": "Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "0ba7e537a1728d6b40d9ff16105f6207900fbb01",
+  "title": "A Survey on Latent Reasoning",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "2da9163730998a4368c609972ccff0582518b36b",
+  "title": "Energy-Based Transformers are Scalable Learners and Thinkers",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "eaa0bdf0b8a235971cf2dc70218854acf487f453",
+  "title": "Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "ab0a4637d9b7c102863e19a1a644ecbdbeffb2a8",
+  "title": "Towards Distributed Neural Architectures",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "6242e10282d7c567af87ca3846bb1f4a1d104ad8",
+  "title": "Hierarchical Reasoning Model",
+  "date": "2025-06-26"
+ },
+ {
+  "id": "358a4e531b5e6c04ba6b6a34108d3ff172bd217e",
+  "title": "Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models",
+  "date": "2025-06-22"
+ },
+ {
+  "id": "d329c02065724c3d7d5c4b038f9b95d5682a1244",
+  "title": "DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "6101d3273f5f69a53c8c5999c4f66aff23a8209a",
+  "title": "Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "53822dd1e46b1a3755431bd2690f3cf57bf0f372",
+  "title": "One Patient, Many Contexts: Scaling Medical AI with Contextual Intelligence",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "20e63fdb3f271ecc66e1220195523459238bfeeb",
+  "title": "A Theory of Inference Compute Scaling: Reasoning through Directed Stochastic Skill Search",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "0311c49963ff756256bf1ac4363bf89b9314b13b",
+  "title": "Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "e8d625a3feb4ac5cd30f4653b3379b66db1ed4ef",
+  "title": "Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties",
+  "date": "2025-06-06"
+ },
+ {
+  "id": "d154cbe51ecf28aa513cbbe0bece13eae3865561",
+  "title": "Answer Convergence as a Signal for Early Stopping in Reasoning",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "8507d6621dd5e9624e583e74f3398b88303e4724",
+  "title": "Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "841cdba14696a6490db0a27858495fa73c601ab3",
+  "title": "SealQA: Raising the Bar for Reasoning in Search-Augmented Language Models",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "98280abfb6cd5cc626f0fdb52c1f41dad46a0634",
+  "title": "SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "7a0ee7b289b3a4f4951ec0d10928fd6e9a822939",
+  "title": "Continuous Chain of Thought Enables Parallel Exploration and Reasoning",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "59a30ea323f3f11765c55b6db50105e1c4bf9d98",
+  "title": "Pretraining Language Models to Ponder in Continuous Space",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "8d52c75ddac2dbd87115f975bd9191d06e0b6696",
+  "title": "Recurrent Self-Attention Dynamics: An Energy-Agnostic Perspective from Jacobians",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "8829ae159bed1946bf36c217c28b2dbc63b757a2",
+  "title": "Reinforced Latent Reasoning for LLM-based Recommendation",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "da924145e0e7323e559b8c9e964e5acf0dd3aeff",
+  "title": "Hybrid Latent Reasoning via Reinforcement Learning",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "6b3ce0d47482e3080c19af5c5ccfe9915e5a8f8e",
+  "title": "VeriThinker: Learning to Verify Makes Reasoning Model Efficient",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "8d09e0678cb14d94ca8d7a24093520c8b9fddf7e",
+  "title": "Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "4d4f68d874fe9af8552fddbe8f7f9bb047717b7c",
+  "title": "FOL-Traces: Verified First-Order Logic Reasoning Traces at Scale",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "451e374cd8a50ab893d22599fe684de34569ad70",
+  "title": "Latent Flow Transformer",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "819d32cc63cdb4b54c195ba37f23c6a0ef5eb1bf",
+  "title": "Do Language Models Use Their Depth Efficiently?",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "8f224e484a058e335b28a67d73827b352b45f7b2",
+  "title": "HAPO: Training Language Models to Reason Concisely via History-Aware Policy Optimization",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "ef430a22229af63f9489192442de4c45322d668f",
+  "title": "ReaCritic: Reasoning Transformer-based DRL Critic-model Scaling For Wireless Networks",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "45893d7841d1274cff5e5f149eab648c33acc125",
+  "title": "Can Large Language Models Correctly Interpret Equations with Errors?",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "024acf921ca8dfe23089f6ffd65d4e893b7fa015",
+  "title": "Parallel Scaling Law for Language Models",
+  "date": "2025-05-15"
+ },
+ {
+  "id": "3dbd7498fe5d6b0eb6db113b1ceafb654dc55378",
+  "title": "Continuous Thought Machines",
+  "date": "2025-05-08"
+ },
+ {
+  "id": "65ee20fc76f1740282870aa0c3cc5c965cc46c14",
+  "title": "Intra-Layer Recurrence in Transformers for Language Modeling",
+  "date": "2025-05-03"
+ },
+ {
+  "id": "d4a5e82ecb2c5854cb91a6b2513910938e2de483",
+  "title": "On the Failure of Latent State Persistence in Large Language Models",
+  "date": "2025-04-30"
+ },
+ {
+  "id": "11ad6afbc4bdb3fefc72ff4a0406402e3b8f0f79",
+  "title": "The Big Send-off: Scalable and Performant Collectives for Deep Learning",
+  "date": "2025-04-25"
+ },
+ {
+  "id": "4b8ce4d10bafb92d22335757066b2c1a120f7241",
+  "title": "Efficient Pretraining Length Scaling",
+  "date": "2025-04-21"
+ },
+ {
+  "id": "5c1af74e92d1f1819bfc4186124b08a867e2d617",
+  "title": "How to evaluate control measures for LLM agents? A trajectory from today to superintelligence",
+  "date": "2025-04-07"
+ },
+ {
+  "id": "9b487024ccc5c575a6d72a597ad65f92cce79a04",
+  "title": "ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "920cd8b25373358779fde44f90774533f26d782a",
+  "title": "A Survey of Scaling in Large Language Model Reasoning",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "2befc232dbd6117358313da0f7079854bf16c509",
+  "title": "Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "f26fcc2b9fc8944e054425d19c12b9d5cca64fcb",
+  "title": "A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "7abd028de021caf626f05a2fec0d93d222346e53",
+  "title": "Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "c2b2a9fc2d890e6d512d2f8c993ebf962791445f",
+  "title": "Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation",
+  "date": "2025-03-28"
+ },
+ {
+  "id": "66d2a46a2ae5331113c8a0d3a686443876eb07ce",
+  "title": "Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent",
+  "date": "2025-03-21"
+ },
+ {
+  "id": "86010eada916be09eb0fd134814d4184cd36e91e",
+  "title": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
+  "date": "2025-03-21"
+ },
+ {
+  "id": "891cc1397f949d4432a5a0602e3757e9e3610862",
+  "title": "Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models",
+  "date": "2025-03-20"
+ },
+ {
+  "id": "05efdded456f2267227c32be65a554c6e598d0a7",
+  "title": "Fixed-Point RNNs: Interpolating from Diagonal to Dense",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "e2e13191a89f5529249e4ecb82493718980a5bc3",
+  "title": "InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models",
+  "date": "2025-03-09"
+ },
+ {
+  "id": "dd08b1b9bb644fdaaf3eb348ecb0f12d65703401",
+  "title": "A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers",
+  "date": "2025-03-05"
+ },
+ {
+  "id": "6b34d9f4a91670a265ce51ce4be71cdbf8e15d05",
+  "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "bf04a4f09c19ec0ebaeadff5f78832626673fc00",
+  "title": "CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "693973a41cac31ec2c02e7ce7c59e4bc0dc6d2f7",
+  "title": "Social Genome: Grounded Social Reasoning Abilities of Multimodal Models",
+  "date": "2025-02-21"
+ },
+ {
+  "id": "7ef751d86e1476b24f7858aad3913098ff81d977",
+  "title": "Investigating the Impact of Quantization Methods on the Safety and Reliability of Large Language Models",
+  "date": "2025-02-18"
+ },
+ {
+  "id": "f8d30c1e665a242515b33cb63fed06c29fa4f9c1",
+  "title": "Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "ffb6b2e221497cae064bb87858fc85f542843d76",
+  "title": "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products",
+  "date": "2025-02-14"
+ },
+ {
+  "id": "11337d5c8621d763cf5432a42ecfc2253156cec1",
+  "title": "Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "bd07e9cdd94ea56e18dd48311f6bd189ad29b17a",
+  "title": "When More is Less: Understanding Chain-of-Thought Length in LLMs",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "3490273f577a673310c42ba1674153aa1f21f784",
+  "title": "When, Where and Why to Average Weights?",
+  "date": "2025-02-10"
+ },
+ {
+  "id": "5a885836dde2265833560535a3cfc9cc47cca2a5",
+  "title": "Concept Steerers: Leveraging K-Sparse Autoencoders for Test-Time Controllable Generations",
+  "date": "2025-01-31"
+ },
+ {
+  "id": "7e2c1dcc5165abf4907e97defe181d08e8a97a6c",
+  "title": "Communicating Activations Between Language Model Agents",
+  "date": "2025-01-23"
+ },
+ {
+  "id": "673fbdd957cada770d10dffca5e45b53da43a3c6",
+  "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+  "date": "2024-12-09"
+ },
+ {
+  "id": "ff3525bd3b48c325ef3177eb5797cce176357910",
+  "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
+  "date": "2024-10-28"
+ },
+ {
+  "id": "9a0d5098e71997ca85e07147b36dab8fa44dea0d",
+  "title": "Artificial Kuramoto Oscillatory Neurons",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "14af3215b1d48b0c08aa46fb3194dd93dad95cd2",
+  "title": "On Logical Extrapolation for Mazes with Recurrent and Implicit Networks",
+  "date": "2024-10-03"
+ },
+ {
+  "id": "94e6613e763f88d8c3bd6196e9279e30565b8be5",
+  "title": "Anthropocentric bias in language model evaluation",
+  "date": "2024-07-04"
+ },
+ {
+  "id": "de673c0967831cc6b24e6d299ee4ac37c262b129",
+  "title": "The CLRS-Text Algorithmic Reasoning Language Benchmark",
+  "date": "2024-06-06"
+ }
+]

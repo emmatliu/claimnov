@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_172a046b416e79b5de3fa71205dce43b5088a225",
+   "title": "DOCKSTRING: Easy Molecular Docking Yields Better Benchmarks for Ligand Design",
+   "is_B": true
+  },
+  {
+   "id": "8b8f27535aef5358a93dc47e1b63eaecad23d66c",
+   "title": "Comparison of structure- and ligand-based scoring functions for deep generative models: a GPCR case study",
+   "date": "2021-03-02"
+  },
+  {
+   "id": "404571933e3e87942768c9a5cde8a6285732ad6f",
+   "title": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+   "date": "2018-11-29"
+  },
+  {
+   "id": "d77bc27d16a362e5e1b727904c3789355dda6062",
+   "title": "Molecular de-novo design through deep reinforcement learning",
+   "date": "2017-04-25"
+  },
+  {
+   "id": "c1ad974184d0253231191f14f6d3cd4a2a72c7d1",
+   "title": "SMILES-based deep generative scaffold decorator for de-novo drug design",
+   "date": "2020-01-21"
+  },
+  {
+   "id": "188557d0d9235680c5abb3b8ab5015e419c44591",
+   "title": "Guiding Deep Molecular Optimization with Genetic Exploration",
+   "date": "2020-07-04"
+  },
+  {
+   "id": "90c97804c31287a35212538e85c5f34c0424341d",
+   "title": "Mol-CycleGAN: a generative model for molecular optimization",
+   "date": "2019-02-06"
+  },
+  {
+   "id": "021642baa03c61c687805364d10420d108bbbf8a",
+   "title": "Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES",
+   "date": "2020-12-16"
+  },
+  {
+   "id": "09504c86ec9ad9e3c0651f86ada1c61d1b5ccfbf",
+   "title": "READ: A Retrieval-Alignment Diffusion Framework for Structure-based Drug Design.",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "bb168602db9f0d0f0ed2146eb08fce40b286ab97",
+   "title": "Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors",
+   "date": "2020-12-01"
+  },
+  {
+   "id": "18b1d9052cb82dc7c34827768c98aae09caeb649",
+   "title": "Curiosity in exploring chemical spaces: intrinsic rewards for molecular reinforcement learning",
+   "date": "2020-12-17"
+  },
+  {
+   "id": "3bc89a73e0657388d7445b7d81047233760cb896",
+   "title": "A deep-learning view of chemical space designed to facilitate drug discovery",
+   "date": "2020-02-07"
+  },
+  {
+   "id": "5bfeb6901db481c08874cfe0ae807d8564513765",
+   "title": "GuacaMol: Benchmarking Models for De Novo Molecular Design",
+   "date": "2018-11-22"
+  },
+  {
+   "id": "363ea9f010153a79309d1a5a7879faba60d0a6c2",
+   "title": "Goal-directed Generation of Discrete Structures with Conditional Generative Models",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "fbc9573551e84d82103abb6182e5162ab60bee0a",
+   "title": "Reinforced Molecular Optimization with Neighborhood-Controlled Grammars",
+   "date": "2020-11-14"
+  },
+  {
+   "id": "8082368cd1b49fd84c28d7746820cbb8663e520b",
+   "title": "Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery",
+   "date": "2020-05-19"
+  },
+  {
+   "id": "3744c10a10cb93979fab9e97b2db33db0e839ef1",
+   "title": "A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space",
+   "date": "2018-10-23"
+  },
+  {
+   "id": "6f4d5757335c82d8354b5766baedd8e3091a7d21",
+   "title": "Ultra-large library docking for discovering new chemotypes",
+   "date": "2019-02-01"
+  },
+  {
+   "id": "7975918889eb92138f0b06e86279b4b0ca3db303",
+   "title": "Learning Multimodal Graph-to-Graph Translation for Molecular Optimization",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "685d7b452431904c650cf5e00355f6882ea05e69",
+   "title": "REINVENT 2.0: An AI Tool for De Novo Drug Design",
+   "date": "2020-10-29"
+  }
+ ],
+ "n_candidates": 65,
+ "sims": [
+  0.6844,
+  0.6432,
+  0.6253,
+  0.6247,
+  0.6228,
+  0.6118,
+  0.6118,
+  0.6105,
+  0.5993,
+  0.5939,
+  0.5936,
+  0.5784,
+  0.5683,
+  0.5434,
+  0.5416,
+  0.5336,
+  0.5328,
+  0.5325,
+  0.5295
+ ]
+}

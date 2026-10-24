@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2107.06307",
+   "title": "HDMapNet: An Online HD Map Construction and Evaluation Framework",
+   "is_B": true
+  },
+  {
+   "id": "296c808abc2b11c6b7cc44237357b6590bac4f35",
+   "title": "VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation",
+   "date": "2020-05-08"
+  },
+  {
+   "id": "c7d59fe1b7b62886b0f7cd7239f9749c2e2ed2d5",
+   "title": "Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks",
+   "date": "2020-03-30"
+  },
+  {
+   "id": "54e28e2e238276f63128a52ea46989b1c0e34c89",
+   "title": "Machine Learning Assisted High-Definition Map Creation",
+   "date": "2018-07-01"
+  },
+  {
+   "id": "51e2a8172e9ef71fdd40194085a6fb8034c74f4b",
+   "title": "HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps",
+   "date": "2021-06-01"
+  },
+  {
+   "id": "4def603277e077d11eb6ce030df931330d758207",
+   "title": "Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D",
+   "date": "2020-08-13"
+  },
+  {
+   "id": "9a9cafd39ec24c24c87cd66efb587c84fdbe509b",
+   "title": "PoseMap: Lifelong, Multi-Environment 3D LiDAR Localization",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "b29974d7c2683d812fe2115b6b66d8f14e60ea1c",
+   "title": "3D-LaneNet: End-to-End 3D Multiple Lane Detection",
+   "date": "2018-11-26"
+  },
+  {
+   "id": "7b4554575ab88b90982a2a7cb971614a6d25014e",
+   "title": "Deep Multi-Sensor Lane Detection",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "c5147062c361e7657b2b36dbc7d4b98d699a618f",
+   "title": "A robust pose graph approach for city scale LiDAR mapping",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "8b2ea3ecac8abd2357fbf8ca59ec31bad3191388",
+   "title": "Towards End-to-End Lane Detection: an Instance Segmentation Approach",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "48374b779b1b0479a82992f0eb344f1697c6e360",
+   "title": "Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection",
+   "date": "2020-03-24"
+  },
+  {
+   "id": "5333c412657391739eb4dd9e306ceed6def4d303",
+   "title": "Cross-View Semantic Segmentation for Sensing Surroundings",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "52a8866dfd2bce6a1169eba1a47ad2008ef4eecd",
+   "title": "LaneNet: Real-Time Lane Detection Networks for Autonomous Driving",
+   "date": "2018-07-04"
+  },
+  {
+   "id": "9e475a514f54665478aac6038c262e5a6bac5e64",
+   "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+   "date": "2019-03-26"
+  },
+  {
+   "id": "768ebe9ec6d4fde9bab44dce9deb342a424190bd",
+   "title": "Efficient Semantic Segmentation for Visual Bird's-eye View Interpretation",
+   "date": "2018-06-11"
+  },
+  {
+   "id": "b63b861cb907331dfd5d7dbfbb0a1563f25f2c5a",
+   "title": "End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds",
+   "date": "2019-10-15"
+  },
+  {
+   "id": "6fc6803df5f9ae505cae5b2f178ade4062c768d0",
+   "title": "Fully convolutional networks for semantic segmentation",
+   "date": "2014-11-14"
+  },
+  {
+   "id": "833fbf0e4be3ba82e7a1efdbc16813ee849d9942",
+   "title": "Restricted Deformable Convolution-Based Road Scene Semantic Segmentation Using Surround View Cameras",
+   "date": "2018-01-02"
+  },
+  {
+   "id": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+   "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding",
+   "date": "2016-04-06"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.804,
+  0.7316,
+  0.7262,
+  0.6778,
+  0.5939,
+  0.589,
+  0.5808,
+  0.5715,
+  0.5696,
+  0.563,
+  0.5624,
+  0.562,
+  0.5576,
+  0.5483,
+  0.544,
+  0.539,
+  0.5358,
+  0.5315,
+  0.5314
+ ]
+}

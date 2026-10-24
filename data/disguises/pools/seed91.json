@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_565e4d66f6db0cb91232a410934ab08813de6d7d",
+   "title": "EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video",
+   "date": "2026-06-08",
+   "is_B": true
+  },
+  {
+   "id": "f9001d6f25f86f3de49031ee08aa1a72eaa28b1a",
+   "title": "OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction",
+   "date": "2025-12-18"
+  },
+  {
+   "id": "c01035bf63b6b1f31fac43e9111a84e86522d7d7",
+   "title": "PressureVision++: Estimating Fingertip Pressure from Diverse RGB Images",
+   "date": "2023-01-05"
+  },
+  {
+   "id": "66467055a77d73db89850d19bc18cb3e62ad01bc",
+   "title": "PressureVision: Estimating Hand Pressure from a Single RGB Image",
+   "date": "2022-03-19"
+  },
+  {
+   "id": "6fa50c67199805639c6f2537edc56dce0e64c04d",
+   "title": "Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation",
+   "date": "2024-10-31"
+  },
+  {
+   "id": "e3e6d9b587d0a8ed6dad2582fea76fd9d47b4ec5",
+   "title": "TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "7aad7429bf6b3263fbd6483c749d73bc1b9388c1",
+   "title": "Dataset of Tactile Signatures of the Human Right Hand in Twenty-One Activities of Daily Living Using a High Spatial Resolution Pressure Sensor",
+   "date": "2021-04-01"
+  },
+  {
+   "id": "b9ba6fc13894f4e7da30b0dfa963415b85dfb478",
+   "title": "A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "8c708714e8bb186a1fb374c8cb402642c56c9311",
+   "title": "Masked Visual-Tactile Pre-training for Robot Manipulation",
+   "date": "2024-05-13"
+  },
+  {
+   "id": "37202f8275411c21ebb0c3e4b0ce5466f9fd4800",
+   "title": "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos",
+   "date": "2024-11-28"
+  },
+  {
+   "id": "848eb8367785910c2fe31372605954ad8f9dfe6c",
+   "title": "Ego4D: Around the World in 3,000 Hours of Egocentric Video",
+   "date": "2021-10-13"
+  },
+  {
+   "id": "643cc2cf95dda915c78eed8e263e45eed066bb86",
+   "title": "DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor With Application to In-Hand Manipulation",
+   "date": "2020-02-28"
+  },
+  {
+   "id": "fc50c9392fd23b6c88915177c6ae904a498aacea",
+   "title": "Scaling Egocentric Vision: The EPIC-KITCHENS Dataset",
+   "date": "2018-04-08"
+  },
+  {
+   "id": "209a2428749696b5e42a7cddde77494cf824e4fe",
+   "title": "GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force",
+   "date": "2017-11-29"
+  },
+  {
+   "id": "9792f38e108f5bd25a31ff39bc73956eec0aa32a",
+   "title": "Object Concepts Emerge from Motion",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "1206b05eae5a06ba662ae79fb291b50e359c4f42",
+   "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+   "date": "2023-11-25"
+  },
+  {
+   "id": "fa08b41ccdfc5d8771adfbc34c176fa237d4646c",
+   "title": "Is Space-Time Attention All You Need for Video Understanding?",
+   "date": "2021-02-09"
+  },
+  {
+   "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+   "title": "Learning Transferable Visual Models From Natural Language Supervision",
+   "date": "2021-02-26"
+  },
+  {
+   "id": "9cd6c6d85de6180dd92ba43e685663067cf3ab7f",
+   "title": "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks",
+   "date": "2024-01-25"
+  },
+  {
+   "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "date": "2021-12-20"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.7509,
+  0.744,
+  0.7144,
+  0.6784,
+  0.6678,
+  0.6449,
+  0.6125,
+  0.6092,
+  0.6033,
+  0.6,
+  0.5989,
+  0.5523,
+  0.5434,
+  0.5345,
+  0.4659,
+  0.4153,
+  0.384,
+  0.3786,
+  0.3576
+ ]
+}

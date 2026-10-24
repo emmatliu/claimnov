@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "is_B": true
+  },
+  {
+   "id": "ac11062f1f368d97f4c826c317bf50dcc13fdb59",
+   "title": "Dissecting Contextual Word Embeddings: Architecture and Representation",
+   "date": "2018-08-27"
+  },
+  {
+   "id": "bc8fa64625d9189f5801837e7b133e7fe3c581f7",
+   "title": "Learned in Translation: Contextualized Word Vectors",
+   "date": "2017-08-01"
+  },
+  {
+   "id": "b47381e04739ea3f392ba6c8faaf64105493c196",
+   "title": "Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks",
+   "date": "2018-11-02"
+  },
+  {
+   "id": "832fff14d2ed50eb7969c4c4b976c35776548f56",
+   "title": "REALM: Retrieval-Augmented Language Model Pre-Training",
+   "date": "2020-02-10"
+  },
+  {
+   "id": "bb6c2a64ecb6e4c9f3f5720d53cca76a2c37505d",
+   "title": "Experience Grounds Language",
+   "date": "2020-04-21"
+  },
+  {
+   "id": "80376bdec5f534be78ba82821f540590ebce5559",
+   "title": "How Much Knowledge Can You Pack into the Parameters of a Language Model?",
+   "date": "2020-02-10"
+  },
+  {
+   "id": "19281b9ecdb5c07a93423a506627ab9d9b0cf039",
+   "title": "Learning and Evaluating General Linguistic Intelligence",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "2997b26ffb8c291ce478bd8a6e47979d5a55c466",
+   "title": "Annotation Artifacts in Natural Language Inference Data",
+   "date": "2018-03-06"
+  },
+  {
+   "id": "e0c6abdbdecf04ffac65c440da77fb9d66bb474c",
+   "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "8ae9a17c87a4518b513e860683a0ef7824be994d",
+   "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+   "date": "2020-01-21"
+  },
+  {
+   "id": "d0cda85c030711aaa5383c80d5928a4d22f8d3bf",
+   "title": "How Can We Accelerate Progress Towards Human-like Linguistic Generalization?",
+   "date": "2020-05-03"
+  },
+  {
+   "id": "42ed4a9994e6121a9f325f5b901c5b3d7ce104f5",
+   "title": "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+   "date": "2019-02-04"
+  },
+  {
+   "id": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+   "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+   "date": "2019-01-09"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "d7b6753a2d4a2b286c396854063bde3a91b75535",
+   "title": "A Simple Method for Commonsense Reasoning",
+   "date": "2018-06-07"
+  },
+  {
+   "id": "54416048772b921720f19869ed11c2a360589d03",
+   "title": "UNITER: Learning UNiversal Image-TExt Representations",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "207da6d2c07289bf72a2b5974bb3f011ebb5dd0d",
+   "title": "Adversarial NLI: A New Benchmark for Natural Language Understanding",
+   "date": "2019-10-31"
+  },
+  {
+   "id": "2ffcf8352223c95ae8cef4daaec995525ecc926b",
+   "title": "Adversarial Training for Large Neural Language Models",
+   "date": "2020-04-20"
+  },
+  {
+   "id": "8323c591e119eb09b28b29fd6c7bc76bd889df7a",
+   "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+   "date": "2019-09-17"
+  }
+ ],
+ "n_candidates": 95,
+ "sims": [
+  0.5897,
+  0.5765,
+  0.558,
+  0.555,
+  0.5422,
+  0.5394,
+  0.5358,
+  0.5333,
+  0.5327,
+  0.5281,
+  0.5269,
+  0.5228,
+  0.522,
+  0.5173,
+  0.5162,
+  0.5144,
+  0.5113,
+  0.5089,
+  0.5088
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ad3d2ee1c5bb9afa00a577dcdb55f029ef494648",
+   "title": "PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation",
+   "date": "2026-06-07",
+   "is_B": true
+  },
+  {
+   "id": "c2b809fede0938599f16a1397ae3dc686f4590ca",
+   "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",
+   "date": "2025-08-25"
+  },
+  {
+   "id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+   "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+   "date": "2023-03-07"
+  },
+  {
+   "id": "4c1b7cf0550130a2aca6215b759cb09c76b19978",
+   "title": "SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning",
+   "date": "2025-03-05"
+  },
+  {
+   "id": "e596c98260ec4096eaeb491eb75f91a8339fcf48",
+   "title": "Diffusion Policy Policy Optimization",
+   "date": "2024-09-01"
+  },
+  {
+   "id": "ac0f41b97e642bd99ed862574d57a74c8c042695",
+   "title": "Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control",
+   "date": "2024-07-12"
+  },
+  {
+   "id": "3d76022b86614c289a374ef767b3e7cc0f4bea14",
+   "title": "Joint Model-based Model-free Diffusion for Planning with Constraints",
+   "date": "2025-09-10"
+  },
+  {
+   "id": "9417def6795db76cc83a2eea8b4f3ab5bd94ba1b",
+   "title": "H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation",
+   "date": "2025-07-31"
+  },
+  {
+   "id": "41ba8127b73abd32051a89764cb976095b1dee94",
+   "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+   "date": "2024-10-10"
+  },
+  {
+   "id": "7cf3140e8bd8640bca79e7941e3e1bfc53172f33",
+   "title": "Back to the Manifold: Recovering from Out-of-Distribution States",
+   "date": "2022-07-18"
+  },
+  {
+   "id": "b31186f984a1808c3cd41146c6d1bdf2dbc9814f",
+   "title": "SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation",
+   "date": "2025-06-19"
+  },
+  {
+   "id": "636356f442abdef6f16ff5bd2a133627275fc808",
+   "title": "SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems",
+   "date": "2024-04-08"
+  },
+  {
+   "id": "3ebdd3db0dd91069fa0cd31cbf8308b60b1b565e",
+   "title": "Planning with Diffusion for Flexible Behavior Synthesis",
+   "date": "2022-05-20"
+  },
+  {
+   "id": "73b6391b4ef112d385dccf1b639be4c693e4723a",
+   "title": "Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis",
+   "date": "2025-02-02"
+  },
+  {
+   "id": "3ac976418e99aa5e558dedcb0ec25d6eb6c35750",
+   "title": "STAIR: Improving Safety Alignment with Introspective Reasoning",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "a2246e09ab0b56ba91322747addad030eae56c50",
+   "title": "Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model",
+   "date": "2024-01-19"
+  },
+  {
+   "id": "a469084002b8c3b84a30715acfc3f77f8c5b2104",
+   "title": "Towards Human-Robot Collaborative Surgery: Trajectory and Strategy Learning in Bimanual Peg Transfer",
+   "date": "2023-08-01"
+  },
+  {
+   "id": "559583b7cf7ca50416e2a776dc3ae3c5fb6ba700",
+   "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+   "date": "2024-09-03"
+  },
+  {
+   "id": "7e44c21bfad181960b259754a462060dfdd41cb0",
+   "title": "Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk",
+   "date": "2022-06-09"
+  },
+  {
+   "id": "2018cc857bf07b1201d8dd7f55cab9f0ae025192",
+   "title": "Enhancing Safety in Learning from Demonstration Algorithms via Control Barrier Function Shielding",
+   "date": "2024-03-11"
+  }
+ ],
+ "n_candidates": 88,
+ "sims": [
+  0.6868,
+  0.6353,
+  0.6139,
+  0.6029,
+  0.6019,
+  0.5826,
+  0.5813,
+  0.5769,
+  0.5722,
+  0.5685,
+  0.5669,
+  0.5667,
+  0.566,
+  0.5626,
+  0.562,
+  0.5588,
+  0.5486,
+  0.5429,
+  0.5389
+ ]
+}

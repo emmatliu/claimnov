@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d32e3701cc6556d50084b2fa4cd85a737f2c10d9",
+   "title": "Learning to Theorize the World from Observation",
+   "date": "2026-05-05",
+   "is_B": true
+  },
+  {
+   "id": "50f76736c3090c6effac25400e5e40cc0b7b5ad9",
+   "title": "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",
+   "date": "2019-04-26"
+  },
+  {
+   "id": "83040001210751239553269727b9ea53e152af71",
+   "title": "Building Machines that Learn and Think Like People",
+   "date": "2018-07-09"
+  },
+  {
+   "id": "ef2bbcd928749978b4395460a96c9869833c9c89",
+   "title": "DreamCoder: growing generalizable, interpretable knowledge with wake\u2013sleep Bayesian program learning",
+   "date": "2020-06-15"
+  },
+  {
+   "id": "270b95262f2100c279c4c65ef2521473841ca8ad",
+   "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+   "date": "2019-12-03"
+  },
+  {
+   "id": "937fef6a786c4463a3bb19770c704945d1600b66",
+   "title": "Learning Compositional Rules via Neural Program Synthesis",
+   "date": "2020-03-12"
+  },
+  {
+   "id": "dd4dfee7ad7a2ed179f9b2e80b83685b37661dbf",
+   "title": "Human-like systematic generalization through a meta-learning neural network",
+   "date": "2023-10-25"
+  },
+  {
+   "id": "d71ab72104e48c9f37a9acedb749bf5c7fa90622",
+   "title": "Learning to Act without Actions",
+   "date": "2023-12-17"
+  },
+  {
+   "id": "b44bb1762640ed72091fd5f5fdc20719a6dc24af",
+   "title": "Mastering Atari with Discrete World Models",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "d4c07ceb46843a88b178a1b84b825006db90ea1d",
+   "title": "Symbols and mental programs: a hypothesis about human singularity.",
+   "date": "2022-08-01"
+  },
+  {
+   "id": "628de805eb44b7bb544d792e248914f42b3235ab",
+   "title": "A Compressive-Expressive Communication Framework for Compositional Representations",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "b6f55cfaa63293c26ff2ae078288739536675553",
+   "title": "Evolutionary Interpretation: Law and Machine Learning",
+   "date": "2020-11-17"
+  },
+  {
+   "id": "c9fbefffda615f6d5061d322098d0206701fcc18",
+   "title": "The generative grammar of the brain: a critique of internally generated representations",
+   "date": "2023-11-30"
+  },
+  {
+   "id": "618ea97066afad16cd02d87889eaa3c0387d07d1",
+   "title": "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models",
+   "date": "2023-11-15"
+  },
+  {
+   "id": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+   "title": "Learning Latent Dynamics for Planning from Pixels",
+   "date": "2018-11-12"
+  },
+  {
+   "id": "3803ea42e1fc773db3b1d0fa05f41b5ebf0a61d1",
+   "title": "Toward Causal Representation Learning",
+   "date": "2021-05-01"
+  },
+  {
+   "id": "d7fbdba317e195c3b49dbcdb14b7b52a05bfb3f4",
+   "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond",
+   "date": "2024-05-06"
+  },
+  {
+   "id": "b59d91e0699d4e1896a15bae13fd180bdaf77ea5",
+   "title": "Neural Programmer-Interpreters",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "4bc2bb6584774b0d8ad0b4f5215dc2075487c192",
+   "title": "A Benchmark for Systematic Generalization in Grounded Language Understanding",
+   "date": "2020-03-11"
+  },
+  {
+   "id": "eccf9e5cdda2012172958f5c49204f11933fb250",
+   "title": "Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs",
+   "date": "2023-01-30"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.6161,
+  0.602,
+  0.5894,
+  0.5813,
+  0.5593,
+  0.5338,
+  0.5336,
+  0.5273,
+  0.5155,
+  0.5073,
+  0.5054,
+  0.503,
+  0.4887,
+  0.4804,
+  0.4763,
+  0.476,
+  0.4735,
+  0.4649,
+  0.4567
+ ]
+}

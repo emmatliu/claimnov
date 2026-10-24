@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_1e4c1dd2e48ebabc5933aeb2be901258e41192bb",
+   "title": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity",
+   "date": "2026-05-05",
+   "is_B": true
+  },
+  {
+   "id": "6f3784db24d9e6f207fcec5b0abea18e01fdf510",
+   "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents",
+   "date": "2025-10-19"
+  },
+  {
+   "id": "f7749635a5fc0492ef4705bee963ffa887bb2865",
+   "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+   "date": "2024-05-16"
+  },
+  {
+   "id": "f5d194b600e4e4021564f3647afde07308ac41d3",
+   "title": "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "b33b735352c78743707f66e525f7cca65ff207b0",
+   "title": "Latent World Models For Intrinsically Motivated Exploration",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "2fd346e7edf0ec9de793c96acb0a1e3f2f8a2718",
+   "title": "BYOL-Explore: Exploration by Bootstrapped Prediction",
+   "date": "2022-06-16"
+  },
+  {
+   "id": "ad37c810e7a6df7312e2fdf0126336627fbe432c",
+   "title": "Internalizing World Models via Self-Play Finetuning for Agentic RL",
+   "date": "2025-10-16"
+  },
+  {
+   "id": "db256d018825b8385fa995265461eb5224ca0cfe",
+   "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+   "date": "2024-11-10"
+  },
+  {
+   "id": "608f9a4ab79ad709bdc9758927d501e670ca0e24",
+   "title": "Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction",
+   "date": "2025-11-28"
+  },
+  {
+   "id": "6fbb3ed823526ac050b610d353ea91a8515f7e69",
+   "title": "EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents",
+   "date": "2025-02-13"
+  },
+  {
+   "id": "5dbffedcabe3fa43060ebbe2b1789500edfd871f",
+   "title": "Reasoning with Language Model is Planning with World Model",
+   "date": "2023-05-24"
+  },
+  {
+   "id": "225ab689f41cef1dc18237ef5dab059a49950abf",
+   "title": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+   "date": "2017-05-15"
+  },
+  {
+   "id": "fc6a2f7478f68adefd69e2071f27e38aa1647f2f",
+   "title": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",
+   "date": "2023-08-24"
+  },
+  {
+   "id": "2d6c38b13ec3f97eb621e9965373a4bb70691571",
+   "title": "Critique of World Model",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "16ca034b434c15e1da6eef50a67264137e1380bd",
+   "title": "World Discovery Models",
+   "date": "2019-02-20"
+  },
+  {
+   "id": "6816b90d77bbddf13b020f6c6c61c20fa2639fca",
+   "title": "Active Intelligence in Video Avatars via Closed-loop World Modeling",
+   "date": "2025-12-23"
+  },
+  {
+   "id": "dbabe6ce982b0d8b3f3a842ec85ddc088733385e",
+   "title": "Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration",
+   "date": "2021-09-17"
+  },
+  {
+   "id": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+   "title": "World Models",
+   "date": "2018-03-27"
+  },
+  {
+   "id": "5df39cc393907ea78fddf461b494b4c5b1b5a2e4",
+   "title": "Planning to Be Surprised: Optimal Bayesian Exploration in Dynamic Environments",
+   "date": "2011-03-29"
+  },
+  {
+   "id": "2470fcf0f89082de874ac9133ccb3a8667dd89a8",
+   "title": "Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models",
+   "date": "2015-07-03"
+  }
+ ],
+ "n_candidates": 36,
+ "sims": [
+  0.7797,
+  0.7147,
+  0.6903,
+  0.6606,
+  0.6462,
+  0.645,
+  0.6403,
+  0.6347,
+  0.6297,
+  0.6286,
+  0.6277,
+  0.609,
+  0.5935,
+  0.5854,
+  0.5809,
+  0.5748,
+  0.5704,
+  0.543,
+  0.5303
+ ]
+}

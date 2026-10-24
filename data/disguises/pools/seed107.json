@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_27629afbb45b201f730ba4407400e7448f3336e5",
+   "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+   "date": "2026-05-01",
+   "is_B": true
+  },
+  {
+   "id": "d6487af1077a1fccc996433b3acc8018b797f47f",
+   "title": "Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Generation",
+   "date": "2025-07-11"
+  },
+  {
+   "id": "011c3fe12483288b70e55be2816b14fd062b9bc6",
+   "title": "GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation",
+   "date": "2025-04-11"
+  },
+  {
+   "id": "c314d1841915ad3343eb0a247a9d782961d9e2df",
+   "title": "AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "52b985d1923ac9bd8be2ab4c58d0f18b61afbd94",
+   "title": "ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation",
+   "date": "2026-01-07"
+  },
+  {
+   "id": "1b5d2ca8bf1324f7cd3a2ba3b8a63e254e57245a",
+   "title": "Randomized Autoregressive Visual Generation",
+   "date": "2024-11-01"
+  },
+  {
+   "id": "4e413bf865ec893338000817a15d36f6f136ec8f",
+   "title": "Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models",
+   "date": "2025-01-02"
+  },
+  {
+   "id": "78cfe046d9191508e0516eefb500c8bde5cd7c81",
+   "title": "Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "e46a79cf7c2c9192639f9e1d12280650e06b9d56",
+   "title": "Autoregressive Image Generation without Vector Quantization",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "a03efb04dfb2490f90c1a953c49a577594852320",
+   "title": "Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization",
+   "date": "2023-05-19"
+  },
+  {
+   "id": "b15e6e2b1d81bc110f8fc98c3caf2e25e2512539",
+   "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
+   "date": "2024-06-10"
+  },
+  {
+   "id": "76e8218f657c77c38da44daaed5bb54ab727a8fc",
+   "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+   "date": "2024-04-03"
+  },
+  {
+   "id": "a3ebbaabc51e6f666802bcbccc149027bdc9f5a9",
+   "title": "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length",
+   "date": "2025-02-19"
+  },
+  {
+   "id": "1e31f4a4ccfc0d1e461be05361d77b5e045f4d37",
+   "title": "An Image is Worth 32 Tokens for Reconstruction and Generation",
+   "date": "2024-06-11"
+  },
+  {
+   "id": "571b0750085ae3d939525e62af510ee2cee9d5ea",
+   "title": "Improved Techniques for Training GANs",
+   "date": "2016-06-10"
+  },
+  {
+   "id": "7c597874535c1537d7ddff3b3723015b4dc79d30",
+   "title": "MaskGIT: Masked Generative Image Transformer",
+   "date": "2022-02-08"
+  },
+  {
+   "id": "aa2a987ab8ceea578c4604ab52c66c45bfbaa0e9",
+   "title": "SpectralAR: Spectral Autoregressive Visual Generation",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "9c7a2cd13b783bb73ad2d1ec2880bdd9b995cbdc",
+   "title": "Vector-quantized Image Modeling with Improved VQGAN",
+   "date": "2021-10-09"
+  },
+  {
+   "id": "985f0c89c5a607742ec43c1fdc2cbfe54541cbad",
+   "title": "Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation",
+   "date": "2023-10-09"
+  },
+  {
+   "id": "6be216d93421bf19c1659e7721241ae73d483baf",
+   "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2",
+   "date": "2019-06-02"
+  }
+ ],
+ "n_candidates": 48,
+ "sims": [
+  0.7383,
+  0.7224,
+  0.7039,
+  0.7029,
+  0.6946,
+  0.6814,
+  0.6697,
+  0.6535,
+  0.6506,
+  0.6466,
+  0.6412,
+  0.6233,
+  0.6145,
+  0.6098,
+  0.609,
+  0.6074,
+  0.607,
+  0.6018,
+  0.5934
+ ]
+}

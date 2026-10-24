@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e0a3164c0dfefd905fcf44dd945a49aebfb468fc",
+   "title": "Security-Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",
+   "date": "2026-06-29",
+   "is_B": true
+  },
+  {
+   "id": "b02a3849d5482d9933468225713ed0c2a4ddc9e2",
+   "title": "Defending Against Prompt Injection With a Few DefensiveTokens",
+   "date": "2025-07-10"
+  },
+  {
+   "id": "6d465be006615460d41060f9f5068d51fc1f46b1",
+   "title": "Benchmarking and Defending against Indirect Prompt Injection Attacks on Large Language Models",
+   "date": "2023-12-21"
+  },
+  {
+   "id": "d23fb1051574e9614dcf31c2b6963808c3981558",
+   "title": "AI security beyond core domains: resume screening as a case study of adversarial vulnerabilities in specialized LLM applications",
+   "date": "2025-12-23"
+  },
+  {
+   "id": "32316f1d08911b397f52f8644f46f5c129619383",
+   "title": "Defending Against Indirect Prompt Injection Attacks With Spotlighting",
+   "date": "2024-03-20"
+  },
+  {
+   "id": "2b289e1d136edeb6354496518af5230bddc09e61",
+   "title": "Attention Tracker: Detecting Prompt Injection Attacks in LLMs",
+   "date": "2024-11-01"
+  },
+  {
+   "id": "b1d370e2a028b951ea000b035a1b7699f8495a0f",
+   "title": "Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis",
+   "date": "2025-11-30"
+  },
+  {
+   "id": "d9303eb738a56b0e72404d3ad57964c25611a226",
+   "title": "Sentinel: SOTA model to protect against prompt injections",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "705e49afd92130f2bc1e0d4d0b1f6cb14e88803f",
+   "title": "Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+   "date": "2023-02-23"
+  },
+  {
+   "id": "1056bd268b2ff96ed0adf70fb7649dffbcb247d7",
+   "title": "BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents",
+   "date": "2025-11-25"
+  },
+  {
+   "id": "5321d68ab660ece97853fbf281977c4f73821d53",
+   "title": "Data security in large language models: risks, defense, and directions",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "7831394c96fc49695da441d91159f1e9f2e68251",
+   "title": "CommandSans: Securing AI Agents with Surgical Precision Prompt Sanitization",
+   "date": "2025-10-09"
+  },
+  {
+   "id": "f5e7e22036c3fe7d6660eee90642f716c3b303f5",
+   "title": "StruQ: Defending Against Prompt Injection with Structured Queries",
+   "date": "2024-02-09"
+  },
+  {
+   "id": "f18e5a844c37e5342f8f3d409c74c1a9c91d1f8f",
+   "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+   "date": "2024-04-19"
+  },
+  {
+   "id": "9716a2876d08fce9d8e5c5ba4d7b1a9af44806d6",
+   "title": "Ignore Previous Prompt: Attack Techniques For Language Models",
+   "date": "2022-11-17"
+  },
+  {
+   "id": "51941fb4d679b102a50b18f1c1a6f70b6b929f59",
+   "title": "ASIDE: Architectural Separation of Instructions and Data in Language Models",
+   "date": "2025-03-13"
+  },
+  {
+   "id": "b26602dd5ec777659ce46fec86da132ac680d2ee",
+   "title": "Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?",
+   "date": "2024-03-11"
+  },
+  {
+   "id": "c9c0324fcdc92cf7e24f9c4230864851a552f953",
+   "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+   "date": "2024-03-28"
+  },
+  {
+   "id": "b5fdd8fd5f398c81136fa7dac941f52b9568ad0a",
+   "title": "WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks",
+   "date": "2025-04-22"
+  },
+  {
+   "id": "b2e0ad150cff50c033b323e6e415ad7464d88328",
+   "title": "Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks",
+   "date": "2024-08-09"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.6919,
+  0.6892,
+  0.6611,
+  0.6286,
+  0.62,
+  0.6185,
+  0.6121,
+  0.6053,
+  0.5899,
+  0.5877,
+  0.5839,
+  0.5776,
+  0.5719,
+  0.5523,
+  0.551,
+  0.5494,
+  0.5195,
+  0.519,
+  0.517
+ ]
+}

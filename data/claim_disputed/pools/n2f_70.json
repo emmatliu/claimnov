@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_434f4ecbfdea4496bbcd763427fc605bf11abddc",
+   "title": "Token Dropping for Efficient BERT Pretraining",
+   "is_B": true
+  },
+  {
+   "id": "2310d893abf4ec900cb9e0c5da58284a37329780",
+   "title": "Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping",
+   "date": "2020-10-26"
+  },
+  {
+   "id": "8323c591e119eb09b28b29fd6c7bc76bd889df7a",
+   "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+   "date": "2019-09-17"
+  },
+  {
+   "id": "4ca3b0ea12f02e2dea01a4aa505956bae5500a09",
+   "title": "Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing",
+   "date": "2020-06-05"
+  },
+  {
+   "id": "bc789aef715498e79a74f857fa090ece9e383bf1",
+   "title": "Large Batch Optimization for Deep Learning: Training BERT in 76 minutes",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "7e9ff94476f41041c75e253e84f487db00e9c861",
+   "title": "Long Range Arena: A Benchmark for Efficient Transformers",
+   "date": "2020-11-08"
+  },
+  {
+   "id": "480815ff593a7c36f64db8ca197014e2ad4a2a5f",
+   "title": "Taking Notes on the Fly Helps BERT Pre-training",
+   "date": "2020-08-04"
+  },
+  {
+   "id": "319b84be7a843250bc81d7086f79a4126d550277",
+   "title": "ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation",
+   "date": "2021-07-05"
+  },
+  {
+   "id": "7a064df1aeada7e69e5173f7d4c8606f4470365b",
+   "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "15e81c8d1c21f9e928c72721ac46d458f3341454",
+   "title": "Non-Autoregressive Neural Machine Translation",
+   "date": "2017-11-07"
+  },
+  {
+   "id": "ac4dafdef1d2b685b7f28a11837414573d39ff4e",
+   "title": "Universal Transformers",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "4585611042d2be0d997ee135e3fe219d668db9ec",
+   "title": "Depth-Adaptive Transformer",
+   "date": "2019-10-22"
+  },
+  {
+   "id": "8747f028acccde9ee7c35c858da8091613d3e574",
+   "title": "Faster Depth-Adaptive Transformers",
+   "date": "2020-04-27"
+  },
+  {
+   "id": "925ad2897d1b5decbea320d07e99afa9110e09b2",
+   "title": "Longformer: The Long-Document Transformer",
+   "date": "2020-04-10"
+  },
+  {
+   "id": "16c844fd4d97f3c6eb38b0d6527c87d184efedc3",
+   "title": "The Evolved Transformer",
+   "date": "2019-01-30"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "4ac62731b802c727f916e8deefda1a992991505d",
+   "title": "Are All Layers Created Equal?",
+   "date": "2019-02-06"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7272,
+  0.6238,
+  0.6068,
+  0.5751,
+  0.5545,
+  0.5539,
+  0.5536,
+  0.5493,
+  0.546,
+  0.5406,
+  0.53,
+  0.5252,
+  0.5164,
+  0.5104,
+  0.5049,
+  0.4999,
+  0.4971,
+  0.495,
+  0.4942
+ ]
+}

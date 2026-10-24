@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_c95d6086aa2f4c9862649846f62679b063890b78",
+   "title": "Non-Euclidean Gradient Descent Operates at the Edge of Stability",
+   "date": "2026-03-05",
+   "is_B": true
+  },
+  {
+   "id": "fab3903a8e998b310ee41c430e7666a710cba1d2",
+   "title": "Understanding Gradient Descent on Edge of Stability in Deep Learning",
+   "date": "2022-05-19"
+  },
+  {
+   "id": "31a310772a0ce58692f0dcce9a0a972262bf95f3",
+   "title": "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory",
+   "date": "2023-07-09"
+  },
+  {
+   "id": "f21a88af78583bd7959b121b800eed5c1f7b7b99",
+   "title": "Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability",
+   "date": "2022-09-30"
+  },
+  {
+   "id": "75f7c145cfe499b900196aab1595b61614bde36a",
+   "title": "Sharpness-Aware Minimization and the Edge of Stability",
+   "date": "2023-09-21"
+  },
+  {
+   "id": "fdae482c9ca316ac51b1c35f49d1467d1076fb08",
+   "title": "Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD",
+   "date": "2024-12-29"
+  },
+  {
+   "id": "4c8ca28c83cce512e22b78221721d7242d2c1f19",
+   "title": "Directional Smoothness and Gradient Methods: Convergence and Adaptivity",
+   "date": "2024-03-06"
+  },
+  {
+   "id": "1480446723a1aefc26ebb0e6f105c35ab52ddb42",
+   "title": "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability",
+   "date": "2021-02-26"
+  },
+  {
+   "id": "84f6ab620eb7b112e5b2ca64b305970894e679c1",
+   "title": "Adaptive Gradient Methods at the Edge of Stability",
+   "date": "2022-07-29"
+  },
+  {
+   "id": "e658741baefd2c4da4742bb43155f69d4cbd79fa",
+   "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+   "date": "2019-05-28"
+  },
+  {
+   "id": "f739de44605f35481066fdff0f9be89d8a5728d6",
+   "title": "Phase diagram of early training dynamics in deep neural networks: effect of the learning rate, depth, and width",
+   "date": "2023-02-23"
+  },
+  {
+   "id": "bf49d3b9772d59e9d0fc4dd43287039247dc6faf",
+   "title": "Old Optimizer, New Norm: An Anthology",
+   "date": "2024-09-30"
+  },
+  {
+   "id": "a2cd073b57be744533152202989228cb4122270a",
+   "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+   "date": "2020-10-03"
+  },
+  {
+   "id": "3af7529999e5f409f445d6f6b1edf09a52e84abe",
+   "title": "Understanding Optimization in Deep Learning with Central Flows",
+   "date": "2024-10-31"
+  },
+  {
+   "id": "911d0b058bb5b7fff527725c9ff94bb4fe44b018",
+   "title": "Decentralized Weakly Convex Optimization Over the Stiefel Manifold",
+   "date": "2023-03-31"
+  },
+  {
+   "id": "fb7cfcad33455072f2b680420ece57d9b427d630",
+   "title": "Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning",
+   "date": "2023-06-07"
+  },
+  {
+   "id": "97884ff15e0a4e83f534b7b13979e519d1c50a54",
+   "title": "signSGD: compressed optimisation for non-convex problems",
+   "date": "2018-02-13"
+  },
+  {
+   "id": "e906124d5d70a7b7989812e62c7e4b3891e907bf",
+   "title": "Exploring the loss landscape of regularized neural networks via convex duality",
+   "date": "2024-11-12"
+  },
+  {
+   "id": "6baca6351dc55baac44f0416e74a7e0ba2bfd03e",
+   "title": "Visualizing the Loss Landscape of Neural Nets",
+   "date": "2017-12-28"
+  },
+  {
+   "id": "b17148e36af704f0a3854f355133ffe341d16c8c",
+   "title": "Why Gradients Rapidly Increase Near the End of Training",
+   "date": "2025-06-02"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.8415,
+  0.7849,
+  0.7769,
+  0.7508,
+  0.7146,
+  0.6914,
+  0.6633,
+  0.6328,
+  0.5898,
+  0.5824,
+  0.5642,
+  0.5536,
+  0.5508,
+  0.5411,
+  0.5342,
+  0.5327,
+  0.4596,
+  0.4579,
+  0.4545
+ ]
+}

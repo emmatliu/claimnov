@@ -1,0 +1,457 @@
+[
+ {
+  "id": "c6136d80ab2c999818bf1e105dc1712cca7ccac6",
+  "title": "VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation",
+  "date": "2025-05-14"
+ },
+ {
+  "id": "f763eb3d9e9a4c8010c6ac4f9b684fed96fd638b",
+  "title": "Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions",
+  "date": "2025-05-04"
+ },
+ {
+  "id": "1e2a82ef5e0325a26ca0344c4f8c256c52fae7ec",
+  "title": "\u03c00.5: a Vision-Language-Action Model with Open-World Generalization",
+  "date": "2025-04-22"
+ },
+ {
+  "id": "a7b7461f3f3c225f68cd380806d81f15aef2ad55",
+  "title": "Towards Forceful Robotic Foundation Models: a Literature Survey",
+  "date": "2025-04-16"
+ },
+ {
+  "id": "2d7f3a99e916fc80ff890d109699f9682253e66d",
+  "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+  "date": "2025-03-27"
+ },
+ {
+  "id": "731c50b0d6af4c1cb8d95f506541681ea487973b",
+  "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "96f9a89c1dbb0713cbfa6a8304cd5142dbdb369c",
+  "title": "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "1e934631aeb726b5cd2a68d02a88f98c9e60ce71",
+  "title": "IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "165dc7444c6bc95673dc13244704baa47789ddf7",
+  "title": "TLA: Tactile-Language-Action Model for Contact-Rich Manipulation",
+  "date": "2025-03-11"
+ },
+ {
+  "id": "3a3e31bffc23ab7a589842c4412a3e814ac9ddd8",
+  "title": "MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models",
+  "date": "2025-03-11"
+ },
+ {
+  "id": "be917481a8788194b3180bbe4117cb12ac17a70a",
+  "title": "PointVLA: Injecting the 3D World into Vision-Language-Action Models",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "5088b84507462bf725bb4898623d1dead4c6a206",
+  "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+  "date": "2025-02-27"
+ },
+ {
+  "id": "5976a31d1b0f3edb4032803168e33cb7fdacb5a4",
+  "title": "ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "f6075ce4db8dcc359c3ac97b85f2644dc5cadda6",
+  "title": "VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "442b8903a2e8808ec9956c0b17dc9d974d8156c4",
+  "title": "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control",
+  "date": "2025-02-09"
+ },
+ {
+  "id": "3880f5bad862ba1b18f4f8ec060038b326b118ed",
+  "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+  "date": "2025-01-16"
+ },
+ {
+  "id": "3267c7120cb67167d0fd3d65faac0ac6e5a24abd",
+  "title": "Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding",
+  "date": "2025-01-08"
+ },
+ {
+  "id": "62466ddd38e285bbfbafe4a2bedd00e6aba5db48",
+  "title": "Should We Learn Contact-Rich Manipulation Policies From Sampling-Based Planners?",
+  "date": "2024-12-12"
+ },
+ {
+  "id": "3fbf40b6d2125b0593f34d8e5e597abc00c976eb",
+  "title": "Prediction with Action: Visual Policy Learning via Joint Denoising Process",
+  "date": "2024-11-27"
+ },
+ {
+  "id": "ae70cde8fe02596ce0f96aa6da7cfad30d167542",
+  "title": "FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation",
+  "date": "2024-11-24"
+ },
+ {
+  "id": "7e7e59d2e247d99954081080ddd5aae93d10b9e0",
+  "title": "\u03c00: A Vision-Language-Action Flow Model for General Robot Control",
+  "date": "2024-10-31"
+ },
+ {
+  "id": "316ab88455bf41e4ea22fe4e19c22f911c51da5e",
+  "title": "Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control",
+  "date": "2024-10-12"
+ },
+ {
+  "id": "da68bae1e961959271e7b0d4c8b8fbd88e4e1346",
+  "title": "ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "22e51729cb40d843ccbc687d4a2c0d1c996bad1e",
+  "title": "Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "bca17da640fd74d55e01c983ce1e3737490f57c1",
+  "title": "TacDiffusion: Force-Domain Diffusion Policy for Precise Tactile Manipulation",
+  "date": "2024-09-17"
+ },
+ {
+  "id": "380694db7a04f9a199b1f0a25ece648e814bebe6",
+  "title": "Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning",
+  "date": "2024-08-16"
+ },
+ {
+  "id": "6f313650f64a908c05c170d95db4af7452d05126",
+  "title": "FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation Under Uncertainty",
+  "date": "2024-08-08"
+ },
+ {
+  "id": "440d7944dc701dbe4030d3fbad49036700fba788",
+  "title": "PaliGemma: A versatile 3B VLM for transfer",
+  "date": "2024-07-10"
+ },
+ {
+  "id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+  "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+  "date": "2024-06-13"
+ },
+ {
+  "id": "1d2753d74025e7a71594506623be81f18b073adb",
+  "title": "Octo: An Open-Source Generalist Robot Policy",
+  "date": "2024-05-20"
+ },
+ {
+  "id": "ee5070fe52fd17da9a89d3f342fb07cc9ae51afe",
+  "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+  "date": "2024-03-19"
+ },
+ {
+  "id": "989e87247e5ae3a890dae2eeffff29d9ff08b5c5",
+  "title": "Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects",
+  "date": "2024-03-04"
+ },
+ {
+  "id": "4c20b3151f57e339765bad5982f819286e045ddc",
+  "title": "Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning",
+  "date": "2023-10-16"
+ },
+ {
+  "id": "6a375be82efc01ec4ed73334655935a56ba82d38",
+  "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+  "date": "2023-08-24"
+ },
+ {
+  "id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+  "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+  "date": "2023-07-28"
+ },
+ {
+  "id": "c8ef5b72b608a9e51b506aed28fb41fce7e13a86",
+  "title": "RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot",
+  "date": "2023-07-02"
+ },
+ {
+  "id": "6320003eb32b89d6817427479d5b594aa0c2f23f",
+  "title": "IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality",
+  "date": "2023-05-26"
+ },
+ {
+  "id": "35aba190f28b5c39df333c06ca21f46bd4845eba",
+  "title": "Sigmoid Loss for Language Image Pre-Training",
+  "date": "2023-03-27"
+ },
+ {
+  "id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+  "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+  "date": "2023-03-07"
+ },
+ {
+  "id": "fd1cf28a2b8caf2fe29af5e7fa9191cecfedf84d",
+  "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+  "date": "2022-12-13"
+ },
+ {
+  "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+  "title": "Flow Matching for Generative Modeling",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "25425e299101b13ec2872417a14f961f4f8aa18e",
+  "title": "VIMA: General Robot Manipulation with Multimodal Prompts",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "d13f262e72c805c52e4c5767b5caa69e24d8bef7",
+  "title": "Rectified Flow: A Marginal Preserving Approach to Optimal Transport",
+  "date": "2022-09-29"
+ },
+ {
+  "id": "499d3bb3acbc10730dd6582bd9b8f646bf22ccd5",
+  "title": "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts",
+  "date": "2022-06-06"
+ },
+ {
+  "id": "366ca45102a6111dbb256a908aa3f2bdb6a707dc",
+  "title": "Factory: Fast Contact for Robotic Assembly",
+  "date": "2022-05-07"
+ },
+ {
+  "id": "1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3",
+  "title": "ST-MoE: Designing Stable and Transferable Sparse Expert Models",
+  "date": "2022-02-17"
+ },
+ {
+  "id": "80d0116d77beeded0c23cf48946d9d10d4faee14",
+  "title": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+  "date": "2021-12-13"
+ },
+ {
+  "id": "8690d62d4bbbd0b1ed5e1f25320d10853bfbeb01",
+  "title": "Scaling Vision with Sparse Mixture of Experts",
+  "date": "2021-06-10"
+ },
+ {
+  "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "date": "2021-02-26"
+ },
+ {
+  "id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+  "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+  "date": "2021-01-11"
+ },
+ {
+  "id": "1882f194cb43828852cc052887671e55a80f945a",
+  "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+  "date": "2020-06-30"
+ },
+ {
+  "id": "af8a8dcb74561d52d904f7bc4afcc747e079b702",
+  "title": "Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts",
+  "date": "2018-07-19"
+ },
+ {
+  "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+  "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+  "date": "2017-01-23"
+ },
+ {
+  "id": "732a3ae42c1dcef023584de4c3e0e590bb71eed7",
+  "title": "Multimodal interactions between proprioceptive and cutaneous signals in primary somatosensory cortex",
+  "date": "2015-04-09"
+ },
+ {
+  "id": "5bead092032bf66f4c6454283480a789c5018bb2",
+  "title": "FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "61e4f567f308f74493ad77ddb51e6607b1cceec6",
+  "title": "Demystifying Action Space Design for Robotic Manipulation Policies",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "9b87a178826d1eb8b6af4b8e4f66d72352211975",
+  "title": "Force Policy: Learning Hybrid Force-Position Control Policy under Interaction Frame for Contact-Rich Manipulation",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "b8836cfe857a7073543b1e0cad4e9dba9e3b4dc4",
+  "title": "Behavioral Cloning for Robotic Connector Assembly: An Empirical Study",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "dba9f6fd7e3e7daef7f209a11346cd79f47cd93c",
+  "title": "Towards Dexterous Embodied Manipulation via Deep Multi-Sensory Fusion and Sparse Expert Scaling",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "606eb2e234f0da611190023def699e41ffd7a9fe",
+  "title": "TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like Touch and Hardness Estimation",
+  "date": "2026-02-21"
+ },
+ {
+  "id": "ef8997feb9758a7f1bea4eeac1f1a6c27f5a39b6",
+  "title": "Selective Perception for Robot: Task-Aware Attention in Multimodal VLA",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "b9518fef459865a37a09ace2ae95939dfffd9635",
+  "title": "Direction Matters: Learning Force Direction Enables Sim-to-Real Contact-Rich Manipulation",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "e564ff6204395843ec138cf09b888d81f907f71b",
+  "title": "CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "6f9eaea68e77a64b24467ae693bc29ca715237d7",
+  "title": "CAPER: Constrained and Procedural Reasoning for Robotic Scientific Experiments",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "2bd5af06756113229e2c1c4205f75c6a9ec4c03e",
+  "title": "Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "967362091b1a8d274fb17a808f65ba79f482a648",
+  "title": "DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "84496e9c36fa5b863f5702abb1dbc5560ee7db5b",
+  "title": "FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "7003aa430f3acc2bcf37c3360927e4a53b7c5460",
+  "title": "UniForce: A Unified Latent Force Model for Robot Manipulation with Diverse Tactile Sensors",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "6e34a629eb407c847767c0b8862f7955e9a0de36",
+  "title": "TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "f6ce05bcbb19b1ab80323e827a4011557af3273a",
+  "title": "Utilizing Knowledge in Vision-Language Model for Robotic Grasp Force Estimation through Robot-to-Human Image Translation",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "677d3b4141394bd49bd82b4990ce8e93f76b7881",
+  "title": "CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method",
+  "date": "2026-01-10"
+ },
+ {
+  "id": "3ea794eeaf0c4493a08e1a87b44d253f6d7f74f8",
+  "title": "Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "0cb8f3303b6fc62eddfe785b1d05202faf730096",
+  "title": "Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "241d6767eb483038411a1220c3451b54b906a6d3",
+  "title": "An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "a41379d49cc3f06a6e6c12b72896b42671aa3ffc",
+  "title": "ImplicitRDP: An End-to-End Visual-Force Diffusion Policy With Structural Slow-Fast Learning",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "7ef86a450d46e1095eff9e0a587350ca1c868369",
+  "title": "Data-driven Interpretable Hybrid Robot Dynamics",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "8a235f1d121842a67b3ec6dd3bf29b72c0a3bd44",
+  "title": "WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving",
+  "date": "2025-12-06"
+ },
+ {
+  "id": "5698029ec5ae6e0142fcfe6cbdff5801c3520cf0",
+  "title": "VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "60a480a99b06802b6fe67ab6e3e47e28bd5ce2c7",
+  "title": "When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "a96dc7c1778b7e33a7e1bd15d2084e5789cfb888",
+  "title": "Embodied intelligence for robot manipulation: development and challenges",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "37febcf181c9ddaa7c7d2a9920d0919e7c7536b4",
+  "title": "Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "58b30fe15c8fe3603f3f032ed28de6df606aabe8",
+  "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "925d79a0c31a8b7966fac5e6b64904089aabe918",
+  "title": "dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "cf3e01ec29ce6d6ec3446646327bd6b54fea9d6f",
+  "title": "Pure Vision Language Action (VLA) Models: A Comprehensive Survey",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "4f157904d3f624c018d09dec7d9e95278a2e6f9e",
+  "title": "Survey of Vision-Language-Action Models for Embodied Manipulation",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "dce821cddbf6a3eb435de04d9353681925aaaecf",
+  "title": "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "be29b8074119c7e91fb5cf195a064d636b84255c",
+  "title": "Human centric general physical intelligence for agile manufacturing automation",
+  "date": "2025-08-16"
+ },
+ {
+  "id": "976dc1ec90805575ce224ffb5096a0ac97da42af",
+  "title": "OmniVTLA: Vision-Tactile-Language-Action Models With Semantic-Aligned Tactile Sensing",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "875f5170753b1786820200c0f6170e54ac23e816",
+  "title": "ArtGS: 3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "d341989bb259c35dc723c386ab45636a78613046",
+  "title": "Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends",
+  "date": "2025-06-26"
+ },
+ {
+  "id": "36c59124769b8957ee1532263e9944ad721eb8b5",
+  "title": "SharedAssembly: A Data Collection Approach via Shared Tele-Assembly",
+  "date": "2025-03-15"
+ }
+]

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_39b7007e6f3dd0744833f292f07ed77973503bfd",
+   "title": "Data-Efficient Hierarchical Reinforcement Learning",
+   "is_B": true
+  },
+  {
+   "id": "d37620e6f8fe678a43e12930743281cd8cca6a66",
+   "title": "Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation",
+   "date": "2016-04-20"
+  },
+  {
+   "id": "3deecaee4ec1a37de3cb10420eaabff067669e17",
+   "title": "Stochastic Neural Networks for Hierarchical Reinforcement Learning",
+   "date": "2016-11-05"
+  },
+  {
+   "id": "4d2c4cbb535801549371d9783a98d1e43bddf4e5",
+   "title": "Meta Learning Shared Hierarchies",
+   "date": "2017-10-26"
+  },
+  {
+   "id": "471f9742b4e32d8ee68f9ee493768ff0466a231d",
+   "title": "Automatic Goal Generation for Reinforcement Learning Agents",
+   "date": "2017-05-17"
+  },
+  {
+   "id": "4c96ca25d889251e20e33d01f24eec175301ab94",
+   "title": "Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition",
+   "date": "1999-05-21"
+  },
+  {
+   "id": "1bead9000a719cb258bac7320228055aee650d2c",
+   "title": "Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards",
+   "date": "2017-07-27"
+  },
+  {
+   "id": "e37b999f0c96d7136db07b0185b837d5decd599a",
+   "title": "Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates",
+   "date": "2016-10-03"
+  },
+  {
+   "id": "50e9a441f56124b7b969e6537b66469a0e1aa707",
+   "title": "Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction",
+   "date": "2011-05-02"
+  },
+  {
+   "id": "ef06f7016db8bcd5c5a53442a4aba1d1911a26dd",
+   "title": "Hierarchical Actor-Critic",
+   "date": "2017-12-04"
+  },
+  {
+   "id": "a762ae907b7dd71a59bd8bd98aba69dfe2de13a2",
+   "title": "Emergence of Locomotion Behaviours in Rich Environments",
+   "date": "2017-07-07"
+  },
+  {
+   "id": "049c6e5736313374c6e594c34b9be89a3a09dced",
+   "title": "FeUdal Networks for Hierarchical Reinforcement Learning",
+   "date": "2017-03-03"
+  },
+  {
+   "id": "429ed4c9845d0abd1f8204e1d7705919559bc2a2",
+   "title": "Hindsight Experience Replay",
+   "date": "2017-07-05"
+  },
+  {
+   "id": "1464776f20e2bccb6182f183b5ff2e15b0ae5e56",
+   "title": "Benchmarking Deep Reinforcement Learning for Continuous Control",
+   "date": "2016-04-22"
+  },
+  {
+   "id": "3c3861c607fb79f3fbf79552018724617fc8ba1b",
+   "title": "A Deep Hierarchical Approach to Lifelong Learning in Minecraft",
+   "date": "2016-04-25"
+  },
+  {
+   "id": "ce1c28ca2f52a42c6e60d792cd71ba894abc47d5",
+   "title": "Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research",
+   "date": "2018-02-26"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "e2bd18c1039f27675bd64014117db648d969452e",
+   "title": "Learning and Transfer of Modulated Locomotor Controllers",
+   "date": "2016-10-17"
+  },
+  {
+   "id": "cadb96f49f3c13c86dfe285b5c75c655391ad1c3",
+   "title": "Towards Generalization and Simplicity in Continuous Control",
+   "date": "2017-03-08"
+  },
+  {
+   "id": "15b26d8cb35d7e795c8832fe08794224ee1e9f84",
+   "title": "The Option-Critic Architecture",
+   "date": "2016-09-16"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.7265,
+  0.7176,
+  0.7017,
+  0.6135,
+  0.6097,
+  0.608,
+  0.606,
+  0.6055,
+  0.6021,
+  0.5985,
+  0.5973,
+  0.5927,
+  0.591,
+  0.5754,
+  0.5729,
+  0.5728,
+  0.5654,
+  0.5648,
+  0.5456
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_617f26ac495c4fb1fc97a4b5854901e71b4c3c2a",
+   "title": "RetroGraph: Retrosynthetic Planning with Graph Search",
+   "is_B": true
+  },
+  {
+   "id": "e76cc6e3b40d6e4e6e06ee4c2f3ff20e7daac410",
+   "title": "Retrosynthetic planning with experience-guided Monte Carlo tree search",
+   "date": "2021-12-11"
+  },
+  {
+   "id": "8b281b474c45683b7b8cb63b3f186382c5d69ef2",
+   "title": "Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search",
+   "date": "2020-06-29"
+  },
+  {
+   "id": "b1588b964e28d3e5982314cbc9113595b6af8baa",
+   "title": "Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention",
+   "date": "2021-08-05"
+  },
+  {
+   "id": "354ec9f2a18e3871e9df87b25de27bb4d243a6ba",
+   "title": "Towards \"AlphaChem\": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies",
+   "date": "2017-01-31"
+  },
+  {
+   "id": "56c86372ed22e2cc51a45823bdb98f36b97dee8e",
+   "title": "Self-Improved Retrosynthetic Planning",
+   "date": "2021-06-09"
+  },
+  {
+   "id": "b149fb1eeb4a4409ef54b488a1810b711fffff9c",
+   "title": "ConfRetro: a 3D-aware template-free method for enhancing retrosynthesis via molecular conformer information",
+   "date": "2025-01-21"
+  },
+  {
+   "id": "f5ef0247f9bf19e1774da660b58bb4ac18108fa4",
+   "title": "RetroXpert: Decompose Retrosynthesis Prediction like a Chemist",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "ef8ab2a0be51a0cd04c2c0f01adfae956a2a84af",
+   "title": "Planning chemical syntheses with deep neural networks and symbolic AI",
+   "date": "2017-08-14"
+  },
+  {
+   "id": "59faa10774018ff79aa5ef3f89d254e88aabcc2b",
+   "title": "Retrosynthesis Prediction with Conditional Graph Logic Network",
+   "date": "2020-01-06"
+  },
+  {
+   "id": "6a24e81bdef65c47f18ccd4a562722b283643cec",
+   "title": "Towards efficient discovery of green synthetic pathways with Monte Carlo tree search and reinforcement learning",
+   "date": "2020-09-14"
+  },
+  {
+   "id": "d9a0e95fad52abff2d4d12e39e6653741d87774c",
+   "title": "Deep learning in retrosynthesis planning: datasets, models and tools",
+   "date": "2021-09-24"
+  },
+  {
+   "id": "48fb992662bcbdd0e09e93ffe80362af1926a858",
+   "title": "A Graph to Graphs Framework for Retrosynthesis Prediction",
+   "date": "2020-03-28"
+  },
+  {
+   "id": "cee4f7820ea70eb8418effb59be33efc58330723",
+   "title": "Learning Retrosynthetic Planning through Simulated Experience",
+   "date": "2019-05-31"
+  },
+  {
+   "id": "fb9b736ecad8607ee0240e83ad225c4ac90d638c",
+   "title": "GNN-Retro: Retrosynthetic Planning with Graph Neural Networks",
+   "date": "2022-06-28"
+  },
+  {
+   "id": "44f546bca37a2d382fcc2452ad691594cf484c3c",
+   "title": "Intelligent generation of optimal synthetic pathways based on knowledge graph inference and retrosynthetic predictions using reaction big data",
+   "date": "2021-08-01"
+  },
+  {
+   "id": "3996923f8998b44e69cd7be7c81d34c24d81c379",
+   "title": "RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades",
+   "date": "2021-01-04"
+  },
+  {
+   "id": "8426822834c54effe8a85e5944abcd8a34c88d2f",
+   "title": "RDChiral: An RDKit Wrapper for Handling Stereochemistry in Retrosynthetic Template Extraction and Application",
+   "date": "2019-04-05"
+  },
+  {
+   "id": "4082934b6d354ee1311e44a946fe80936bf13687",
+   "title": "ChemHGNN: A Hierarchical Hypergraph Neural Network for Reaction Virtual Screening and Discovery",
+   "date": "2025-05-21"
+  },
+  {
+   "id": "09504c86ec9ad9e3c0651f86ada1c61d1b5ccfbf",
+   "title": "READ: A Retrieval-Alignment Diffusion Framework for Structure-based Drug Design.",
+   "date": "2025-06-17"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.7328,
+  0.7261,
+  0.7191,
+  0.7172,
+  0.7026,
+  0.7025,
+  0.6994,
+  0.6931,
+  0.6613,
+  0.6583,
+  0.6577,
+  0.6493,
+  0.6465,
+  0.6409,
+  0.6208,
+  0.5872,
+  0.5204,
+  0.514,
+  0.4562
+ ]
+}

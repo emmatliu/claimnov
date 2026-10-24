@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_258e92bd6ceaeb78e7384eeea57b4c7a2c356cfa",
+   "title": "Soft Contextual Data Augmentation for Neural Machine Translation",
+   "is_B": true
+  },
+  {
+   "id": "78a5efc6d0ef9a1e4cfd375e189474305d0b099f",
+   "title": "Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "188024469a2443f262b3cbb5c5d4a96851949d68",
+   "title": "Conditional BERT Contextual Augmentation",
+   "date": "2018-12-17"
+  },
+  {
+   "id": "0ee468b9b709a2610c4b574d67218e7960350224",
+   "title": "SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "80a624b9327d9050244dfebac96f7f6cf806880f",
+   "title": "Deep Unordered Composition Rivals Syntactic Methods for Text Classification",
+   "date": "2015-07-01"
+  },
+  {
+   "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+   "title": "Sequence to Sequence Learning with Neural Networks",
+   "date": "2014-09-10"
+  },
+  {
+   "id": "f2e15f3f2c3d4f7e8cf8445435e40d65d828ffd5",
+   "title": "Data Augmentation for Low-Resource Neural Machine Translation",
+   "date": "2017-05-01"
+  },
+  {
+   "id": "43428880d75b3a14257c3ee9bda054e61eb869c0",
+   "title": "Convolutional Sequence to Sequence Learning",
+   "date": "2017-05-08"
+  },
+  {
+   "id": "f723eb3e7159f07b97464c8d947d15e78612abe4",
+   "title": "AutoAugment: Learning Augmentation Policies from Data",
+   "date": "2018-05-24"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "e3d772986d176057aca2f5e3eb783da53b559134",
+   "title": "Unsupervised Machine Translation Using Monolingual Corpora Only",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "593338fbbb79065891beaf985a95860bd39f52bf",
+   "title": "Semi-Supervised Learning for Neural Machine Translation",
+   "date": "2016-06-15"
+  },
+  {
+   "id": "c2a7afbb5609a723f8eea91bfde4b02579b048d6",
+   "title": "Unsupervised Neural Machine Translation",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "2d5069a99bfa0b47c095bbb5cefd6dba974f72a7",
+   "title": "Data Noising as Smoothing in Neural Network Language Models",
+   "date": "2017-03-01"
+  },
+  {
+   "id": "0669f0a031cfaada55841e5962eb6796d4e94971",
+   "title": "Iterative Back-Translation for Neural Machine Translation",
+   "date": "2018-07-01"
+  },
+  {
+   "id": "23b559b5ab27f2fca6f56c0a7b6478bcf69db509",
+   "title": "Dual Learning for Machine Translation",
+   "date": "2016-11-01"
+  },
+  {
+   "id": "f3b96ef2dc1fc5e14982f1b963db8db6a54183bb",
+   "title": "Improving Neural Machine Translation Models with Monolingual Data",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "1518039b5001f1836565215eb047526b3ac7f462",
+   "title": "Neural Machine Translation of Rare Words with Subword Units",
+   "date": "2015-08-31"
+  },
+  {
+   "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+   "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+   "date": "2014-09-01"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  }
+ ],
+ "n_candidates": 20,
+ "sims": [
+  0.5026,
+  0.4994,
+  0.4935,
+  0.4851,
+  0.4846,
+  0.4831,
+  0.452,
+  0.4483,
+  0.4394,
+  0.411,
+  0.4045,
+  0.4025,
+  0.3912,
+  0.3781,
+  0.3673,
+  0.3411,
+  0.3328,
+  0.3322,
+  0.3318
+ ]
+}

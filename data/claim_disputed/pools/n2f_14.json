@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2010.14274",
+   "title": "Behavior Priors for Efficient Reinforcement Learning",
+   "is_B": true
+  },
+  {
+   "id": "549c9dfb32e85d9ef5a48566767be42ad132a3c4",
+   "title": "Information asymmetry in KL-regularized RL",
+   "date": "2019-05-03"
+  },
+  {
+   "id": "f650f1fd44ab0778d30577f8c2077b2ff58830da",
+   "title": "Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement",
+   "date": "2018-07-03"
+  },
+  {
+   "id": "3deecaee4ec1a37de3cb10420eaabff067669e17",
+   "title": "Stochastic Neural Networks for Hierarchical Reinforcement Learning",
+   "date": "2016-11-05"
+  },
+  {
+   "id": "70f4a0478f2979005b3628491c8b95335834cb64",
+   "title": "Learning to Share and Hide Intentions using Information Regularization",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "cf90552b5d2e992e93ab838fd615e1c36618e31c",
+   "title": "Distral: Robust multitask reinforcement learning",
+   "date": "2017-07-13"
+  },
+  {
+   "id": "35257ba97d193f23f15e71a633a34e94dd3f5777",
+   "title": "Why Does Hierarchy (Sometimes) Work So Well in Reinforcement Learning?",
+   "date": "2019-09-23"
+  },
+  {
+   "id": "4d2c4cbb535801549371d9783a98d1e43bddf4e5",
+   "title": "Meta Learning Shared Hierarchies",
+   "date": "2017-10-26"
+  },
+  {
+   "id": "39b7007e6f3dd0744833f292f07ed77973503bfd",
+   "title": "Data-Efficient Hierarchical Reinforcement Learning",
+   "date": "2018-05-21"
+  },
+  {
+   "id": "5b01eaef54a653ba03ddd5a978690380fbc19bfc",
+   "title": "Diversity is All You Need: Learning Skills without a Reward Function",
+   "date": "2018-02-16"
+  },
+  {
+   "id": "9a3c9a0ac460c7891d03d56146f2d566c7e0fb08",
+   "title": "Meta reinforcement learning as task inference",
+   "date": "2019-05-15"
+  },
+  {
+   "id": "bf7f1ada5feecc0992f71b39c1ebeccb19ae631b",
+   "title": "InfoBot: Transfer and Exploration via the Information Bottleneck",
+   "date": "2019-01-30"
+  },
+  {
+   "id": "ccf8dd6f5602d0c2be46eab1bd0d04424aa060ef",
+   "title": "Latent Space Policies for Hierarchical Reinforcement Learning",
+   "date": "2018-04-09"
+  },
+  {
+   "id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+   "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "4625628163a2ee0e6cd320cd7a14b4ccded2a631",
+   "title": "Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "cab81775baae7ba2d056ebbc60437f2e03358ca3",
+   "title": "Learning by Playing - Solving Sparse Reward Tasks from Scratch",
+   "date": "2018-02-28"
+  },
+  {
+   "id": "a762ae907b7dd71a59bd8bd98aba69dfe2de13a2",
+   "title": "Emergence of Locomotion Behaviours in Rich Environments",
+   "date": "2017-07-07"
+  },
+  {
+   "id": "57daffd65a5d73a439903f3e50950c21c9eba687",
+   "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+   "date": "2019-06-30"
+  },
+  {
+   "id": "282a380fb5ac26d99667224cef8c630f6882704f",
+   "title": "Learning to reinforcement learn",
+   "date": "2016-11-17"
+  },
+  {
+   "id": "ad14227e4f51276892ffc37aa43fd8750bb5eba8",
+   "title": "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning",
+   "date": "2019-10-01"
+  }
+ ],
+ "n_candidates": 71,
+ "sims": [
+  0.6446,
+  0.6146,
+  0.5957,
+  0.5907,
+  0.5854,
+  0.5597,
+  0.5596,
+  0.5573,
+  0.5564,
+  0.5497,
+  0.5473,
+  0.5452,
+  0.5409,
+  0.5333,
+  0.5309,
+  0.5277,
+  0.5179,
+  0.5141,
+  0.5126
+ ]
+}

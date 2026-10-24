@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_f084bcbe162f16b1e2c83e1dfa9ff02c4fc7f7c0",
+   "title": "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism",
+   "is_B": true
+  },
+  {
+   "id": "178f63adba4fa7c4b4e0708986f4c9530983f1bf",
+   "title": "On the Convergence and generalization of Physics Informed Neural Networks",
+   "date": "2020-04-03"
+  },
+  {
+   "id": "00234c79f312e211995d37765dff613222281c92",
+   "title": "Solving Allen-Cahn and Cahn-Hilliard Equations using the Adaptive Physics Informed Neural Networks",
+   "date": "2020-07-09"
+  },
+  {
+   "id": "d86084808994ac54ef4840ae65295f3c0ec4decd",
+   "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+   "date": "2019-02-01"
+  },
+  {
+   "id": "e02f91d625cd32290d4ede0f31284da115844316",
+   "title": "DeepXDE: A Deep Learning Library for Solving Differential Equations",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "1243a54adbaadc28e972789e3484baf805f5c6fd",
+   "title": "Solving high-dimensional partial differential equations using deep learning",
+   "date": "2017-07-09"
+  },
+  {
+   "id": "9667d9889b79db0cd0cadf9d7ba560bceb924b48",
+   "title": "Understanding and mitigating gradient pathologies in physics-informed neural networks",
+   "date": "2020-01-13"
+  },
+  {
+   "id": "52b975170b33e19855b2970b2e978fa3ea786465",
+   "title": "When and why PINNs fail to train: A neural tangent kernel perspective",
+   "date": "2020-07-28"
+  },
+  {
+   "id": "48a03e6e6df83130352a3514fe58b925c94664b2",
+   "title": "Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations",
+   "date": "2018-04-19"
+  },
+  {
+   "id": "ac079a305a0d0159cdf528146ca56003dc75f0ce",
+   "title": "PINN-MG: a multigrid-inspired hybrid framework combining the iterative method and physics-informed neural networks",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "87b817f74580917f52eb994ed7589f6507c6db01",
+   "title": "A Dual-Dimer Method for Training Physics-Constrained Neural Networks with Minimax Architecture",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "99c970348b8f70ce23d6641e201904ea49266b6e",
+   "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "449310e3538b08b43227d660227dfd2875c3c3c1",
+   "title": "Neural Ordinary Differential Equations",
+   "date": "2018-06-19"
+  },
+  {
+   "id": "f41a32130b4d9db7e57fbca691184b894ec36ccb",
+   "title": "TensorDiffEq: Scalable Multi-GPU Forward and Inverse Solvers for Physics Informed Neural Networks",
+   "date": "2021-03-30"
+  },
+  {
+   "id": "696b388ee6221c6dbcfd647a06883b2bfee773d9",
+   "title": "Universal Differential Equations for Scientific Machine Learning",
+   "date": "2020-01-13"
+  },
+  {
+   "id": "2244ee58593a41f98cf9bb65ff0e80efa27d50bf",
+   "title": "Solving time dependent Fokker-Planck equations via temporal normalizing flow",
+   "date": "2021-12-28"
+  },
+  {
+   "id": "7a84a692327534fd227fa1e07fcb3816b633c591",
+   "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+   "date": "2018-06-20"
+  },
+  {
+   "id": "368e8e0a46c73511f31aadb721bf3f189c3e6c34",
+   "title": "Adaptive deep density approximation for Fokker-Planck equations",
+   "date": "2021-03-20"
+  },
+  {
+   "id": "643da4c4de1954daeac571a82367241db012a8bf",
+   "title": "Automatic differentiation in machine learning: a survey",
+   "date": "2015-02-20"
+  },
+  {
+   "id": "84f6f00c6b82415b73fcce4036530bd71b6dd2b7",
+   "title": "AutoLoss: Learning Discrete Schedules for Alternate Optimization",
+   "date": "2018-09-27"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.7686,
+  0.7087,
+  0.707,
+  0.6952,
+  0.6579,
+  0.6532,
+  0.6529,
+  0.6513,
+  0.642,
+  0.623,
+  0.5784,
+  0.5641,
+  0.5431,
+  0.5272,
+  0.4951,
+  0.4493,
+  0.4423,
+  0.4397,
+  0.4369
+ ]
+}

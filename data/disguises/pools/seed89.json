@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d67ac9c11d71f2e13eb4ba693dd37b71a77a16b6",
+   "title": "SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion",
+   "date": "2026-05-02",
+   "is_B": true
+  },
+  {
+   "id": "d5705c994743f80316cab4414cc0a9ac98cd55d4",
+   "title": "Cross-modal Learning for Image-Guided Point Cloud Shape Completion",
+   "date": "2022-09-20"
+  },
+  {
+   "id": "0684ebd7bc08e37c88d8aab6d5d2d708dfd2ec55",
+   "title": "PointAttN: You Only Need Attention for Point Cloud Completion",
+   "date": "2022-03-16"
+  },
+  {
+   "id": "d18357fa2605ae3c021e4d1ba4712fe3a81f6261",
+   "title": "SplatFormer: Point Transformer for Robust 3D Gaussian Splatting",
+   "date": "2024-11-10"
+  },
+  {
+   "id": "be06d4fcd51ea26c62cc3c5b5d4a03b498792836",
+   "title": "SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator",
+   "date": "2023-07-17"
+  },
+  {
+   "id": "3849f7c699dce0d70c7002e0e82005a0b712df58",
+   "title": "Cascaded Refinement Network for Point Cloud Completion",
+   "date": "2020-04-07"
+  },
+  {
+   "id": "204e98ca63240c58510cabba1980634426ad7116",
+   "title": "AnchorFormer: Point Cloud Completion from Discriminative Nodes",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "477a1de90ba8f22e4f4068ff8d6233afe74db936",
+   "title": "GRNet: Gridding Residual Network for Dense Point Cloud Completion",
+   "date": "2020-06-06"
+  },
+  {
+   "id": "7f1d89d549b5d02a652a48e1b92faa28f074d048",
+   "title": "GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer",
+   "date": "2024-08-13"
+  },
+  {
+   "id": "dbc9e73b75c205d493e0a7242b038e5c6ac04efe",
+   "title": "SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer",
+   "date": "2021-08-10"
+  },
+  {
+   "id": "86fbd42a786f350e2a3dbd854adad81430886f36",
+   "title": "AdaPoinTr: Diverse Point Cloud Completion With Adaptive Geometry-Aware Transformers",
+   "date": "2023-01-11"
+  },
+  {
+   "id": "f83382307aa3e55243da15ea17d7c39720fa1708",
+   "title": "PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths",
+   "date": "2022-02-19"
+  },
+  {
+   "id": "c41a89d744afcdc91cc7b9f05d2abb438ed200c1",
+   "title": "Detail Preserved Point Cloud Completion via Separated Feature Aggregation",
+   "date": "2020-07-05"
+  },
+  {
+   "id": "7207364d053323d4bad33d3258ddf497a2512a5e",
+   "title": "Multi-Modal Point Cloud Completion with Interleaved Attention Enhanced Transformer",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "41edd975efbbc5af28971bc2669d9a1ae6ee8ace",
+   "title": "PCN: Point Completion Network",
+   "date": "2018-08-02"
+  },
+  {
+   "id": "2f9213b3289ccb1bd16c798c6ddcc8b1bbdebabe",
+   "title": "Point-Cloud Completion with Pretrained Text-to-image Diffusion Models",
+   "date": "2023-06-18"
+  },
+  {
+   "id": "9c0d40f01ced7d425cb6145e9f961c6e44a478a8",
+   "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+   "date": "2024-03-26"
+  },
+  {
+   "id": "80da612e1831b8c11539180871843cff6dfaac90",
+   "title": "PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers",
+   "date": "2021-08-19"
+  },
+  {
+   "id": "8e2841f23d5a651ba883f0549ea6a3d2e921d2d2",
+   "title": "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer",
+   "date": "2023-02-28"
+  },
+  {
+   "id": "e143cacc0d81e28877335ffb871fbcd95858d469",
+   "title": "CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers",
+   "date": "2024-01-03"
+  }
+ ],
+ "n_candidates": 44,
+ "sims": [
+  0.6835,
+  0.6606,
+  0.6383,
+  0.6337,
+  0.6216,
+  0.6204,
+  0.6108,
+  0.6079,
+  0.6041,
+  0.6003,
+  0.6002,
+  0.5991,
+  0.5974,
+  0.5942,
+  0.5852,
+  0.5821,
+  0.5805,
+  0.5758,
+  0.5752
+ ]
+}

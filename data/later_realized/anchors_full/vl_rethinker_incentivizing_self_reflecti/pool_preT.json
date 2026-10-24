@@ -1,0 +1,1162 @@
+[
+ {
+  "id": "b3c13dc7d84369678f16a19fd19e829fd80b9253",
+  "title": "Reverse-Engineered Reasoning for Open-Ended Generation",
+  "date": "2025-09-07"
+ },
+ {
+  "id": "98eb8d20b64f3c799b99fd5730113f59899990ca",
+  "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+  "date": "2025-09-03"
+ },
+ {
+  "id": "d981ce332586e6a29f595cbdfa9347cf425e5cd0",
+  "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "de23d38bc2604dcf334dcc46aff217eb6bcd1fe1",
+  "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+  "date": "2025-03-26"
+ },
+ {
+  "id": "16db56b5a57f2e675e5c4f60ca0fbd5764915a5e",
+  "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+  "date": "2025-03-24"
+ },
+ {
+  "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+  "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "0af4359948693c7aa60caf5e13aaab9d32fced92",
+  "title": "R1-VL: Learning to Reason with Multimodal Large Language Models via Step-Wise Group Relative Policy Optimization",
+  "date": "2025-03-17"
+ },
+ {
+  "id": "10f9f4a1284a62bfdda89777c1e62d2cdc6c1b9e",
+  "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "a005bdec2395cccce42fad43a32aebb3d6284171",
+  "title": "Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "e1774446423a18d0731642aa49a5875f6aa425a3",
+  "title": "R1-Onevision: Advancing Generalized Multimodal Reasoning Through Cross-Modal Formalization",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "68e63d7210a9191cd79412af3cca5dd858ab52ca",
+  "title": "LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "942328473407147f609761dc22128a503713df58",
+  "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+  "date": "2025-03-09"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "ef8a8bd193b1a0a5e2c834a7a28869a2ec85bab7",
+  "title": "s1: Simple test-time scaling",
+  "date": "2025-01-31"
+ },
+ {
+  "id": "668075792a7ab40457d92e09da28d35c879271c3",
+  "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "23c3bf6a61ee9a1f03fa0f5e16ab286f7f040487",
+  "title": "Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark",
+  "date": "2025-01-09"
+ },
+ {
+  "id": "f6d9b2dcde4cc646d2b5eb2ad0642cdfa0c0b4bf",
+  "title": "Virgo: A Preliminary Exploration on Reproducing o1-like MLLM",
+  "date": "2025-01-03"
+ },
+ {
+  "id": "dda1b3091d2a5f4bdb61ec0ad4b2a6f2f8b96a5a",
+  "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
+  "date": "2024-12-06"
+ },
+ {
+  "id": "5f49ec9560ca9e03eff32a607f6caabc08f98926",
+  "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+  "date": "2024-12-06"
+ },
+ {
+  "id": "7943ec4a67151a559b25cd34369e661c9a7924c8",
+  "title": "GPT-4o System Card",
+  "date": "2024-10-25"
+ },
+ {
+  "id": "433c7de2be7e892aa0c0831ae42b42947bc80b79",
+  "title": "Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data",
+  "date": "2024-10-24"
+ },
+ {
+  "id": "8798f136a117ac641a8a381b940a286d3e577436",
+  "title": "MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks",
+  "date": "2024-10-14"
+ },
+ {
+  "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "881ebd6d94065e5157f2290009b147b87eaf4ec9",
+  "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
+  "date": "2024-09-04"
+ },
+ {
+  "id": "1a71f7b216b710b936da666027014adb83af8e7a",
+  "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+  "date": "2024-08-06"
+ },
+ {
+  "id": "6d017adda6b2b1ea627dde2f0e85401ebb9fe566",
+  "title": "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?",
+  "date": "2024-03-21"
+ },
+ {
+  "id": "e96c86407b3acf09e5d7729bec201824b717b476",
+  "title": "Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset",
+  "date": "2024-02-22"
+ },
+ {
+  "id": "b50d19c5c298f6562c3b3c6c3822a351bdc89260",
+  "title": "MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
+  "date": "2023-11-27"
+ },
+ {
+  "id": "210b0a3d76e93079cc51b03c4115fde545eea966",
+  "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+  "date": "2023-11-20"
+ },
+ {
+  "id": "8946891e94831adc8cddb0d32311cce2445c96d2",
+  "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+  "date": "2023-10-03"
+ },
+ {
+  "id": "be8db99310602d66bba64bcf41a572c45816fbfc",
+  "title": "Let's Verify Step by Step",
+  "date": "2023-05-31"
+ },
+ {
+  "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+  "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "date": "2023-05-29"
+ },
+ {
+  "id": "8bd6a2a89503be083176f2cc26fabedb79238cbd",
+  "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+  "date": "2023-05-11"
+ },
+ {
+  "id": "ca6a2bc279be5a3349a22bfd6866ed633d18734b",
+  "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+  "date": "2023-04-20"
+ },
+ {
+  "id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+  "title": "Visual Instruction Tuning",
+  "date": "2023-04-17"
+ },
+ {
+  "id": "e65b346d442e9962a4276dc1c1af2956d9d5f1eb",
+  "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+  "date": "2022-12-20"
+ },
+ {
+  "id": "20b919412b474fdaafc9cc57a4b759798fda21cc",
+  "title": "ScienceQA: a novel resource for question answering on scholarly articles",
+  "date": "2022-07-20"
+ },
+ {
+  "id": "29b75fa0afc57baca3d48c12247bd675f383b2aa",
+  "title": "ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning",
+  "date": "2022-06-10"
+ },
+ {
+  "id": "ff0b2681d7b05e16c46dfb71d980cc2f605907cd",
+  "title": "Finetuned Language Models Are Zero-Shot Learners",
+  "date": "2021-09-03"
+ },
+ {
+  "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+  "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+  "date": "2021-03-05"
+ },
+ {
+  "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+  "title": "Proximal Policy Optimization Algorithms",
+  "date": "2017-07-20"
+ },
+ {
+  "id": "e18ec2c9f0b4a817b8cf0435822bbc879d7db698",
+  "title": "A Diagram is Worth a Dozen Images",
+  "date": "2016-03-24"
+ },
+ {
+  "id": "c6170fa90d3b2efede5a2e1660cb23e1c824f2ca",
+  "title": "Prioritized Experience Replay",
+  "date": "2015-11-18"
+ },
+ {
+  "id": "1ae22d76d92ee71dde7d56acb8aac31453a339cc",
+  "title": "HART: High-Resolution Annotation-Free Reasoning Technique through a Closed-loop Framework",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "4cbe1fc0f8fa44e72f8a12b0b756b223524c059e",
+  "title": "RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "802becb8130dce84abab3e1d0cd33eed1a9585be",
+  "title": "Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "ab722ae1a1c820f463aabdb76f5ba147cf1cfc90",
+  "title": "OCR-Agent: Agentic OCR with Capability and Memory Reflection",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "e14ec44b244378020736963dc55c1712e6dc75aa",
+  "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "05f59829bfd0224fa2a5532f076cdd96feb453ea",
+  "title": "Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "ca1d24137b35e9e211dc459fa1777f0f7aeaa348",
+  "title": "Bridging Modality Disconnect in Self-Reflection via Closed-Loop Visually Grounded Verification",
+  "date": "2026-02-21"
+ },
+ {
+  "id": "6820c413081b2e9c543c2fdf6a840b7899db615b",
+  "title": "RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "82c10fb88dc2b1a8ed81efd6ede44381315d953d",
+  "title": "DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "6151e14ffa02cd9d50709ddf9abdb4350dc8bc61",
+  "title": "LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "b4bdcadb3e839bc484b4d700c1c25a246c541759",
+  "title": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "eebed486170b3b6df1795eddd672c6b62d1f3c7c",
+  "title": "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "87dec39d87f8ba3a57379ed0eea6c33b45615361",
+  "title": "ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "a8275c4e9aa2e7b362ec7d0a14bd2e2ed7e28958",
+  "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "26f6877b10cfcb8ebe7941defd08fec72ce177a9",
+  "title": "Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "f99fa8b67691315b03443c5f55c2eaf47ec034f2",
+  "title": "Learning Self-Correction in Vision-Language Models via Rollout Augmentation",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "a5ce4244270feb20453aae1db75a0cb585b387a3",
+  "title": "Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "fd7df68b1d357f5b1fbfd024a2cf2b1daeed8092",
+  "title": "SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "349ca51f1ec88c9345300417491c4563592ac601",
+  "title": "Guided Verifier: Collaborative Multimodal Reasoning via Dynamic Process Supervision",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "c0c8cecd63ffcbcaf186032c455f67fbea36aeeb",
+  "title": "ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "a0de4dd49fecfca09ba3e39773653246ed8c1ea2",
+  "title": "RegionReasoner: Region-Grounded Multi-Round Visual Reasoning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "989c814ee1140c971470259896c30538d58ed209",
+  "title": "MM-THEBench: Do Reasoning MLLMs Think Reasonably?",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "d2d7f9de65542990b95e4cbf41a8b605732159a3",
+  "title": "FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "6e5465ec34a72ef26acd5f075e4d63ae162e2487",
+  "title": "R^3: Replay, Reflection, and Ranking Rewards for LLM Reinforcement Learning",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "0971d35b10b24a6bd66f4246dc6ca194985bc7ad",
+  "title": "Video-KTR: Reinforcing Video Reasoning via Key Token Attribution",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "5bd69cd2c3e064299d3b8219d18ffb311bf29bfa",
+  "title": "Thinking with Deltas: Incentivizing Reinforcement Learning via Differential Visual Reasoning Policy",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "8c88cf0e8a943a97f62f2851361915e4f1d3b33b",
+  "title": "Forest Before Trees: Latent Superposition for Efficient Visual Reasoning",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "473cdb0321820de154e6c4d7ab8aeb8043e67e1e",
+  "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "370f4a02e3109ab3700223093f8a65570c4cd2fa",
+  "title": "VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "a8c88d1297a8c4ceee6982af1ffd2cce7c848a2d",
+  "title": "GeM-VG: Towards Generalized Multi-image Visual Grounding with Multimodal Large Language Models",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "f4ef050535671997d30ee6a2617a3043cc8a7377",
+  "title": "Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "62cffcc405c8375c628abd8f56d97f57590b6e27",
+  "title": "CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "6edaa937b8c34dbf6a7731b5d759c2c5ba366a94",
+  "title": "CPPO: Contrastive Perception Policy Optimization for VLM Agents",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "3be8bf65e8c9abcbf841fea4aaf155bd7d2ecc64",
+  "title": "Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "1c7cbeb94dc2878aeb414a9abd5b5f0878d0e494",
+  "title": "Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "2cf8be6992897ed00efeef67162160e2c6df2be0",
+  "title": "Self-Rewarded Multimodal Coherent Reasoning Across Diverse Visual Domains",
+  "date": "2025-12-27"
+ },
+ {
+  "id": "f56b44c9972dcae343f61a99dbcb6c5826272258",
+  "title": "See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "5b87a99a3874223ed6bde9965c73e9ee476d8d38",
+  "title": "VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "91fb69f97b3896e548d828a94c36cb326e1deef4",
+  "title": "Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "41297c4449960f9164fa067a6273884b4ee501ac",
+  "title": "CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "5f1c07719b4784d870861f309c1444108888567b",
+  "title": "Stable and Efficient Single-Rollout RL for Multimodal Reasoning",
+  "date": "2025-12-20"
+ },
+ {
+  "id": "316b94818a5a1f7b04729c8191bce5229598eb02",
+  "title": "Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "22cfa48e2a09dc08c0f2e5f423980ff0ba9b7400",
+  "title": "AdaTooler-V: Adaptive Tool-Use for Images and Videos",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "320591e7d238b05628815aa489da945a9d1b73ad",
+  "title": "Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "1d41eb2d9abf771dafb2091eb4ed62af8b8a3f6c",
+  "title": "UniRel: Relation-Centric Knowledge Graph Question Answering with RL-Tuned LLM Reasoning",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "a9f54d863e217a83e4e442006423d36956c9a62c",
+  "title": "SuperFlow: Training Flow Matching Models with RL on the Fly",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "1e3af7d72447fc80ba4a27ac6cd65801d8005277",
+  "title": "PuzzleCraft: Exploration-Aware Curriculum Learning for Puzzle-Based RLVR in VLMs",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "463a0be84d98e2e2952cf9908fe7fcfdaa2e3534",
+  "title": "ADHint: Adaptive Hints with Difficulty Priors for Reinforcement Learning",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "2affab1847f59b51b277d194e94ad14c1b0d3933",
+  "title": "Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "27948668ddc377f1cf04914841f21660febcf8c3",
+  "title": "Reassessing the Role of Supervised Fine-Tuning: An Empirical Study in VLM Reasoning",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "4b77716fa1df6b73c8e60d9dc280a2e3e3f8cd40",
+  "title": "CogDoc: Towards Unified thinking in Documents",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "f7365dc90ca79b4694ef2b1a1ec7cf3620a371a2",
+  "title": "Journey Before Destination: On the importance of Visual Faithfulness in Slow Thinking",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "85dc6cf933fd1f1fe5bb293f37dda1fd877b0b8d",
+  "title": "CADMorph: Geometry-Driven Parametric CAD Editing via a Plan-Generate-Verify Loop",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "b0e5b75cdcb787a182cff2557c6bd3edbb18a3af",
+  "title": "Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "487731c10293c43c6a52333b7160ccb5d1868e4b",
+  "title": "Rethinking Chain-of-Thought Reasoning for Videos",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "152d32c896f35d8fa094917cf0d02ef9c526a9bd",
+  "title": "Think-Reflect-Revise: A Policy-Guided Reflective Framework for Safety Alignment in Large Vision Language Models",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "4c4e490f98785422154e091356730c69f9a03442",
+  "title": "ReLaX: Reasoning with Latent Exploration for Large Reasoning Models",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "fb620702001e96bd317acb016b7e74cf6d0d1216",
+  "title": "Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "a6c308af4fda6c3da80468f86e57553a8895a3a2",
+  "title": "VACoT: Rethinking Visual Data Augmentation with VLMs",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "9f4b49a82befbc701b9d6e1bdf18bf2909c88802",
+  "title": "OneThinker: All-in-one Reasoning Model for Image and Video",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "fe02aa963d54afd1d24beb0dd77f7fb32c006fcc",
+  "title": "From Illusion to Intention: Visual Rationale Learning for Vision-Language Reasoning",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "26fe0cccfb4cee8e44da0fd8489a37d1dd3ad979",
+  "title": "Asking like Socrates: Socrates helps VLMs understand remote sensing images",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "e9cbb7b3b5c707c25f5bfd4fa614fd78d8df0ede",
+  "title": "Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "e6c47beea2d8df421ac7dd3ae6e064d6f77adcbd",
+  "title": "Boosting Reasoning in Large Multimodal Models via Activation Replay",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "37c5ed8e2c76e384200f3c76411c544ff3b9f49f",
+  "title": "SPHINX: A Synthetic Environment for Visual Perception and Reasoning",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "f611a12239919749d1da5da1c1082ae72853bc17",
+  "title": "VideoPerceiver: Enhancing Fine-Grained Temporal Perception in Video Multimodal Large Language Models",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "1d4de092c06511cd5a943dc7f207ff349b4be5b1",
+  "title": "VADE: Variance-Aware Dynamic Sampling via Online Sample-Level Difficulty Estimation for Multimodal RL",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "e89b4f7211414dc9f3d3d5f855a0296801bcab4c",
+  "title": "Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "5f8c3d4e8ded92543a82ea1f7ba5a2b9941e4c10",
+  "title": "Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT",
+  "date": "2025-11-21"
+ },
+ {
+  "id": "4cc751d6bf2113046d0455908b94a8f5bbaf2d4c",
+  "title": "Learning to Think Fast and Slow for Visual Language Models",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "a6fa28d3912660eed29714aacde394b87bf1c315",
+  "title": "OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "5268d62d725781b89912a579fdfab153b6bc8796",
+  "title": "REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "3be7c14befe9eaf327313bf28a163966f00c9aab",
+  "title": "Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling",
+  "date": "2025-11-13"
+ },
+ {
+  "id": "ef80edad4a1d9ad9c77556d4fe1dbc73f09423d3",
+  "title": "Multimodal LLMs Do Not Compose Skills Optimally Across Modalities",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "3afcb99abc9fe1e3f5cafef88c27925b0e0682f3",
+  "title": "Faithful-First Reasoning, Planning, and Acting for Multimodal LLMs",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "d9edfb304df6db53761fd876fa27c76236df9a3b",
+  "title": "DeepEyesV2: Toward Agentic Multimodal Model",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "4fccb20167bbd6235af7740353030845473712ce",
+  "title": "SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL Tuning",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "37cc28809b2a02a4a39f3194042245d705abd09b",
+  "title": "Does RLVR Extend Reasoning Boundaries? Investigating Capability Expansion in Vision-Language Models",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "8ac27e630cdafadfb57a91b7d461f870f5e70621",
+  "title": "Metis-SPECS: Decoupling Multimodal Learning via Self-distilled Preference-based Cold Start",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "4f24eee8df6f0cdee17bc5d6826f8c34cd7977a9",
+  "title": "ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "56ea7f6a239af0737de3f4a1edfd9cfa4efbe245",
+  "title": "PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "985729e26c8d726642c3afe5d83ec1080f049149",
+  "title": "Rethinking the Text-Vision Reasoning Imbalance in MLLMs through the Lens of Training Recipes",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "90644395e6d0e633bb382d1e0d3d5be723b160b1",
+  "title": "Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "a156824808d75d42fdcb63b2d529c352b1c00acc",
+  "title": "Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "77d571c8f14e061895e8b7adafeba855a2ec04e0",
+  "title": "AutoRubric: Rubric-Based Generative Rewards for Faithful Multimodal Reasoning",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "42066dcb314b9b728b49d5fffb447a36afa52b51",
+  "title": "Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "23ab3ad922220f0e48a8c5ba7bb92f893a834a8d",
+  "title": "UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "e85898b2a176144de1a750c3515044bf312a6151",
+  "title": "InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "dd015eb103783fb8ebbbeb576be45cf751531c28",
+  "title": "Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "5c2f606a9a29875ad30d09a2c3916652ca3f2dbd",
+  "title": "HoneyBee: Data Recipes for Vision-Language Reasoners",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "0f43e46abb388fd7190654c84a0a878020e47a83",
+  "title": "Scaling Language-Centric Omnimodal Representation Learning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "74b80bc9ceccb7cdd63ca07af16bbb7d8ea116a7",
+  "title": "A Survey on Agentic Multimodal Large Language Models",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "29dc7469c524fa666dcc15c073d9a259f0136256",
+  "title": "OmniQuality-R: Advancing Reward Models Through All-Encompassing Quality Assessment",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "d52e8d84fe7526c69680b0de57c5e4566e39f72f",
+  "title": "RAG-IGBench: Innovative Evaluation for RAG-based Interleaved Generation in Open-domain Question Answering",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "134fde5291ceb00da3869db8040fe8ce136bf5b0",
+  "title": "Spotlight on Token Perception for Multimodal Reinforcement Learning",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "6bd70355c5fea6667dbe9e2fd53f62f07508ad0b",
+  "title": "ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "c577f9d03033416434736520797a084077adaab2",
+  "title": "TTRV: Test-Time Reinforcement Learning for Vision Language Models",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "f3576fe0eef3c50077108c11a2a33a0f5a97aa2f",
+  "title": "SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "3db9becb7580f63ad8b0e903bac5663ee5289b08",
+  "title": "Locate-Then-Examine: Grounded Region Reasoning Improves Detection of AI-Generated Images",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "72ec9f0595507a0c3d1a10c39a7b878e3400c081",
+  "title": "ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "ea090c112be388712fc65d5c06420891f03955ad",
+  "title": "Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "3befdf1adf8ecd6e15ee7b3a62ab07912d8930d5",
+  "title": "What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "2d1a6101e983f3c984acf2ccdf4501ebf1bbded7",
+  "title": "OpusAnimation: Code-Based Dynamic Chart Generation",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "5ca6051d4bb28b2f0b3f098fa2a02edb833b8c32",
+  "title": "ACPO: Adaptive Curriculum Policy Optimization for Aligning Vision-Language Models in Complex Reasoning",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "dc5663612573bb7e44ab21daacd47bddd26ae270",
+  "title": "Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "9326860f371f8e46512340ec6f14acb2e64c00ae",
+  "title": "More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "ad7bda8e252b8e259a02bca915e14502f9548f5a",
+  "title": "Latent Visual Reasoning",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "0a04d7372b6864d1d7f38f7740411da94c78b31e",
+  "title": "VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and Textual Perceptual Grounding",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "4da3b03dd7b24bfbe7a818b9f00300bb349dcc38",
+  "title": "LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "21769ea3a97c489302dcc6e5708c4a4a5bd1704c",
+  "title": "Perception-Consistency Multimodal Large Language Models Reasoning via Caption-Regularized Policy Optimization",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "11c9fc9cdbfff32e7cd249609d674c0643ede6ee",
+  "title": "VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "e9c89ddaddf77ec25b62ab7f811bebdebcf0f570",
+  "title": "MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "f661b4a74fc12fb3641058d44ad564c8cde50ad2",
+  "title": "DF-LLaVA: Unlocking MLLMs for Synthetic Image Detection via Knowledge Injection and Conflict-Driven Self-Reflection",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "77eb362f6911b24d17c0e167774321df3f769c6c",
+  "title": "SAIL-VL2 Technical Report",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "8e84909fcadd50be875ce2522d9413d9a9cc6c53",
+  "title": "MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "cf2b9c448faf4cbe594519412cda14d12f905091",
+  "title": "Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "e99667033b8ac8e31520fbe4fba4323ef21f5cb7",
+  "title": "Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "37fe2a997bf07a972473abd079d175335940e6bd",
+  "title": "CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models",
+  "date": "2025-09-11"
+ },
+ {
+  "id": "3a5548b9e9bb7b83e2179ca261f8f8aa0d5f1966",
+  "title": "Parallel-R1: Towards Parallel Thinking via Reinforcement Learning",
+  "date": "2025-09-09"
+ },
+ {
+  "id": "fa18d1031a04ecd0cf4eaae9123e82909e9c3cba",
+  "title": "Aligning Large Vision-Language Models by Deep Reinforcement Learning and Direct Preference Optimization",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "c66411bca483f53020be00e722b7fa72acb1dc38",
+  "title": "Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation",
+  "date": "2025-09-06"
+ },
+ {
+  "id": "bf54a21f2def71dcae3b3b48857e48230f65e94f",
+  "title": "Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm Simulators for Conditional Synthetic Data Generation",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "56ddff358894ddf3144de57d25a101aa3ccccdcf",
+  "title": "LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model",
+  "date": "2025-08-31"
+ },
+ {
+  "id": "8fb42211f1987b99eb2357e386a3d64284a8e513",
+  "title": "F2RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "18d83103fb98905ccbce420987470eb2ea021187",
+  "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "f62786aed056063021a09046d19e3e9d7dbd6708",
+  "title": "Mitigating Context Bias in Vision\u2013Language Models via Multimodal Emotion Recognition",
+  "date": "2025-08-20"
+ },
+ {
+  "id": "bf5950355f8bec8175b5082340ab35cc81314fae",
+  "title": "Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "9e67b62becc1fc437d438a353bac2bdeacfc29be",
+  "title": "Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "5e0327e50d7fe501d33196bba619e9893d5ed036",
+  "title": "Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "cf3234fb860b27f31a0f71d4c672611164a88d26",
+  "title": "MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "170d865501d0299cf12a277e41b50a93fdbf2832",
+  "title": "StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "6d84f0af6a2f35c58daff629c48e9ff514b5e1d4",
+  "title": "Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "eb61655dd91b1cb1fbffe3e373f19a6bf9511a8c",
+  "title": "AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "cd740f40c4c62427a844da79fb6be7ae414a5671",
+  "title": "VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning",
+  "date": "2025-07-30"
+ },
+ {
+  "id": "526fca4c3076b533f118dfd702f107d9bc6bc65d",
+  "title": "EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "e1c95422604f7125eaa6afb225c6d80554989d6b",
+  "title": "Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "c979aa555c031ee3434caa2b99d52373ab466102",
+  "title": "The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "658674f1b5e5cb6e7be6f14735b4c3cc6778aec3",
+  "title": "Perception-Aware Policy Optimization for Multimodal Reasoning",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "d64c263fcea7ad24a7130d8db20e3ba6279347ff",
+  "title": "Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "8a654f0d84afd036fbd03bda76fe9e226766c689",
+  "title": "Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "72c749cc9ee05bee3963488a1b1e68f0d63d6015",
+  "title": "Look-Back: Implicit Visual Re-focusing in MLLM Reasoning",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "33eb087f52e37349f13c9a44e6bd09d5f89fcbfd",
+  "title": "EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "757a68c63ee9155e84354bd6ce4131fc782c3313",
+  "title": "ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models",
+  "date": "2025-06-26"
+ },
+ {
+  "id": "c0edea42d42ce48b8bdcac1dfab06dd16d818397",
+  "title": "Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?",
+  "date": "2025-06-20"
+ },
+ {
+  "id": "d4117fd026c574e95cbbb74f03034bf66de79951",
+  "title": "PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "4473f4695205d5506a3cad6f3b68d083552a38e3",
+  "title": "Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "fd6ff3e9db2eb1fb7403b7f93e03d7252900008e",
+  "title": "VGR: Visual Grounded Reasoning",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "1f530423c98a2a2a893f7214daeede1e90168c8d",
+  "title": "Revisiting Visual Understanding in Multimodal Reasoning through a Lens of Image Perturbation",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "97ddc9974032d184822c9b7e6dd66451c42af360",
+  "title": "Reinforcing VLMs to Use Tools for Detailed Visual Reasoning Under Resource Constraints",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "6211781be0ccfaaa50cc60dfb597d069c2db3a39",
+  "title": "DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "78a2f80704e54c470c2033bdc1fc284fffbea801",
+  "title": "Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "d7e878f17db4d8b2297dbc75af4e22ee1ebaec1d",
+  "title": "WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "90aa07ab554e2d57440dc1cceccb11c5a113205b",
+  "title": "BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "33c4b4d6772d2be4dcd6fdc3f320e6156479192e",
+  "title": "Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs",
+  "date": "2025-06-08"
+ },
+ {
+  "id": "6f44746e023f60b3282fbde50bd2543033c90852",
+  "title": "Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation",
+  "date": "2025-06-08"
+ },
+ {
+  "id": "35e5b73d222a6ca5f513359da0b8c2759f15d900",
+  "title": "Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Reasoning",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "91de77fa0ed26ac6e30ef62afbd65b6b850536dc",
+  "title": "Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "3646acd0dc49a00d38517abccfc3a54cb78bbadc",
+  "title": "SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "0e118efe12a9fb0f73999c35b633252c7f85fe83",
+  "title": "MedBookVQA: A Systematic and Comprehensive Medical Benchmark Derived from Open-Access Book",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "d887221a26248fefb07eebf979744bc89ad4ba98",
+  "title": "Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "d1f51a4081a68b73024d9741f9cbb3779f1e78aa",
+  "title": "MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning",
+  "date": "2025-05-31"
+ },
+ {
+  "id": "c03d9b77bf69879faf646270d5e78a71a5d22809",
+  "title": "ProxyThinker: Test-Time Guidance through Small Visual Reasoners",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "1bac1895263f10e52cbee5742fa7b896b5bc4976",
+  "title": "MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "583b0075055d4857336347e8c5c1888f54ef0928",
+  "title": "Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "4c09e6f08c03ba6c2396ec8a196abe5a92572ee3",
+  "title": "InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "6484f54338396af3e8a3a39970d95bd303a19f76",
+  "title": "Sherlock: Self-Correcting Reasoning in Vision-Language Models",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "b5b3534158695d26392befb1c0f0719950cd8cda",
+  "title": "Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "9e8e6d8a128a293ae3be4691ebaf2b3b35c2a025",
+  "title": "R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "dd1e5bdeb3c9c2a538f5ad178d61861730300f85",
+  "title": "DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "731861e42ed3743c46f511c5b8dc303d7cca636f",
+  "title": "VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "2405a064f6fa89159990c4ae975532f9d2f76740",
+  "title": "VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "41326294ad27ddd885d6b200936a250f0a470660",
+  "title": "SATORI-R1: Incentivizing Multimodal Reasoning through Explicit Visual Anchoring",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "55baf937c13205e826711eddf60b02da7dc74250",
+  "title": "Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "61af4f9eaaed44c50aa101389d50ac535da23bb6",
+  "title": "v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "bb26c61cbe322a4f8cf81e8e461d680a5ff05923",
+  "title": "Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "427a80a2c3cbfcf1f3d8e312b3337cbb7bb1988f",
+  "title": "More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "6d180e865a6c86c4806e9210e3bf73abebae3674",
+  "title": "One RL to See Them All: Visual Triple Unified Reinforcement Learning",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "1ff2877358daf5b57b4234473c90895744ebc214",
+  "title": "R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "5105e734fc2a95f6710e0bbb93a829b7e0bbf6bc",
+  "title": "LaViDa: A Large Diffusion Language Model for Multimodal Understanding",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "8da10be90a5208ad753fb6ddee498da19e9f8b94",
+  "title": "OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "da608eaf47596938dd80f6bd977610ca07b467e9",
+  "title": "Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "a3fe107bc2794db5446c60e89b06cf77e2b2e40c",
+  "title": "Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "b82949974b6568604f37c3e14b88d8cb800e1fe7",
+  "title": "UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "3412155f786c703ea6decfeda09952bdd49c6330",
+  "title": "X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "4b2e85aae0ded21da525fd1de93444f63b6f70bc",
+  "title": "Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models",
+  "date": "2025-04-30"
+ },
+ {
+  "id": "8c00143db43c97dd6cbc4f45c1264ce7a16db7d1",
+  "title": "Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "1851a46754313638d599bbf7f8b60d150f217daf",
+  "title": "MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering",
+  "date": "2025-03-24"
+ },
+ {
+  "id": "86010eada916be09eb0fd134814d4184cd36e91e",
+  "title": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
+  "date": "2025-03-21"
+ },
+ {
+  "id": "006fa68c8022b0cf0916c7f92f471537f737b0b7",
+  "title": "Vision-Language Models Struggle to Align Entities across Modalities",
+  "date": "2025-03-05"
+ }
+]

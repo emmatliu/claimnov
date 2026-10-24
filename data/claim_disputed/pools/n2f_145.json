@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_227458886343b86bd15adf58c769be326b4b058a",
+   "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents",
+   "is_B": true
+  },
+  {
+   "id": "104715e1097b7ebee436058bfd9f45540f269845",
+   "title": "Reading Wikipedia to Answer Open-Domain Questions",
+   "date": "2017-03-31"
+  },
+  {
+   "id": "994c1b3d395ac5dc5e39c90235e821d62e976444",
+   "title": "Extending Neural Generative Conversational Model using External Knowledge Sources",
+   "date": "2018-09-14"
+  },
+  {
+   "id": "05cf65bea06b26d11a6324113bb4d6219e495a7b",
+   "title": "Commonsense Knowledge Aware Conversation Generation with Graph Attention",
+   "date": "2018-07-01"
+  },
+  {
+   "id": "5247a6e3a60ff0381355e66bfc313bf27512ae0c",
+   "title": "A Neural Network Approach to Context-Sensitive Generation of Conversational Responses",
+   "date": "2015-06-22"
+  },
+  {
+   "id": "be3a65ef15f79ebb8296e6a0e8d1a9cb5c0f3638",
+   "title": "Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems",
+   "date": "2015-11-21"
+  },
+  {
+   "id": "39e734da43eb8c72e9549b42e96760545036f8e5",
+   "title": "QuAC: Question Answering in Context",
+   "date": "2018-08-21"
+  },
+  {
+   "id": "28e49f28ea5202990cce701332fc3099507d8404",
+   "title": "A Knowledge-Grounded Neural Conversation Model",
+   "date": "2017-02-07"
+  },
+  {
+   "id": "05dd7254b632376973f3a1b4d39485da17814df5",
+   "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+   "date": "2016-06-16"
+  },
+  {
+   "id": "1677f55e519781303fd6f42e3892023150cf0717",
+   "title": "Towards Exploiting Background Knowledge for Building Conversation Systems",
+   "date": "2018-09-21"
+  },
+  {
+   "id": "86311b182786bfde19446f6ded0854de973d4060",
+   "title": "A Neural Conversational Model",
+   "date": "2015-06-19"
+  },
+  {
+   "id": "9b4a861151fabae1dfd61c917d031c86d26be704",
+   "title": "Controllable Abstractive Summarization",
+   "date": "2017-11-14"
+  },
+  {
+   "id": "754cd9d2853ead8610ef6949cf3e6e6a48e69168",
+   "title": "Generative Deep Neural Networks for Dialogue: A Short Review",
+   "date": "2016-11-18"
+  },
+  {
+   "id": "dde89e64a7f375b90e1cc594142940f4161e1592",
+   "title": "Training Millions of Personalized Dialogue Agents",
+   "date": "2018-09-06"
+  },
+  {
+   "id": "0a22389bd99b7efe3627ec6fc77ddaf3ff5e2faa",
+   "title": "A Network-based End-to-End Trainable Task-oriented Dialogue System",
+   "date": "2016-04-15"
+  },
+  {
+   "id": "435553998fbef790b5bed3491a8f634d9ec5cfa2",
+   "title": "Efficient Natural Language Response Suggestion for Smart Reply",
+   "date": "2017-05-01"
+  },
+  {
+   "id": "e235bc8ccbe85de40f406d1a1201d50aec893b2d",
+   "title": "A Simple, Fast Diverse Decoding Algorithm for Neural Generation",
+   "date": "2016-11-25"
+  },
+  {
+   "id": "1518039b5001f1836565215eb047526b3ac7f462",
+   "title": "Neural Machine Translation of Rare Words with Subword Units",
+   "date": "2015-08-31"
+  },
+  {
+   "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+   "title": "Sequence to Sequence Learning with Neural Networks",
+   "date": "2014-09-10"
+  },
+  {
+   "id": "a76706d350b8c483a3aff73e61b91d15b5687335",
+   "title": "Universal Sentence Encoder",
+   "date": "2018-03-29"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.6089,
+  0.5105,
+  0.4736,
+  0.4706,
+  0.4689,
+  0.4608,
+  0.4523,
+  0.4518,
+  0.4376,
+  0.4262,
+  0.4011,
+  0.3973,
+  0.3949,
+  0.3885,
+  0.3874,
+  0.3819,
+  0.3724,
+  0.3702,
+  0.3673
+ ]
+}

@@ -1,0 +1,547 @@
+[
+ {
+  "id": "29473ef9269b24d742e1234245f805fab9d405bf",
+  "title": "Seed1.5-VL Technical Report",
+  "date": "2025-05-11"
+ },
+ {
+  "id": "6254219f2e508f938becaa5920e68f361e489b73",
+  "title": "UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction",
+  "date": "2025-03-19"
+ },
+ {
+  "id": "af4501af74e970f64f3cf2ef09d055952630d87b",
+  "title": "OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models",
+  "date": "2025-02-22"
+ },
+ {
+  "id": "3d10ad5856546118177d7551979c50fb9a57cbbf",
+  "title": "PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "285f38de28b79df0bb64a859ab0d79048e860f30",
+  "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+  "date": "2024-12-27"
+ },
+ {
+  "id": "0c989f2c896e4ad5032b3c87abff8f7ba1f89c7a",
+  "title": "Aria-UI: Visual Grounding for GUI Instructions",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "58ae4a85ae73095da668d6eac3a8c1f19270c89d",
+  "title": "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction",
+  "date": "2024-12-05"
+ },
+ {
+  "id": "bde841b0dbbf7a15ee69966a828c7fe2cf532ad9",
+  "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+  "date": "2024-11-04"
+ },
+ {
+  "id": "9ceadd197cea2cd1b45e12983d528daf2b24efaa",
+  "title": "OS-ATLAS: A Foundation Action Model for Generalist GUI Agents",
+  "date": "2024-10-30"
+ },
+ {
+  "id": "5e6799c927dd3ed46b338801da12115b8236746e",
+  "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "a15a4cabe7653a87efc3302552fbc88b25d19dc1",
+  "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+  "date": "2024-10-07"
+ },
+ {
+  "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "39c5b07079e3b92aca9629d7cce694f276b9d9c6",
+  "title": "Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale",
+  "date": "2024-09-12"
+ },
+ {
+  "id": "bd0fae435b93819d407f36d9d52565d5dfb5f87c",
+  "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
+  "date": "2024-08-03"
+ },
+ {
+  "id": "03cf4ae5ad61f4bc4665cedbd0747c840741e85a",
+  "title": "OmniParser for Pure Vision Based GUI Agent",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "0d7ba2bfdef0e780a76212c9d3cc30746d6bd3a1",
+  "title": "GUICourse: From General Vision Language Models to Versatile GUI Agents",
+  "date": "2024-06-17"
+ },
+ {
+  "id": "c6e3e5f794233da2b27ea5dd4af19e62b95c863f",
+  "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+  "date": "2024-06-14"
+ },
+ {
+  "id": "2b89380b5259bdaa14f620d4791a81cc463779b8",
+  "title": "Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models",
+  "date": "2024-06-13"
+ },
+ {
+  "id": "d8ba1f488269420ed8440c31dfa987b8782c62f1",
+  "title": "On the Effects of Data Scale on UI Control Agents",
+  "date": "2024-06-06"
+ },
+ {
+  "id": "887306ee7ebd9eebd7faea24106ec8e8f1a50987",
+  "title": "How far are we to GPT-4V? Closing the gap to commercial multimodal models with open-source suites",
+  "date": "2024-04-25"
+ },
+ {
+  "id": "fa96417f8766568ba570088513940bbf14e3b356",
+  "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
+  "date": "2024-03-12"
+ },
+ {
+  "id": "2199a5ac145edbc46db9fcbf97b01461a2367cda",
+  "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+  "date": "2024-03-05"
+ },
+ {
+  "id": "c7d35995a9a4d49011cf47f130535e1391ebeebc",
+  "title": "OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web",
+  "date": "2024-02-27"
+ },
+ {
+  "id": "f9b39a6a7e40986b46f7796f3a805d70d7e3931a",
+  "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+  "date": "2024-01-17"
+ },
+ {
+  "id": "c844694387a89a477e7a8bbf918171cdc3b85672",
+  "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+  "date": "2024-01-03"
+ },
+ {
+  "id": "e50583008fe4ec049e42fdc01727ce98f6d86a35",
+  "title": "CogAgent: A Visual Language Model for GUI Agents",
+  "date": "2023-12-14"
+ },
+ {
+  "id": "e41482f4ee984f17382f6cdd900df094d928be06",
+  "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+  "date": "2023-07-25"
+ },
+ {
+  "id": "060e0df71620f1844839f6a993dfa5fb8e4c3bf6",
+  "title": "Android in the Wild: A Large-Scale Dataset for Android Device Control",
+  "date": "2023-07-19"
+ },
+ {
+  "id": "58f8925a8b87054ad0635a6398a7fe24935b1604",
+  "title": "Mind2Web: Towards a Generalist Agent for the Web",
+  "date": "2023-06-09"
+ },
+ {
+  "id": "98abc6de98a24d599cf009a9670eaa5c97cba9bb",
+  "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
+  "date": "2023-01-30"
+ },
+ {
+  "id": "23525374cfd3af714f3ffb7a203b1ef3253333fe",
+  "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+  "date": "2022-07-04"
+ },
+ {
+  "id": "32c9b3859086d15184989454eb878638659e64c6",
+  "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+  "date": "2022-06-17"
+ },
+ {
+  "id": "2f3efe44083af91cef562c1a3451eee2f8601d22",
+  "title": "WebGPT: Browser-assisted question-answering with human feedback",
+  "date": "2021-12-17"
+ },
+ {
+  "id": "39714122e7a903017456d7026dd91b872df9913b",
+  "title": "UIBert: Learning Generic Multimodal Representations for UI Understanding",
+  "date": "2021-07-29"
+ },
+ {
+  "id": "982f5f3e9c21f252018bb6fe27930e4e7bda74f8",
+  "title": "AndroidEnv: A Reinforcement Learning Platform for Android",
+  "date": "2021-05-27"
+ },
+ {
+  "id": "0b4a8b1c98bd13ce0a6281bb1af3761f7f887235",
+  "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+  "date": "2020-10-08"
+ },
+ {
+  "id": "b40bfcf339de3f0dba08fabb2b58b9368ff4c51a",
+  "title": "DocVQA: A Dataset for VQA on Document Images",
+  "date": "2020-07-01"
+ },
+ {
+  "id": "d9a8dfe020ee8c1afc94fca6f934876f85ad9c85",
+  "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+  "date": "2020-05-07"
+ },
+ {
+  "id": "f4cf4246f3882aa6337e9c05d5675a3b8463a32e",
+  "title": "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+  "date": "2019-12-03"
+ },
+ {
+  "id": "7dd8fc595afdd2097b43a5af9a8d9f5e97a65ec1",
+  "title": "Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration",
+  "date": "2018-02-15"
+ },
+ {
+  "id": "775f7845e4df2576762960943294bd28733e2046",
+  "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+  "date": "2017-10-20"
+ },
+ {
+  "id": "d251eac1048cac1ae55d2d1088c520109f759afa",
+  "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "4fc75f878df0f4815c6192d31f28a5fd560dcc60",
+  "title": "Benchmark Test-Time Scaling of General LLM Agents",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "a3f235e2408c38dfac4cc62e66d4091b95662397",
+  "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "aae314ed369470c64e3f101526049f1814b18c16",
+  "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "bf86e00706a418cfc040dbe841edda8b8a1301af",
+  "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "bb28f4e685ac386ad483694ecd4ad0c69998cdd1",
+  "title": "UI-Venus-1.5 Technical Report",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "cdcd64454dd0192d9cecb0fe4febbf499041e547",
+  "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "a45407d54624676e6c5548e0ba99eb94a792b17f",
+  "title": "POINTS-GUI-G: GUI-Grounding Journey",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "3f0da99a89f175aeeca3c4c34e4cac755b4f75a1",
+  "title": "BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "fcccd54acc32723504b50bd57c1788126670e73a",
+  "title": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "ad1267fd3d2b4c63bc42f15ba48ceb7df2422581",
+  "title": "OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "00447783490355a9afe7ac09ba27b86c39e82dd1",
+  "title": "TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "6eff40194ecc0f0a28619c0b3c2651d9db4240de",
+  "title": "EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "0fa664d72aa359c552d45e0fc05c8e4205d24622",
+  "title": "STEP3-VL-10B Technical Report",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "a73541ae03633322a0bb5f75ec9d34daf432573f",
+  "title": "OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "b1df15c97b6d42d9b7cb5458477753fcd8c52304",
+  "title": "ShowUI-Aloha: Human-Taught GUI Agent",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "022a6b853a918ddaa7201b40e48d566fc797ed16",
+  "title": "FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "199925642f01fdd715e87b295b0e503bf85aba31",
+  "title": "MAI-UI Technical Report: Real-World Centric Foundation GUI Agents",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "01dc0908dfa89b375ab6775a0929de48724653a2",
+  "title": "VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "c27363fc18b425b10d1affaa159b33ba5ff10302",
+  "title": "OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "8f7f1552ca1496e5129535b1bb0bf5c2d34500e6",
+  "title": "MVP: Multiple View Prediction Improves GUI Grounding",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "4c80b6794ded5814c56774387fec6d403db7032a",
+  "title": "Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "d88927871311ad4c687c2042a8fee611459b0d8d",
+  "title": "Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "15538df854dd33351dfb5cefd7e8f3340c8936c3",
+  "title": "Qwen3-VL Technical Report",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "67c3127e8cda5999e535043076189e7b5f0e97e4",
+  "title": "MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "a6e63335ddcd1c8d616eac428549004218b52d53",
+  "title": "Environment Scaling for Interactive Agentic Experience Collection: A Survey",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "b97cf171544a860e6ac23e386db0ea8478aaa785",
+  "title": "From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "eac4d4f814a49c71e6f908564a92ea1fe6a53f2d",
+  "title": "Grounding Computer Use Agents on Human Demonstrations",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "67636cef3c00781bf4a6928a386c8c4102ba55f5",
+  "title": "Beyond Clicking:A Step Towards Generalist GUI Grounding via Text Dragging",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "75281eba6988c401eab67d0f404c06daf8eb53f6",
+  "title": "Learning from Online Videos at Inference Time for Computer-Use Agents",
+  "date": "2025-11-06"
+ },
+ {
+  "id": "fa16c582c1aa993642ca69c9feb5c9142b4d759d",
+  "title": "GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding",
+  "date": "2025-11-02"
+ },
+ {
+  "id": "d6a801956afd861b2a959662683d98a29410b61a",
+  "title": "Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "82ddfe9c4a706b340e2eef7a7a9920d32bafbe3b",
+  "title": "GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "86127ab0e2f1577d0461dac81a8a13e1807da0fa",
+  "title": "MGA: Memory-Driven GUI Agent for Observation-Centric Interaction",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "8553a4c656584540f558dda4d5cbd6f1fd3e987b",
+  "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workflows Across Diverse Occupations",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "dd571dff7f4255b5efc715b1c94c00a59810e43d",
+  "title": "UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "0e0232dc213f9472520b4821eb29cacc1bc6cea7",
+  "title": "VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "0a07c7aad2d6ee5d8a07c0165e759e75013c461e",
+  "title": "CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "b8a05e33be3cf6a8b23a88da2fba1d14c300406c",
+  "title": "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "6521f637f3b9b2076143984bf8f41566acf3baeb",
+  "title": "R-WoM: Retrieval-augmented World Model For Computer-use Agents",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "8f85ff48706cdacb6a3f8643bc4bbb09cc6d4019",
+  "title": "Watch and Learn: Learning to Use Computers from Online Videos",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "8400739f286c2433dad71367d885eb542bba1b4c",
+  "title": "GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "341c4b80c25bde64d09a27c035b8ff107b9d899e",
+  "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "269b64e6eab5cfaf2e4185d81284f9c0465c74e8",
+  "title": "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "c7816a620381cbaea145b1473d12acd6e163d494",
+  "title": "SCUBA: Salesforce Computer Use Benchmark",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "191047ab6432d519c08712d3178db6c13be7d985",
+  "title": "RISK: A Framework for GUI Agents in E-commerce Risk Management",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "8c5add802b4a761ef9aab37419198945ab1f91a9",
+  "title": "Learning GUI Grounding with Spatial Reasoning from Visual Feedback",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "25a56e41c1f76814696e8aba3a8c46a14ab02916",
+  "title": "GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "380d4da9c5b6127dc1162df44601aa9dece09f49",
+  "title": "GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "1da482b4d3014261a18e97f2910298523da7c6ac",
+  "title": "How Auxiliary Reasoning Unleashes GUI Grounding in VLMs",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "8cc16a640fcca64adb345b392f4d2ae33da70a52",
+  "title": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
+  "date": "2025-09-14"
+ },
+ {
+  "id": "6fce7b04b5e206921c77afb027efaac76fe6babd",
+  "title": "Towards Understanding Visual Grounding in Visual Language Models",
+  "date": "2025-09-12"
+ },
+ {
+  "id": "cc956577ee62212926d26d9b59f218a34777b698",
+  "title": "Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "18d83103fb98905ccbce420987470eb2ea021187",
+  "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "3d44a413c07650ae542f6384394ea51779937523",
+  "title": "DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
+  "date": "2025-08-24"
+ },
+ {
+  "id": "978aca3325321526f003b01443b9dd891bf3461a",
+  "title": "Mobile-Agent-v3: Fundamental Agents for GUI Automation",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "93f13283cc18ec54c612e3aa9be92ba35216d288",
+  "title": "V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "40a7e877cb4d60599a6dafef5487d75018a70fd7",
+  "title": "ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "50fdb40b7865528754b5b516de9cc6e48597b646",
+  "title": "UI-Venus Technical Report: Building High-performance UI Agents with RFT",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "b1995f97c41fc38df8b05e3f9e31f3a52dd56a33",
+  "title": "OpenCUA: Open Foundations for Computer-Use Agents",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "567e47ea1ba66b4a3182956105452e1e15c6b1d5",
+  "title": "FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "44e985d7cefa7f578dd345a8aa9e3f3e5178dad7",
+  "title": "CoAct-1: Computer-using Multi-Agent System with Coding Actions",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "e5c8edfe19e5af718945dfc93057b28d1a84dad2",
+  "title": "UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "9a33fdaa15abff43f56d95a220c7dd16ad225339",
+  "title": "MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents",
+  "date": "2025-07-25"
+ },
+ {
+  "id": "2cd9023631d8eeb7115687fa5863a38544cfabea",
+  "title": "GUI-G2: Gaussian Reward Modeling for GUI Grounding",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "006e8a0cc35d13272c5936003cfb5834f7a88a75",
+  "title": "GTA1: GUI Test-time Scaling Agent",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "d9bf0f579ab2505825cbbfbbe9b0cc18bfb97f6b",
+  "title": "MiMo-VL Technical Report",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "24a91683b4011fd24d9593ae9a48783234bc9819",
+  "title": "VLMEvalKit: An Open-Source ToolKit for Evaluating Large Multi-Modality Models",
+  "date": "2024-07-16"
+ }
+]

@@ -1,0 +1,417 @@
+[
+ {
+  "id": "84bb9438dcb2bc5caa3d4edd5a51dc8ff8a28229",
+  "title": "HINT: Human-Intent Inception for Long-Horizon Robot Manipulation",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "0316e666de7df8e89004ad0b652ad91ecc29e50a",
+  "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "a37dda629f955b4cc3f9915d5d30a371bfbc8063",
+  "title": "GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "c22b86dfe101076b124406f8d1c2bd026270e854",
+  "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "1a47d7909220cbbb5e41e729cab290e6d451235a",
+  "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "50c12867ac0beb4f0044145e7cd9136a5c739ec3",
+  "title": "StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "e786d8f682e51a335c860a9f00cfd807b9e8c506",
+  "title": "VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "5cfe6e204fd8cc6ff5c03585ac73fba7bfb0c115",
+  "title": "In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "d06bfdd8cd8477e12d5dc7abfafc59ae2e349596",
+  "title": "Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "1f377a0718e56d7135613595520f9c234edeceaf",
+  "title": "LIRA: Local Cross-Layer Information Routing for Vision-Language-Action Decoding",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "2717b53e017cef627c5711a6d71373f81ce667d0",
+  "title": "What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "f1b65ffcb75331eb0931cf74b046e5f98f6541c6",
+  "title": "A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "7f0599ff2fcc622e7d0a9c3d11264e7d7d6a4bd7",
+  "title": "LENS: LLM-guided Environment Simplification for Planning and Control in Clutter",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "27a93d34448b56bcd6f1610388a074c89019e1fb",
+  "title": "Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "c32c845bdf5aec23d20ce812cb69bc6e8c2fa28b",
+  "title": "ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "951000ba374bff15156abbf130b93f7001ac8df8",
+  "title": "Towards Predictive, Aligned, and Scalable Robot Learning",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "5a2524ab05a81b0cf5597422fa88c9c0ed1ad8ba",
+  "title": "TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "10986d9ca0afde4db9a2b963ddfa57a6c2a09848",
+  "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "552be11c35599e639fbef1d0e203bbc290492f73",
+  "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "149e770360199fc5047b232569c6fec7c64887d5",
+  "title": "CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "565a3929ae5941ae560d13f14c7b369fe8c78526",
+  "title": "Teaching Tiny VLA Models Where to Look and How to Move",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "bd702b0afa17c550a219ca13d45460585daf42d8",
+  "title": "WorldBagel: Uncovering the Power of Unified Multimodal Models for Vision-Language-Action-World Modeling",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "cda8de8e0977304025df9d21e858ca6fcda60f13",
+  "title": "3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "c57f831d23dea3749c8f44cc5df30157fa924f68",
+  "title": "Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "1a3abf6b27a78f6fb4335f6058a00f32f73f15b0",
+  "title": "Analytic Concept-Centric Memory for Agentic Embodied Manipulation",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "2cb978898871006b2d304854f99902f853581a80",
+  "title": "S2-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "b3f23d9ca65de2c8cd9718e763f0ae7a7da7d8c5",
+  "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "b7cdb51b3cc080c6ac6307f74ce4cc7486cfbb10",
+  "title": "Reflective VLA: In-Context Action Consequences Make VLAs Generalize",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "fdc704400c7a95fc918826f7995409bd8daca8a8",
+  "title": "MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "a43f68454763f3e01c67377601ad972ae9262f84",
+  "title": "LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "85d1da4bec3f9a4277924842761004f3e5a74e92",
+  "title": "Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "b90e5804637d58da0209f3497cf4c3875bf04c8c",
+  "title": "FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "53bcc8546027dba0c8f6f36533abf8d8a798ff66",
+  "title": "Guava: An Effective and Universal Harness for Embodied Manipulation",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "f6caf2829332f8f7c6127f21e16eecb4a69f8af6",
+  "title": "Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "31f6f273b8105080df56043cbafbb73167b23c62",
+  "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "82d0060c59cac3421c8d153d9b5b0a9c827940c6",
+  "title": "SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "3826b1db89947a1d0594833a846e0e6637cd2a98",
+  "title": "Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "24b99c301d438fd0634d57db245af015c01b3daa",
+  "title": "Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "d7b37e73ec7ff5ef47e916e0d4a1392775591104",
+  "title": "LARA: Latent Action Representation Alignment for Vision-Language-Action Models",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "6fc8c0cbc1c666801fd21dd578c54c130570bafb",
+  "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "55fedf3b324670b0d4a7ad03ef7146ae6c00a003",
+  "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "cb32397dcfd1360285a1492f11c01d29c0e9b27a",
+  "title": "TTT-VLA: Test-Time Latent Prompt Optimization for Vision-Language-Action Models",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "8381022ef4d69bfecac13f6ec88a84aa7c3ba17e",
+  "title": "The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "bac37c50c05637c751a83e677e0c027ff1e2a0ce",
+  "title": "SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "e9308f625e4e098a17fcd29fbfdfa2fbb9a8f5e1",
+  "title": "See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "113841681072f4802da1ba06960e3d1e8c8f3be5",
+  "title": "Continuous Reasoning for Vision-Language-Action",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "25f83284335b23113a51bc06da07628cbe3e3033",
+  "title": "Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "4d1f19805c43b521587245d4c3e9a5b3ff3b5851",
+  "title": "GEM: Generative Supervision Helps Embodied Intelligence",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "f7a65d587e1096d029e5f0d3c6f1fe7cd45c43c8",
+  "title": "OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "d09a13aa9cc60c5027737ad418b7ddbf1b81e86a",
+  "title": "PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "5afeb33c47203f60a8ad1ca3dbcd23abfbae2d39",
+  "title": "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "e9ed5d21588538ff41ad5fbbcf05b7edeea335ce",
+  "title": "Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "fbb75ff46e105874139fa3442d298bb478077595",
+  "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "92094ee10b5f1a907927ab9d2da37665ac8bc37a",
+  "title": "ElasticFlow: One-Step Physics-Consistent Policy with Elastic Time Horizons for Language-Guided Manipulation",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "322e5b81345cb725834764069edb48d768d9f4e2",
+  "title": "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "cf9c982a3ca99f61832a9a8b9b2d2f53745d20fd",
+  "title": "VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "7f7c6573424ec49b986a8f5a4d5f87d896edd364",
+  "title": "From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "9a72496f6ba6623dce0a1816600f90ede84d2991",
+  "title": "CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "c030a27bcc31edb0b90edb9827c9d4a7d47e90fa",
+  "title": "LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "beb487834bf3febd5e96e32d20ce8ec3343a10f0",
+  "title": "M2-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "107331d86262099334949e2f8eef05e2129064c5",
+  "title": "Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "4722313c1cc7fb6a4160af401793649d17e3b0d8",
+  "title": "Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "1e3bfbf78a85e0018f75fda7deee06830e516b18",
+  "title": "Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models",
+  "date": "2026-04-25"
+ },
+ {
+  "id": "044456c8b6b984689f17676a9c619d0d8966e947",
+  "title": "CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "4c212a248ccc8a47c64b3f65967075bc959ebbc8",
+  "title": "From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "cacd33bdc201306af443eded0162c60eff589396",
+  "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "2339812eae1c81fa77e52e06ca7dcc576715eca6",
+  "title": "Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "da853cd33f24b4c02a8bf45b17e6fb544b0411ec",
+  "title": "Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "67086b3c1f164a36f15282ffe3cfccfed101c9dd",
+  "title": "Robotic Manipulation is Vision-to-Geometry Mapping (f(v) \u2192 G): Vision-Geometry Backbones over Language and Video Models",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "a3ab544fbbfa38648790cf4a967975bb162cf8a8",
+  "title": "AnySlot: Goal-Conditioned Vision-Language-Action Policies for Zero-Shot Slot-Level Placement",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "55d0c80e45157f8c1f0af9c0ca4e790c92d2cc6c",
+  "title": "Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "1deb1f88b0640f0cb6e244b7fd122147342d679e",
+  "title": "DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "25fa61e44fb69231b5a820b53ad7e8471d675e4a",
+  "title": "Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "34e3f94e4059572dc4706eab16045e766806986e",
+  "title": "LaMP: Learning Vision-Language-Action Policy with 3D Scene Flow as Latent Motion Prior",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "6ccce352ceb58e5a0ff5dab3a15e4929b8a79aee",
+  "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "5f4591d913de4752861b949bbbe4b9c4cdc133a8",
+  "title": "RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "6e166e7b5d08595056288ddbe4a700a9d1bf9ae6",
+  "title": "VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "f0ed1870e3570952ba2841c248dc48f09914f245",
+  "title": "Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "82af80231e2f6e0d5129d5869242a904bf79c175",
+  "title": "Language-Grounded Decoupled Action Representation for Robotic Manipulation",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "b4312bd78d85a70a5638ad6d184de755d6190a37",
+  "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "c7cee2dcef9b4c83b089f2644f545025f28b411e",
+  "title": "See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "a657af74b433d15cb84db00bf850ad65dca9046c",
+  "title": "AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "b8472a7d086a3f3eeb015d39d6ad4fda27b16afd",
+  "title": "ICLR: In-Context Imitation Learning with Visual Reasoning",
+  "date": "2026-03-08"
+ }
+]

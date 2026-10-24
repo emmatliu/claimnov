@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_53d8b356551a2361020a948f64454a6d599af69f",
+   "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+   "is_B": true
+  },
+  {
+   "id": "209f9bde2dee7cf1677801586562ffe56d435d38",
+   "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts",
+   "date": "2021-04-14"
+  },
+  {
+   "id": "ffdbd7f0b03b85747b001b4734d5ee31b5229aa4",
+   "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+   "date": "2021-04-18"
+  },
+  {
+   "id": "5a2e45ce35fb26ab70a61b424a49f8e5b4532a8e",
+   "title": "WARP: Word-level Adversarial ReProgramming",
+   "date": "2021-01-01"
+  },
+  {
+   "id": "d89ee98810039d2061ed42ee8026da49c503d16b",
+   "title": "Learning multiple visual domains with residual adapters",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "a75649771901a4881b44c0ceafa469fcc6e6f968",
+   "title": "How Can We Know What Language Models Know?",
+   "date": "2019-11-28"
+  },
+  {
+   "id": "8ae9a17c87a4518b513e860683a0ef7824be994d",
+   "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+   "date": "2020-01-21"
+  },
+  {
+   "id": "1187c70c4011f935642084e84186284ac0add3d0",
+   "title": "Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "7fb301ea25f02dc7f4f7ee1360137503ee942c8c",
+   "title": "Masking as an Efficient Alternative to Finetuning for Pretrained Language Models",
+   "date": "2020-04-26"
+  },
+  {
+   "id": "e04a80263d252a3d8a382ba37a249b9345620570",
+   "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "5b4be79081e1d6eac83e8a9e7a38bd7c338a4c78",
+   "title": "How fine can fine-tuning be? Learning efficient language models",
+   "date": "2020-04-24"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "e54ffc76d805c48660bb0fd20019ca82ac94ba0d",
+   "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+   "date": "2020-12-22"
+  },
+  {
+   "id": "190ae853c9d5dbbdf41201eea6a44360d0c07f0e",
+   "title": "Conditioned Natural Language Generation using only Unconditioned Language Model: An Exploration",
+   "date": "2020-11-14"
+  },
+  {
+   "id": "9e290730ab5fb48c5a43fbe4d10b238a425b7013",
+   "title": "Can Unconditional Language Models Recover Arbitrary Sentences?",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "29ddc1f43f28af7c846515e32cc167bc66886d0c",
+   "title": "Parameter-Efficient Transfer Learning for NLP",
+   "date": "2019-02-02"
+  },
+  {
+   "id": "d7c4b8f15f82825de9edcf57e499b05256c7885d",
+   "title": "Text-to-Text Pre-Training for Data-to-Text Tasks",
+   "date": "2020-05-21"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  }
+ ],
+ "n_candidates": 40,
+ "sims": [
+  0.6687,
+  0.6056,
+  0.5863,
+  0.5835,
+  0.5507,
+  0.5371,
+  0.5366,
+  0.5321,
+  0.527,
+  0.5215,
+  0.5106,
+  0.5103,
+  0.4997,
+  0.4898,
+  0.4881,
+  0.4858,
+  0.4741,
+  0.4716,
+  0.4699
+ ]
+}

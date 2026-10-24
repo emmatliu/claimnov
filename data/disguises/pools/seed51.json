@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_32f43ca1acf77827437e94bfca1e938863cd98de",
+   "title": "A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models",
+   "date": "2026-03-18",
+   "is_B": true
+  },
+  {
+   "id": "afea234e64326aa5ceebf296304e00babcce764d",
+   "title": "Computational-Statistical Gaps in Gaussian Single-Index Models",
+   "date": "2024-03-08"
+  },
+  {
+   "id": "17010f5bf8074e09dacb48eacd0c7f9dcd3e96ca",
+   "title": "Low-dimensional Functions are Efficiently Learnable under Randomly Biased Distributions",
+   "date": "2025-02-10"
+  },
+  {
+   "id": "ef1f4d5bbdc5882f0479b3e4d8bcdb2b121113b2",
+   "title": "Fundamental computational limits of weak learnability in high-dimensional multi-index models",
+   "date": "2024-05-24"
+  },
+  {
+   "id": "c11983c44f5c149454ea54d45c7a6abd15cedc9d",
+   "title": "The Generative Leap: Sharp Sample Complexity for Efficiently Learning Gaussian Multi-Index Models",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "5eaf2635b74c0ebf5906240d4997d9e79c1c7ba6",
+   "title": "Spectral Estimators for Multi-Index Models: Precise Asymptotics and Optimal Weak Recovery",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "01ce13008227fde62066cf71a0530b331332ec13",
+   "title": "The Franz-Parisi Criterion and Computational Trade-offs in High Dimensional Statistics",
+   "date": "2022-05-19"
+  },
+  {
+   "id": "8350388ac3291b13ebf9051dd55a671cbbc873f8",
+   "title": "Notes on computational-to-statistical gaps: predictions using statistical physics",
+   "date": "2018-03-29"
+  },
+  {
+   "id": "b2e0770d063487ddd280d7ab64fe7fc5c607c88d",
+   "title": "Survey on Algorithms for multi-index models",
+   "date": "2025-04-07"
+  },
+  {
+   "id": "5a06ce8d28bc040506b5a71f18f3e36ca520ef50",
+   "title": "Optimal scaling laws in learning hierarchical multi-index models",
+   "date": "2026-02-05"
+  },
+  {
+   "id": "998086d6d735fe7df6569bb3d570e112f84c0057",
+   "title": "Optimal errors and phase transitions in high-dimensional generalized linear models",
+   "date": "2017-08-11"
+  },
+  {
+   "id": "875ebe7a26adeed963070719bd04985db9f299fe",
+   "title": "The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks",
+   "date": "2022-02-17"
+  },
+  {
+   "id": "c0dc1dae041cb69c3c12d3f49f50ec90c8718c99",
+   "title": "A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities",
+   "date": "2024-10-24"
+  },
+  {
+   "id": "03e8b6224ef5ec8bce483a139709b16ebe30cf34",
+   "title": "Repetita Iuvant: Data Repetition Allows SGD to Learn High-Dimensional Multi-Index Functions",
+   "date": "2024-05-24"
+  },
+  {
+   "id": "efaea5b7ae5dd27921011a41e628207cb3f2e761",
+   "title": "Information-theoretic limits of a multiview low-rank symmetric spiked matrix model",
+   "date": "2020-05-16"
+  },
+  {
+   "id": "515865fd257e786b985c21910cb28e686720c597",
+   "title": "Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "b92985bc6723edaf7c450b970751602552a67a0d",
+   "title": "Neural network learns low-dimensional polynomials with SGD near the information-theoretic limit",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "df29153629c3f00bdbbe1ea28f32ce379e35a144",
+   "title": "Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models",
+   "date": "2023-05-18"
+  },
+  {
+   "id": "ead6e705cd0993d8c7b2520e070318277f307c0e",
+   "title": "An optimized Franz\u2013Parisi criterion and its equivalence with SQ lower bounds",
+   "date": "2025-06-06"
+  },
+  {
+   "id": "5ac3a7c7d9ef2157007bb3b8652eccfc89956ba0",
+   "title": "Statistical physics of inference: thresholds and algorithms",
+   "date": "2015-11-08"
+  }
+ ],
+ "n_candidates": 59,
+ "sims": [
+  0.634,
+  0.5969,
+  0.594,
+  0.5654,
+  0.5557,
+  0.5431,
+  0.5421,
+  0.5373,
+  0.5279,
+  0.5154,
+  0.5129,
+  0.51,
+  0.5089,
+  0.5078,
+  0.5077,
+  0.5072,
+  0.5057,
+  0.4994,
+  0.4987
+ ]
+}

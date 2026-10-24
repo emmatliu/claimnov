@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_f8fa8373004088be96af2f9fc8b7548da7aa0921",
+   "title": "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models",
+   "date": "2026-05-28",
+   "is_B": true
+  },
+  {
+   "id": "acd7bb79b9358f9067c2db17806b454e8029f9f7",
+   "title": "Aligning Text to Image in Diffusion Models is Easier Than You Think",
+   "date": "2025-03-11"
+  },
+  {
+   "id": "2675882539acfa91336591eb1cecca015e1d1c0f",
+   "title": "Free Lunch Alignment of Text-to-Image Diffusion Models without Preference Image Pairs",
+   "date": "2025-09-30"
+  },
+  {
+   "id": "f5275c61736781d236abe6700b822f1ea62f982e",
+   "title": "Diffusion Model Alignment Using Direct Preference Optimization",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "a553bf27d801d09f667fe121c0ba9632257f364b",
+   "title": "DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models",
+   "date": "2023-05-25"
+  },
+  {
+   "id": "9b4a577a59df2ad605d4b6f4ddb5ed6522660604",
+   "title": "Calibrated Multi-Preference Optimization for Aligning Diffusion Models",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "e85fd23127a81950742d2ceca174d63f84dda2e9",
+   "title": "InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment",
+   "date": "2025-03-24"
+  },
+  {
+   "id": "d8c78221e4366d6a72a6b3e41e35b706cc45c01d",
+   "title": "Training Diffusion Models with Reinforcement Learning",
+   "date": "2023-05-22"
+  },
+  {
+   "id": "1b2355c3c674b26a977768a91a164384ad51bbb1",
+   "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation",
+   "date": "2023-04-12"
+  },
+  {
+   "id": "a395f1c0910a5622f6faaefb5b27e87bb1617759",
+   "title": "Directly Fine-Tuning Diffusion Models on Differentiable Rewards",
+   "date": "2023-09-29"
+  },
+  {
+   "id": "96b7b18af643fffceeac93b739d3418bd3e42645",
+   "title": "DiffusionNFT: Online Diffusion Reinforcement with Forward Process",
+   "date": "2025-09-19"
+  },
+  {
+   "id": "7ee862c9de83ded9358deec49e3d5b951d59ca4c",
+   "title": "GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment",
+   "date": "2023-10-17"
+  },
+  {
+   "id": "b000d6865db824af1563708fb7a545ddd65c6b3a",
+   "title": "Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation",
+   "date": "2022-11-22"
+  },
+  {
+   "id": "502987c72f29cf1f6189406c49d125ffb04eb5d3",
+   "title": "Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization",
+   "date": "2024-06-06"
+  },
+  {
+   "id": "d7890d1906d95c4ae4c430b350455156d6d8aed9",
+   "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+   "date": "2023-07-04"
+  },
+  {
+   "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+   "title": "Classifier-Free Diffusion Guidance",
+   "date": "2022-07-26"
+  },
+  {
+   "id": "2029e01777cf1de735f5103eeda2fecf83c04de7",
+   "title": "Scalable Ranked Preference Optimization for Text-To-Image Generation",
+   "date": "2024-10-23"
+  },
+  {
+   "id": "85963807c11abe38e9a2797d9860e012238607ef",
+   "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing",
+   "date": "2023-04-17"
+  },
+  {
+   "id": "ff543923421694ded755eb26db7f4a8196331f9a",
+   "title": "Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code",
+   "date": "2023-10-02"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.7949,
+  0.7268,
+  0.7063,
+  0.6795,
+  0.6792,
+  0.6608,
+  0.6464,
+  0.6462,
+  0.6404,
+  0.6303,
+  0.624,
+  0.6234,
+  0.6101,
+  0.5917,
+  0.5797,
+  0.5725,
+  0.5696,
+  0.566,
+  0.563
+ ]
+}

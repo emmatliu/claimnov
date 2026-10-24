@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_5fe49a1aac79752199e6f33ecc62165f35a05915",
+   "title": "Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data",
+   "is_B": true
+  },
+  {
+   "id": "48a789a15e3572749905f036fcbf3310aee29b79",
+   "title": "Disentangling factors of variation in deep representation using adversarial training",
+   "date": "2016-11-10"
+  },
+  {
+   "id": "148dea3afc132843254c46f05269c10f120e9a30",
+   "title": "Joint-VAE: Learning Disentangled Joint Continuous and Discrete Representations",
+   "date": "2018-03-31"
+  },
+  {
+   "id": "8388f1be26329fa45e5807e968a641ce170ea078",
+   "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "b5ca8d4f259f35c1f3edfd9f108ce29881e478b0",
+   "title": "Disentangled Representation Learning GAN for Pose-Invariant Face Recognition",
+   "date": "2017-07-01"
+  },
+  {
+   "id": "1a8d3ad2b400bcebc9f17b309901ca5ef2e95315",
+   "title": "Unsupervised Learning of Disentangled Representations from Video",
+   "date": "2017-05-31"
+  },
+  {
+   "id": "e0f828376631b362aa550246c73d85e354126fed",
+   "title": "Disentangling Factors of Variation by Mixing Them",
+   "date": "2017-11-20"
+  },
+  {
+   "id": "eb7ee0bc355652654990bcf9f92f124688fde493",
+   "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets",
+   "date": "2016-06-12"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "2d0363a3ebda56d91d704d5ff5458a527775b609",
+   "title": "Attribute2Image: Conditional Image Generation from Visual Attributes",
+   "date": "2015-12-02"
+  },
+  {
+   "id": "1cae417456711c4da184f5efcd1b7464a7a0661a",
+   "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding",
+   "date": "2019-05-22"
+  },
+  {
+   "id": "571b0750085ae3d939525e62af510ee2cee9d5ea",
+   "title": "Improved Techniques for Training GANs",
+   "date": "2016-06-10"
+  },
+  {
+   "id": "65ec3cca4d76a9db6dfd4b2e64c5b4c4beecf988",
+   "title": "FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery",
+   "date": "2018-11-27"
+  },
+  {
+   "id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+   "title": "Representation Learning: A Review and New Perspectives",
+   "date": "2012-06-24"
+  },
+  {
+   "id": "c2280e7b4391748ef6decdb16b07cfe68a68d685",
+   "title": "Learning Discrete Representations via Information Maximizing Self-Augmented Training",
+   "date": "2017-02-28"
+  },
+  {
+   "id": "9b09d296059909490096e34e9df2d95314787ad5",
+   "title": "Learning Representations by Maximizing Mutual Information Across Views",
+   "date": "2019-06-03"
+  },
+  {
+   "id": "04541599accc47d8174f63345ce9c987ef21685b",
+   "title": "Disentangling by Factorising",
+   "date": "2018-02-16"
+  },
+  {
+   "id": "8ae16fd82f18b1957757cdca9cdd46ad2862f524",
+   "title": "Semantic Bottleneck Scene Generation",
+   "date": "2019-11-26"
+  },
+  {
+   "id": "2eecf2a2788117b808b72321802731efc86526b2",
+   "title": "Joint Unsupervised Learning of Deep Representations and Image Clusters",
+   "date": "2016-04-13"
+  },
+  {
+   "id": "d9ae299d42b418467655d5e5c40881f70308e2d5",
+   "title": "Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization",
+   "date": "2017-04-20"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.6782,
+  0.6149,
+  0.6107,
+  0.6097,
+  0.592,
+  0.5899,
+  0.5827,
+  0.5748,
+  0.5519,
+  0.5478,
+  0.5368,
+  0.53,
+  0.5112,
+  0.5041,
+  0.4958,
+  0.4859,
+  0.4773,
+  0.4754,
+  0.4718
+ ]
+}

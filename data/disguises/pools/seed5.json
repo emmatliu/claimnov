@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_9e3111d9f363a1b30c16c3a0935bd6e5682fade4",
+   "title": "Towards Optimal Robustness in Learning-Augmented Paging",
+   "date": "2026-05-31",
+   "is_B": true
+  },
+  {
+   "id": "23d7250dd1877ef142525281f22887a0bceeee45",
+   "title": "Paging with Succinct Predictions",
+   "date": "2022-10-06"
+  },
+  {
+   "id": "d4638086aec2afd8e1db644e74aa8eb76b6d3021",
+   "title": "Robust Learning-Augmented Caching: An Experimental Study",
+   "date": "2021-06-28"
+  },
+  {
+   "id": "9b3a9dbbfdef9ea2819adfe24eb9888c46aac68f",
+   "title": "Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems",
+   "date": "2024-06-26"
+  },
+  {
+   "id": "385e4a73df6e88109e2138079e112e6c213e3252",
+   "title": "A strongly competitive randomized paging algorithm",
+   "date": "1991-06-01"
+  },
+  {
+   "id": "7345e49a8bcaf2cd1b248a18e0ab5479e81d4004",
+   "title": "Competitive Paging Algorithms",
+   "date": "1991-12-01"
+  },
+  {
+   "id": "da87921e9a7fc1851a0be8754b0565b5f43a3265",
+   "title": "Better and Simpler Learning-Augmented Online Caching",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "6c4e068c2e4b8f5cdc18bcf61cd7f66f6d22f8a7",
+   "title": "Competitive caching with machine learned advice",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "ae090c618017d4e9872e27fe6798b5d8ce4a94f2",
+   "title": "Near-Optimal Bounds for Online Caching with Machine Learned Advice",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "26026085f04b1e19f4429239046306c1817487a9",
+   "title": "Algorithms for Caching and MTS with reduced number of predictions",
+   "date": "2024-04-09"
+  },
+  {
+   "id": "7eff8a9dd12537613da104a5a8bba523d4fe3474",
+   "title": "Online Metric Algorithms with Untrusted Predictions",
+   "date": "2020-03-04"
+  },
+  {
+   "id": "b0a3d2672d5a8f5370703861ea5d49d6436ab512",
+   "title": "Data-driven Competitive Algorithms for Online Knapsack and Set Cover",
+   "date": "2020-12-09"
+  },
+  {
+   "id": "9a100b0cb074a261c2c536e3dbe6e29fa2acf385",
+   "title": "Learning-Augmented Dynamic Power Management with Multiple States via New Ski Rental Bounds",
+   "date": "2021-10-25"
+  },
+  {
+   "id": "cfa47b102798255657e2288f6695ca61347aa41b",
+   "title": "Learning-augmented smooth integer programs with PAC-learnable oracles",
+   "date": "2026-01-22"
+  },
+  {
+   "id": "19353e11ba7ab4901c74ec3114a8d4c01dddf014",
+   "title": "Learning-Augmented Algorithms for the Bahncard Problem",
+   "date": "2024-10-20"
+  },
+  {
+   "id": "68bc259a5eba4182c98d92f0242b13457fa8d69b",
+   "title": "Improving Online Algorithms via ML Predictions",
+   "date": "2024-07-25"
+  },
+  {
+   "id": "4f90764fb8e7d4b1c18696f034804a2aa6487f44",
+   "title": "Page Migration Algorithms Using Work Functions",
+   "date": "1993-12-15"
+  },
+  {
+   "id": "b8b2d2efa6e9d979757f5f2336395c1da2d92a34",
+   "title": "Learning-Based Algorithms for Graph Searching Problems",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "4f72fb1e3d2004858e2c438465edf74188482100",
+   "title": "Online Graph Coloring with Predictions",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "5c03aa6fb4680b55e61e9de730df0e0a1948c545",
+   "title": "Time Fairness in Online Knapsack Problems",
+   "date": "2023-05-22"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.7248,
+  0.6786,
+  0.6545,
+  0.6456,
+  0.6322,
+  0.6154,
+  0.608,
+  0.605,
+  0.5674,
+  0.5453,
+  0.5196,
+  0.5141,
+  0.5012,
+  0.4875,
+  0.4813,
+  0.4765,
+  0.4679,
+  0.466,
+  0.4542
+ ]
+}

@@ -1,0 +1,517 @@
+[
+ {
+  "id": "c1a1919eabe342ef74a969466617bfb7300471f7",
+  "title": "SWE-Hub: A Unified Production System for Scalable, Executable Software Engineering Tasks",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "8bff3fa8e598b9d0d48aec015965a0c752327792",
+  "title": "SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "55f6652fee9c1149d7ad7b001acb4ebd91dd0f75",
+  "title": "SWE-Prot\u00e9g\u00e9: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "221a2e9389583ce39512ebc87abee5d6e8fbb0b7",
+  "title": "GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "24aa45a9d95530701963400e2aa27ca1c642587f",
+  "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "d8b0ab044c2d61e7487a5f7d45e43e616442cae9",
+  "title": "Multi-CoLoR: Context-Aware Localization and Reasoning Across Multi-Language Codebases",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "b01c6b129af19e8b65cc37cd2b84b83fe9953d41",
+  "title": "Watermarking LLM Agent Trajectories",
+  "date": "2026-02-21"
+ },
+ {
+  "id": "b14112324a5733896cb95794b21dd56a49b65a8e",
+  "title": "Hybrid-Gym: Training Coding Agents to Generalize Across Tasks",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "e0db747ad65d72559e583ff92f729d68949e9daf",
+  "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "43ef5be7b11b837da92e333ff7dd7f080c78e225",
+  "title": "LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "1f09ae8491805852a18c386104ee2539d43e29d9",
+  "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "fcce48ea1cd1b6afa84af373e9838b4673474932",
+  "title": "PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "5480e506b5edf5fa383178c1a6b71153909052d5",
+  "title": "CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "3da0ac2c5c9252d3374a9e563ef49be61bd93b44",
+  "title": "FeatureBench: Benchmarking Agentic Coding for Complex Feature Development",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "95de24a97dc2414df99e9dd91994ba357e8ec236",
+  "title": "SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "daa78df390173abe96e74d1e9f3e3887c5fac549",
+  "title": "Immersion in the GitHub Universe: Scaling Coding Agents to Mastery",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "0bc543b5df20a19ab3820f91df9b0ed96129770f",
+  "title": "SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "65ad5a9e14e714c3c0edcca27f39bd9b905f4ed5",
+  "title": "Agent-Fence: Mapping Security Vulnerabilities Across Deep Research Agents",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "c3302c2a0ee67c9dc3494c3589968b5f929d277f",
+  "title": "Pull Requests as a Training Signal for Repo-Level Code Editing",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "496415ceb4e1e1d6e184bbf114c564aa371ea735",
+  "title": "AgentStepper: Interactive Debugging of Software Development Agents",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "f11cc645eefde2e2d18bdff1258dccee96750daf",
+  "title": "TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "7c8e7430fdfc95012a162c5d18e296545b650016",
+  "title": "SWE-Universe: Scale Real-World Verifiable Environments to Millions",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "b04e7f3513db00c8142b76af084383dd1c0c0e45",
+  "title": "daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "97f77f623f718cc8b60bd0a61b57eeb9bfdbb33f",
+  "title": "OmniCode: A Benchmark for Evaluating Software Engineering Agents",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "4dcbb47133e5acdf927611a7fc6c6680c53e796e",
+  "title": "Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "e3f4253aa34c7ba899c7c3d0826e271b923080e6",
+  "title": "DockSmith: Scaling Reliable Coding Environments via an Agentic Docker Builder",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "c64e8c894fa22c5ba2416b9c64e7fab1a0a0bd99",
+  "title": "World Models as an Intermediary between Agents and the Real World",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "8d4931f1dbfa806c70f96d7a9ecc46ad7e7396d4",
+  "title": "SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "9e647afc5be6ffe644b0210c419a7485d8d7f4cf",
+  "title": "MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "ddb55e6dc8960744d89ea882bcc14d7de664d28a",
+  "title": "SWE-Spot: Building Small Repo-Experts with Repository-Centric Learning",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "28a1e36c28afa899bcb0849c2f292ad0118ddfb0",
+  "title": "SERA: Soft-Verified Efficient Repository Agents",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "9ddc2b3cc7e2a165ada3ea880da3b7936c498122",
+  "title": "Revisiting Parameter Server in LLM Post-Training",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "5d1e99d1618bac7409f6dd1c093e18669e802bf8",
+  "title": "Beyond Text-to-SQL: Can LLMs Really Debug Enterprise ETL SQL?",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "6a4e80141e4556e9b8708f42a676769f177426fc",
+  "title": "TAM-Eval: Evaluating LLMs for Automated Unit Test Maintenance",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "fb5027cd886fad2f717ed6d5c0983945684faba3",
+  "title": "Neuro-Symbolic Verification on Instruction Following of LLMs",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "324369da113d3aab5585bf34104c627912dfaab7",
+  "title": "EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "6353d878913208b08de48ddfef0872ea9815dccb",
+  "title": "Computer Environments Elicit General Agentic Intelligence in LLMs",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "06764a1560c0b7c3c5c6f205fd87f53c21c75fff",
+  "title": "SWE-Tester: Training Open-Source LLMs for Issue Reproduction in Real-World Repositories",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "0302f2b11b220a22098f751a46c0cc78f55705d7",
+  "title": "The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "4b2cdc074a8fbd038b897e502dcd9c5fb4d3f595",
+  "title": "MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "f240452d14ad1501ef39d1475b681ae80398d913",
+  "title": "DocDancer: Towards Agentic Document-Grounded Information Seeking",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "57faa6ba3ed69fdd957aec24d0fda3a943bc9bdc",
+  "title": "Context as a Tool: Context Management for Long-Horizon SWE-Agents",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "bab1dcc599c5fbae43467fbdacfb7c08e98040df",
+  "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "b84f6df7b3b0db251bfac5efbfd233c692b9d572",
+  "title": "One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "c94545504f2dc1757e972118ca774be38d1674ce",
+  "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "dc8ded222cb71357c3a69f4bed057b1bca1beccd",
+  "title": "SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "257b73c3fe4350d432f31fa7e310799c305e2f35",
+  "title": "INTELLECT-3: Technical Report",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "70c3767a9673be5fb3bb811c6cec8ab2daf2ac5b",
+  "title": "Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "5a06df2bd9b1e237faef757497688359cd1275a0",
+  "title": "Training Versatile Coding Agents in Synthetic Environments",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "f5ad1d0d91c0df58637b0d7bc3b5ecd3ab915fa1",
+  "title": "Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "4edb351a4a3bf673c37bb474b49bf751890b2715",
+  "title": "SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "e7d090d9d7d795f8b7abbf4373bac17c75444ce8",
+  "title": "Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "4b7265127314b9d3d213e19044f66b33bbcb4a84",
+  "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "4112104eb14c98cbfd08f20112bc86e25334ca00",
+  "title": "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "36d2ac0e4913ecc0fe4e7f223590850f68f4b0d3",
+  "title": "SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "a6e63335ddcd1c8d616eac428549004218b52d53",
+  "title": "Environment Scaling for Interactive Agentic Experience Collection: A Survey",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "cf25bd0127bc48e40feec0b64580064ba3066c5d",
+  "title": "Klear-AgentForge: Forging Agentic Intelligence through Posttraining Scaling",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "5a11923691f5259d2a0359d7c0335a77fe773fa1",
+  "title": "SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "036f1449bd7392595150fe40d4e2042f95b9b3ed",
+  "title": "MicroRemed: Benchmarking LLMs in Microservices Remediation",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "15008d5d0491d83141ddfeaed2c750d75a279483",
+  "title": "Tree Training: Accelerating Agentic LLMs Training via Shared Prefix Reuse",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "4cd731d8e527bdd73ccbe9d5c0fb5b90f9d27295",
+  "title": "Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "4010db05a68a15d9d1df3478460d487ed07b43a9",
+  "title": "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "80af1501c0d70528ed775550320e8e0051ad5bfb",
+  "title": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "b8436a35444561832071f292f1e26e23ce9cfdad",
+  "title": "Scalable Supervision for Software Agents via Patch Reasoning",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "226e03cb4bec43767aec9ace0808b533445ba4ca",
+  "title": "BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "f94347dcec03e03488bf7217310414027c10d0c1",
+  "title": "STARK: Strategic Team of Agents for Refining Kernels",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "6423ec3669db5f497bbd94e93822b152cf8c15bd",
+  "title": "To Infinity and Beyond: Tool-Use Unlocks Length Generalization in State Space Models",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "59a6eb338650c3e61f282e85978a4df13f711ea4",
+  "title": "REAP the Experts: Why Pruning Prevails for One-Shot MoE compression",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "7c3ec85787498d05c1f0f7e0796330b481e594a7",
+  "title": "Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "06b93766d88b1ce3c289298b6db9a999702efb0f",
+  "title": "A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "b2275a93a2bcd732c2389a2915aad48ecd4bc29e",
+  "title": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "ad59a59e87bea970c7893f0d3095783b9fee2b3c",
+  "title": "When Names Disappear: Revealing What LLMs Actually Understand About Code",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "71cec9070745a8306f4401fd4d5f889c16dce635",
+  "title": "How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "ccef1988a262e9e6622607d394d83d82670d4e1f",
+  "title": "InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "83b17eb56f765916bcac5c9bde72e786d5d47898",
+  "title": "TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "51357ff32df3924f29e550aaf71c9882c2b99348",
+  "title": "Variational Reasoning for Language Models",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "df0a07beb75eea9c71ca70344726e5c822974c40",
+  "title": "Language Models Can Learn from Verbal Feedback Without Scalar Rewards",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "48e5df299338cf77db21d1a2565fae0c33aea8d4",
+  "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "a81c481189ec4719b80ceec31f7c0277ba782d4a",
+  "title": "PromptCoT 2.0: Scaling Prompt Synthesis for Large Language Model Reasoning",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "7a7eccd15bf3f4a638250d0705a9a7889bf9951f",
+  "title": "ARE: Scaling Up Agent Environments and Evaluations",
+  "date": "2025-09-21"
+ },
+ {
+  "id": "439dfba3da8026559ab8ba5d088c2e601c11de74",
+  "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "19338c9f964212eaa85517448e72180eb79fbef4",
+  "title": "MedicalOS: An LLM Agent based Operating System for Digital Healthcare",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "a16aba7e5fd046df3485d7146c1372117b992111",
+  "title": "Building Coding Agents via Entropy-Enhanced Multi-Turn Preference Optimization",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "3b7c8c5e93e27be7d9456238afec00f229b7abc9",
+  "title": "The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "608531e07f3cb0566f45328fdac1b5624b127a8a",
+  "title": "Training Language Model Agents to Find Vulnerabilities with CTF-Dojo",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "4744e985e286b98f6a2fc2935002c472e5e70a03",
+  "title": "DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery",
+  "date": "2025-08-09"
+ },
+ {
+  "id": "eebec6ce3af56890ca4eb2337383e11294c365f9",
+  "title": "Tool-integrated Reinforcement Learning for Repo Deep Search",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "0307bd5ec17c146a0cb8f8592f3027196bdb3f44",
+  "title": "Kimi K2: Open Agentic Intelligence",
+  "date": "2025-07-28"
+ },
+ {
+  "id": "9bd2216cff6ef1e95c1435d00824973f7fb21bee",
+  "title": "Agentic Program Repair From Test Failures at Scale: A Neuro-Symbolic Approach With Static Analysis and Test Execution Feedback",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "4c64e3a7b65b02c510a6e626907eee51319382d6",
+  "title": "Doc2Feat-Bench: Evaluating Documentation-Driven Feature Addition",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "67e8bbfdd81b5fb93e16680cf934267cb8e1c282",
+  "title": "SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "f786c7e4a421928c75fff88b9405ae78f4a4bc14",
+  "title": "SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks",
+  "date": "2025-07-15"
+ },
+ {
+  "id": "e09229591e42c1286b176e4a670bc2cc14d21369",
+  "title": "Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "20f14fa5cd4f3bdd4cdd9395a569322dd4d60105",
+  "title": "Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "319694295cc5f57d119bbc460ed77d1c35c83680",
+  "title": "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "3165b1ba970c97938aabf8db2b47a585f0b689d8",
+  "title": "SWE Data Construction, Automatically!",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "d6a12c705d28c2b44de995fd974b5f1d7a962aff",
+  "title": "AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "3158f0db4c6a0addef18b30675d90e0d96e06227",
+  "title": "From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "ba94b16451c8e7a50e8eb799a47a86ba5100f787",
+  "title": "GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "7cab61a4d24a6e10abaadca758824e078e790187",
+  "title": "Behavior Injection: Preparing Language Models for Reinforcement Learning",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "2ad1d0e5fd9b0a71fa3d09f9048daafe22697b39",
+  "title": "SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "1ac6b0d31ad221a6fb6b505585ccdb107d8b92cb",
+  "title": "Survey on Evaluation of LLM-based Agents",
+  "date": "2025-03-20"
+ },
+ {
+  "id": "0b8321b6b218e52ff2050d6f0c4ef39d7e75d7a2",
+  "title": "Repo2Run: Automated Building Executable Environment for Code Repository at Scale",
+  "date": "2025-02-19"
+ }
+]

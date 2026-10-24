@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_7c79e44303248fa15e3e4c61ea7027fccd1900f2",
+   "title": "Securing Multimodal AI through Internal Information Decomposition",
+   "date": "2026-05-03",
+   "is_B": true
+  },
+  {
+   "id": "62474020cdd6d106fa0d32c10335bc91e4d713c5",
+   "title": "UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models",
+   "date": "2024-11-03"
+  },
+  {
+   "id": "1517fdf265b62fff361735ba105152d132127ef9",
+   "title": "Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models",
+   "date": "2024-07-31"
+  },
+  {
+   "id": "7bbcd5d3ccb535e663fa7cc66d8d8120b422fccb",
+   "title": "MirrorCheck: Efficient Adversarial Defense for Vision-Language Models",
+   "date": "2024-06-13"
+  },
+  {
+   "id": "27ce6603b7cd5a43f2ef9811b7775008a7d9602b",
+   "title": "White-box Multimodal Jailbreaks Against Large Vision-Language Models",
+   "date": "2024-05-28"
+  },
+  {
+   "id": "1a5a79b393b3f00eb5a47243ee031ad799d2f641",
+   "title": "MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models",
+   "date": "2023-11-29"
+  },
+  {
+   "id": "3e30a7ac4886b28eb50151f58e14a1d698cccd0e",
+   "title": "Baseline Defenses for Adversarial Attacks Against Aligned Language Models",
+   "date": "2023-09-01"
+  },
+  {
+   "id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+   "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+   "date": "2023-07-27"
+  },
+  {
+   "id": "18939eadc9c4460c8385e0591cde214a1ead067b",
+   "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+   "date": "2020-03-03"
+  },
+  {
+   "id": "8fe9e81f6c2e3626e490f6854f0831ea4b78037e",
+   "title": "Mitigating Many-Shot Jailbreaking",
+   "date": "2025-04-13"
+  },
+  {
+   "id": "0a691e58a36cdcdaaf72294e88420f79e61e85c7",
+   "title": "ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs",
+   "date": "2024-02-19"
+  },
+  {
+   "id": "24253eb1c425de4c4e4c9946ed1b6eb5bdc8fba9",
+   "title": "Jailbreaking Attack against Multimodal Large Language Model",
+   "date": "2024-02-04"
+  },
+  {
+   "id": "b78b5ce5f21f46d8149824463f8eebd6103d49aa",
+   "title": "FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts",
+   "date": "2023-11-09"
+  },
+  {
+   "id": "89c3bd70ad33c4f8832f00ab98872b77861ee0ec",
+   "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+   "date": "2022-12-07"
+  },
+  {
+   "id": "4637f79ddfaf923ce569996ffa5b6cda1996faa1",
+   "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+   "date": "2023-10-12"
+  },
+  {
+   "id": "391eaeb1092c2b145ff0e5a2fa61637a42921fce",
+   "title": "DRESS : Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback",
+   "date": "2023-11-16"
+  },
+  {
+   "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+   "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "2c4d2d889a1f0ff9598de829a001df11a95d3294",
+   "title": "Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack",
+   "date": "2024-04-02"
+  },
+  {
+   "id": "42b3626ec3baa1f5f06bc1773db96fcbd419db48",
+   "title": "Nonnegative Decomposition of Multivariate Information",
+   "date": "2010-04-14"
+  },
+  {
+   "id": "a9e19e8ab24071a085d1273b9f9d49aa0e4ba48c",
+   "title": "VizWiz Grand Challenge: Answering Visual Questions from Blind People",
+   "date": "2018-02-22"
+  }
+ ],
+ "n_candidates": 19,
+ "sims": [
+  0.6559,
+  0.5988,
+  0.5945,
+  0.5673,
+  0.5612,
+  0.544,
+  0.5128,
+  0.4955,
+  0.4717,
+  0.4624,
+  0.4603,
+  0.4552,
+  0.4417,
+  0.4197,
+  0.4197,
+  0.4144,
+  0.4106,
+  0.3393,
+  0.2849
+ ]
+}

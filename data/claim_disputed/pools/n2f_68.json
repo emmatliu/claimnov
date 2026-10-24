@@ -1,0 +1,96 @@
+{
+ "pool": [
+  {
+   "id": "B_dbeba84099d5a848cbba0c42c5c9d3843a8ea8ec",
+   "title": "Learning Combinations of Activation Functions",
+   "is_B": true
+  },
+  {
+   "id": "93100ebe89840bc235c586ddc6daccd262707fec",
+   "title": "Learning Activation Functions to Improve Deep Neural Networks",
+   "date": "2014-12-21"
+  },
+  {
+   "id": "424a6e62084d919bfc2e39a507c263e5991ebdad",
+   "title": "Self-Normalizing Neural Networks",
+   "date": "2017-06-08"
+  },
+  {
+   "id": "1b3aab4ff8f77b81501f271877321609cc1a1a2b",
+   "title": "Learned-Norm Pooling for Deep Feedforward and Recurrent Neural Networks",
+   "date": "2013-11-07"
+  },
+  {
+   "id": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23",
+   "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+   "date": "2015-02-06"
+  },
+  {
+   "id": "f63e917638553414526a0cc8550de4ad2d83fe7a",
+   "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
+   "date": "2015-11-23"
+  },
+  {
+   "id": "5e83ab70d0cbc003471e87ec306d27d9c80ecb16",
+   "title": "Network In Network",
+   "date": "2013-12-16"
+  },
+  {
+   "id": "ecd29385eb214d75fc4b310489ab11977a5d1181",
+   "title": "Random Walk Initialization for Training Very Deep Feedforward Networks",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "bd19dd1ccd9412171c6932d1556eeb47131b30ce",
+   "title": "Zero-bias autoencoders and the benefits of co-adapting features",
+   "date": "2014-02-13"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "b7b915d508987b73b61eccd2b237e7ed099a2d29",
+   "title": "Maxout Networks",
+   "date": "2013-02-18"
+  },
+  {
+   "id": "4954fa180728932959997a4768411ff9136aac81",
+   "title": "TensorFlow: A system for large-scale machine learning",
+   "date": "2016-05-27"
+  },
+  {
+   "id": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+   "title": "ImageNet Large Scale Visual Recognition Challenge",
+   "date": "2014-09-01"
+  },
+  {
+   "id": "579e0077a3810510a7965224a8782ecc01766ea0",
+   "title": "Achieving Human Parity in Conversational Speech Recognition",
+   "date": "2016-10-17"
+  },
+  {
+   "id": "f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
+   "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms",
+   "date": "2017-08-25"
+  }
+ ],
+ "n_candidates": 14,
+ "sims": [
+  0.7137,
+  0.5338,
+  0.5276,
+  0.4953,
+  0.4752,
+  0.4742,
+  0.4364,
+  0.4359,
+  0.3909,
+  0.3901,
+  0.3512,
+  0.2713,
+  0.2348,
+  0.1918
+ ]
+}

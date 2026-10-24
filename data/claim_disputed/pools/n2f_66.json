@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_81f0c0edd9f5415740079d48c4671d9cd6f1a572",
+   "title": "How Private are DP-SGD Implementations?",
+   "is_B": true
+  },
+  {
+   "id": "c3b4ad89bc1c76892a5dd62881663b229b9a7826",
+   "title": "Practical and Private (Deep) Learning without Sampling or Shuffling",
+   "date": "2021-02-26"
+  },
+  {
+   "id": "c196481fa0047898027ad01045ff6c4a1459f6fa",
+   "title": "Connect the Dots: Tighter Discrete Approximations of Privacy Loss Distributions",
+   "date": "2022-07-10"
+  },
+  {
+   "id": "b88c0990cb25ac3d7786132e8121b01a0efef933",
+   "title": "Amplification by Shuffling: From Local to Central Differential Privacy via Anonymity",
+   "date": "2018-11-29"
+  },
+  {
+   "id": "00ef97018c9393cb15a069f8796e83908df9f4fa",
+   "title": "Privacy Loss Classes: The Central Limit Theorem in Differential Privacy",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "5b0f2ff37a977fd4b0c845b27726b65682bf8ac6",
+   "title": "How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy",
+   "date": "2023-03-01"
+  },
+  {
+   "id": "008231c64b35b7dcae295deda0044c3d9361907a",
+   "title": "Privacy Amplification by Iteration",
+   "date": "2018-08-20"
+  },
+  {
+   "id": "fe6f8b49e73ca96f24c83cc933f3072c57a3e0c7",
+   "title": "Optimal Accounting of Differential Privacy via Characteristic Function",
+   "date": "2021-06-16"
+  },
+  {
+   "id": "9f273025ef89f780e63f65dacec14135c7041b39",
+   "title": "Hiding Among the Clones: A Simple and Nearly Optimal Analysis of Privacy Amplification by Shuffling",
+   "date": "2020-12-23"
+  },
+  {
+   "id": "08c43944c22a3e10cecd5936f04f3e07b0e636c1",
+   "title": "Numerical Composition of Differential Privacy",
+   "date": "2021-06-05"
+  },
+  {
+   "id": "e9a6ebb6382e1a1a4ae967699d70ced030361044",
+   "title": "Medical imaging deep learning with differential privacy",
+   "date": "2021-06-29"
+  },
+  {
+   "id": "603d625925e28f7dab7a902a6ad8949ffff85568",
+   "title": "Stronger Privacy Amplification by Shuffling for R\u00e9nyi and Approximate Differential Privacy",
+   "date": "2022-08-09"
+  },
+  {
+   "id": "b526ea3746917b4c8dce9969d6b4a7d71480fffa",
+   "title": "Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss",
+   "date": "2022-05-27"
+  },
+  {
+   "id": "2a60bebcb0d01aa1d27ab0f4e6d2210df093042c",
+   "title": "Unlocking High-Accuracy Differentially Private Image Classification through Scale",
+   "date": "2022-04-28"
+  },
+  {
+   "id": "4c0f2d909c58447109a8f938ddd7e46c2fbfb921",
+   "title": "Private Ad Modeling with DP-SGD",
+   "date": "2022-11-21"
+  },
+  {
+   "id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+   "title": "Deep Learning with Differential Privacy",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "0ba0091c60c0346493b9ffb46ac682eee5453a53",
+   "title": "Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping",
+   "date": "2022-12-03"
+  },
+  {
+   "id": "e231843966472fa60117403f49f2ac5f252ed1d9",
+   "title": "A Randomized Approach for Tight Privacy Accounting",
+   "date": "2023-04-17"
+  },
+  {
+   "id": "9dea2c15a044a3c83d0d66b9c3daa91d457d905f",
+   "title": "Differentially Private Diffusion Models",
+   "date": "2022-10-18"
+  },
+  {
+   "id": "7290945147946bc5ac06ec010e07d027e306d6aa",
+   "title": "Tempered Sigmoid Activations for Deep Learning with Differential Privacy",
+   "date": "2020-07-28"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.682,
+  0.5987,
+  0.5843,
+  0.5788,
+  0.576,
+  0.5745,
+  0.5611,
+  0.5591,
+  0.5588,
+  0.5521,
+  0.5487,
+  0.5482,
+  0.5454,
+  0.5401,
+  0.5334,
+  0.5328,
+  0.5269,
+  0.524,
+  0.521
+ ]
+}

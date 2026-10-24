@@ -1,0 +1,14 @@
+You are preparing a novelty assessment of a research PROPOSAL. Read it and extract its core task and its claimed contributions.
+
+1. core_task: one short phrase (at most 15 words) naming the problem or task the proposal addresses, in neutral field terminology.
+2. contributions: the 1-3 most important contributions the proposal claims as its own (fewer if the proposal makes fewer distinct claims). For each give
+   - "name": a short label (at most 10 words),
+   - "claim": the contribution as the proposal states it, one or two sentences, keeping its concrete specifics (what is proposed, how it works, what it is claimed to achieve),
+   - "query": a search query (at most 25 words) that would find prior papers presenting this same contribution.
+Do not list background, motivation, or generic evaluation steps as contributions.
+
+PROPOSAL:
+{idea}
+
+Return JSON only:
+{{"core_task": "...", "contributions": [{{"name": "...", "claim": "...", "query": "..."}}]}}

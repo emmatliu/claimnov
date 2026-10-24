@@ -1,0 +1,597 @@
+[
+ {
+  "id": "32bf2981e2533f17a0b20d7caeacac3250e6d54b",
+  "title": "How to Speculate about Uncertainty in Agentic Coding? A Draft-Model Gate Method",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "66957dde3b6611d4aefc07b32e055565271ca461",
+  "title": "The Impact of GenAI on the Future of Requirements Engineering",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "ddce07220cd13c1c4b3cb53c13183b8162142ec4",
+  "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "d5362a425346b5901bad74db13e8ff2faca2c2d7",
+  "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "f7fd026d22d8f5f20eb774b33cc09704c6c1b15a",
+  "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "6aff4b6ab72646f6e532578b05bba8d8efd23a17",
+  "title": "Auditing Harness Tampering in Self-Improving Agents",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "600e684fc5091d5f1620712f73af858abaef1eac",
+  "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "7c02a0a629bf1b5b60cd1553fbdad5db90512689",
+  "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "a927357fa504f977cc0438d84aeba29946e2965b",
+  "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "da041f1305ceb70ab1c00e409f870231508ac5e1",
+  "title": "Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "39b29e08ab303e14eca504e1fd989d7201dbbb1e",
+  "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "ae516537152f8697a6ed9c8d04c17d94e774fd55",
+  "title": "Learning Generalizable Behaviors for Terminal Agents",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "47aa2ac90ad7d8685e5c810b6b24e6949c7bb67c",
+  "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "10987879670ac272ec7dbb5a9cc919a998a216b6",
+  "title": "PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "99563c273b95c0a06125ccea8e74f4c50984d48a",
+  "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "2341402782ac40bd86726f9819abbf4caeb6da16",
+  "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "ea8670db0498d314e2fc12a6fbb89966dacec0a3",
+  "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "6f503e19c00fa55c329c86de78e13d851caa20fe",
+  "title": "What Makes Software Issue Resolution Tasks Difficult for Agents?",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "c800689c48510965a5241580d2f62414bc46627b",
+  "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "d790798b5476e20aa714ecb7fbccb1ed2406548c",
+  "title": "Evaluating Agentic Code Repair Capabilities in Distributed Systems",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "71137b650641f2fc16d1fc094913ab557582d0b8",
+  "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "7b9ff53b285fefdd1c6cc43b55b6668d3a09da7e",
+  "title": "Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "e3387621bbe21be6b8ae86658b29dbd50a78323a",
+  "title": "FailForge: Distilling Procedural Competence from Persistent Failures into Code Agents",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "6fddb20ccee53bca45c9febf5d27d77feda81219",
+  "title": "DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "af1387684c0ac115693f39581494a57f8a9ca9bb",
+  "title": "Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "867741ebf131cf201c5de3b050d490fc09ffdd9d",
+  "title": "Scrouting: Cost-Aware Routing of Coding Agents by Scouting the Repository First",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "5830337bc2650cea75c9bbb6f6cb245cac834f7d",
+  "title": "Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "41360edebf06af7bc8f4aa09e5dbaa553858f0e1",
+  "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "1c5cda74926f69c331b5c168fc6b8711475fcf28",
+  "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "68f01c10743924ac5e93630c07c3757e27fc21da",
+  "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "cf390e769d884cf7201a7bcceedd652c509babc4",
+  "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "283f25aa384d63a3ed3861646683300744447f1a",
+  "title": "The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "c608f1ee766be8f35fe1df7ec0b145ec7fb45797",
+  "title": "A Systematic Evaluation of Trajectory Data Curation for LoRA Fine-Tuning of Code Agents",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "240a62449e54dbbed74b320d6d9cd4d118291b2b",
+  "title": "MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "c9c2fb7719370179b4fac37154f53d8f12080cce",
+  "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "11c5d5c9aa64edf22140493bb6fc98788adbb807",
+  "title": "NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "735a656db7734f21d8ee6e30aee6f5a34d34848f",
+  "title": "SETA: Scaling Environments for Terminal Agents",
+  "date": "2026-07-12"
+ },
+ {
+  "id": "66bfe3703a505b305ba333837ad763fdca19308a",
+  "title": "Writing Bug Reports for Software Repair Agents: What Information Matters Most?",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "40987ee2f6d9bb23bad85bc4c455a087c38b43cf",
+  "title": "RLVP: Penalize the Path, Reward the Outcome",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "b703f91ca7c77b2723e4a4f23afb6ad814f0332d",
+  "title": "AgentTether: Graph-Guided Diagnosis and Runtime Intervention for Reliable LLM Agent Operation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "5a141ce0ecfa83353fc71e26629821ffcf06ee86",
+  "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "7ea73a1c02abfe90a750497a96c2cd8e70e9b7f8",
+  "title": "KAT-Coder-V2.5 Technical Report",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "1231876b4c92c7a26d4e0cbea9cac388d6dafefb",
+  "title": "Anchored Self-Play for Code Repair",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "3cff6a9fb7654fce727ac0db4f439b0d140884d7",
+  "title": "CoACT: Action-Preserving Observation Compression for Coding Agents",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "3adabcbb7128352aa41c486bed45b4e4c9e7d037",
+  "title": "LLVM-Bench: Benchmarking and Advancing Large Language Models for LLVM Compiler Issue Resolution",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "cc1d17816acb0f55d96122fc8ee797e6c73c26cb",
+  "title": "SWE-Router: Routing in Multi-turn Agentic Software Engineering Tasks",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "d0b0cc20a9d9524e7c2d24abdcaf939e35c94137",
+  "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "7875f695d8da802e6a531c112d238a50e87d6541",
+  "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "50b3964b284c19d5824ed06aa13b6b6fc5cf1790",
+  "title": "Tmax: A simple recipe for terminal agents",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "201eb0e7a684b79315fd5f0725cfa29dfcee6faa",
+  "title": "Steer, Don't Solve: Training Small Critic Models for Large Code Agents",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "1d58969ef96fb52ce1982f1816e06eb8d4c01703",
+  "title": "CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "c7631745c988f5875b42d5fa9d305615d6578fdf",
+  "title": "Open-SWE-Traces: Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "bc28084bd52e6e62aea88a2421e175d796ba577a",
+  "title": "Beyond Correctness: Enhancing Architectural Reasoning in Code LLMs via Scalable Labeling with Agentic Judgment",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "ea18ee3e573e84146d6ea305d8b422b24128f04a",
+  "title": "Dialogue SWE-Bench: A Benchmark for Dialogue-Driven Coding Agents",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "8fb472e9ee20f09bfaaea9fe89cf3569851d4263",
+  "title": "No Accidental Software Agent First Canonical Code for Human Code Entropy Reduction and 30 to 500 times Lower Frontier Model Requirements",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "c884e41056de27be1e904edf8cdc596a16d0ff23",
+  "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "d37dec5fae44ce654944724c58a7fc94aee8e3b6",
+  "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "7b1f168bbb5d0f98b850a901908a94494c847bf8",
+  "title": "Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "a92c227cc3a2444a6abc35a46d6847683c869dd3",
+  "title": "T1-Bench: Benchmarking Multi-Scenario Agents in Real-World Domains",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "71f1c9754e06fd3931c90bee73d31ed7351b2d7e",
+  "title": "MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "0626c6de4fa5f8111c62318b4d44492ea19a934a",
+  "title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "f7e13fd1cbf7cff9ecab4d019049a0ae4ac97d7e",
+  "title": "Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "bf8ecfb57bd95b0b3ea11b1e3b9dd546aff5a728",
+  "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "0735d4aa005d57613c18b4e63184883a03d4b5d3",
+  "title": "What Makes Interaction Trajectories Effective for Training Terminal Agents?",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "aea1fd4840de92e0f43d7b66cbce7e6ddda33027",
+  "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "bb8859a96dae83a1646c10ad780796c8f0017b02",
+  "title": "Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "3ca9bca94c1e4ca82575eeafba94855794c41246",
+  "title": "unix-ctf: Procedural Environments for Unix-Competence Reinforcement Learning",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "dbcea7214184096d02f6a4f99633d37d8b7a02d8",
+  "title": "Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "c1c92ae04a39645cd8f807957f52ccad05a1ca7f",
+  "title": "Laguna M.1/XS.2 Technical Report",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "0e25ca4af3b9341c7e8c71de34c81eeed2ddc09d",
+  "title": "Automatically Learning Skills for Coding Agents",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "0ba474c08c8cd2f600a9a610380d0c77149e1586",
+  "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "a951519ec4b847f398c2b3dd45b9165cc22f63c0",
+  "title": "CODESKILL: Learning Self-Evolving Skills for Coding Agents",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "bec30b3699284b29a39174418915c69f5fb52b91",
+  "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "10ea2571b0950a1af3a3ff33a91dde7cb8ad716f",
+  "title": "RepoMirage: Probing Repository Context Reasoning in Code Agents with Perturbations",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "0ca31fabb2dedf1394219bbaeb307fa5d5b35ad7",
+  "title": "PR-Aware Automated Unit Test Generation: Challenges and Opportunities",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "895e7c407266da12b26cb563c6952fffe5ed5c93",
+  "title": "Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "c9cb2a6c697e07811fcf8af952f40ea8b5c8718c",
+  "title": "From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "26f0fec41859970839ec18aea0979319bf1ba9f6",
+  "title": "\"Refactoring Runaway\": Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "79a564c6018e95373c81c1c809e8af83f703053d",
+  "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "f424a8b07aa5250773e67ad2f03c801eaf1e3f30",
+  "title": "f-OPD: Stabilizing Long-Horizon On-Policy Distillation with Freshness-Aware Control",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "3000c27d5373e9b52cb5f579c65d78c25ed0fb84",
+  "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "6c6cd94ea7d0ce70e13d5161ed58f9bc7b38fc78",
+  "title": "Revisiting DAgger in the Era of LLM-Agents",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "efe03ae9abd1c3879b5c2c2f9758e07ae5183f24",
+  "title": "PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "6e8e05d3bd5db523655250b7abc79f11a70d462a",
+  "title": "Hindsight Hint Distillation: Scaffolded Reasoning for SWE Agents from CoT-free Answers",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "60b1976dae93efa008e2ec16262f825321beb88d",
+  "title": "On Problems of Implicit Context Compression for Software Engineering Agents",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "a979fc2904ce3469c9b78025c83dd3f153966e12",
+  "title": "M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "d826789fcc7fdb37495eb119c2ebc360f4573476",
+  "title": "Sequential Behavioral Watermarking for LLM Agents",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "751eb9d43ba5ef8ff82e81e11340f0c0339462db",
+  "title": "Step Rejection Fine-Tuning: A Practical Distillation Recipe",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "e5e71808e33a2a9a4c4af50beb169bccefa89f72",
+  "title": "ScarfBench: A Benchmark for Cross-Framework Application Migration in Enterprise Java",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "3f0d49d319e032c9967326e8161736e82f39bce2",
+  "title": "ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "0edeaed8b1ee92cc76fecb7c63d938787334c7a4",
+  "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "dcd3f0b85eefa2578740dbdcfedabddb1862f406",
+  "title": "D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "d290f0650ab537a0625500cb449a3f659baf3ced",
+  "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "9486807900f6520025f9f3c75409d231135f0164",
+  "title": "Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "f799dc8f3a661a150a8685fa656223dea3cfe268",
+  "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "72ad89fd532c2fe50a82571f65cb56a3db58863f",
+  "title": "Post-training is (Massive) Supervised Learning",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "58a7cf12c7747306a07b4466f1480fc64049b4ec",
+  "title": "Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "a5fecc8cf8325f84876dd96ee5a29c83681bc545",
+  "title": "Neurosymbolic Repo-level Code Localization",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "9e782a2f817661998ab280b93d87754d549465cc",
+  "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "40d9435df32aabd2fa8b5b8becb896e45a892b90",
+  "title": "Evaluating LLM Agents on Automated Software Analysis Tasks",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "4f7d74d5a6827675241ec427e790122fa57b53e6",
+  "title": "LLM-Based Automated Diagnosis Of Integration Test Failures At Google",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "65203f2e61aa87d3f68172fb5a61895c3b5f3269",
+  "title": "Setup AGent (SAG): A Dual-Model LLM Agent for Autonomous End-to-End Java Project Configuration",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "198fa31467944e7bba55f34b2197d0cf235da1d5",
+  "title": "ORACLE-SWE: Quantifying the Contribution of Oracle Information Signals on SWE Agents",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "c187984fccc4a280da6d058d80b3b0bb99336394",
+  "title": "Scaling Coding Agents via Atomic Skills",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "ae139632d32819318f0ddd06f936eec3c730bdac",
+  "title": "From SWE-ZERO to SWE-HERO: Execution-free to Execution-based Fine-tuning for Software Engineering Agents",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "8b34eaf14d62175f01006cbb1ded26f597296673",
+  "title": "Compressing Code Context for LLM-based Issue Resolution",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "e929d06c65479fe447afb618c30b8e79b3c4003c",
+  "title": "KAT-Coder-V2 Technical Report",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "ccbc025cfbed572a92ccaaf5befac794441683d1",
+  "title": "Composer 2 Technical Report",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "fe47a998065f39755d76a6a878904da5b5bdf10d",
+  "title": "Dynamic analysis enhances issue resolution",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "abfbc3fe1b6466264c3140c57a156cfc80c5db92",
+  "title": "SWE-Next: Scalable Real-World Software Engineering Tasks for Agents",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "25ae761a2be911a0a5e93cb3c1fdd5f2b2e9a3cb",
+  "title": "CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "8edef0ba9681f8616f0a89a73f8b402cfb508d4b",
+  "title": "ML-AutoResearch: Training Machine Learning Research Agents with Automatically Generated Environments",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "48854f77c0315c0a3e8c06eb55bf0ef635e7f008",
+  "title": "Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "3d86e376017d1c4e23af3091070f3c74f850a25b",
+  "title": "Beyond Verifiable Rewards: Rubric-Based GRM for Reinforced Fine-Tuning SWE Agents",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "21d62118f0d14bd2fe6797fd6691bffd25aabec8",
+  "title": "Resolving Java Code Repository Issues with iSWE Agent",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "ab2e2b30f9a679233d5924662315e754acce30e9",
+  "title": "SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "91729156e742cd1d55de96d188b14fc3fe8eeae3",
+  "title": "Patch Validation in Automated Vulnerability Repair",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "c85dc79befe8e707737f3d8d09c6c55c754a201f",
+  "title": "ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "4e8cc424482856852e132e423b1b4281db7fda1a",
+  "title": "BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?",
+  "date": "2026-03-03"
+ }
+]

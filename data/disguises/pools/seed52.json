@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_869417f752b7b348e1bc71e9858ea08f6c0ab55e",
+   "title": "Training Diffusion Language Models for Black-Box Optimization",
+   "date": "2026-03-18",
+   "is_B": true
+  },
+  {
+   "id": "46bdfd2b44188f1dbe10967541c52ad7a77576d5",
+   "title": "Diffusion Large Language Models for Black-Box Optimization",
+   "date": "2026-01-20"
+  },
+  {
+   "id": "74d4de69a1a81ad9a76abbfcffa24e186e96afd3",
+   "title": "Diffusion Models for Black-Box Optimization",
+   "date": "2023-06-12"
+  },
+  {
+   "id": "6149eb22d397dc2af7bff916420382bfed921893",
+   "title": "Design Editing for Offline Model-based Optimization",
+   "date": "2024-05-22"
+  },
+  {
+   "id": "9901373674241a909f603ac08fa889dfc86a4d22",
+   "title": "Bidirectional Learning for Offline Model-based Biological Sequence Design",
+   "date": "2023-01-07"
+  },
+  {
+   "id": "81d94696d3beba402fb81b9f3ddd33eac8568280",
+   "title": "Towards Universal Offline Black-Box Optimization via Learning Language Model Embeddings",
+   "date": "2025-06-08"
+  },
+  {
+   "id": "f23222ad51b9b1f4c1addcf848906db7698ccbff",
+   "title": "Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization",
+   "date": "2022-02-17"
+  },
+  {
+   "id": "1fa109cf8ef9888e5f0dbfe9a6a6d7918594856e",
+   "title": "Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization",
+   "date": "2024-06-29"
+  },
+  {
+   "id": "a93d1eec880c768a34ad02e39f668f29d0547494",
+   "title": "Generative Pretraining for Black-Box Optimization",
+   "date": "2022-06-22"
+  },
+  {
+   "id": "7d0cd786215f2ffa4f21c59643dc2da30be17ae8",
+   "title": "Offline Model-Based Optimization: Comprehensive Review",
+   "date": "2025-03-21"
+  },
+  {
+   "id": "7f9d083452781dbb3259eb76096f73cc4d369a5c",
+   "title": "Importance-aware Co-teaching for Offline Model-based Optimization",
+   "date": "2023-09-20"
+  },
+  {
+   "id": "d21cb7b9744365f0ada5527be380236495dd3521",
+   "title": "Position: Leverage Foundational Models for Black-Box Optimization",
+   "date": "2024-05-06"
+  },
+  {
+   "id": "4bf07a29e43404466e419a3c6c350ebbaabc6970",
+   "title": "Parallel-mentoring for Offline Model-based Optimization",
+   "date": "2023-09-20"
+  },
+  {
+   "id": "0d11a9674b68216b92e08cf7617a93fbd3fb91f4",
+   "title": "Large Language Diffusion Models",
+   "date": "2025-02-14"
+  },
+  {
+   "id": "f8a2dca1e8fe56e698984c077f7ff58d8ca867e9",
+   "title": "Large Language Models as Optimizers",
+   "date": "2023-09-07"
+  },
+  {
+   "id": "792249fdfb563263bb15adf659ff735630dab098",
+   "title": "Conservative Objective Models for Effective Offline Model-Based Optimization",
+   "date": "2021-07-14"
+  },
+  {
+   "id": "8e3b1f5d8b6c165f64137cc1f7dea89cf6f622bd",
+   "title": "d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "61024282f1523543a5b06326cb58c9b6ad14cdd1",
+   "title": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation",
+   "date": "2025-06-25"
+  },
+  {
+   "id": "f696fbd197ac8bd7cbed3583276c7432cbf65c59",
+   "title": "Language Model Embeddings Can Be Sufficient for Bayesian Optimization",
+   "date": "2024-10-14"
+  },
+  {
+   "id": "61f466f8b12df44009ab6a827bdb63f3f93a453d",
+   "title": "Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences",
+   "date": "2023-06-05"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.861,
+  0.7746,
+  0.73,
+  0.7067,
+  0.7051,
+  0.7042,
+  0.693,
+  0.6828,
+  0.6656,
+  0.6542,
+  0.6467,
+  0.6336,
+  0.6123,
+  0.6079,
+  0.6035,
+  0.5997,
+  0.5805,
+  0.5567,
+  0.5478
+ ]
+}

@@ -1,0 +1,927 @@
+[
+ {
+  "id": "40d6dd6f2b140ad41450ed0ecbcf6089e955faaf",
+  "title": "Step1X-Edit: A Practical Framework for General Image Editing",
+  "date": "2025-04-24"
+ },
+ {
+  "id": "bcb3e1a7af9d559f1df488e28b10f177203a5d28",
+  "title": "Transfer between Modalities with MetaQueries",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "d22210c5c30f1b788c63cf3efa66ebf88422da5a",
+  "title": "Less-to-More Generalization: Unlocking More Controllability by In-Context Generation",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "39a839808808ff310dc1e8abab6d470ebe62a549",
+  "title": "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "bc096f3245a37a36493d6d37f4fefd19965741f9",
+  "title": "KV-Edit: Training-Free Image Editing for Precise Background Preservation",
+  "date": "2025-02-24"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "604a6b7ebfc21db8b4860ab0054d17548d2f48c8",
+  "title": "SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer",
+  "date": "2025-01-30"
+ },
+ {
+  "id": "6ab6f3fcfa93c843dada682c55610df44af0e49f",
+  "title": "3D Object Manipulation in a Single Image using Generative Models",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "9c8f548b85af8d3c861c9d97b6172c4ee44673d6",
+  "title": "Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps",
+  "date": "2025-01-16"
+ },
+ {
+  "id": "83f0ad786a6bbbafbe84ecdb9d1a133f8e87a39c",
+  "title": "ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling",
+  "date": "2025-01-05"
+ },
+ {
+  "id": "273132e38242477861513b586ef5ee6d5262524e",
+  "title": "EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers",
+  "date": "2024-12-29"
+ },
+ {
+  "id": "32edab3b925a8f5f9ba41418b19af246704d9610",
+  "title": "Instruction-based Image Manipulation by Watching How Things Move",
+  "date": "2024-12-16"
+ },
+ {
+  "id": "94019a177ac4abc6b416629d2c24d2960ac34ca8",
+  "title": "Flowedit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+  "date": "2024-12-11"
+ },
+ {
+  "id": "51c05589c8ebb2624cec0b080d39ff353d9cc127",
+  "title": "InsightEdit: Towards Better Instruction Following for Image Editing",
+  "date": "2024-11-26"
+ },
+ {
+  "id": "b3cf046fc4957560a7b8b45cace8881a6c917178",
+  "title": "AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea",
+  "date": "2024-11-24"
+ },
+ {
+  "id": "dacb94adfa0a919aead2556a9fb57341463d0a0e",
+  "title": "Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator",
+  "date": "2024-11-23"
+ },
+ {
+  "id": "8e725147a29daff91d8872a699986caa2ba516bb",
+  "title": "OminiControl: Minimal and Universal Control for Diffusion Transformer",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "999a784f6c04d963759fa2e359ba2fc69bb9af11",
+  "title": "Stable Flow: Vital Layers for Training-Free Image Editing",
+  "date": "2024-11-21"
+ },
+ {
+  "id": "3a90c8911aec390ae046b52f2aeec55736dd09b3",
+  "title": "Golden Noise for Diffusion Models: A Learning Framework",
+  "date": "2024-11-14"
+ },
+ {
+  "id": "d731792f54ee9e75d339bf4f3fa1106248558fd4",
+  "title": "OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision",
+  "date": "2024-11-11"
+ },
+ {
+  "id": "40c946decdd573c35f7f448701e2c1719116d28c",
+  "title": "SeedEdit: Align Image Re-Generation to Image Editing",
+  "date": "2024-11-11"
+ },
+ {
+  "id": "9fa5d111ad8878c88c88cfba688cd306c2edd30b",
+  "title": "Taming Rectified Flow for Inversion and Editing",
+  "date": "2024-11-07"
+ },
+ {
+  "id": "97e17b1554096e7e5357c56892eb7fb1af5cd7f5",
+  "title": "In-Context LoRA for Diffusion Transformers",
+  "date": "2024-10-31"
+ },
+ {
+  "id": "3d7ad6ea53cf9e6dead56d8b92f14f7a465f5f2f",
+  "title": "Group Diffusion Transformers are Unsupervised Multitask Learners",
+  "date": "2024-10-19"
+ },
+ {
+  "id": "e086a9009a857fbe26dd83a34854a4c317f575b8",
+  "title": "One Step Diffusion via Shortcut Models",
+  "date": "2024-10-16"
+ },
+ {
+  "id": "79fe40db6ef10135aa75c9111f0a19d52a49ad7c",
+  "title": "3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation",
+  "date": "2024-10-16"
+ },
+ {
+  "id": "23270bd51107a0fa2dc773a3b3d64c576f6595ad",
+  "title": "ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer",
+  "date": "2024-09-30"
+ },
+ {
+  "id": "90c383413af5334f5d406b8c2fa4ca6c7fcaa97e",
+  "title": "UltraEdit: Instruction-based Fine-Grained Image Editing at Scale",
+  "date": "2024-07-07"
+ },
+ {
+  "id": "3ba3b46ef11e1f5a287aafe53e78f2d6ddf21cb1",
+  "title": "MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis",
+  "date": "2024-07-02"
+ },
+ {
+  "id": "2e660b9010055586e20234f7c346f43d9e30da6b",
+  "title": "Visual knowledge in the big model era: retrospect and prospect",
+  "date": "2024-04-05"
+ },
+ {
+  "id": "af9676f9beaeca214bfbf7f2897828820d48abdc",
+  "title": "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs",
+  "date": "2024-01-29"
+ },
+ {
+  "id": "4a48d628e53f554eb6ef09a457ca855188b96171",
+  "title": "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models",
+  "date": "2024-01-16"
+ },
+ {
+  "id": "411114f989a3d1083d90afd265103132fee94ebe",
+  "title": "Mixtral of Experts",
+  "date": "2024-01-08"
+ },
+ {
+  "id": "55a305a44829a9dbdcca9f4e06a68ca5c319e12e",
+  "title": "VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation",
+  "date": "2023-12-22"
+ },
+ {
+  "id": "388b0f44faf0a14cc402c2554ec36a868cf59129",
+  "title": "SmartEdit: Exploring Complex Instruction-Based Image Editing with Multimodal Large Language Models",
+  "date": "2023-12-11"
+ },
+ {
+  "id": "7d5301be5748bc1515d7ff77ce15d2891077e9de",
+  "title": "SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction",
+  "date": "2023-12-10"
+ },
+ {
+  "id": "5bcb0153dd0840113eb27d4d6f753414ef656a03",
+  "title": "Emu Edit: Precise Image Editing via Recognition and Generation Tasks",
+  "date": "2023-11-16"
+ },
+ {
+  "id": "ff543923421694ded755eb26db7f4a8196331f9a",
+  "title": "Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code",
+  "date": "2023-10-02"
+ },
+ {
+  "id": "8fafd95a6ffbecf9c1b5f4542ac4b78a00602551",
+  "title": "PixArt-\u03b1: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+  "date": "2023-09-30"
+ },
+ {
+  "id": "092245d86b77181c36f972b1b7a17a59cd989c4a",
+  "title": "Guiding Instruction-based Image Editing via Multimodal Large Language Models",
+  "date": "2023-09-29"
+ },
+ {
+  "id": "ecf38d702bea560c1f9d372645e2be7661a71f37",
+  "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
+  "date": "2023-06-16"
+ },
+ {
+  "id": "c82a7de327bf43c83c668aa8dab28a86a8f03f09",
+  "title": "Prodigy: An Expeditiously Adaptive Parameter-Free Learner",
+  "date": "2023-06-09"
+ },
+ {
+  "id": "85963807c11abe38e9a2797d9860e012238607ef",
+  "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing",
+  "date": "2023-04-17"
+ },
+ {
+  "id": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891",
+  "title": "DINOv2: Learning Robust Visual Features without Supervision",
+  "date": "2023-04-14"
+ },
+ {
+  "id": "163b4d6a79a5b19af88b8585456363340d9efd04",
+  "title": "GPT-4 Technical Report",
+  "date": "2023-03-15"
+ },
+ {
+  "id": "736973165f98105fec3729b7db414ae4d80fcbeb",
+  "title": "Scalable Diffusion Models with Transformers",
+  "date": "2022-12-19"
+ },
+ {
+  "id": "b000d6865db824af1563708fb7a545ddd65c6b3a",
+  "title": "Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation",
+  "date": "2022-11-22"
+ },
+ {
+  "id": "90428f3a8caa5082f825ebf3138514ddf273dae3",
+  "title": "Null-text Inversion for Editing Real Images using Guided Diffusion Models",
+  "date": "2022-11-17"
+ },
+ {
+  "id": "a2d2bbe4c542173662a444b33b76c66992697830",
+  "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+  "date": "2022-11-17"
+ },
+ {
+  "id": "9cf66efb5ddc0eef574f909fd4e1fa09994c0184",
+  "title": "CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory",
+  "date": "2022-10-11"
+ },
+ {
+  "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+  "title": "Flow Matching for Generative Modeling",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "244054a4254a2147e43a3dad9c124b9b7eb4a04a",
+  "title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+  "date": "2022-09-07"
+ },
+ {
+  "id": "04e541391e8dce14d099d00fb2c21dbbd8afe87f",
+  "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+  "date": "2022-08-02"
+ },
+ {
+  "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "date": "2021-12-20"
+ },
+ {
+  "id": "1fff265c708488beb59fe3746dccf4344338f31d",
+  "title": "Multiple knowledge representation for big data artificial intelligence: framework, applications, and case studies",
+  "date": "2021-12-01"
+ },
+ {
+  "id": "f671a09e3e5922e6d38cb77dda8d76d5ceac2a27",
+  "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations",
+  "date": "2021-08-02"
+ },
+ {
+  "id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+  "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+  "date": "2021-06-17"
+ },
+ {
+  "id": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+  "title": "Emerging Properties in Self-Supervised Vision Transformers",
+  "date": "2021-04-29"
+ },
+ {
+  "id": "66c10bf1f11bc1b2d92204d8f8391d087f6de1c4",
+  "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "date": "2021-04-20"
+ },
+ {
+  "id": "38b0567e83386ddc294d6c81b541deacbd8e3c2a",
+  "title": "CLIPScore: A Reference-free Evaluation Metric for Image Captioning",
+  "date": "2021-04-18"
+ },
+ {
+  "id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+  "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+  "date": "2021-01-11"
+ },
+ {
+  "id": "2e762956621d3a3906b5891afa0f755e01ffcbde",
+  "title": "Multi-modal Attention for Speech Emotion Recognition",
+  "date": "2020-09-09"
+ },
+ {
+  "id": "1882f194cb43828852cc052887671e55a80f945a",
+  "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+  "date": "2020-06-30"
+ },
+ {
+  "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+  "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+  "date": "2019-10-23"
+ },
+ {
+  "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+  "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+  "date": "2017-01-23"
+ },
+ {
+  "id": "b879e05782c0165ea5a03000022bcbad23f2ccb4",
+  "title": "Diffusion Probe: Generated Image Result Prediction Using CNN Probes",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "967cc90278ee3aba802feb8b282ba1d3264118d5",
+  "title": "CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "fc5e011e5348209d9fe21858d3ec45c705b96531",
+  "title": "Cycle-Consistent Tuning for Layered Image Decomposition",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "3b4517f9791efb68e664a9e59d8dab32caa62442",
+  "title": "From Scale to Speed: Adaptive Test-Time Scaling for Image Editing",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "88a82808aa2c2f59af5b42e3cb8b88c646aad496",
+  "title": "MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "13a414b152969ca9e08ed6a9014207778d14b7f7",
+  "title": "RegionRoute: Regional Style Transfer with Diffusion Model",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "2be9dc37a74da3ec5c2be148057007bbf7f4d725",
+  "title": "Optimizing ID Consistency in Multimodal Large Models: Facial Restoration via Alignment, Entanglement, and Disentanglement",
+  "date": "2026-02-21"
+ },
+ {
+  "id": "727ea565ef623dd80d0f0b6a6234d7347fca2232",
+  "title": "Spanning the Visual Analogy Space with a Weight Basis of LoRAs",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "eb29f83f4a714cc056e76c682377866df55c4dee",
+  "title": "Controlling Your Image via Simplified Vector Graphics",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "a15997c1462baea16a263336379f2dd7bab99081",
+  "title": "Efficient Text-Guided Convolutional Adapter for the Diffusion Model",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "c6bf25d9f47ad6dae2b79500fcfca249247dc66d",
+  "title": "UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "a7ca572f8ea3e0be907146c5d5998686f603e37b",
+  "title": "CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "09cb213bbf612a659b3a27c1ef5adbe894dbf0d5",
+  "title": "PosterOmni: Generalized Artistic Poster Creation via Task Distillation and Unified Reward Feedback",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "a4c95b0a6a74e320c00c65a7e1b43bfc3cba9714",
+  "title": "IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "e0dee76bbfb0eef2e4c05b4d6bcccf040041f0aa",
+  "title": "FireRed-Image-Edit-1.0 Technical Report",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "cd08b2969e341a2bcd2874962a4163ff56d8544c",
+  "title": "Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "3fad43c53fa50fae8e20c51c0cb9eb36943d7b91",
+  "title": "Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "b66b38863291284ee132cb2fcbc6c62ceb512056",
+  "title": "Consistency-Preserving Concept Erasure via Unsafe-Safe Pairing and Directional Fisher-weighted Adaptation",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "2a566fa7c1e4f129fc1202f6b513210f71aa4da6",
+  "title": "ReLayout: Versatile and Structure-Preserving Design Layout Editing via Relation-Aware Design Reconstruction",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "1aecf65321611dce3b92de3784554a6ee6e4e772",
+  "title": "DuoGen: Towards General Purpose Interleaved Multimodal Generation",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "aa9db74601d2eaf090128f059c6a59554a2c2111",
+  "title": "CoEditor++: Instruction-based Visual Editing via Cognitive Reasoning",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "a1e1e692c633ad9a5d9d976a994aecca98228cf7",
+  "title": "PerfGuard: A Performance-Aware Agent for Visual Content Generation",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "c77e1ad5726e61956796210ad36d6d5a161a71b5",
+  "title": "FBSDiff++: Improved Frequency Band Substitution of Diffusion Features for Efficient and Highly Controllable Text-Driven Image-to-Image Translation",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "0851a1e7c5a4a6621428dc5565caa8d7de6dd109",
+  "title": "VDE Bench: Evaluating The Capability of Image Editing Models to Modify Visual Documents",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "df60ef5196f758cba207e1fccced5aa92aa8b504",
+  "title": "A Unified and Controllable Framework for Layered Image Generation with Visual Effects",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "6f38d2c545c6d04cae15477475c079e21454b00e",
+  "title": "TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "c355db94c0b44c2db7f5139a1e91a1a545163b20",
+  "title": "Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "4ac98a67a4a8176548cec5a0c60ab3b9a7ae31aa",
+  "title": "MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "a9453f71c189231277e0421e9f031e62aa24786d",
+  "title": "I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "805256c36a26db7c87b5051977371e6e0efe729e",
+  "title": "NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "b006731b4dce311fe9c1daa38a8e38485d479f4e",
+  "title": "VIBE: Visual Instruction Based Editor",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "085c25f3577b11301d4e5f06fb175e5c2c444480",
+  "title": "ThinkGen: Generalized Thinking for Visual Generation",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "fff7d2efd071870db8b2e52fae3a2050ffb3588c",
+  "title": "InstructMoLE: Instruction-Guided Mixture of Low-rank Experts for Multi-Conditional Image Generation",
+  "date": "2025-12-25"
+ },
+ {
+  "id": "b77ffe9d3a921cca4b512132ae6e643466ac3628",
+  "title": "VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "0f9208ce6db31ae59edb95edb1f39d5d79ecd865",
+  "title": "Region-Constraint In-Context Generation for Instructional Video Editing",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "f3828d9c518f9b258fdb1533a5ab9c80d6009260",
+  "title": "Mitty: Diffusion-based Human-to-Robot Video Generation",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "b5c507b08432d8a6a35330651085769ba9e4ce0e",
+  "title": "EasyV2V: A High-quality Instruction-based Video Editing Framework",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "5d848232324bde26bea2eef5c3b9e632c283406f",
+  "title": "SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "6aa9dae69ef0f90b7ad477ebde4de449677b4073",
+  "title": "STAR: STacked AutoRegressive Scheme for Unified Multimodal Learning",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "2b62b5d3a43d3177319137e78acf56d7dfb72301",
+  "title": "Exploring MLLM-Diffusion Information Transfer with MetaCanvas",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "6e938e6abc3e46906da12dc2c8bc4c77c2092094",
+  "title": "OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "f6d3ec58f7fb412b9473873257dd400132c076ea",
+  "title": "MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "06806909e0cb2092684c4731f02d5a74fbd70262",
+  "title": "LongCat-Image Technical Report",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "5cb389458e8c5b5caea35255f0382372ace027c8",
+  "title": "VideoCoF: Unified Video Editing with Temporal Reasoner",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "c214102111fd0af74262e112c6a697bd37226a0a",
+  "title": "EditThinker: Unlocking Iterative Reasoning for Any Image Editor",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "df04a45561d42df0a1a84fb1177794bd1e0846fb",
+  "title": "I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "933cd65c17473a58b09e46602e6516873d40e5cc",
+  "title": "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "53428226ca7e4f5bcfa01e7e48cb246c345e0077",
+  "title": "In-Context Sync-LoRA for Portrait Video Editing",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "dba4773b1ec9ca6182757a2677c7b496871a665c",
+  "title": "FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "0ce732d469ec2e7e93932c5b9ad123820af6ab68",
+  "title": "IC-World: In-Context Generation for Shared World Modeling",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "f59c8921d34863c5de41255296d5ad073527a592",
+  "title": "WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing",
+  "date": "2025-11-29"
+ },
+ {
+  "id": "55d83e2de9b48c3e7d3869b948be3106833e569d",
+  "title": "ReasonEdit: Towards Reasoning-Enhanced Image Editing Models",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "9d4368541138569bad0cb7fd2424179d376c3e83",
+  "title": "MIRA: Multimodal Iterative Reasoning Agent for Image Editing",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "b32a5e3e35995ccf360ef7ba87333a136e2d60a2",
+  "title": "CameraMaster: Unified Camera Semantic-Parameter Control for Photography Retouching",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "8843cb48f07cb328b4839e279d5ec21dd5c09751",
+  "title": "HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "cff19ae4f77f3c4d25dead2e6ec7385412bff29d",
+  "title": "iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "01adc928d710e7146308f1c47e138d66ccedc8f0",
+  "title": "Low-Resolution Editing is All You Need for High-Resolution Editing",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "6296bf236d23ba6fb9bd38b213780b003c424904",
+  "title": "Are Image-to-Video Models Good Zero-Shot Image Editors?",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "cbe7a5948429233f908c0a0e8b78124fef59ff9b",
+  "title": "Video4Edit: Viewing Image Editing as a Degenerate Temporal Process",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "4d0bfec3492795b9a09485cab073ba3dcba30bcc",
+  "title": "SplitFlux: Learning to Decouple Content and Style from a Single Image",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "0fc9ec2ee3f4f5d9105db1cbe98d2da010a94e53",
+  "title": "Mixture of States: Routing Token-Level Dynamics for Multimodal Generation",
+  "date": "2025-11-15"
+ },
+ {
+  "id": "0e17d1f2bc0a106f4bdc9e4014c87f7e864e61ad",
+  "title": "StyleQoRA: Quality-Aware Low-Rank Adaptation for Few-Shot Multi-Style Editing",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "18dcdc20f0a3ab750e74337395ffb786e7315362",
+  "title": "SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "d679ee3202388a266130cd6fef897ebf1ab865ef",
+  "title": "FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "6bc2a044204aa919b0454efdac96a448ac785e84",
+  "title": "Realistic Water Leakage Synthesis in Indoor Electrical Power Environments: A Semantics-Guided Approach with Irregular Mask Generation and Controllable Diffusion",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "838f7c0656f56f23f25ad42ceae3dcc7c340c7c7",
+  "title": "Emu3.5: Native Multimodal Models are World Learners",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "13acbb5afa034bfe788844b8f67649d3aae53652",
+  "title": "Group Relative Attention Guidance for Image Editing",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "ebf98d04ce4ba02448195d57d5c9345f40caf08d",
+  "title": "LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "82e1d860a3532b480d78ae481cdb5fa10ed962d8",
+  "title": "Implementation Framework for Instruction-Driven Image Editing",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "ead8ccfae5251ea5d733343605c539c21ffa2886",
+  "title": "Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "e35c9a76264cfbccbccb40802d7f8633a5fb794c",
+  "title": "Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "47002ab1e3ae4bb1cfd74e6c25b269b24e8a6130",
+  "title": "BLIP3o-NEXT: Next Frontier of Native Image Generation",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "25a9c15f851b4fb251a7cd882ba726a72cd0418e",
+  "title": "ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "dff73478cf4ba5368909ff9e795ac5c964909a53",
+  "title": "GIR-Bench: Versatile Benchmark for Generating Images with Reasoning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "708b519ac109575481ef3fe0e32a97c17556f22c",
+  "title": "Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "5eb50ad703a67cfd8e4333f2f4a44855053862bc",
+  "title": "Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "0cdc44a3b4fc1a2746341e05cdcfedd45c5b3aa8",
+  "title": "TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "1bb46cdf27726403f02b22d79ccf5dffc2332aa7",
+  "title": "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "0a9ca84953011c906f20db34dc79ba1cdd33049f",
+  "title": "Query-Kontext: An Unified Multimodal Model for Image Generation and Editing",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "0a6cd887067928b252146fc0bfa7cdd85f5eff56",
+  "title": "Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "e6fee4fe05f7babc703605189d97c1cb6937872c",
+  "title": "MultiCrafter: High-Fidelity Multi-Subject Generation via Disentangled Attention and Identity-Aware Preference Alignment",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "47b0b8e619698a078b111e1e3407aa5caafca35b",
+  "title": "Does FLUX Already Know How to Perform Physically Plausible Image Composition?",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "5e26ff506c3c029166cf1ca024010d4f8390fd39",
+  "title": "EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "7cb0224b26ecd978ecb6d1babd75fa105c1432ed",
+  "title": "OmniBridge: Unified Multimodal Understanding, Generation, and Retrieval via Latent Space Alignment",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "98e694e638ce49da5c445f1f01504ca9f005e298",
+  "title": "MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "97e2fb97a74d51d5e2737e83ead9251db64c98df",
+  "title": "Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "81b4f5084309d76cc07436c1feb94e83574a661c",
+  "title": "Reconstruction Alignment Improves Unified Multimodal Models",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "8e1fc8827d1a9f73e2041c63448216af3a5f3d6a",
+  "title": "OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation",
+  "date": "2025-09-03"
+ },
+ {
+  "id": "8fd7ea7fac102b7e2a72aee5f177d2d8da125e52",
+  "title": "Draw-In-Mind: Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "01d4e578a50a9b329477d0a18c5eb77e81d8fe07",
+  "title": "SpotEdit: Evaluating Visually-Guided Image Editing Methods",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "2e637ef44cd9f1365f6b4cbf1b2d88febc97c52f",
+  "title": "Visual Autoregressive Modeling for Instruction-Guided Image Editing",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "9375b3a99340a55b5a3ccc513e8517fc447fa73c",
+  "title": "X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "730ca7d2f66cd1358cae4ad84aadb8e94b2d0958",
+  "title": "Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "75eebde20c527461f1a184451e1b16d2c8e179a9",
+  "title": "TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "fcdf32056a65377cec5ce46d72319a68cd3a8ea6",
+  "title": "SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "c8848ba5bd804fe27ee72cab55061b300da53fa4",
+  "title": "Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "a25ac76143f060da94d03b1dd172aee084509e87",
+  "title": "Inference-time Scaling for Diffusion-based Audio Super-resolution",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "65556ef457ae6d61a8b43492495c0f8ef3665333",
+  "title": "Qwen-Image Technical Report",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "116355b1d047d08c2fc4b04c08f0f42d5e98d87a",
+  "title": "UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "7e6641c25a89dd70877283a766385e08e13d1c95",
+  "title": "LayLens: Improving Deepfake Understanding through Simplified Explanations",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "262ef2526499a65f9f3012930d2c7502eda9d8c3",
+  "title": "Neural-Driven Image Editing",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "973c2999060967982a80891c3dcf72be3fab8c53",
+  "title": "Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "b183e1e045769f893b9a3dcb5f3504dccdb2e82e",
+  "title": "DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design",
+  "date": "2025-07-05"
+ },
+ {
+  "id": "7d9d41d90f13d75467ed1bd1c322d95449cd421e",
+  "title": "Calligrapher: Freestyle Text Image Customization",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "21d551654bb9ad61f2cf31b150181842d38df035",
+  "title": "Ovis-U1 Technical Report",
+  "date": "2025-06-28"
+ },
+ {
+  "id": "02835ca01c5d0c65db874a63a1c229d4c87698b2",
+  "title": "OmniGen2: Towards Instruction-Aligned Multimodal Generation",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "81244a5f36534b41d6265d259082933d951c503e",
+  "title": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "9b29b1cd4e3824d5ca8c705eb441996efa766918",
+  "title": "ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "15ea6e4435be08a04194bd3a40add30d2cad7378",
+  "title": "VINCIE: Unlocking In-context Image Editing from Video",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "52c6c3f925f218c192753c7f81a5966c32ad2526",
+  "title": "Image Editing As Programs with Diffusion Models",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "9df232838e4336b591e6d32765511bdabe6f5dae",
+  "title": "UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "2874cba89249c19d4cb57603505dfc2a7dfe5bfc",
+  "title": "MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "d02fdafe45960482cbb7cd8e037795eef8086b6d",
+  "title": "IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "29b8b48a7068727181d94e08a851baa830d799fa",
+  "title": "Multiverse Through Deepfakes: The MultiFakeVerse Dataset of Person-Centric Visual and Conceptual Manipulations",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "592c2394c56af1a081649cabb51fda7b136cd532",
+  "title": "GenSpace: Benchmarking Spatially-Aware Image Generation",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "ea4d807244c506d15d12d4b934a5d8b780956370",
+  "title": "CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "406a577425c36e05163ee3bf448d65a6eb480ab3",
+  "title": "Emerging Properties in Unified Multimodal Pretraining",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "fe0e894b70fe711b39792e9a3a2ae59b5271e1ea",
+  "title": "FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "ee444b0001a6085581d64239a45549a6f871d168",
+  "title": "Exploring Text-Guided Single Image Editing for Remote Sensing Images",
+  "date": "2024-05-09"
+ },
+ {
+  "id": "b0b47bf2c12df4f0215df02780eb77f4ababb001",
+  "title": "MaTe3D: Mask-Guided Text-based 3D-Aware Portrait Editing",
+  "date": "2023-12-12"
+ }
+]

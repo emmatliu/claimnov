@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_8d36ea821bacf5dcbc99513c15de13021f1795eb",
+   "title": "LASER: Learning Active Sensing for Continuum Field Reconstruction",
+   "date": "2026-04-21",
+   "is_B": true
+  },
+  {
+   "id": "8017d1fa31728b28adfc6cd67a6348f6154d68e9",
+   "title": "Continuous Field Reconstruction from Sparse Observations with Implicit Neural Networks",
+   "date": "2024-01-21"
+  },
+  {
+   "id": "7fd2dbd379cef29e10eb07e45e22f4acdc0d1417",
+   "title": "PhySense: Sensor Placement Optimization for Accurate Physics Sensing",
+   "date": "2025-05-19"
+  },
+  {
+   "id": "ed3fa74ebc0adcad4aee915c4625b384eaddbc91",
+   "title": "AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields",
+   "date": "2024-06-04"
+  },
+  {
+   "id": "d2e8d1c41039fa39d3ff49131f667e5ab5c59c19",
+   "title": "Operator Learning with Neural Fields: Tackling PDEs on General Geometries",
+   "date": "2023-06-12"
+  },
+  {
+   "id": "20505bef04348911af9a00b3e22373971d013aab",
+   "title": "Space and Time Continuous Physics Simulation From Partial Observations",
+   "date": "2024-01-17"
+  },
+  {
+   "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+   "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "c3e62fa890f4208789b78536311a730f7578c869",
+   "title": "Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video",
+   "date": "2024-06-18"
+  },
+  {
+   "id": "c2e5c78ecc464a8792494d248ce96b5729a57c7d",
+   "title": "Learning to Accelerate Partial Differential Equations via Latent Global Evolution",
+   "date": "2022-06-15"
+  },
+  {
+   "id": "88f17e3a9aa3e1de7dd7dde2cb03d10d5446099f",
+   "title": "Transolver: A Fast Transformer Solver for PDEs on General Geometries",
+   "date": "2024-02-04"
+  },
+  {
+   "id": "20b5672fc912666f9919200287805313509ae00e",
+   "title": "NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields",
+   "date": "2022-03-03"
+  },
+  {
+   "id": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+   "title": "Recurrent World Models Facilitate Policy Evolution",
+   "date": "2018-09-04"
+  },
+  {
+   "id": "a9764bda40202717968fa1d8355dd04dba227534",
+   "title": "Predicting Physics in Mesh-reduced Space with Temporal Attention",
+   "date": "2022-01-22"
+  },
+  {
+   "id": "b05f97e84e0867b63f6271cf5d42eacaa0d9e68e",
+   "title": "PDEBENCH: An Extensive Benchmark for Scientific Machine Learning",
+   "date": "2022-10-13"
+  },
+  {
+   "id": "57df9064d8e3b0f2724df4da441e91a2ac328b4e",
+   "title": "Learning Spatiotemporal Dynamical Systems from Point Process Observations",
+   "date": "2024-06-01"
+  },
+  {
+   "id": "d39ad86d4617e069d89b6d62c760c2ba268a2b85",
+   "title": "Continuous PDE Dynamics Forecasting with Implicit Neural Representations",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "cee75e291d693e3ee4087f1aa74f0f7e223b3b6f",
+   "title": "PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers",
+   "date": "2023-08-10"
+  },
+  {
+   "id": "b62544d43edd402c23127b9e8c28d0f5b6b33db2",
+   "title": "Machine learning\u2013accelerated computational fluid dynamics",
+   "date": "2021-01-28"
+  },
+  {
+   "id": "e9ce0ca5f485e8ff4632693b76cdab3b64c34a84",
+   "title": "Latent Neural ODEs with Sparse Bayesian Multiple Shooting",
+   "date": "2022-10-07"
+  },
+  {
+   "id": "7e5cc3f813c30ed051f263cad17af1b07b58e8cc",
+   "title": "PDE-Net: Learning PDEs from Data",
+   "date": "2017-10-26"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.5861,
+  0.5716,
+  0.5241,
+  0.4932,
+  0.4919,
+  0.4881,
+  0.4859,
+  0.4845,
+  0.4438,
+  0.4244,
+  0.4177,
+  0.417,
+  0.4148,
+  0.413,
+  0.4094,
+  0.4062,
+  0.398,
+  0.3977,
+  0.3962
+ ]
+}

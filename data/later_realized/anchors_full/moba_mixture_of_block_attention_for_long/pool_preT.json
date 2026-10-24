@@ -1,0 +1,892 @@
+[
+ {
+  "id": "23c2e21b6a5789724715f2986fdc586a517ffe57",
+  "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+  "date": "2025-02-16"
+ },
+ {
+  "id": "668075792a7ab40457d92e09da28d35c879271c3",
+  "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "b4d0f1237431cbc73db16685771790541c8c246a",
+  "title": "MiniMax-01: Scaling Foundation Models with Lightning Attention",
+  "date": "2025-01-14"
+ },
+ {
+  "id": "14969de024c6e2e396fae835d737602733d9418a",
+  "title": "Open-Sora: Democratizing Efficient Video Production for All",
+  "date": "2024-12-29"
+ },
+ {
+  "id": "e83a58f93fe5e6b618cab3a1038374261f29d1f2",
+  "title": "Deliberative Alignment: Reasoning Enables Safer Language Models",
+  "date": "2024-12-20"
+ },
+ {
+  "id": "88aa6b1f37d1fd8e0a40499ce9bb87873f03aaa8",
+  "title": "Qwen2.5 Technical Report",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "08efe5dc8055b842c44ea5b984f9d8ccff6d7317",
+  "title": "Why Does the Effective Context Length of LLMs Fall Short?",
+  "date": "2024-10-24"
+ },
+ {
+  "id": "ca0bf57f025fbcc993f282b7f130ddc2fd985e7d",
+  "title": "SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "61166a7545c7cadb1ec79c4744c348bac7644d41",
+  "title": "RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval",
+  "date": "2024-09-16"
+ },
+ {
+  "id": "230762f388c4b6f0e8af4554e2df5fd4248b522d",
+  "title": "The Mamba in the Llama: Distilling and Accelerating Hybrid Models",
+  "date": "2024-08-27"
+ },
+ {
+  "id": "bab5d963ba2d59fd74cc22f36bf14924025f1b5a",
+  "title": "Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models",
+  "date": "2024-08-19"
+ },
+ {
+  "id": "9803d83bbb28d02fb01f00e0e05aa3c192a87255",
+  "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+  "date": "2024-07-02"
+ },
+ {
+  "id": "1c7db9fb18246787fbe3de6e0eaa370ae749e795",
+  "title": "Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference",
+  "date": "2024-06-16"
+ },
+ {
+  "id": "7afaabb73bec969c0937be46b9f0f757e07c8534",
+  "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+  "date": "2024-06-10"
+ },
+ {
+  "id": "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+  "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+  "date": "2024-05-31"
+ },
+ {
+  "id": "862479f7bd78a69c52a0691766848caa8eb4660f",
+  "title": "Linearizing Large Language Models",
+  "date": "2024-05-10"
+ },
+ {
+  "id": "29c368e602072641cbc8afd6bf4590dbad91b3c1",
+  "title": "Human hippocampal CA3 uses specific functional connectivity rules for efficient associative memory",
+  "date": "2024-05-02"
+ },
+ {
+  "id": "157ed5647da39a7f5d33a84a90414b2a9e97e301",
+  "title": "Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence",
+  "date": "2024-04-08"
+ },
+ {
+  "id": "c811bedbe8f4c21d0cba9f9175f7c2eb203284a7",
+  "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+  "date": "2024-03-08"
+ },
+ {
+  "id": "f6440a16ccc5c13d2a86af91b76e078685abfd16",
+  "title": "LongHeads: Multi-Head Attention is Secretly a Long Context Processor",
+  "date": "2024-02-16"
+ },
+ {
+  "id": "3e8d4062ec4353ff2701c7769336dbdb97f8814c",
+  "title": "Transformers are Multi-State RNNs",
+  "date": "2024-01-11"
+ },
+ {
+  "id": "16d6e1ed1cf72212f6154644f3aa59d18bc95fda",
+  "title": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+  "date": "2024-01-11"
+ },
+ {
+  "id": "7bbc7595196a0606a07506c4fb1473e5e87f6082",
+  "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+  "date": "2023-12-01"
+ },
+ {
+  "id": "6c323c535365e1c7cbfd9703cbec3b5650a3346b",
+  "title": "Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs",
+  "date": "2023-10-03"
+ },
+ {
+  "id": "fdc53c2c10742464087c0525f77e32604827a21d",
+  "title": "Efficient Streaming Language Models with Attention Sinks",
+  "date": "2023-09-29"
+ },
+ {
+  "id": "5e0cb1c4b91a7486e1c2b15a44a0be56bd74bdc0",
+  "title": "Effective Long-Context Scaling of Foundation Models",
+  "date": "2023-09-27"
+ },
+ {
+  "id": "240103933ffe3dac2179cc160a2bd91299357a53",
+  "title": "Retentive Network: A Successor to Transformer for Large Language Models",
+  "date": "2023-07-17"
+ },
+ {
+  "id": "c12db2c60e8989f646a29ad4f4d24475e860ad91",
+  "title": "LongNet: Scaling Transformers to 1, 000, 000, 000 Tokens",
+  "date": "2023-07-05"
+ },
+ {
+  "id": "f5afaccfe90268485a9961c5771ec5e71e9b806c",
+  "title": "Extending Context Window of Large Language Models via Positional Interpolation",
+  "date": "2023-06-27"
+ },
+ {
+  "id": "e586a4591ba0303b769f2c07cbddaf1899cb72e4",
+  "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+  "date": "2023-06-24"
+ },
+ {
+  "id": "86b6e42e2ce957f6497d4aa578c9bb4d2b4e4ba3",
+  "title": "Blockwise Parallel Transformer for Large Context Models",
+  "date": "2023-05-30"
+ },
+ {
+  "id": "026b3396a63ed5772329708b7580d633bb86bec9",
+  "title": "RWKV: Reinventing RNNs for the Transformer Era",
+  "date": "2023-05-22"
+ },
+ {
+  "id": "dbc368bc8b49347dd27679894524fa62f88492c9",
+  "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+  "date": "2023-05-02"
+ },
+ {
+  "id": "27d391d65ab42c30dc35595213ba6585633afa5d",
+  "title": "CoLT5: Faster Long-Range Transformers with Conditional Computation",
+  "date": "2023-03-17"
+ },
+ {
+  "id": "998ac3e945857cf2676ee7efdbaf443a0c6f820a",
+  "title": "Hyena Hierarchy: Towards Larger Convolutional Language Models",
+  "date": "2023-02-21"
+ },
+ {
+  "id": "87c5b281fa43e6f27191b20a8dd694eda1126336",
+  "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+  "date": "2022-05-27"
+ },
+ {
+  "id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+  "title": "Training Compute-Optimal Large Language Models",
+  "date": "2022-03-29"
+ },
+ {
+  "id": "1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3",
+  "title": "ST-MoE: Designing Stable and Transferable Sparse Expert Models",
+  "date": "2022-02-17"
+ },
+ {
+  "id": "7d1e512888a2fa4e838c12a02ae7fce867d322a8",
+  "title": "DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale",
+  "date": "2022-01-14"
+ },
+ {
+  "id": "3dfb1f50f2a34a699c339dabaa6f9b3a977973de",
+  "title": "LongT5: Efficient Text-To-Text Transformer for Long Sequences",
+  "date": "2021-12-15"
+ },
+ {
+  "id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+  "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+  "date": "2021-01-11"
+ },
+ {
+  "id": "3fbf6339273c50b04e886fa9bd4ad18c952a683d",
+  "title": "Rethinking Attention with Performers",
+  "date": "2020-09-30"
+ },
+ {
+  "id": "044e13d7dd4e0655eb76f0bd00b2c1bdb44e2be3",
+  "title": "Big Bird: Transformers for Longer Sequences",
+  "date": "2020-07-28"
+ },
+ {
+  "id": "1882f194cb43828852cc052887671e55a80f945a",
+  "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+  "date": "2020-06-30"
+ },
+ {
+  "id": "6f68e1bb253925d8431588555d3010419f322e04",
+  "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+  "date": "2020-06-29"
+ },
+ {
+  "id": "c0b79e6a5fd88ef13aa4780df5aae0aaa6b2be87",
+  "title": "Linformer: Self-Attention with Linear Complexity",
+  "date": "2020-06-08"
+ },
+ {
+  "id": "63857190aaf5aab1d94b54bb257b7b03b8cb5a50",
+  "title": "GMAT: Global Memory Augmentation for Transformers",
+  "date": "2020-06-05"
+ },
+ {
+  "id": "d27669c82faf78ea08cceaa0a171b540cccc304d",
+  "title": "ETC: Encoding Long and Structured Inputs in Transformers",
+  "date": "2020-04-17"
+ },
+ {
+  "id": "925ad2897d1b5decbea320d07e99afa9110e09b2",
+  "title": "Longformer: The Long-Document Transformer",
+  "date": "2020-04-10"
+ },
+ {
+  "id": "657329c633709dd1ac34a30d57341b186b1a47c2",
+  "title": "Efficient Content-Based Sparse Attention with Routing Transformers",
+  "date": "2020-03-12"
+ },
+ {
+  "id": "34a4e6818d680875ff0bef9a76de0376118446d1",
+  "title": "Sparse Sinkhorn Attention",
+  "date": "2020-02-26"
+ },
+ {
+  "id": "055fd6a9f7293269f1b22c1470e63bd02d8d9500",
+  "title": "Reformer: The Efficient Transformer",
+  "date": "2020-01-13"
+ },
+ {
+  "id": "2cf3bd0cc1382f35384e259d99e4f9744eeaed28",
+  "title": "Blockwise Self-Attention for Long Document Understanding",
+  "date": "2019-11-07"
+ },
+ {
+  "id": "366244acdd930e488ae224ab6e2a92dc24aa7e06",
+  "title": "Axial Attention in Multidimensional Transformers",
+  "date": "2019-09-25"
+ },
+ {
+  "id": "8323c591e119eb09b28b29fd6c7bc76bd889df7a",
+  "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+  "date": "2019-09-17"
+ },
+ {
+  "id": "21da617a0f79aabf94272107184606cefe90ab75",
+  "title": "Generating Long Sequences with Sparse Transformers",
+  "date": "2019-04-23"
+ },
+ {
+  "id": "2a31319e73d4486716168b65cdf7559baeda18ce",
+  "title": "Star-Transformer",
+  "date": "2019-02-25"
+ },
+ {
+  "id": "ec1f582446aa24f3f0920123ee6f05feea0b5e0a",
+  "title": "Online normalizer calculation for softmax",
+  "date": "2018-05-08"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+  "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+  "date": "2017-01-23"
+ },
+ {
+  "id": "3e219e50e552c7f90ceea0e913019d69e4eba062",
+  "title": "Memory Caching: RNNs with Growing Memory",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "d76feb4e3dcad47fb31d634c3bd3899f56c56c6b",
+  "title": "RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "bda109682ff33afbca2b327df1c77f8065f9454a",
+  "title": "SLA2: Sparse-Linear Attention with Learnable Routing and QAT",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "414fba96708e4ad6538dfb183a61e79d27046701",
+  "title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "f39cafba1a0507a03115a3f497b3e43ba6b07f8c",
+  "title": "Document Reconstruction Unlocks Scalable Long-Context RLVR",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "0a1fbc9f48f5bfeb3b0f5ad08a20984faf07e736",
+  "title": "ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "a71f4c23d5ebedafe58f60c73399418581bfa64a",
+  "title": "Double-P: Hierarchical Top-P Sparse Attention for Long-Context LLMs",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "005a364e958afe4e7899beb8269b5dc74543432e",
+  "title": "HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "afb7998b3c11355232f06af07f20822b5246ed3c",
+  "title": "Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "9301388c9c8c02cb3f1fe490eb8c1c0a147aef67",
+  "title": "Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "74aa75d1005138fd1f5076ff4f5063f99a56acf5",
+  "title": "A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "22e6cdc40b1f37a33461a9985693f613d52ba1db",
+  "title": "Mixture-of-Top-k Attention: Efficient Attention via Scalable Fast Weights",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ca8c07e16389683b7d0f75059b7ab8c97eb30b70",
+  "title": "End-to-End Autonomous Driving: From Classic Paradigm to Large Model Empowerment\u2014A Comprehensive Survey",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ee2fc22212ae914edc35e15b3050f80c4722b250",
+  "title": "PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "74a5589937415245ef12b2ac28535d29e592c43e",
+  "title": "How different AI models understand cells differently",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "4cfc80ca2e1a4ed2e14d8fe17a4a858d8bb2d0d1",
+  "title": "Scaling GraphLLM with Bilevel-Optimized Sparse Querying",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "68098fdcbeaa25b4bd44beb6c29fd4467fb9375f",
+  "title": "VMonarch: Efficient Video Diffusion Transformers with Structured Attention",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "7b16e80bd02c8443d8c230362c3dd79734d7c9ed",
+  "title": "Superlinear Multi-Step Attention",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "679d9b6587e632266bb30b42d49eb14840a0ac45",
+  "title": "Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "4879e3dbc3d3cf2104848dadea5246ad4ff092b7",
+  "title": "Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "e71eba1f1b0cd9341551698fec9f2e212f7ef000",
+  "title": "Power-based Partial Attention: Bridging Linear-Complexity and Full Attention",
+  "date": "2026-01-24"
+ },
+ {
+  "id": "b7acb754d902bd3a5c950fb9a478c4a1f21dec6c",
+  "title": "Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers",
+  "date": "2026-01-24"
+ },
+ {
+  "id": "ab42f869ecc9fbe9b83bd7372cd21dc4b0b2297a",
+  "title": "SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "d281ff4fe5ae3790908e294b0c7c2bc5d06cb0ae",
+  "title": "LongCat-Flash-Thinking-2601 Technical Report",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "84455e280d4c99bede5b566d71fbee6ccfbb18c5",
+  "title": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "8ef34187d81dbce9783d45361b30e289c6e9de7d",
+  "title": "When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "ddbf0e9287f79199897024df193faaa7a7e05674",
+  "title": "Transformer Is Inherently a Causal Learner",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "327d3bb056e1456bb96ff711a2ec54317ca61feb",
+  "title": "KV Admission: Learning What to Write for Efficient Long-Context LLM Inference",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "0529a4adf73969247f09b81accafd2357cbfcdb5",
+  "title": "Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "0cd2f12db4a2414baa4a56e4dc6a5a80631940a5",
+  "title": "End-to-End Training for Autoregressive Video Diffusion via Self-Resampling",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "f2ec47b8b299e8c6e87d2ef22f06b26e7a6a260f",
+  "title": "A Unified Sparse Attention via Multi-Granularity Compression",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "3091550e37d4cdd2f76cc1561ef6034178c03884",
+  "title": "BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "f56b12228283cf42cf8120a18fee60849b965f83",
+  "title": "Training-free Context-adaptive Attention for Efficient Long Context Modeling",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "67b2a0625313fa4f79eacad40c11d1c42e94b52a",
+  "title": "Mixture of Lookup Key-Value Experts",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "5704cbecc1369d5831567c31a941940cddd4ff71",
+  "title": "A Mathematical Theory of Top-k Sparse Attention via Total Variation Distance",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "09107561c17fb8dcf0ae5648f7b81ea44ac3d2c1",
+  "title": "DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "f1bf76cf44578df1487fb4eff2424c3754d0a547",
+  "title": "Every Token Counts: Generalizing 16M Ultra-Long Context in Large Language Models",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "7abdade1990e9bd4c9a6a50bc8ad859a4f4c614d",
+  "title": "SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "0857a40640dabdbf5d6e297f6d21552bc72114bc",
+  "title": "STORE: Semantic Tokenization, Orthogonal Rotation and Efficient Attention for Scaling Up Ranking Models",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "3d4f9a6607e4d9416e3d062f6ba7fa10113d0569",
+  "title": "Optimizing Industrial Anomaly Detection with Window-based Sparse Attention",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "5f2ccc915902fdef88518b4dbfc2f5eb33f3f70b",
+  "title": "OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs",
+  "date": "2025-11-15"
+ },
+ {
+  "id": "fc6412d9ec7a6a07ce9ef15273279a0021d09422",
+  "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "81a554ed06b7a5f3b17d47d7ee70561e13eaa726",
+  "title": "LongCat-Video Technical Report",
+  "date": "2025-10-25"
+ },
+ {
+  "id": "6b80f77c292c30f3888b569cdc76ac940b2e3a46",
+  "title": "Sparser Block-Sparse Attention via Token Permutation",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "c43c714fb65f982264bdbc417f0e9da6954f704a",
+  "title": "Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "e38c88df0d1ee8d0d5f5235cbaf66b6d1a5b02b7",
+  "title": "MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "6208c3c0df386b06beffa7aa633f0336873eb065",
+  "title": "MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "50de02f07420586ecba5cd8fb8df15368bce1235",
+  "title": "Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "1bd11d93912fb449d83ba5e53751486b5c387734",
+  "title": "NOSA: Native and Offloadable Sparse Attention",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "bb15d15655a41d12c714b3cd88c810ee5bb2886e",
+  "title": "Which Heads Matter for Reasoning? RL-Guided KV Cache Compression",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "cdd27c5237ee385ebba0e3db379e8e98e33a8065",
+  "title": "AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "39bf48eb1ad22709006740c32762f0e47213b699",
+  "title": "Revisiting Long-context Modeling from Context Denoising Perspective",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "a916b6e0a90e135865958fe3d7be0a9156432dcd",
+  "title": "Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "7030f3ec865f30b5279256d7c71a1eb8487a1da2",
+  "title": "Hybrid Architectures for Language Models: Systematic Analysis and Design Insights",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "a583dae408e1cf4688b9e933df4dfca0f04e4c10",
+  "title": "Local Linear Attention: An Optimal Interpolation of Linear and Softmax Attention For Test-Time Regression",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "451ac1b3005bf3ab22c24914a775fdcaf742a692",
+  "title": "HilbertA: Hilbert Attention for Image Generation with Diffusion Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "ccef1988a262e9e6622607d394d83d82670d4e1f",
+  "title": "InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "0e87ce8c81c121439235ab85a72a3d66df8cd1ac",
+  "title": "ProxyAttn: Guided Sparse Attention via Representative Heads",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "237fd4c91fb34ebdb6ed8bbab1ec9b49ad4aac82",
+  "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "459fac2863125af1f7adc6849e7f2dbdccf074df",
+  "title": "UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "75b3d0904720f1c10081516b11a43339574b07d0",
+  "title": "FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "29b8daa23e01b4732fe20f99149398edcc475cd3",
+  "title": "Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining",
+  "date": "2025-09-12"
+ },
+ {
+  "id": "f2f4a521b9e9fa2fec063e9d0a5cb32618439b44",
+  "title": "CCF: A Context Compression Framework for Efficient Long-Sequence Language Modeling",
+  "date": "2025-09-11"
+ },
+ {
+  "id": "94d2671adfd664c167350dc9344424650b8fc020",
+  "title": "Block-Sparse Global Attention for Efficient Multi-View Geometry Transformers",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "2bb47d7a9cafeff591b19840d429b376ed8c9921",
+  "title": "ACE-RL: Adaptive Constraint-Enhanced Reward for Long-form Generation Reinforcement Learning",
+  "date": "2025-09-05"
+ },
+ {
+  "id": "b077771038ecff102bf996ef1097f4a2a83d9f62",
+  "title": "Bidirectional Sparse Attention for Faster Video Diffusion Training",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "5d4088ab2efc4a4951fda5100b9329ae485ff3d9",
+  "title": "Mixture of Contexts for Long Video Generation",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "840aed5f23686f6bdc357c946a430c768ba0fc1c",
+  "title": "ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via Cluster-Level Collective Primitive",
+  "date": "2025-08-26"
+ },
+ {
+  "id": "b8dc6a29691207c2ef37eaf2916e9e0f2f36c2e3",
+  "title": "FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "b5f82789a46b41b132ab10c065099dfddf4f3be6",
+  "title": "ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference",
+  "date": "2025-08-22"
+ },
+ {
+  "id": "db604a9a17dbced363ebb1ade88e68afeca18d16",
+  "title": "A Survey of Token Compression for Efficient Multimodal Large Language Models",
+  "date": "2025-07-27"
+ },
+ {
+  "id": "877a93bd2da8dc9a7c78f8e497450a2f2a21f19b",
+  "title": "Efficient Attention Mechanisms for Large Language Models: A Survey",
+  "date": "2025-07-25"
+ },
+ {
+  "id": "89b5c7f389fb8738acaaf2ac5e8d9d65e555da7e",
+  "title": "Memory Mosaics at scale",
+  "date": "2025-07-04"
+ },
+ {
+  "id": "80a0548be8c857421aaf0602c6d83d3ef934a251",
+  "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "2da46069992a6fbb560552867b766b6a387d23bf",
+  "title": "HGCA: Hybrid GPU-CPU Attention for Long Context LLM Inference",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "3914821856ed3a34617223f9506e4b9c5b14076d",
+  "title": "MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "79231a51aa57250ac9b492b3198e6217011481d3",
+  "title": "VMoBA: Mixture-of-Block Attention for Video Diffusion Models",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "5a4341fd04432d7da2721e0fd03928d0279e38d4",
+  "title": "SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "de387cd2a3d9249d5ed15de5005dc2609c8fe6a8",
+  "title": "Radial Attention: O(n log n) Sparse Attention with Energy Decay for Long Video Generation",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "dbf94af11a1da086384fb81a1ddf1a67b01bf40e",
+  "title": "PEVLM: Parallel Encoding for Vision-Language Models",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "f4efc1f5c1a40b927e88126701bacbcdad617a87",
+  "title": "Video-XL-2: Towards Very Long-Video Understanding Through Task-Aware KV Sparsification",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "91360031e430be76c20c4b02f3da08c3052d54af",
+  "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "b5c326ce9d365a4a4a137701aca50252809f58e7",
+  "title": "Don't Pay Attention",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "04b2f3d742f33c372df81d8af2ea34c8fec629fb",
+  "title": "SeerAttention-R: Sparse Attention Adaptation for Long Reasoning",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "77572987c6a9b72d0b61e7b01f4c28727a78113e",
+  "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "c5e8e0c86d1df2131be6712d4c702edfa3c9d420",
+  "title": "Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions",
+  "date": "2025-06-08"
+ },
+ {
+  "id": "a3fbc2a67d4494bb1dd195facdb8b3114dfadd16",
+  "title": "Rectified Sparse Attention",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "bf1bef2ac78d20efa5c1f57ff5d503ebdb66ad95",
+  "title": "Comba: Improving Bilinear RNNs with Closed-loop Control",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "0daf147e3c0ba5af0314b4b7d30ccb5f6bc6112c",
+  "title": "Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "2a89f0adf1afaa99aec5a43d49f75ebd73bc0850",
+  "title": "SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "aee5d95350e14b253306098a652125afd701da16",
+  "title": "Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "c2c3113f3154e588daa3974e1fe17105351a8ab8",
+  "title": "R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "0be04bc0df3029951ee899605ad3052b419d46ef",
+  "title": "Understanding Transformer from the Perspective of Associative Memory",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "b073c80757d340ffda7d8da5fa037e8ee418f921",
+  "title": "QwenLong-CPRS: Towards \u221e-LLMs with Dynamic Context Optimization",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "544ee93b7b1a4973c8e29f9783ae509da9680ff1",
+  "title": "Training-Free Efficient Video Generation via Dynamic Token Carving",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "4ed58e259c81ccabc41fd683faef1f1835a89153",
+  "title": "Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "d97deccf2ff8a8f77cb65294b507c26fcf266712",
+  "title": "VSA: Faster Video Diffusion with Trainable Sparse Attention",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "ee416e13e8adac0b7c9411181328cb495670f1a0",
+  "title": "Enhancing Complex Instruction Following for Large Language Models with Mixture-of-Contexts Fine-tuning",
+  "date": "2025-05-17"
+ },
+ {
+  "id": "4f33c1ebe216cf7e560eaeccc1f20e6b6fd2e9d9",
+  "title": "SoLoPO: Unlocking Long-Context Capabilities in LLMs via Short-to-Long Preference Optimization",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "c2feda1e804700d0980d71cfc71ce66d369b6b6c",
+  "title": "A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law",
+  "date": "2025-05-05"
+ },
+ {
+  "id": "965eb6c33409b2eebdfbfceb251c543da5531116",
+  "title": "WuNeng: Hybrid State with Attention",
+  "date": "2025-04-27"
+ },
+ {
+  "id": "d25cd021507c1a1bfbec89cf980d4920df1073c2",
+  "title": "Hardware-aligned Hierarchical Sparse Attention for Efficient Long-term Memory Access",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "e7bc935576e3303090e3bd5b1b062435c4a6091f",
+  "title": "PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "0fd120ba34619d90d98e2252f69cbb0b750b65b8",
+  "title": "Sparsity Forcing: Reinforcing Token Sparsity of MLLMs",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "27172a198f9aaeb3391ad18acb5f14613120e381",
+  "title": "MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention",
+  "date": "2025-04-22"
+ },
+ {
+  "id": "a98d89f8398e3d63721e7cb8ee96325f89833d23",
+  "title": "Efficient Reasoning Models: A Survey",
+  "date": "2025-04-15"
+ },
+ {
+  "id": "777bdd87a82498bc5894068bf49e3584931a746c",
+  "title": "Adaptive Computation Pruning for the Forgetting Transformer",
+  "date": "2025-04-09"
+ },
+ {
+  "id": "7a335bc70fed77651be02223239d952fc58f080f",
+  "title": "A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond",
+  "date": "2025-03-27"
+ },
+ {
+  "id": "6a9839528b127a530299fefb37a74818efa4ff56",
+  "title": "ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "688ed44459dfe9732b304441918c0a133cf73e46",
+  "title": "Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer",
+  "date": "2025-03-04"
+ },
+ {
+  "id": "3c4c4343d2506f615cbcd6b564bd3276cbbbbe12",
+  "title": "Training-Free and Adaptive Sparse Attention for Efficient Long Video Generation",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "6c5146c1152c618d2c833cd7087f80acc5c9b247",
+  "title": "Neural Attention Search",
+  "date": "2025-02-18"
+ },
+ {
+  "id": "fe2faab0a717c6932cd36079ee9673029fe0a264",
+  "title": "Recency Biased Causal Attention for Time-series Forecasting",
+  "date": "2025-02-10"
+ },
+ {
+  "id": "239a5644c64520f22b6e2073677aeeef96b62f07",
+  "title": "AttentionPredictor: Temporal Patterns Matter for KV Cache Compression",
+  "date": "2025-02-06"
+ },
+ {
+  "id": "3b430f665a04e8ccc5fac30ff39b42d4c6cc893d",
+  "title": "Twilight: Adaptive Attention Sparsity with Hierarchical Top-p Pruning",
+  "date": "2025-02-04"
+ },
+ {
+  "id": "0ad0270f7eb610fb9dcc26fb043379b85e11f6cd",
+  "title": "SCBench: A KV Cache-Centric Analysis of Long-Context Methods",
+  "date": "2024-12-13"
+ },
+ {
+  "id": "85df13d1b83f2572ad21f9e293aed2b54a2ab954",
+  "title": "MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems",
+  "date": "2024-12-10"
+ },
+ {
+  "id": "cb92261c8ef307519d9a44bfc5d1023faae2e301",
+  "title": "Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads",
+  "date": "2024-10-02"
+ }
+]

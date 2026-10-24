@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2206.05900",
+   "title": "Provable Benefit of Multitask Representation Learning in Reinforcement Learning",
+   "is_B": true
+  },
+  {
+   "id": "1a49d5706d16f28af8bf2bdc2ff435f999cf9806",
+   "title": "Model-free Representation Learning and Exploration in Low-rank MDPs",
+   "date": "2021-02-14"
+  },
+  {
+   "id": "8d16ffb11c7b62181146db43296852424426a3cd",
+   "title": "Representation Learning for Online and Offline RL in Low-rank MDPs",
+   "date": "2021-10-09"
+  },
+  {
+   "id": "034b2e3d957df5405783f2c5695a8c2bd87d6334",
+   "title": "FLAMBE: Structural Complexity and Representation Learning of Low Rank MDPs",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "46a3b966fb744b8992491575586f5a03ee5ce557",
+   "title": "Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms",
+   "date": "2021-02-01"
+  },
+  {
+   "id": "2d0c876919ff95ca68d38a7963ed14e94b5129d8",
+   "title": "Contextual Decision Processes with low Bellman rank are PAC-Learnable",
+   "date": "2016-10-29"
+  },
+  {
+   "id": "4e37e0228798364dc6bfd0e05ac3eaac0002ae6b",
+   "title": "Nearly Horizon-Free Offline Reinforcement Learning",
+   "date": "2021-03-25"
+  },
+  {
+   "id": "5c5f76af16e9fc7f5b65df390b0d4cc6d64e6f20",
+   "title": "Learning Near Optimal Policies with Low Inherent Bellman Error",
+   "date": "2020-02-29"
+  },
+  {
+   "id": "d769ca62d90adc7e7869849a421426bdc54a32fb",
+   "title": "Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning",
+   "date": "2021-06-09"
+  },
+  {
+   "id": "14d691cf2983c700b0a77c2a85f512442febb1c8",
+   "title": "Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "03cc81e98942bdafd994af7a1d1e62a68ff8b682",
+   "title": "Is Q-learning Provably Efficient?",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "f4ce07d7aca476fdfeb6f93bfcb1b4cd6fba411e",
+   "title": "Near-optimal Representation Learning for Linear Bandits and Linear RL",
+   "date": "2021-02-08"
+  },
+  {
+   "id": "a4af0eb16016c5e1f36bafb7291a8a4932c0f17c",
+   "title": "Reinforcement Learning in Feature Space: Matrix Bandit, Kernels, and Regret Bound",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "d423fa6cd0f4d088941d9fe4bebd834d0137c9b9",
+   "title": "Provably Efficient Reinforcement Learning with Linear Function Approximation",
+   "date": "2019-07-11"
+  },
+  {
+   "id": "bf53ddef241c58303b509faad4ec7514d3a6fc14",
+   "title": "What are the Statistical Limits of Offline RL with Linear Function Approximation?",
+   "date": "2020-10-22"
+  },
+  {
+   "id": "8e4d0530499fdbbc0581894371013da9fec8ed95",
+   "title": "PAC Bounds for Discounted MDPs",
+   "date": "2012-02-17"
+  },
+  {
+   "id": "561919be6df0a3aa40104773eea19a5b12e47e50",
+   "title": "Provably Efficient Reward-Agnostic Navigation with Linear Value Iteration",
+   "date": "2020-08-18"
+  },
+  {
+   "id": "fb1a621ec435cb35129a74613a14d8a1823d308b",
+   "title": "Efficient Reinforcement Learning in Block MDPs: A Model-free Representation Learning Approach",
+   "date": "2022-01-31"
+  },
+  {
+   "id": "bb4c13c86048a48ec3f398d7d613ff8e56e1c8ae",
+   "title": "Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game",
+   "date": "2022-05-31"
+  },
+  {
+   "id": "df28d08cdd977ddc66e7d1ffe97731b67f209bb4",
+   "title": "On the Power of Multitask Representation Learning in Linear MDP",
+   "date": "2021-06-15"
+  }
+ ],
+ "n_candidates": 56,
+ "sims": [
+  0.7833,
+  0.7586,
+  0.7016,
+  0.69,
+  0.6731,
+  0.6646,
+  0.6564,
+  0.6465,
+  0.6437,
+  0.6428,
+  0.6389,
+  0.6326,
+  0.6315,
+  0.625,
+  0.624,
+  0.6239,
+  0.621,
+  0.6175,
+  0.6151
+ ]
+}

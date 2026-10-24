@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2df62f12224d79ab1a397e229f9be252372a2f05",
+   "title": "Barking up the right tree: an approach to search over molecule synthesis DAGs",
+   "is_B": true
+  },
+  {
+   "id": "555c0d308a1c9faa089430133566bf0dd6e4613d",
+   "title": "The Synthesizability of Molecules Proposed by Generative Models",
+   "date": "2020-02-17"
+  },
+  {
+   "id": "ef8ab2a0be51a0cd04c2c0f01adfae956a2a84af",
+   "title": "Planning chemical syntheses with deep neural networks and symbolic AI",
+   "date": "2017-08-14"
+  },
+  {
+   "id": "354ec9f2a18e3871e9df87b25de27bb4d243a6ba",
+   "title": "Towards \"AlphaChem\": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies",
+   "date": "2017-01-31"
+  },
+  {
+   "id": "6447deb18d6d2510c147afcf1b04408250f0d7c6",
+   "title": "A Model to Search for Synthesizable Molecules",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "2ac02c3c366425882bb71bd5f8e7bc3552bed020",
+   "title": "Molecular Design in Synthetically Accessible Chemical Space via Deep Reinforcement Learning",
+   "date": "2020-04-29"
+  },
+  {
+   "id": "d77bc27d16a362e5e1b727904c3789355dda6062",
+   "title": "Molecular de-novo design through deep reinforcement learning",
+   "date": "2017-04-25"
+  },
+  {
+   "id": "f486552980946ee761ecd668e3c73802a0714a03",
+   "title": "Prediction of Organic Reaction Outcomes Using Machine Learning",
+   "date": "2017-04-18"
+  },
+  {
+   "id": "f7d29bd6226f184c1735476d8cbe7c612cb85f6a",
+   "title": "Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning",
+   "date": "2020-04-26"
+  },
+  {
+   "id": "ab1d44fe7ee9165974a2487b6d10ddaba6c26549",
+   "title": "De Novo Design of Bioactive Small Molecules by Artificial Intelligence",
+   "date": "2018-01-01"
+  },
+  {
+   "id": "3921efa210a7f413cefa1d6bb6d37764e2c9ef04",
+   "title": "Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules",
+   "date": "2019-06-11"
+  },
+  {
+   "id": "f7122c988afe8f27ca70033dc8cf2e92cbcb8c86",
+   "title": "DOGS: Reaction-Driven de novo Design of Bioactive Compounds",
+   "date": "2012-02-01"
+  },
+  {
+   "id": "fd17bd9a5dc24a081ad9743570f50dd6750f54b2",
+   "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "de20b6488e148a19ae6c63defbfca8a6373e4110",
+   "title": "Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction",
+   "date": "2018-11-06"
+  },
+  {
+   "id": "f4f906e9c02921734203a61915e22b3b0cb09216",
+   "title": "DEFactor: Differentiable Edge Factorization-based Probabilistic Graph Generation",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "88427d2143d4cff357c3b393ae7580a7b6e19940",
+   "title": "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules",
+   "date": "2016-10-07"
+  },
+  {
+   "id": "bf2a7397c92dcb8301cf1187ae5914b6125f71cc",
+   "title": "ChemBO: Bayesian Optimization of Small Organic Molecules with Synthesizable Recommendations",
+   "date": "2019-08-05"
+  },
+  {
+   "id": "b26665c108004bf87d4f65b21adf2b6dc2913e2c",
+   "title": "Population-based de novo molecule generation, using grammatical evolution",
+   "date": "2018-04-06"
+  },
+  {
+   "id": "1cb789ab8925bda02758bcb69eb0ed1547b5f4b9",
+   "title": "Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks",
+   "date": "2017-12-28"
+  },
+  {
+   "id": "894673dd7172798667f07bbd875c8b94ce43158c",
+   "title": "A Deep Generative Model for Fragment-Based Molecule Generation",
+   "date": "2020-02-28"
+  }
+ ],
+ "n_candidates": 81,
+ "sims": [
+  0.6991,
+  0.6834,
+  0.6813,
+  0.6633,
+  0.6631,
+  0.6627,
+  0.6478,
+  0.638,
+  0.633,
+  0.6262,
+  0.6153,
+  0.6125,
+  0.6032,
+  0.6012,
+  0.5946,
+  0.5938,
+  0.5922,
+  0.5884,
+  0.5837
+ ]
+}

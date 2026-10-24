@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+cache/
+eval/cache/
+review_experiments/out/*
+!review_experiments/out/.keep
+eval/data/
+eval/annotation/

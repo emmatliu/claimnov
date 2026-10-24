@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_832aa77be74d7d3a8b33b9abc0f48b8b7babac12",
+   "title": "Tranception: protein fitness prediction with autoregressive transformers and inference-time retrieval",
+   "is_B": true
+  },
+  {
+   "id": "9cfe870e09f627e2814572aa4e1e7bff8b657fc5",
+   "title": "Low-N protein engineering with data-efficient deep learning",
+   "date": "2020-01-24"
+  },
+  {
+   "id": "79af328616d2440c77449d038f72d053c64d8f1f",
+   "title": "Unified rational protein engineering with sequence-only deep representation learning",
+   "date": "2019-03-26"
+  },
+  {
+   "id": "603f52d670aff69e0cad2d4465f007dea1a494a0",
+   "title": "Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks",
+   "date": "2020-06-16"
+  },
+  {
+   "id": "5ffa8e4778c430412d804bf53c3ee9e77f0dacea",
+   "title": "Modeling the language of life \u2013 Deep Learning Protein Sequences",
+   "date": "2019-04-19"
+  },
+  {
+   "id": "89bc95b30f147fd24dac91f43be1f2c3541f02ea",
+   "title": "Protein design and variant prediction using autoregressive generative models",
+   "date": "2021-04-23"
+  },
+  {
+   "id": "3637fcccc758786ae1c6529ab22fe85ea98e9c36",
+   "title": "Learning protein sequence embeddings using information from structure",
+   "date": "2019-02-22"
+  },
+  {
+   "id": "18a93dc1558bf9d7534d0b416633cebaf75c1145",
+   "title": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
+   "date": "2019-04-29"
+  },
+  {
+   "id": "0cfce36622a017a86c2248ebe5dfdd0f8d643df7",
+   "title": "Language models enable zero-shot prediction of the effects of mutations on protein function",
+   "date": "2021-07-10"
+  },
+  {
+   "id": "deee48c5e0ac0407a1e002905caaf2b174bdb0e6",
+   "title": "MSA Transformer",
+   "date": "2021-02-13"
+  },
+  {
+   "id": "ec7c9b201fc1ce18b4e0131691c9418f519a71c5",
+   "title": "Evaluating Protein Transfer Learning with TAPE",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "3cf5f512b30187efa088b9ee6c4e9d8fa7f937ce",
+   "title": "Accurate prediction of protein structures and interactions using a 3-track neural network",
+   "date": "2021-07-15"
+  },
+  {
+   "id": "50295e262d2c7c89d7f5aae28503f2efd294e5a5",
+   "title": "An evolution-based model for designing chorismate mutase enzymes",
+   "date": "2020-07-23"
+  },
+  {
+   "id": "48d436d6be896cd04d56c419d426d0a06f632e96",
+   "title": "FLIP: Benchmark tasks in fitness landscape inference for proteins",
+   "date": "2021-11-11"
+  },
+  {
+   "id": "043e5e0cf3129284683260976c10d98c7f121f35",
+   "title": "Transformer protein language models are unsupervised structure learners",
+   "date": "2020-12-15"
+  },
+  {
+   "id": "0537c62e32299b8e9b4e3cac44d82ffa123cbbe1",
+   "title": "Disease variant prediction with deep generative models of evolutionary data",
+   "date": "2021-10-27"
+  },
+  {
+   "id": "dc32a984b651256a8ec282be52310e6bd33d9815",
+   "title": "Highly accurate protein structure prediction with AlphaFold",
+   "date": "2021-07-15"
+  },
+  {
+   "id": "ca9b4fc03ad3ea4680ab2204ecf215f333c616a4",
+   "title": "ProtTrans: Towards Cracking the Language of Life\u2019s Code Through Self-Supervised Deep Learning and High Performance Computing",
+   "date": "2020-07-12"
+  },
+  {
+   "id": "e0a7ab724afc4a598df7cfb39352b21f1b7f8c3e",
+   "title": "Deep generative models of genetic variation capture the effects of mutations",
+   "date": "2018-09-24"
+  },
+  {
+   "id": "6c790c1a4233f5201b052b149a3c6c76261aee68",
+   "title": "RITA: a Study on Scaling Up Generative Protein Sequence Models",
+   "date": "2022-05-11"
+  }
+ ],
+ "n_candidates": 91,
+ "sims": [
+  0.7107,
+  0.6931,
+  0.6512,
+  0.6441,
+  0.6273,
+  0.6183,
+  0.616,
+  0.6085,
+  0.5779,
+  0.5729,
+  0.5688,
+  0.5608,
+  0.5606,
+  0.5563,
+  0.5468,
+  0.5446,
+  0.5423,
+  0.5297,
+  0.5235
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_27b8ca9149a77c947015fc6656fa56ac84e6f775",
+   "title": "Precise Statistical Analysis of Classification Accuracies for Adversarial Training",
+   "is_B": true
+  },
+  {
+   "id": "bff4ae911351a5c7dd9af394aa7f2647bf42dd4a",
+   "title": "Precise Tradeoffs in Adversarial Training for Linear Regression",
+   "date": "2020-02-24"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "901c367744697843fd3562f6e53833f77e6019b6",
+   "title": "The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression",
+   "date": "2022-01-13"
+  },
+  {
+   "id": "804fb9542f4f56e264dd2df57c255a9a2011c00f",
+   "title": "Adversarially Robust Generalization Requires More Data",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "18d552fcf6b997ed967ff5fdfc0694ec7a156fd1",
+   "title": "The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization",
+   "date": "2020-02-25"
+  },
+  {
+   "id": "c22c032a5288a29e7ac53de9e9dc62ce0710f0e8",
+   "title": "Provable Tradeoffs in Adversarially Robust Classification",
+   "date": "2020-06-09"
+  },
+  {
+   "id": "f5a779eb1fdfc3faece1767b04d96c9de2cfbeda",
+   "title": "Fundamental Tradeoffs in Distributionally Adversarial Training",
+   "date": "2021-01-15"
+  },
+  {
+   "id": "4b23012689e0f17912fb38d4984775e567cff8d6",
+   "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "c3d846a3c51dc6423381257b95a4b821e778dce0",
+   "title": "Adversarial Training Can Hurt Generalization",
+   "date": "2019-05-28"
+  },
+  {
+   "id": "1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "966e3c7a65ec75a6359b55c0cecaf3896d318432",
+   "title": "Certified Defenses against Adversarial Examples",
+   "date": "2018-01-29"
+  },
+  {
+   "id": "e2a85a6766b982ff7c8980e57ca6342d22493827",
+   "title": "Adversarial Machine Learning at Scale",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "0a3929f2cc6deff4a1421978135139344278847d",
+   "title": "Adversarial Risk via Optimal Transport and Optimal Couplings",
+   "date": "2019-12-05"
+  },
+  {
+   "id": "033f7570be9877c5a4bcbb71f6aec8f95cee3608",
+   "title": "To understand deep learning we need to understand kernel learning",
+   "date": "2018-02-05"
+  },
+  {
+   "id": "6c405d4b5dc41a86be05acd59c06ed19daf01d14",
+   "title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+   "date": "2019-01-24"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "2b8d80425a85e18a12559010576502836bf4761a",
+   "title": "On the Adversarial Robustness of Robust Estimators",
+   "date": "2018-06-11"
+  },
+  {
+   "id": "6d14bde6ae6a568f2662bb56db3faa4b55a1be52",
+   "title": "The role of regularization in classification of high-dimensional noisy Gaussian mixture",
+   "date": "2020-02-26"
+  },
+  {
+   "id": "6360c5d7c6cfc980e7d7625fc735b713229b8537",
+   "title": "A Model of Double Descent for High-dimensional Binary Linear Classification",
+   "date": "2019-11-13"
+  }
+ ],
+ "n_candidates": 59,
+ "sims": [
+  0.7051,
+  0.6977,
+  0.6919,
+  0.6812,
+  0.6782,
+  0.6741,
+  0.6733,
+  0.6691,
+  0.6493,
+  0.6264,
+  0.6176,
+  0.6155,
+  0.6052,
+  0.5898,
+  0.5804,
+  0.5798,
+  0.5627,
+  0.5072,
+  0.5019
+ ]
+}

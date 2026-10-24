@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_ae8c317961f2b72266ab343c78cbd1100f6173f6",
+   "title": "White-box vs Black-box: Bayes Optimal Strategies for Membership Inference",
+   "is_B": true
+  },
+  {
+   "id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+   "title": "Deep Learning with Differential Privacy",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "f0dcc9aa31dc9b31b836bcac1b140c8c94a2982d",
+   "title": "Membership Inference Attacks Against Machine Learning Models",
+   "date": "2016-10-18"
+  },
+  {
+   "id": "a68fccc152d238f62848de1be8522ccd71137ac0",
+   "title": "ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models",
+   "date": "2018-06-04"
+  },
+  {
+   "id": "c8f216f663660ff3bc195ecd3a8ad61f0ed1d9d7",
+   "title": "Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting",
+   "date": "2017-09-05"
+  },
+  {
+   "id": "f23edfcd72d3d190964dc119b26813a9f1599a9f",
+   "title": "Privacy for Free: Posterior Sampling and Stochastic Gradient Monte Carlo",
+   "date": "2015-02-26"
+  },
+  {
+   "id": "006cb500fd0b25200e12eb5a024756aea3d569ed",
+   "title": "Learning in a Large Function Space: Privacy-Preserving Mechanisms for SVM Learning",
+   "date": "2009-11-30"
+  },
+  {
+   "id": "869eb7e00da4496ef3392ce009654919d4e60552",
+   "title": "Understanding Membership Inferences on Well-Generalized Learning Models",
+   "date": "2018-02-13"
+  },
+  {
+   "id": "ce2920247c089316aa6fe17f4cc880617b59b244",
+   "title": "On-Average KL-Privacy and Its Equivalence to Generalization for Max-Entropy Mechanisms",
+   "date": "2016-05-08"
+  },
+  {
+   "id": "e42b526085ac96d83bbaf6fd6918b1cc6ee85d3a",
+   "title": "Algorithmic stability for adaptive data analysis",
+   "date": "2015-11-08"
+  },
+  {
+   "id": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+   "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+   "date": "2006-03-04"
+  },
+  {
+   "id": "40d3fbab4c3643f819a8c6429126adcf14c68176",
+   "title": "Robust Traceability from Trace Amounts",
+   "date": "2015-10-17"
+  },
+  {
+   "id": "7c4f52328c2869bdff8034d2867baa5b67d0ce27",
+   "title": "LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "5daf6e4b51387d2a57ca0b4cefdf459aa57893ac",
+   "title": "LOGAN: Membership Inference Attacks Against Generative Models",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "f63487b3fda2d96d8b3e97391448c76e00f2353c",
+   "title": "Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers",
+   "date": "2013-06-19"
+  },
+  {
+   "id": "7f93b0b25043c92dc3eb77b5b7e2834b7d36d3ad",
+   "title": "Security Evaluation of Support Vector Machines in Adversarial Environments",
+   "date": "2014-01-29"
+  },
+  {
+   "id": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+   "title": "Understanding Black-box Predictions via Influence Functions",
+   "date": "2017-03-14"
+  },
+  {
+   "id": "520ec00dc35475e0554dbb72f27bd2eeb6f4191d",
+   "title": "The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks",
+   "date": "2018-02-22"
+  },
+  {
+   "id": "54ddb00fa691728944fd8becea90a373d21597cf",
+   "title": "Understanding deep learning requires rethinking generalization",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "5ddd38a5df945e4afee68d96ed51fd6ca1f7d4cf",
+   "title": "A Closer Look at Memorization in Deep Networks",
+   "date": "2017-06-16"
+  }
+ ],
+ "n_candidates": 24,
+ "sims": [
+  0.6711,
+  0.6431,
+  0.6122,
+  0.607,
+  0.602,
+  0.5851,
+  0.5693,
+  0.5587,
+  0.5335,
+  0.5273,
+  0.5246,
+  0.501,
+  0.5007,
+  0.4432,
+  0.4391,
+  0.4181,
+  0.3743,
+  0.3597,
+  0.354
+ ]
+}

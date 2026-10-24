@@ -1,0 +1,114 @@
+{
+ "pool": [
+  {
+   "id": "B_60f511eef446120fe59563ee976f948d5e3f9064",
+   "title": "The Replica Dataset: A Digital Replica of Indoor Spaces",
+   "is_B": true
+  },
+  {
+   "id": "b4a35e548de27b6924e5f2ee41d37238a5c4a1d5",
+   "title": "Habitat: A Platform for Embodied AI Research",
+   "date": "2019-04-02"
+  },
+  {
+   "id": "cc5ac1d3083b6663482ba6830dfa3bf65343286c",
+   "title": "Embodied Question Answering",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "e52e37cd91366f07df1f98e88f87010f494dd16e",
+   "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+   "date": "2017-02-14"
+  },
+  {
+   "id": "8337441971f941716a9e525a67f37088eb01fd13",
+   "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+   "date": "2017-09-18"
+  },
+  {
+   "id": "e89a4fe6e8286eccedd702216153f0f248adb151",
+   "title": "Gibson Env: Real-World Perception for Embodied Agents",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+   "title": "Microsoft COCO: Common Objects in Context",
+   "date": "2014-05-01"
+  },
+  {
+   "id": "c37c23b12e00168833eccff8025a830ce27c5abc",
+   "title": "Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments",
+   "date": "2017-11-20"
+  },
+  {
+   "id": "804514a68112d190307416018a52792a099c69f8",
+   "title": "Reconstructing scenes with mirror and glass surfaces",
+   "date": "2018-07-30"
+  },
+  {
+   "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+   "title": "VQA: Visual Question Answering",
+   "date": "2015-05-03"
+  },
+  {
+   "id": "8a05db7a75c65ee61c3ca7a6e5401b946166290d",
+   "title": "Semantic Scene Completion from a Single Depth Image",
+   "date": "2016-11-28"
+  },
+  {
+   "id": "d8c4791d161850d9dccaefe4162b4ba98ddb55c3",
+   "title": "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset",
+   "date": "2018-09-03"
+  },
+  {
+   "id": "72e7f4edad44394d2bf63bb134707c8f991761c6",
+   "title": "Direct Sparse Odometry",
+   "date": "2016-07-09"
+  },
+  {
+   "id": "931979ae0bc89c9059b425a6673cdc34ed4eaa8b",
+   "title": "Hierarchical Scoring With 3D Gaussian Splatting for Instance Image-Goal Navigation",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "6654ba1d3e61cdf5f4decc7464436046cf602ed1",
+   "title": "On Evaluation of Embodied Navigation Agents",
+   "date": "2018-07-18"
+  },
+  {
+   "id": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+   "title": "Marching cubes: A high resolution 3D surface construction algorithm",
+   "date": "1987-08-01"
+  },
+  {
+   "id": "6933c70c747e6a8103f68f1a1db80185401d537b",
+   "title": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System",
+   "date": "2015-02-03"
+  },
+  {
+   "id": "07e2cd6498b8e8c3ce44f1c29fe5ec4f4b0c6f0a",
+   "title": "The RobotriX: An Extremely Photorealistic and Very-Large-Scale Indoor Dataset of Sequences with Robot Trajectories and Interactions",
+   "date": "2018-10-01"
+  }
+ ],
+ "n_candidates": 17,
+ "sims": [
+  0.4548,
+  0.451,
+  0.438,
+  0.4361,
+  0.4347,
+  0.4305,
+  0.43,
+  0.3967,
+  0.3828,
+  0.3824,
+  0.3709,
+  0.3572,
+  0.3382,
+  0.3369,
+  0.3243,
+  0.3203,
+  0.3104
+ ]
+}

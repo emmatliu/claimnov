@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_0613b7ad7302f722f5d4c25fbb5ebe146b78c5d4",
+   "title": "MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks",
+   "date": "2026-03-03",
+   "is_B": true
+  },
+  {
+   "id": "2df26ea53e76f1618b427ce1aa2ac6135e82b71a",
+   "title": "MAPRO: Recasting Multi-Agent Prompt Optimization as Maximum a Posteriori Inference",
+   "date": "2025-10-08"
+  },
+  {
+   "id": "c35d5ac5c8e77ccb695bda70b1c8f8cb17add0e1",
+   "title": "Prompt Optimization with Human Feedback",
+   "date": "2024-05-27"
+  },
+  {
+   "id": "e6f0facd93f7ab1750d5b81b6628bbe6da3790a6",
+   "title": "Meta-Prompt Optimization for LLM-Based Sequential Decision Making",
+   "date": "2025-02-02"
+  },
+  {
+   "id": "c76dd4a70361c3afd2e19d046343e2dedd16ecc3",
+   "title": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search",
+   "date": "2023-05-04"
+  },
+  {
+   "id": "8544160c4fb07e78a965a8223cff5c361e9df090",
+   "title": "Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "07759a84f27e43cfa5bc8d579f8227c96e6ae1dc",
+   "title": "RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning",
+   "date": "2022-05-25"
+  },
+  {
+   "id": "f8a2dca1e8fe56e698984c077f7ff58d8ca867e9",
+   "title": "Large Language Models as Optimizers",
+   "date": "2023-09-07"
+  },
+  {
+   "id": "8d3f50c4e74b178b77a070d54e5b6c1592862e09",
+   "title": "Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars",
+   "date": "2024-05-25"
+  },
+  {
+   "id": "7fe071ea76e49bc3e573beb53f07721630954247",
+   "title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution",
+   "date": "2023-09-28"
+  },
+  {
+   "id": "703035b483c181953de1b55b5fd59cd4cd4cf211",
+   "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+   "date": "2023-08-01"
+  },
+  {
+   "id": "3374ffaf24732fb180b74d122e65b239d407e260",
+   "title": "SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "2069aaaa281eb13bcd9330fc4d43f24f6b436a53",
+   "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+   "date": "2023-10-05"
+  },
+  {
+   "id": "4610ffb1b016acaa82a2065ffd1a3adbae1ce722",
+   "title": "Large Language Models Are Human-Level Prompt Engineers",
+   "date": "2022-11-03"
+  },
+  {
+   "id": "3784fd84b61d482b52f7ef72aac66bcb886b892b",
+   "title": "Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models",
+   "date": "2023-10-06"
+  },
+  {
+   "id": "cf934ddd3c852ba9c67cdfd21bf41e7723fc6d9e",
+   "title": "GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models",
+   "date": "2022-03-14"
+  },
+  {
+   "id": "5ad4d7b45deb707ddabcc58be43ee80eaadce057",
+   "title": "How to Correctly do Semantic Backpropagation on Language-based Agentic Systems",
+   "date": "2024-12-04"
+  },
+  {
+   "id": "abe96b0535c1d138e441f81df614245f3b785497",
+   "title": "SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs",
+   "date": "2025-01-16"
+  },
+  {
+   "id": "d6fb1c21a46fb8b0f3f4383fd467b21e5b58c55f",
+   "title": "InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models",
+   "date": "2023-06-05"
+  },
+  {
+   "id": "ec0072bc37f83f1a81459df43289613e04cc61e1",
+   "title": "A contextual-bandit approach to personalized news article recommendation",
+   "date": "2010-02-27"
+  }
+ ],
+ "n_candidates": 49,
+ "sims": [
+  0.8004,
+  0.7128,
+  0.7119,
+  0.7053,
+  0.6541,
+  0.6227,
+  0.6099,
+  0.5935,
+  0.5771,
+  0.5619,
+  0.5516,
+  0.5489,
+  0.5461,
+  0.5366,
+  0.5201,
+  0.5165,
+  0.5039,
+  0.5025,
+  0.4933
+ ]
+}

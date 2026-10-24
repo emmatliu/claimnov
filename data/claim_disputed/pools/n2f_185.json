@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_127a6b196914ea14dd1551aaaa3dddea54c8952d",
+   "title": "A Deep Reinforcement Learning based Approach to Learning Transferable Proof Guidance Strategies",
+   "is_B": true
+  },
+  {
+   "id": "689ccf061a30494bc907c9ccca8b869be4a74564",
+   "title": "Learning to Reason in Large Theories without Imitation",
+   "date": "2019-05-25"
+  },
+  {
+   "id": "e520cb5e6cea39caee029ff130bae22dc74c74c7",
+   "title": "Automated Theorem Proving in Intuitionistic Propositional Logic by Deep Reinforcement Learning",
+   "date": "2018-11-02"
+  },
+  {
+   "id": "920febb03475b068286a855c10ea09b968fe7ee3",
+   "title": "Reinforcement Learning of Theorem Proving",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "9ef2e09a9e16e176e19c3fdc3b6ee22c5d3f3c97",
+   "title": "HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (extended version)",
+   "date": "2019-04-05"
+  },
+  {
+   "id": "ab4c0ab48734548c4c48fa33c3eeccde415db8f8",
+   "title": "Towards Finding Longer Proofs",
+   "date": "2019-05-30"
+  },
+  {
+   "id": "e77e00286a63a32dafb9629cd79f6a77bddb1941",
+   "title": "Deep Network Guided Proof Search",
+   "date": "2017-01-24"
+  },
+  {
+   "id": "4b127897595af5a97c83860eec0540de5510f646",
+   "title": "Graph Representations for Higher-Order Logic and Theorem Proving",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "15bce8864a15c20cf483e18099f3601b94673565",
+   "title": "Premise Selection for Theorem Proving by Deep Graph Embedding",
+   "date": "2017-09-01"
+  },
+  {
+   "id": "5eaa3d6e630f1b5369d8253fb1408d252ac3dc8d",
+   "title": "ENIGMA-NG: Efficient Neural and Gradient-Boosted Inference Guidance for E",
+   "date": "2019-03-07"
+  },
+  {
+   "id": "86562bb014fb5da791dbab1a5eab31c60f01cd63",
+   "title": "Property Invariant Embedding for Automated Reasoning",
+   "date": "2019-11-01"
+  },
+  {
+   "id": "91ab9a65e276cff7f62c7279dd507967804c2477",
+   "title": "Premise Selection for Mathematics by Corpus Analysis and Kernel Methods",
+   "date": "2011-08-17"
+  },
+  {
+   "id": "1657ccb98d20f621d3b790e55364a86441bac341",
+   "title": "Hammering Mizar by Learning Clause Guidance",
+   "date": "2019-04-02"
+  },
+  {
+   "id": "f8909e8b359c72bc0e3257dadcc48a8787bca74b",
+   "title": "DeepMath - Deep Sequence Models for Premise Selection",
+   "date": "2016-06-14"
+  },
+  {
+   "id": "2651ce8012ac95b5c962068aa239913d65be2244",
+   "title": "ENIGMA: Efficient Learning-Based Inference Guiding Machine",
+   "date": "2017-01-23"
+  },
+  {
+   "id": "745c614dbd23bc1e3def79f600680b88cee28700",
+   "title": "Thinking Fast and Slow with Deep Learning and Tree Search",
+   "date": "2017-05-23"
+  },
+  {
+   "id": "38fb1902c6a2ab4f767d4532b28a92473ea737aa",
+   "title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+   "date": "2017-12-05"
+  },
+  {
+   "id": "75c7e95a57d319ad5afed537331b30bae4328645",
+   "title": "The Role of the Mizar Mathematical Library for Interactive Proof Development in Mizar",
+   "date": "2017-11-25"
+  },
+  {
+   "id": "f678a0041f2c6f931168010e7418c500c3f14cdb",
+   "title": "Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks",
+   "date": "2015-10-26"
+  },
+  {
+   "id": "35ccdcea6a329bcd546f682d80c00edfd0aaceb8",
+   "title": "MizAR 40 for Mizar 40",
+   "date": "2013-10-10"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.7337,
+  0.7213,
+  0.7159,
+  0.6815,
+  0.6502,
+  0.6441,
+  0.6016,
+  0.5987,
+  0.5951,
+  0.5926,
+  0.5834,
+  0.5511,
+  0.5443,
+  0.512,
+  0.4567,
+  0.4415,
+  0.3899,
+  0.3779,
+  0.3581
+ ]
+}

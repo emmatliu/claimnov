@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_51b74f3ff4085a7c3b4c7c29b3ff538c68db4c0e",
+   "title": "Towards Understanding Adam Convergence on Highly Degenerate Polynomials",
+   "date": "2026-03-10",
+   "is_B": true
+  },
+  {
+   "id": "55b91ab9b1956fe1210194adc1d4dcb86fc8fccb",
+   "title": "Adam Can Converge Without Any Modification on Update Rules",
+   "date": "2022-08-20"
+  },
+  {
+   "id": "39229b5c2c6fa686abcfef020ac7801792d00627",
+   "title": "Adam symmetry theorem: characterization of the convergence of the stochastic Adam optimizer",
+   "date": "2025-11-10"
+  },
+  {
+   "id": "f84c7a92190ea0702af6a1ee1744c7094472df65",
+   "title": "Convergence and Dynamical Behavior of the ADAM Algorithm for Nonconvex Stochastic Optimization",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "28ace71cca60ef8c3daa2b4b2a438e20033a4232",
+   "title": "Non-convergence and Limit Cycles in the Adam Optimizer",
+   "date": "2019-09-17"
+  },
+  {
+   "id": "a20a5b9ecfc6d7ef03311eecaae0c1611f4eafe4",
+   "title": "Convergence rates for the Adam optimizer",
+   "date": "2024-07-29"
+  },
+  {
+   "id": "c983653841b6987d9959318f074a595783838576",
+   "title": "On the Convergence of Adam and Beyond",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "05b4436d504d5615801639a120a2c8eca7cbaabd",
+   "title": "A Simple Convergence Proof of Adam and Adagrad",
+   "date": "2020-03-05"
+  },
+  {
+   "id": "91fa728b233b3a85dbc73e0a19b55509053b618c",
+   "title": "Sharp higher order convergence rates for the Adam optimizer",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "c215b9ac79f07c8a43782b224f4416943837ffa8",
+   "title": "On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization",
+   "date": "2018-08-08"
+  },
+  {
+   "id": "ae2150ca670e18855e83f779cd3d685610ab58ce",
+   "title": "ODE approximation for the Adam algorithm: General and overparametrized setting",
+   "date": "2025-11-06"
+  },
+  {
+   "id": "27f197e0401b854d14a41829e09209e38fe920b6",
+   "title": "A Sufficient Condition for Convergences of Adam and RMSProp",
+   "date": "2018-11-23"
+  },
+  {
+   "id": "2bbcca8abdb84e4c6679492f3962949079a02fc2",
+   "title": "A Qualitative Study of the Dynamic Behavior of Adaptive Gradient Algorithms",
+   "date": "2020-09-14"
+  },
+  {
+   "id": "4baabe81670772edb9952d6c15381a814af8d2a8",
+   "title": "Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates",
+   "date": "2024-07-11"
+  },
+  {
+   "id": "deb2c8e0e2a7646a1b925f4bb33d2791bccfd44b",
+   "title": "Adam Exploits \u2113\u221e-geometry of Loss Landscape via Coordinate-wise Adaptivity",
+   "date": "2024-10-10"
+  },
+  {
+   "id": "84f6ab620eb7b112e5b2ca64b305970894e679c1",
+   "title": "Adaptive Gradient Methods at the Edge of Stability",
+   "date": "2022-07-29"
+  },
+  {
+   "id": "592e2a4c8bb3e72b1f6d671d6642907fa81b1782",
+   "title": "Noise Is Not the Main Factor Behind the Gap Between SGD and Adam on Transformers, but Sign Descent Might Be",
+   "date": "2023-04-27"
+  },
+  {
+   "id": "8dec1daf96526129221dcbc1eb91b42a00966e81",
+   "title": "Linear Convergence of Adaptive Stochastic Gradient Descent",
+   "date": "2019-08-28"
+  },
+  {
+   "id": "33b2e7cb9c3d3cc902a8cd5118862815d406d31a",
+   "title": "AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization",
+   "date": "2018-06-05"
+  },
+  {
+   "id": "551505614e025831a80c2d67bd854b1441eac03c",
+   "title": "On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization",
+   "date": "2018-08-16"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.7736,
+  0.7696,
+  0.756,
+  0.747,
+  0.7402,
+  0.7309,
+  0.7302,
+  0.7296,
+  0.7183,
+  0.7182,
+  0.7045,
+  0.7044,
+  0.6984,
+  0.6935,
+  0.6558,
+  0.638,
+  0.6225,
+  0.6198,
+  0.6187
+ ]
+}

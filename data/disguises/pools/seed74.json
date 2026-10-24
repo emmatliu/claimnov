@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_aeec55f714e5d961e1df8d6c2724ed6769cf9e02",
+   "title": "LIMSSR: LLM-Driven Sequence-to-Score Reasoning under Training-Time Incomplete Multimodal Observations",
+   "date": "2026-05-01",
+   "is_B": true
+  },
+  {
+   "id": "6675df01d72e399bfae7aab2884c4a586f6b5c8c",
+   "title": "Deep Multimodal Learning with Missing Modality: A Survey",
+   "date": "2024-09-12"
+  },
+  {
+   "id": "efa973be2cb30e7e8a4b84a7cdf95e8dd08d1cc0",
+   "title": "Deep Correlated Prompting for Visual Recognition with Missing Modalities",
+   "date": "2024-10-09"
+  },
+  {
+   "id": "89763c405d14041c6cd315ddb7194fd922ddcbc3",
+   "title": "Distilled Prompt Learning for Incomplete Multimodal Survival Prediction",
+   "date": "2025-03-03"
+  },
+  {
+   "id": "d86fc28b66d23a89b5583a2a9c9276459229c097",
+   "title": "Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning",
+   "date": "2024-10-28"
+  },
+  {
+   "id": "4cbe2256e642b993426ebeb4cd9900f00215788f",
+   "title": "MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment",
+   "date": "2025-11-21"
+  },
+  {
+   "id": "164a6aad5dd37f622c3e89304b435f636256333f",
+   "title": "Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition",
+   "date": "2024-07-07"
+  },
+  {
+   "id": "483757dff12df441c6991dd5e7408d922fe01c3d",
+   "title": "Multimodal Prompting with Missing Modalities for Visual Recognition",
+   "date": "2023-03-06"
+  },
+  {
+   "id": "dc8c1cd62f6f4d6eae9cda3068592495382d57b7",
+   "title": "TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "3fe23b76318b1b49aa4b5c86546b360caa63a300",
+   "title": "MSP: Multimodal Self-Attention Prompt Learning",
+   "date": "2025-09-15"
+  },
+  {
+   "id": "12a43c120c9e7615535237bbee2f6375d07fdd7a",
+   "title": "Towards Good Practices for Missing Modality Robust Action Recognition",
+   "date": "2022-11-25"
+  },
+  {
+   "id": "7d5f871ef85c441d5110341effe2ae6f99f37019",
+   "title": "Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities",
+   "date": "2024-04-25"
+  },
+  {
+   "id": "4822ba9a6d76a6734c7873e1bc7cde549804b61e",
+   "title": "Multi-Modal Modality-Masked Diffusion Network for Brain MRI Synthesis With Random Modality Missing",
+   "date": "2024-02-23"
+  },
+  {
+   "id": "95cc35d0393856c4a6f4c7770409f77dc53c9ff7",
+   "title": "Language-Guided Audio-Visual Learning for Long-Term Sports Assessment",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "d1511fed66e2fa21ed0a175e44efc37ca24019ed",
+   "title": "Progressive Modality-Adaptive Interactive Network for Multi-Modality Image Fusion",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "3e8bd7a84e60600c9f955650f05ba74478156a9b",
+   "title": "ADMC: Attention-based Diffusion model for Missing modalities Completion",
+   "date": "2025-07-08"
+  },
+  {
+   "id": "33e5503066d58e87bc916b4638c2b36cc987a026",
+   "title": "Multimodal Action Quality Assessment",
+   "date": "2024-01-31"
+  },
+  {
+   "id": "8ff0764099bb3931d41e2919c0c2d918e107eb3c",
+   "title": "Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "49873ee415619efd9e1e4c16f73ee066ff008c1f",
+   "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+   "date": "2024-04-09"
+  },
+  {
+   "id": "69d3bc8cb0a715f54ba8a54a4ec32360396a585e",
+   "title": "Enhanced Visual-Semantic Interaction with Tailored Prompts for Pedestrian Attribute Recognition",
+   "date": "2025-06-10"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.7001,
+  0.663,
+  0.6608,
+  0.6575,
+  0.6434,
+  0.6353,
+  0.6307,
+  0.6227,
+  0.6142,
+  0.5961,
+  0.5937,
+  0.5756,
+  0.56,
+  0.5592,
+  0.549,
+  0.5471,
+  0.5454,
+  0.5252,
+  0.5196
+ ]
+}

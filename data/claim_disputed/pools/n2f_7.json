@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2011.05005",
+   "title": "Deep Multimodal Fusion by Channel Exchanging",
+   "is_B": true
+  },
+  {
+   "id": "ad6ab45aff7d6a390a070fc3c1149db05771f26f",
+   "title": "Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion",
+   "date": "2020-10-12"
+  },
+  {
+   "id": "4f472fb027775554187fa3688a95aff9c3c5d977",
+   "title": "Modality Distillation with Multiple Stream Networks for Action Recognition",
+   "date": "2018-06-19"
+  },
+  {
+   "id": "e7f38c56f2aa53319418bc86271f3a86b05a1167",
+   "title": "Self-Supervised Model Adaptation for Multimodal Semantic Segmentation",
+   "date": "2018-08-11"
+  },
+  {
+   "id": "a78273144520d57e150744cf75206e881e11cc5b",
+   "title": "Multimodal Deep Learning",
+   "date": "2011-06-28"
+  },
+  {
+   "id": "6bc4b1376ec2812b6d752c4f6bc8d8fd0512db91",
+   "title": "Multimodal Machine Learning: A Survey and Taxonomy",
+   "date": "2017-05-26"
+  },
+  {
+   "id": "4d22e56c688b18b9e28fd20dc31a31c3594aad1f",
+   "title": "Modality Compensation Network: Cross-Modal Adaptation for Action Recognition",
+   "date": "2020-01-23"
+  },
+  {
+   "id": "e637eb1ddf31f8d43287b881d622fff4174758a5",
+   "title": "RDFNet: RGB-D Multi-level Residual Feature Fusion for Indoor Semantic Segmentation",
+   "date": "2017-10-01"
+  },
+  {
+   "id": "0eeefe629de269ed532902aad2c5edd9b5902bf1",
+   "title": "Robust Multi-Modality Multi-Object Tracking",
+   "date": "2019-09-09"
+  },
+  {
+   "id": "7975918889eb92138f0b06e86279b4b0ca3db303",
+   "title": "Learning Multimodal Graph-to-Graph Translation for Molecular Optimization",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "d560b14c2df9bf310da999b0062f0476f00393e3",
+   "title": "Deep Surface Normal Estimation With Hierarchical RGB-D Fusion",
+   "date": "2019-04-06"
+  },
+  {
+   "id": "01cb4071a0a43aeef63e5d568ad5afe1fb8b2411",
+   "title": "Domain Separation Networks",
+   "date": "2016-08-22"
+  },
+  {
+   "id": "789a8b930377fc17eae5c94f72b84694c344309d",
+   "title": "Learning Common and Specific Features for RGB-D Semantic Segmentation with Deconvolutional Networks",
+   "date": "2016-08-03"
+  },
+  {
+   "id": "f193bb19860f49e3daa4f2ed684231926dc4e70c",
+   "title": "Translate-to-Recognize Networks for RGB-D Scene Recognition",
+   "date": "2019-04-28"
+  },
+  {
+   "id": "feeb3a2aa35a02e06546d05d94bac9a2123fc0c8",
+   "title": "Modulating early visual processing by language",
+   "date": "2017-07-02"
+  },
+  {
+   "id": "8acbe90d5b852dadea7810345451a99608ee54c7",
+   "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+   "date": "2016-11-21"
+  },
+  {
+   "id": "0680e141ca3f12975197f711af98ee2f5022ba64",
+   "title": "Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world",
+   "date": "2014-06-01"
+  },
+  {
+   "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+   "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+   "date": "2015-02-10"
+  },
+  {
+   "id": "9723066a5587e6267d8abfd7feefd0637a5a211c",
+   "title": "Demystifying MMD GANs",
+   "date": "2018-01-04"
+  },
+  {
+   "id": "2fe2cfd98e232f1396f01881853ed6b3d5e37d65",
+   "title": "Taskonomy: Disentangling Task Transfer Learning",
+   "date": "2018-04-23"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.6655,
+  0.584,
+  0.5766,
+  0.5716,
+  0.5394,
+  0.5343,
+  0.5332,
+  0.513,
+  0.4998,
+  0.4924,
+  0.4719,
+  0.4628,
+  0.4456,
+  0.4446,
+  0.4431,
+  0.4427,
+  0.4298,
+  0.4205,
+  0.4102
+ ]
+}

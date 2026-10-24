@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_6bbe74cfd8af549e8a1e011609126dbdeab1b679",
+   "title": "LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection",
+   "date": "2026-06-02",
+   "is_B": true
+  },
+  {
+   "id": "e8735aa9bc89f25619fe4f6e5465ade7ec8fc344",
+   "title": "VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models",
+   "date": "2024-09-25"
+  },
+  {
+   "id": "db696a00207d020247d7a49e172ea55bf4e43613",
+   "title": "Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment",
+   "date": "2025-09-24"
+  },
+  {
+   "id": "56b828717f32251a5e0f0be9c0113077f23c8429",
+   "title": "QuIP: 2-Bit Quantization of Large Language Models With Guarantees",
+   "date": "2023-07-25"
+  },
+  {
+   "id": "2c994fadbb84fb960d8306ee138dbeef41a5b323",
+   "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+   "date": "2022-11-18"
+  },
+  {
+   "id": "2209dd35db8098b6c80caeda705f75339f141e22",
+   "title": "Extreme Compression of Large Language Models via Additive Quantization",
+   "date": "2024-01-11"
+  },
+  {
+   "id": "8fbf2eb4587b5c271979c3f96eee1b109496143e",
+   "title": "QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "bb114f127fdf5d98e2730cc63e3486a867c35935",
+   "title": "FlatQuant: Flatness Matters for LLM Quantization",
+   "date": "2024-10-12"
+  },
+  {
+   "id": "d02246c65eec119fa86288e0455448c72ee959cd",
+   "title": "QTIP: Quantization with Trellises and Incoherence Processing",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "4fa01315f74e9efed29f0ae581ae117d34b56e0a",
+   "title": "FBQuant: FeedBack Quantization for Large Language Models",
+   "date": "2025-01-25"
+  },
+  {
+   "id": "b4c02157354c6cea9ee6efc36108d6708d86b0a8",
+   "title": "Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models",
+   "date": "2025-06-04"
+  },
+  {
+   "id": "bb0799cffdb2d676e1b68d15183371473c03a4fd",
+   "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+   "date": "2024-07-10"
+  },
+  {
+   "id": "db9507cdd3e2d7d9c90ed185bd831e55c62dcec9",
+   "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "dd85e6cab147d237a0b1ab6f674570d3efb4d4a0",
+   "title": "QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs",
+   "date": "2024-03-30"
+  },
+  {
+   "id": "a7ed153f848cd8a299c866f50d74b55f16d606ce",
+   "title": "SpinQuant: LLM quantization with learned rotations",
+   "date": "2024-05-26"
+  },
+  {
+   "id": "be83160b94893f2ef5edd5e68a3f3f8b089a87fd",
+   "title": "Alternating Multi-bit Quantization for Recurrent Neural Networks",
+   "date": "2018-02-01"
+  },
+  {
+   "id": "7da0f2501034522e3d50af7e9b8fa7ec9d7b65b6",
+   "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+   "date": "2022-10-31"
+  },
+  {
+   "id": "32ac52069e562d4f900afee70bdca63f53461481",
+   "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+   "date": "2023-05-23"
+  },
+  {
+   "id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+   "title": "LLaMA: Open and Efficient Foundation Language Models",
+   "date": "2023-02-27"
+  },
+  {
+   "id": "d2d84d56f730f81d276a02b48d5d44db5bde0b4a",
+   "title": "Qwen3 Technical Report",
+   "date": "2025-05-14"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.7985,
+  0.7886,
+  0.7663,
+  0.7549,
+  0.7523,
+  0.7378,
+  0.7361,
+  0.7296,
+  0.713,
+  0.7094,
+  0.7028,
+  0.7016,
+  0.6942,
+  0.6938,
+  0.6396,
+  0.6184,
+  0.6076,
+  0.4828,
+  0.4636
+ ]
+}

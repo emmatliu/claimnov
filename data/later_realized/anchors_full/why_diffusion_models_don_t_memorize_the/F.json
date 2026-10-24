@@ -1,0 +1,262 @@
+[
+ {
+  "id": "730ff970434c7838a422a93a591e784f5b79d7d9",
+  "title": "Auditing Patient Privacy in Medical Generative Models: Scalable Memorization Detection with DeepSSIM++",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "4d93eb4fe1cb60280bea3a34e1d5051cc6040ed5",
+  "title": "LFD (v1.0): latent-compression-free generative diffusion with geological priors and geophysical regularization for implicit structural modeling",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "09eb3347a6c52c5d32ab663c7d9a08f76c0efaba",
+  "title": "Diffusion Models for High-Dimensional Clustered Data: Intrinsic-Dimension Adaptivity via Bayesian Classification",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "a139bf377f487b83167a3bc85ef8fdb1041ee9d3",
+  "title": "Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "ed77a5fde94a2080c843e1508b61742652018753",
+  "title": "PAC-DP: PAC-Bayesian Diffusion Policy Learning",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "4e7a49263056434f6287c11c127c5ed9f78dcf32",
+  "title": "Pixel-Space Diffusion Transformers",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "cff0bf206b76c58fc09f004344ad5f70396fc5a5",
+  "title": "Sandscapes: self-modifying energy landscapes with emergent branching and flips",
+  "date": "2026-07-12"
+ },
+ {
+  "id": "f5d715b2c4398648eb28abe4481254156aad4650",
+  "title": "An exact information theory of generalization phase transitions in Bayesian diffusion models",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "77f5024aaf58c168f0333c06bffd26551f295e95",
+  "title": "Tightening the Score Matching Gap for Diffusion Models",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "66c1795eb55215c9160051f5ad1bd135879cd0fa",
+  "title": "Benign Overfitting Does Not Occur in Diffusion Models",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "254ec216a56192d9f14aa9adecd4302e35ee1556",
+  "title": "AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "1ef5e265c0d9106d0e779f207bd8418cde8fa96e",
+  "title": "RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "e00a5d5210b8c0725141182afb4f9240f0983518",
+  "title": "Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "cd06263ffdf14b023a2e72a10e5fae6f67f8260f",
+  "title": "Patched Flow Matching: Generative Wall-Pressure Reconstruction Beyond Training-Domain Scales from Sparse Sensors",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "901fc3809e64698c704c85f3200dc1b54c9ee28f",
+  "title": "Local Coverage Governs Memorization in Diffusion Models",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "7535f3c76253a9869dacdebc5ce87555c967b868",
+  "title": "Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "0a7cf84a686a048af52be0e11edf89a345820081",
+  "title": "A Theoretical Analysis of Memory and Overfitting Phenomena in Stochastic Interpolation Models",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "7b63b9d06f346c0c3248bed3cac89e5ba7fd6994",
+  "title": "Where the Score Lives: A Wavelet View of Diffusion",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "b530c9d62571de4af884172cce244da63f4ed885",
+  "title": "Where Flow Matching Leaks: Characterising Membership Signals Along the Interpolation Path",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "ff7502e071a4390a21c91478caed4b4fc7588384",
+  "title": "Can AI Weather Models Predict Beyond Two Weeks? A Quantitative Benchmark and Analysis of Long Rollouts",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "92ee0f57594866738f760cb5be8d68b926821e2b",
+  "title": "Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "387539091357d82bc1885db666925eed0f29445b",
+  "title": "Broken Memories: Detecting and Mitigating Memorization in Diffusion Models with Degraded Generations",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "1b5d3a3a20b949d8fc9c5a8a8794900b72fc832e",
+  "title": "Memorisation, convergence and generalisation in generative models",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "0e1832cc2551bdf5bbe270851a09313d183872a6",
+  "title": "Reducing Diffusion Model Memorization with Higher Order Langevin Dynamics",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "f3c187e6ea775b0b351cd4ba6450ea4135ac8c11",
+  "title": "Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "7d47e09cdc2bd8a0d87fa52e2dfd1dc23263a664",
+  "title": "Training-Free Generative Sampling via Moment-Matched Score Smoothing",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "e4d35bfd0957b8de161cd7b031d85806dcfd87b5",
+  "title": "Support Before Frequency in Discrete Diffusion",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "5abb9ec8b9b04cbcbd3cf411fc1302d318ce8c88",
+  "title": "diffGHOST: Diffusion based Generative Hedged Oblivious Synthetic Trajectories",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "fcc41cbc2359a2cd8a9f8dad61f963ac31acca83",
+  "title": "The two clocks and the innovation window: When and how generative models learn rules",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "30755860f44ce625e4f68128025799b2af2278c1",
+  "title": "Understanding diffusion models requires rethinking (again) generalization",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "8fab879822f3512ebf251443238e04efe92f405d",
+  "title": "On Privacy Leakage in Tabular Diffusion Models: Influential Factors, Attacker Knowledge, and Metrics",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "006d5ddd8b505c438de094da2d5859bc176f444c",
+  "title": "Breaking the Quality-Privacy Tradeoff in Tabular Data Generation via In-Context Learning",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "1b1d432ef333b22ad1e69c792fb6bf3e4544a853",
+  "title": "When Do Diffusion Models learn to Generate Multiple Objects?",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "b83f29027e5e6fc9fd2235843681335b2b150ae7",
+  "title": "Understanding Hallucinations in Large Visual and Language Models",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "e20b027f0a94cca77bae6da173a59b2798a9451f",
+  "title": "On the Memorization of Consistency Distillation for Diffusion Models",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "1ce8d4e8985a4a9220d5e5fc5d32a9d4905b026d",
+  "title": "Grokking of Diffusion Models: Case Study on Modular Addition",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "ef17096dd16cbda3ca6e698e7f6c7885ce60e405",
+  "title": "Distinct mechanisms underlying in-context learning in transformers",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "f9fec3c60ce34bc7d87a4bbcdc83ff66a0c1d5d4",
+  "title": "Dynamical regimes of discrete diffusion models",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "dc240e1cd6e190d27fde0b3d10e96e6226547945",
+  "title": "Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "b3e89c697a273d15a1a030cb97ffc43c089d51fb",
+  "title": "Diffusion Processes on Implicit Manifolds",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "fce84c5d4c12bd53080e4a2c18ce96ab5557787e",
+  "title": "Score Shocks: The Burgers Equation Structure of Diffusion Generative Models",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "e056759c1bbd5ead2569aee838ea87f5099fc5b8",
+  "title": "Techniques for mitigating overfitting in machine learning: a comprehensive review, taxonomy, and practical guide",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "79cd420774428f0435c90cd6eabca18f442b19b5",
+  "title": "Asymptotic Learning Curves for Diffusion Models with Random Features Score and Manifold Data",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "1caa7aafee506b1c0075fba167f3af8822ee6347",
+  "title": "On the role of memorization in learned priors for geophysical inverse problems",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "82e37c5d01869d9643ef0327f7fcc3de03726d42",
+  "title": "FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "7c51661bf0d3ac32373d858de523414bfeebe9dc",
+  "title": "Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "38405513476f4e890993123b5ac0ce294dfcd025",
+  "title": "A theory of learning data statistics in diffusion models, from easy to hard",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "e010cd612b12c0f086a264ee80c45010f4691b2a",
+  "title": "Physics-Constrained Diffusion Model for Synthesis of 3D Turbulent Data",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "5b7ba5e4fc908211596c99c2f9bfa4de1f54eb1f",
+  "title": "Diffusion Models Memorize in Training -- and Generalize in Inference",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "c78fa09e8c6cfcde68423db0c7e7b860dd4e581f",
+  "title": "Generalization and Memorization in Rectified Flow",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "c55bdaed25e0b6ea5976ad7e9327f3121f57aeb0",
+  "title": "Making Reconstruction FID Predictive of Diffusion Generation FID",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "f6f796815e8fc2755fbdfaf7579cc0d451c899f1",
+  "title": "Biased Generalization in Diffusion Models",
+  "date": "2026-03-03"
+ }
+]

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_8c14656b643ca5293f7308fea89d61738a91bc3b",
+   "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+   "date": "2026-05-28",
+   "is_B": true
+  },
+  {
+   "id": "a8cb51e31cf9bc8687074647d7233d0c189091bc",
+   "title": "GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "285f38de28b79df0bb64a859ab0d79048e860f30",
+   "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+   "date": "2024-12-27"
+  },
+  {
+   "id": "a0c0c2e7c9a316e7e9e7006640e58556669251e0",
+   "title": "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "926c4fa18ed8cbc04c058f4dbcaa3f556fa7976d",
+   "title": "WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point",
+   "date": "2025-02-12"
+  },
+  {
+   "id": "3ba8eb19663f7dc7e31a17cb98a73bae949d19f6",
+   "title": "GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "23c5d8fb6de30553efd1e38f796b40f2bff33453",
+   "title": "UI-TARS: Pioneering Automated GUI Interaction with Native Agents",
+   "date": "2025-01-21"
+  },
+  {
+   "id": "5763eb443b946d72c4512b9f2863e9f82051f9ea",
+   "title": "Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "978aca3325321526f003b01443b9dd891bf3461a",
+   "title": "Mobile-Agent-v3: Fundamental Agents for GUI Automation",
+   "date": "2025-08-21"
+  },
+  {
+   "id": "744ecc70e9e6b31b43f519cf8c3affdcc2cda8ef",
+   "title": "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials",
+   "date": "2024-12-12"
+  },
+  {
+   "id": "ac7ac3c4c6a8fcbfb8180070a53392d96862c701",
+   "title": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "164d8cd4140a231fb1f471f1d75ea96fc4b25253",
+   "title": "GUI Agents: A Survey",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "df7b286e53d66c6881966b5e6904f7fa5e6d774b",
+   "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
+   "date": "2025-04-04"
+  },
+  {
+   "id": "9ceadd197cea2cd1b45e12983d528daf2b24efaa",
+   "title": "OS-ATLAS: A Foundation Action Model for Generalist GUI Agents",
+   "date": "2024-10-30"
+  },
+  {
+   "id": "ea9591cf281409ffcbc284129d52050fea9cc115",
+   "title": "ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay",
+   "date": "2025-05-22"
+  },
+  {
+   "id": "c443fddfce5b587a11e8074f548633304b4cd9a5",
+   "title": "GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices",
+   "date": "2024-06-12"
+  },
+  {
+   "id": "8fa5cbc7344d8c2b73f223884ce2a4213b3822d7",
+   "title": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
+   "date": "2025-01-20"
+  },
+  {
+   "id": "00f053f6a2769351f5102c445b2ee02e9c73226a",
+   "title": "Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation",
+   "date": "2025-11-27"
+  },
+  {
+   "id": "f9b39a6a7e40986b46f7796f3a805d70d7e3931a",
+   "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+   "date": "2024-01-17"
+  },
+  {
+   "id": "58ae4a85ae73095da668d6eac3a8c1f19270c89d",
+   "title": "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction",
+   "date": "2024-12-05"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.7338,
+  0.685,
+  0.6649,
+  0.6594,
+  0.6568,
+  0.6433,
+  0.6429,
+  0.6303,
+  0.6302,
+  0.6217,
+  0.6091,
+  0.5898,
+  0.5875,
+  0.5849,
+  0.564,
+  0.5631,
+  0.5613,
+  0.5612,
+  0.5443
+ ]
+}

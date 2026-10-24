@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_dee343cfff76e46a4b9845e765d13be28165df06",
+   "title": "VectorMapNet: End-to-end Vectorized HD Map Learning",
+   "is_B": true
+  },
+  {
+   "id": "b08199b3d35a5f6972cb356dd355b2aea408d3ff",
+   "title": "Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation",
+   "date": "2021-06-01"
+  },
+  {
+   "id": "bcfe57e2d05648c7ace15f3e96bb899b3fa262f2",
+   "title": "HDNET: Exploiting HD Maps for 3D Object Detection",
+   "date": "2018-10-23"
+  },
+  {
+   "id": "296c808abc2b11c6b7cc44237357b6590bac4f35",
+   "title": "VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation",
+   "date": "2020-05-08"
+  },
+  {
+   "id": "1ba56df34200b028eace2f6cbdd62cb8bc2de20c",
+   "title": "MP3: A Unified Model to Map, Perceive, Predict and Plan",
+   "date": "2021-01-18"
+  },
+  {
+   "id": "c7d59fe1b7b62886b0f7cd7239f9749c2e2ed2d5",
+   "title": "Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks",
+   "date": "2020-03-30"
+  },
+  {
+   "id": "51e2a8172e9ef71fdd40194085a6fb8034c74f4b",
+   "title": "HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps",
+   "date": "2021-06-01"
+  },
+  {
+   "id": "c5e6f0c52c1f91086879f46120efa79e96158eba",
+   "title": "Cross-view Transformers for real-time Map-view Semantic Segmentation",
+   "date": "2022-05-05"
+  },
+  {
+   "id": "78d02f2909a582c624eca2d0f67c91ee91974180",
+   "title": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+   "date": "2022-03-02"
+  },
+  {
+   "id": "39ca8f8ff28cc640e3b41a6bd7814ab85c586504",
+   "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection",
+   "date": "2020-10-08"
+  },
+  {
+   "id": "de4c059dfacfa993a3e688af140f854303882d7c",
+   "title": "FUTR3D: A Unified Sensor Fusion Framework for 3D Detection",
+   "date": "2022-03-20"
+  },
+  {
+   "id": "5f84985d2c9d950f3c878781d25a4603227a7e35",
+   "title": "Hierarchical Recurrent Attention Networks for Structured Online Maps",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "962dc29fdc3fbdc5930a10aba114050b82fe5a3e",
+   "title": "End-to-End Object Detection with Transformers",
+   "date": "2020-05-26"
+  },
+  {
+   "id": "8e66c7e494476eb0dee846349df1bd705ceac6c3",
+   "title": "Argoverse: 3D Tracking and Forecasting With Rich Maps",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "5bf1ad77389d78faf269391416e60e8d747bbc34",
+   "title": "Monocular Semantic Occupancy Grid Mapping With Convolutional Variational Encoder\u2013Decoder Networks",
+   "date": "2018-04-06"
+  },
+  {
+   "id": "4def603277e077d11eb6ce030df931330d758207",
+   "title": "Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D",
+   "date": "2020-08-13"
+  },
+  {
+   "id": "3df8936a76570db659f5b07231416efb5fa9ba95",
+   "title": "Structured Bird\u2019s-Eye-View Traffic Scene Understanding from Onboard Images",
+   "date": "2021-10-01"
+  },
+  {
+   "id": "48e2d76d35b44edc21d09d460021103ce997c804",
+   "title": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries",
+   "date": "2021-10-13"
+  },
+  {
+   "id": "c980b52b01251be8a2f681c2413f2c010a8e12e2",
+   "title": "Convolutional Recurrent Network for Road Boundary Extraction",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "5383ee00a5c0c3372081fccfeceb812b7854c9ea",
+   "title": "Spatial As Deep: Spatial CNN for Traffic Scene Understanding",
+   "date": "2017-12-17"
+  }
+ ],
+ "n_candidates": 57,
+ "sims": [
+  0.6269,
+  0.621,
+  0.6141,
+  0.6133,
+  0.6112,
+  0.6093,
+  0.5959,
+  0.5753,
+  0.5713,
+  0.56,
+  0.559,
+  0.5518,
+  0.5402,
+  0.5372,
+  0.5285,
+  0.526,
+  0.524,
+  0.5186,
+  0.5166
+ ]
+}

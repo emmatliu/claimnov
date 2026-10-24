@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_def1049b5aae96c8e1eab0ca58d77ac9c2f0e3e9",
+   "title": "MolGAN: An implicit generative model for small molecular graphs",
+   "is_B": true
+  },
+  {
+   "id": "8913c23081e46a41cc7ced3c2ff379d9cd7afcde",
+   "title": "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders",
+   "date": "2018-02-09"
+  },
+  {
+   "id": "f7b1453416d3d95af19ff465104e78968920354d",
+   "title": "GraphGAN: Graph Representation Learning with Generative Adversarial Nets",
+   "date": "2017-11-22"
+  },
+  {
+   "id": "0c9fc038583b7a6b27772e808c798fcdc10778bc",
+   "title": "NeVAE: A Deep Generative Model for Molecular Graphs",
+   "date": "2018-02-14"
+  },
+  {
+   "id": "f32f16ca3c27ff945198c6551a5d35fae3b1a660",
+   "title": "Learning Deep Generative Models of Graphs",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "eaf5b3a28606da5014d5c3d106b2fc4306933808",
+   "title": "Graphite: Iterative Generative Modeling of Graphs",
+   "date": "2018-03-28"
+  },
+  {
+   "id": "dcd5b17b26c028b574cfcadd0d4e47b8d169ce5c",
+   "title": "NetGAN: Generating Graphs via Random Walks",
+   "date": "2018-03-02"
+  },
+  {
+   "id": "54906484f42e871f7c47bbfe784a358b1448231f",
+   "title": "Variational Graph Auto-Encoders",
+   "date": "2016-11-21"
+  },
+  {
+   "id": "222928303a72d1389b0add8032a31abccbba41b3",
+   "title": "Grammar Variational Autoencoder",
+   "date": "2017-03-06"
+  },
+  {
+   "id": "32c4e19f4a757f6c6984416b97d69e287d1d0ecd",
+   "title": "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient",
+   "date": "2016-09-18"
+  },
+  {
+   "id": "571b0750085ae3d939525e62af510ee2cee9d5ea",
+   "title": "Improved Techniques for Training GANs",
+   "date": "2016-06-10"
+  },
+  {
+   "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+   "title": "Auto-Encoding Variational Bayes",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "fd17bd9a5dc24a081ad9743570f50dd6750f54b2",
+   "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "15d739e2c184a6844bdbd9a2550d007de6ddb085",
+   "title": "Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "29e944711a354c396fad71936f536e83025b6ce0",
+   "title": "Categorical Reparameterization with Gumbel-Softmax",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "14f1f267731c89bbff04fce87b223d73168d8a4e",
+   "title": "Multi-objective de novo drug design with conditional graph generative model",
+   "date": "2018-01-18"
+  },
+  {
+   "id": "5f90bfbb93cd3c36e550a8aacc400a6c3f0a7c7e",
+   "title": "Hyperspherical Variational Auto-Encoders",
+   "date": "2018-04-03"
+  },
+  {
+   "id": "515a21e90117941150923e559729c59f5fdade1c",
+   "title": "The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables",
+   "date": "2016-11-02"
+  },
+  {
+   "id": "88427d2143d4cff357c3b393ae7580a7b6e19940",
+   "title": "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules",
+   "date": "2016-10-07"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.6023,
+  0.5866,
+  0.5734,
+  0.5658,
+  0.5561,
+  0.5374,
+  0.5273,
+  0.5217,
+  0.5163,
+  0.5128,
+  0.5014,
+  0.4937,
+  0.4916,
+  0.4872,
+  0.4856,
+  0.4819,
+  0.4648,
+  0.4646,
+  0.4603
+ ]
+}

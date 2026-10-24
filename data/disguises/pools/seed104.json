@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_f6e1e0506bc0907b6e8b9d697377dbce8762335a",
+   "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+   "date": "2026-04-24",
+   "is_B": true
+  },
+  {
+   "id": "22a2102c82a3671198a6b4292921a2ece55b847e",
+   "title": "Can Models Learn Skill Composition from Examples?",
+   "date": "2024-09-29"
+  },
+  {
+   "id": "9e4980cb927b803d375c5796f4a2eb3a7fe0555d",
+   "title": "The Quantization Model of Neural Scaling",
+   "date": "2023-03-23"
+  },
+  {
+   "id": "297dbda128756e2816130a8de057f96760e4b89c",
+   "title": "Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition From a Domain Adaptation Perspective",
+   "date": "2020-03-24"
+  },
+  {
+   "id": "18be8449f3b4a26dfe8728c04fde77192d4509f7",
+   "title": "Learning Compositional Functions with Transformers from Easy-to-Hard Data",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "4b474c1f42eefbf14ca85c951f2a22ce031b6cb7",
+   "title": "Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models",
+   "date": "2023-07-26"
+  },
+  {
+   "id": "ff6f2b9e56ee0f3f26bcbdc5079678c059fe24e3",
+   "title": "A Theory for Emergence of Complex Skills in Language Models",
+   "date": "2023-07-29"
+  },
+  {
+   "id": "e070ff286709db28312e08b52b05539debe88146",
+   "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+   "date": "2022-10-07"
+  },
+  {
+   "id": "1af9eab9a019abcfecd24df9fff14307eb0b93c6",
+   "title": "Shift is Good: Mismatched Data Mixing Improves Test Performance",
+   "date": "2025-10-29"
+  },
+  {
+   "id": "fd9c838c2ffcf4c548f916573ef76d287b71f717",
+   "title": "Physics of Skill Learning",
+   "date": "2025-01-21"
+  },
+  {
+   "id": "1de63f374706b35f351ae04bf0a5fba3fae20ce5",
+   "title": "Provable Advantage of Curriculum Learning on Parity Targets with Mixed Inputs",
+   "date": "2023-06-29"
+  },
+  {
+   "id": "7c09d7b00e4b68bab51d46cd405636483b1269c9",
+   "title": "Understanding and Patching Compositional Reasoning in LLMs",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "3efbcfeeb0ea1051a71101d3318da4411081f0b8",
+   "title": "Scaling Laws for Autoregressive Generative Modeling",
+   "date": "2020-10-28"
+  },
+  {
+   "id": "a1c922be467d1c0c64b963e65dae41778b81b2a0",
+   "title": "Deep Learning Scaling is Predictable, Empirically",
+   "date": "2017-12-01"
+  },
+  {
+   "id": "fec3d7e1272d640eddd55307127bebf4fa55ac33",
+   "title": "Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process",
+   "date": "2024-07-29"
+  },
+  {
+   "id": "f02e46e3acd77340998569f215c1f0ee9c543e3f",
+   "title": "A Mathematical Model for Curriculum Learning",
+   "date": "2023-01-31"
+  },
+  {
+   "id": "9fa0097b9c58403ec628bdb58e204f9112d59acf",
+   "title": "Positive Distribution Shift as a Framework for Understanding Tractable Learning",
+   "date": "2026-02-09"
+  },
+  {
+   "id": "bc508431522f5ce74d15fa77ccd4c91ee533151f",
+   "title": "Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models",
+   "date": "2023-10-26"
+  },
+  {
+   "id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+   "title": "Scaling Laws for Neural Language Models",
+   "date": "2020-01-23"
+  },
+  {
+   "id": "45122c8f76a4e2fd0163d1f0522db37e97ea4721",
+   "title": "Beyond neural scaling laws: beating power law scaling via data pruning",
+   "date": "2022-06-29"
+  }
+ ],
+ "n_candidates": 58,
+ "sims": [
+  0.6023,
+  0.5871,
+  0.5857,
+  0.5804,
+  0.5803,
+  0.5655,
+  0.5503,
+  0.5465,
+  0.5324,
+  0.5282,
+  0.5273,
+  0.5212,
+  0.5171,
+  0.516,
+  0.5158,
+  0.5119,
+  0.5108,
+  0.5101,
+  0.4971
+ ]
+}

@@ -1,0 +1,3132 @@
+[
+ {
+  "id": "669aff9453c48d10d6d5523af0692c5ed71d49f2",
+  "title": "Personalizing LLM Agent Memory Using Biometrics",
+  "date": "2026-09-08"
+ },
+ {
+  "id": "a48186d44fcf3982388d1c67a0d320dc2e706154",
+  "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+  "date": "2026-09-08"
+ },
+ {
+  "id": "41c7b09860aa6830cf952c3810525038d6343f3e",
+  "title": "Closing the Consistency Gap: Self-Evolving Agents That Learn to Stay on Course",
+  "date": "2026-09-08"
+ },
+ {
+  "id": "9fd3e261b87867e6306c89386f193b2f3e4bdce7",
+  "title": "CreaMem: A Scene-Aware Memory Architecture for Personalized Agents",
+  "date": "2026-09-08"
+ },
+ {
+  "id": "e7127ab5888385481dfe0807c981e188dc54eac9",
+  "title": "Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering",
+  "date": "2026-09-07"
+ },
+ {
+  "id": "fbd02d9fe01fa438c656080ca38fcf586c8a9f11",
+  "title": "MEMO: Multimodal Evidence Memory Organization for Long-Horizon LLM Agents",
+  "date": "2026-09-07"
+ },
+ {
+  "id": "d37c47fef750c13dc73f36f9ed1ac408f18f68a3",
+  "title": "Compact-Memory LLM Agents via Online Max-Member Clustering and Atom-Aware Packing",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "78957d85a4944b5f4b953a9b89c467d5b7ba5ff7",
+  "title": "AtomRec: Evolving Atomic Memory for Agentic Recommendation",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "879ec3cbf8d465799d00e3c252db2ebaffa1233b",
+  "title": "Testing Interchangeability in LLM Agent Teams",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "e3cc51032ebbf8babcc3ba36fb19b39032a9d7ab",
+  "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "8cb40e149d89b2d078171f32e5ff126837c63051",
+  "title": "Will My Assistant Remember My Allergy? What Personal LLM Assistants Forget When Conversation Memory Is Compressed",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "c8f255f5fc741dc8e619b32d45a370be073e600f",
+  "title": "When Users Don't Ask: Benchmarking Context-Driven Memory Retrieval in Conversational Agents",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "3a26bf0298815af8e32b86aae5bbd7dbfdc849dc",
+  "title": "RuleMem: Active Rule Memory for Long-Term Conversational Agents",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "49964af6d9315b3e377db62965f588e3cb9c255e",
+  "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "0230f9fd0254a43028a332c3dd8e1155e6aec178",
+  "title": "Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "b2c03a54d93332e1c8e6193e6e43fa3d6397233a",
+  "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "cffbf6af977928493f678e6165ef7f75830bbec9",
+  "title": "SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "66cb6b635ea15171526c13fe02c72b9d4483d9de",
+  "title": "EdgeMem: LLM-Free Agent Memory Construction and Retrieval via Evidence-Preserving Multi-Anchor Hypergraph",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "a3490a4bc65d439bf7ea84d4f847bb4f24bce089",
+  "title": "Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "edf0af83de4de63c8a96148cc12b7d71a252ecdb",
+  "title": "APEx: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "f9e896f1f1755c1c3af6750d6361cf09bb1f2937",
+  "title": "CORAL: An LLM-Native Harness for Production Recommender Systems",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "796e92ab077fa28492358507cffbee707df7a436",
+  "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "90ab4c7bb291fc4c6dc1321547a0070e0afb6d9f",
+  "title": "MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "5755723c7e46c9890885d93bc6cd1471147d3cd4",
+  "title": "ClinTraceBench: Source-Verifiable Longitudinal Clinical Reasoning over EHR-Derived Dialogues",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "9a6a89252ad6e347eed939251305840c68336952",
+  "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "5cdd78a83a670ac8a89fc16883781d437d62acac",
+  "title": "UTILMEM: Benchmarking Evidence Utilization in Long-Term Conversational Memory",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "224db8fb775472d44dd7789230ef187308b9cc09",
+  "title": "PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "a65315f5d3ce617732b913b213ee15bf45692ce7",
+  "title": "SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "bbb8a318b78e21852de4bd3a266d8f2903e93e7e",
+  "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "24723dbde683b91e30347568f53a8122f248ff17",
+  "title": "Agentic Context Cracking: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "4cdafe2f1486935459188d3e3e6f5f958f8cdfcb",
+  "title": "Memory as Infrastructure: Reliability Engineering for Persistent Agent Memory in Months-Long LLM-Assisted Development",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "d790bcde1c454e76cead327374d3ac69f954a953",
+  "title": "Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "4cfaddeab2e744d4f7185793164ad300264080fc",
+  "title": "Diachronic Hypergraphs for Orchestrated Multi-Agent Multimodal Memory Curation",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "6dd494eead5b8fdb8340c33b0a3a4deef955323f",
+  "title": "Facts Without Rules: Boundary Metadata Collapse in Multi-Agent LLM Handoffs",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "f54ebed70447f04ced0886fb525a5b326001711a",
+  "title": "ASTRA - Agentic System for Ticket Resolution and Analysis",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "b66df0122902def1c05d4cad16be0c1e3788bc84",
+  "title": "Entity-Memory Graph Retrieval Improves Evidence Coverage in Long-Conversation Question Answering",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "382f16965bf78745586bbe36d53cc07f39340312",
+  "title": "ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "0532a559fab39bb498c9e6f0f6f9933e7c242403",
+  "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "595cd0f293dc47b9d25e7dbf60118effae1e44d2",
+  "title": "GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "330362f7cfac0f17971f6124cdeb7871f90aa60a",
+  "title": "Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "061c7c7b2587b9b88f3aa1cfe097da78592eafbb",
+  "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "33c8d3316d67409ad24c3efa28f3dd91fe64a59a",
+  "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "8a5e20c75b2d84f41127ead2fa011a7e4e8bab4f",
+  "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "193f5518cafe9029d5ceedf840edd2d4dda563f0",
+  "title": "EviGraph: Towards Verifiable Evidence Construction for Information-Seeking Agents",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "735408668f7a5c5f34727fd00bb66c758248a199",
+  "title": "The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "68cebfa9bff38539f6dbd114310629168e7d6960",
+  "title": "The Compaction Cliff in Long-Running AI Agent Memory",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "7cd1fe1b634a54be623ff3fa7e0e88d4820a4479",
+  "title": "Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "e978faaafba559443a44a6006104a342d8d94c79",
+  "title": "From Inertia to Objectivity: Improving Deep Research Agents with Noise Isolation",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "09e4e85b7fadc40990563e1cf2847356d7c9fd23",
+  "title": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "10f0350acab6a342c8f227f5c73ad6e4e9e2c52d",
+  "title": "Beyond Executable Models: The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark for Physical System Modeling",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "7cf8351bc69a2c356528cbfca441a304d425020a",
+  "title": "CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "44bedea76d24661a3cbe90f78da5080218940ca4",
+  "title": "HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "d6436920f213b9ab9f628d0daa38c12b888496c4",
+  "title": "Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "9f0bde701b495d0c137d64be01e3f0ecec9738ec",
+  "title": "Coalition-Aware Skill Reliability for Self-Evolving Agents",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "d57f930bde6136e5116f035a98c35f9da845ad5d",
+  "title": "ECHO: A Cognitively Inspired, Auditable Memory Plane for Long-Horizon Agents",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "bdbd0b93dfc71b7bee33381d78350cc841877643",
+  "title": "Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "0505393a107e559a02ded0b519d5febf24683cc5",
+  "title": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "95de9026fcacccaf91ee3fcafd00fd3d3a5aea18",
+  "title": "MEMONDEMAND: A Memory Management System for Large-Scale Enterprise Data",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "536aa31665e58a0dd03ecef32afa042b3b1af472",
+  "title": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "aff09b98f3ade8fd4296515e699e76b49c83406b",
+  "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "17366dc8c2f796686e14d17cff62afd1f1d5a71a",
+  "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "98c0706a65d781a3b7b726811151d0176e1cefb6",
+  "title": "Can Agent Memory Systems Track Evolving State?",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "736d61825a5afed4c85b227951a9880d01e2299f",
+  "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "658371744093eb366371788040b1f2147ae0e01a",
+  "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "10987879670ac272ec7dbb5a9cc919a998a216b6",
+  "title": "PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "660441819b931d4b953873222bdc9c34c7641a9b",
+  "title": "MemFuse: Multi-Source Memory Fusion from Fragmented Observations",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "d0041d6ab76c3946d7c040808bb25744589a5dc8",
+  "title": "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "32eaf7108c6793f3980873a84232224f6dac876b",
+  "title": "ArborMem: Navigating Interaction States with Memory Forests",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "05a7b7adf05101ac43b3c6672ce5afc0767453c3",
+  "title": "Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "4d1648780d879fde3ed36f9d837c270148925206",
+  "title": "CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "e2609e42dc05d490f14bbce2d65f02df295933d5",
+  "title": "GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "48b33207781a7d1714a73d15e1f88e95414e05a4",
+  "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "a2b8f9053cea80fc2426ad119a0e5e453573f4f1",
+  "title": "D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "60e4ada81982206f085e42e38ad6a7d606f3c2b2",
+  "title": "QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "b0e7f3926054408717d0458d99697b5b366f5721",
+  "title": "MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "3a526627fc7d3834e5be7946052f8dba96eb7fa3",
+  "title": "FTA-Mem: Fact-Time-Affect Anchored Memory for Low-Density Long-Term Dialogue",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "3aa5dd7c821e36bd611acb13146714348e69851e",
+  "title": "HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "5e223c2c94b112dda6df62c7a869d48cddd0e9f0",
+  "title": "What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "db9ab60be776a62cc3be744d28468642bcada5a6",
+  "title": "HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation",
+  "date": "2026-08-16"
+ },
+ {
+  "id": "4b0333309dbb84e43f878de204f10fac77aaffe1",
+  "title": "SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "5f8a2a94ec6f2d5cd415c9f7b0c1f324f7eee36e",
+  "title": "Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "188e4015ea1a4efcd7015ef6071a24bcf8a27a13",
+  "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "439282ab53ed07cdceed6649cdce94f7d12f03d8",
+  "title": "When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "5576d28993aa34c7c33873a27102d4484f207400",
+  "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "96ca91169b652e83ac9d28fc6f4e09919b916f07",
+  "title": "When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "46ec45e308d8d6ec347607bd8ad2d3bb5aa8128b",
+  "title": "ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "4df004afd2f5a400b7bdc46f8f0dbe614387db9a",
+  "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "de0143b2740d2a3402ef9e11a8e193b7b9720c29",
+  "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "95d185cf40d0ab3b4c4183db74aeff69a0c7bec3",
+  "title": "RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "d13d4f8523385b5d48a9c0f171033d3d4a5d4eae",
+  "title": "EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "87978cec653d3cfd7fc7d5929a2338fdff760f09",
+  "title": "Total Recall at What Cost? Benchmarking the Serving Cost of Agentic Memory Systems",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "c4fbe663a2ae45d041eb383ab25b9ea0fccfd9f6",
+  "title": "Towards a Formal Definition of Agent Memory: Basis, Span, Optimality, and the Sequential Memory Problem",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "8b0c7652b31f50f2e36cf3a729917d947d82b5e8",
+  "title": "From Faulty Memories to Corrected Actions: Dependency-Guided Rollback Repair for Memory-Augmented Agents",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "c725340fcef065592f858d030703b524cd2de102",
+  "title": "Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "f807fce69a0b1ca6c36ab45101d1b8d3768edaa2",
+  "title": "Different Feedback, Different Updates: Selective Self-Learning from User Interactions for Large Language Models",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "c3f3ef8c20dcd0b99aa5254b12deb3b4abc29d8e",
+  "title": "Muscle Memory for Agents: Compile not Merely Retrieve",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "cfe3a0406ba2c2ead357868d8429b1e76435b94d",
+  "title": "Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "fd31ea28c66c4fff4c5cc47a77ec4487aa9f2e0c",
+  "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "3bc5571eeab5e34e7e5cb4dfae6b0f3a50a1e6d7",
+  "title": "Toward Metacognitive One-Shot Indirect Prompt Injection: Strategy Abstraction Via Outcome-Conditioned Reflection",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "95918d56b1b2dcbb5109c1d5ba2370d95180fb66",
+  "title": "Hyperbolic Learning for Structured Data, Knowledge, and Memory: A Tutorial",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "1ec7e17c981697be5f0f3be777bbdf53755e59fa",
+  "title": "LatticeMind: A Conflict-Aware Memory Primitive for Multi-Agent Systems",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "56bc344362cae75a8a04e0585db2eb96557e6d5c",
+  "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "7c4e80cd2bf2f5e00957f054d4e6e90a0c9089b8",
+  "title": "SodaMem: Evidence-Grounded Temporal Graph Memory for LLM Agents",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "2700d144b6037013a53959f8da067b2adfdf4b18",
+  "title": "Mitigating Over-Personalization in LLMs via Structured Memory",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "8f069668626cdda4644352a6ad705500dbd336b5",
+  "title": "Coupling Planning with Episodic Memory in LLM Agents for Software Issue Resolution",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "f200a0ecc88183a8ecd90dc5cbc79dd1adbd2934",
+  "title": "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "96847ac1ef56833441257d9f46ad7e87ea59a133",
+  "title": "MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "eb6b62a529e84cff03fc501c2892ef7a1270fa7a",
+  "title": "DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "f68c362ccd968a23acb3bd3e3fad17516780192d",
+  "title": "TEPA: Revoking Stale Memories for Conflict-Robust Language Agents",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "69eb45f4974cfdd5906ab08ca9e66d1833f64f6e",
+  "title": "ChainClaw: A Layered Agent Framework for Reliable On-Chain Execution",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "2fee27718b51360afcd454da8ab3f07f7a5c0daf",
+  "title": "Unified Agent: Managing Interactions across Devices",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "5b2ef02aa207a1b69547082d6d12dbe27c045aad",
+  "title": "When Do Prompt-Side Agent Playbooks Transfer? Accuracy, Cost, and Runtime Shift in Agent Deployment",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "7aea31928f63f57f33a57a3eb21b0bea39169fbf",
+  "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "48f478592b0b4eb91babde543b2fb33f874ada9f",
+  "title": "Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "2e3dcf176aeb354f15e0172cb4e637179c29a2be",
+  "title": "Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "2a971cc1ee1bcb5137873c0222fa21f794628f57",
+  "title": "MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "8c8b2fa7b05cc3397958c8cc69c287cf29791d4c",
+  "title": "Differentiated memory and scientific cognition in AI research agents",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "1c89e068b100fe6a0f86a5b97c98f080adb5082d",
+  "title": "Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "95b25ff35c5e6a434b5b150f33d7823691a4cc0d",
+  "title": "Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "9e02c762690c9f351f9315677984a1f96f670075",
+  "title": "Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "f63fea3413ffc9379602cf7d67b1ad8223c8070c",
+  "title": "DP-MemView: A Memory Interface for Attribute-Level Transcript Privacy in Long-Term LLM Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "de63522adff1e8bc2aa3b80b4f0dee9b2d963d81",
+  "title": "SkillJack: Persistent Skill Backdoors in Self-Evolving Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "86174fa6cbc829c87d1dae781e1282a751e9f6b5",
+  "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "86f2eb0866346e2b4013a92321db13ecb781ab80",
+  "title": "LeanMem: Simple and Efficient Long-Term Memory for LLM Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "1357c8742dc01d42c46f92fd4c7d3ee5f390bf44",
+  "title": "SafeCommit: Certifying When Memory-Grounded Agents May Safely Act",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "c66180b4413320466e98e2b00cdb46725f60b4f1",
+  "title": "CURATE: Leveraging LLM Agents to Compose, Catalog, and Deploy Reproducible Workflows",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "f82f58a5cc90dd55c6940ce7d7701bb0ebaa9090",
+  "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "347ed425a5871b0ac11f4f2df2fd4323f67823c1",
+  "title": "PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "66e7029ecee4a46a49ba539af0fdffc0c87637e8",
+  "title": "CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "980ad8f476cbd6839cb3e9794096238d570fe468",
+  "title": "FedWorld: Scope-Aware Federation of Agent World Models",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "894ed3025871787dda5e5128720784e68aa43bd0",
+  "title": "When Memory Becomes Authority: Benchmarking Authority Collapse at the Memory Consolidation Boundary",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "1a02a853c01e4e721d050e5e616d7da3b9ca5337",
+  "title": "MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "c4515d6e9c814cdfae10995fe84b24d009511def",
+  "title": "MemArbiter: Decision-Time Memory Arbitration for Long-Horizon LLM Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "e35b1aa1a3505047a4cec00963c34d44730e1454",
+  "title": "Beyond Solution-Centric Search: Adaptive Inquiry and Knowledge Revision for Autonomous ML Engineering",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "02b144cf7e7ca44f42323aed57c9db15be49e489",
+  "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "3d9bd3314298c46dd2ed2c0c6c089b1c6d624647",
+  "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "6cf8de8def6c189dbc92c5b1113735e612d29421",
+  "title": "EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "4e68f3564ad78e066f797941a37e5c33639c6643",
+  "title": "V-Mem: Modality-Routed Retrieval for Long-Term Multimodal Agentic Memory",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "7ede46b0b45fbfbd2a3836cc66341e5fca3cdecd",
+  "title": "TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "266600f9061f6ea5e85978a5a024956e7b296bad",
+  "title": "PMMC: Prospective Multimodal Memory Compilation for Long-Term LVLM Agents",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "6995b97a6f3c2c4d9cf31e346a6b9e01d08a51db",
+  "title": "Stop When Memory Suffices: Evidence-Conditioned Progressive Execution for LLM Agents",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "758e18c7614f494fe9e97fa9c1eaeb32b4063d1f",
+  "title": "MAPLE-Guard: Memory-Aware Link Enforcement Against Memory-Link Poisoning in Multi-Agent Systems",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "7eca441d60ac88d27a6004ff708add9cf112218a",
+  "title": "Know It, Act on It: Investigating Memory Utilization in LLM Personalization",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "07cbf7d7ff0bf3c54b60d159a5de9791e296e9e7",
+  "title": "AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "0f643d1dcabde669bf8c9e33367acdd126debba1",
+  "title": "Reproducing LightMem: Naive RAG Is Just as Good for Memory Management",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "3da3be29ed5836f3d2e089d402435ca1548428c6",
+  "title": "Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "ef3843a6ffce3c0660cdbd77654605889050c98a",
+  "title": "Beyond Retrieval: Analytic Memory for Multimodal Agents",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "1e285f50e1f0032d888e7506345744e998afcf19",
+  "title": "Personalizing Large Language Model Agents with Small Policy Models",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "31f5aca09b06c4a9283a18dd12ee24179efb64e6",
+  "title": "CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "6c3309dc27364d2c86bcd9af128017edb51fb11a",
+  "title": "Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "fa9d2084defd5a3b13253fbec6b7799078c143f8",
+  "title": "ConMem: Contribution-Aware Memory for Long-Horizon Manufacturing Inspection Logs",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "35c8d0950569d4af39b54b081e6ebf062519a0db",
+  "title": "ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "923f1db7ad35abf77b2032501c9bc3f5131a0cbe",
+  "title": "MemTxn: A Transaction Boundary for Source-Supported Updates and Complete-State Recovery in Agent Memory",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "9445832513e873ed83e5e3e26e8e13929a9cbe4f",
+  "title": "MemHarness: Memory Is Reconstructed, Not Replayed",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "9e802d7c929aee724e4e59174eaf830e56c0b0e7",
+  "title": "MIND: Lightweight and Effective Memory Injection Defense for LLM Agents via Intent-Aware Information Bottleneck",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "12b9a287a15fc015ba300b7bfccab2eec0282a74",
+  "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "0c4af47e57ef2d4b78867f84bdc8c0df32fdfd89",
+  "title": "WikiLoop: Jointly Learning to Build and Navigate Agent-Native Wikis with Downstream Feedback",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "378b5acfbd4f5bb8bd1c01325e4bf2eb356fa957",
+  "title": "Metis: Memory Foundation Model",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "a16e106dd79803239ff4ca202ef947a93844af7c",
+  "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "e4b0ef151203bd584d86aef6a016ec2bd7541bee",
+  "title": "Bridging Inference-Time Scaling and Episodic Memory with Action-Centric Graphs",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "3b2af6cea6a74a7639a1e5825d34b40d3df30a4e",
+  "title": "SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "558310a5bf32e483782b2b44ad9d2d8a99c89d7b",
+  "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "1654c6adad236d9cb98d8b2d76264a3c82962515",
+  "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "8e7d6808060b009ce7d05825d3f737eb5967de8b",
+  "title": "MemChain: Learning Interpretable Memory Traces for Memory-Augmented LLM Agents",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "5a869c48991fa48d9e7414bb4bcf732fa9ba3cae",
+  "title": "MemTX: Transactional Belief Commit for Stateful Agent Memory",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "b4d8fa784608b7b22e9bbe78147d80702a91b055",
+  "title": "ClawRec: A Claw-Native Recommender System",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "6c1501f6032c2625aee9d5917ebd520bc9f06239",
+  "title": "ACM: Agentic Context Management for Long Horizon Tasks",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "dbdd110e08b6d64004c262a142d61004f788b690",
+  "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "6fc07ba1b0f7584ec90eee2cbc3ad2cf2ccf6a90",
+  "title": "Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering",
+  "date": "2026-07-25"
+ },
+ {
+  "id": "3d4b7e4150f678b22be5217bee793079a0d80abc",
+  "title": "Learning on the Job: Continual Learning from Deployment Feedback for Frozen-Weights Agents",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "dc0a38ca6b3118e61f203dd1cc1d43fae7c913ea",
+  "title": "Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory, and the Tenure Crossover in Memory-Architecture Rankings",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "9dfe276ec4076d49450c921332c18302a41f7bef",
+  "title": "AttriMem: Attribution-Guided Process Feedback for Agent Memory Construction",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "6f67160d4a04c6dd0b6e0b7f5345221cd7f5b716",
+  "title": "HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "2eee6303a70c5d4eec0727f891d89e8b9a4b1979",
+  "title": "Auditing Provenance Sensitivity in LLM Agent Action Selection",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "cbc5da7f846675d998bb8346167558e07b7b47f4",
+  "title": "FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "ccbaa35e0c9738a2f5fe9704eae54d21e993e944",
+  "title": "MemTools: A Unified Research Framework for Interoperable Agent Memory",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "02d3b001211a0279d6d5a82a80408657633096aa",
+  "title": "MEMTIER: Tiered Retrieval, Session-Level Injection, and Typed Consolidation for Long-Running LLM Agents",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "c8f8f15a0639796ef1739df7187893794ab868c4",
+  "title": "Supra Cognitive Modes: A Routed Architecture for Agent Memory",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "fbfeb98d4638ad783377bc6a0891e46fde8a99a5",
+  "title": "Knowledge-Centric Self-Improvement",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "3eabe015ab5ede92878dfb37126ac11b704fc53a",
+  "title": "ZifaMem: Structured Memory for Persona, Preference, and Emotional Continuity in AI Companions",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "17be7f076d70be99b4c3c531b0816901543d7981",
+  "title": "Mechanistic Attention Guidance for Agent Memory Refinement",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "eb08c14cc6cd4c1eddf648518e032fc184de6d3f",
+  "title": "Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "fcb53091450dad55cbca8844590b67fc6fbbb279",
+  "title": "Dynamic Memory Forest: Constructing and Tracing Conversational Trajectories for Long-Term Conversation",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "c5330f10c66e04995fb0ab0ea56f5062059ae056",
+  "title": "NeurPIU: Neurobiologically Inspired Personalized Intent Understanding in Large Language Models",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "19291a8feb3169f43b0a295f876390b50f33942d",
+  "title": "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "950daac2c72136cab0bd5f2ac9fcd2a0339996d6",
+  "title": "Beyond Memory Leaderboards: Evaluating Scientific Memory as Budgeted Context Restoration",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "f6e00cc633275a88a7cbc9ad71dddea5c85ccf2d",
+  "title": "Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "d85d70d0c12073fbd6160073c854601637ddc7ae",
+  "title": "RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "d3e88bf7a6824e82b1d2de684978977f2c8d80fa",
+  "title": "Presentation, Not Mechanism: A Render Confound in Deprecation-Aware Memory Evaluation",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "94b0374350ab4f316a8162cbf50fc2a80dd83548",
+  "title": "LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "aaab02317456552362dd441e70628ca4784e045e",
+  "title": "PersonaMem-v3: Toward Omni-Platform Personal Intelligence for Holistic User Understanding, Recommendation, and Agentic Tasks",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "712083af9edfef9c84a7872907916142726dfafe",
+  "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "b5a2c83f0802214730699c46033108347782f9d1",
+  "title": "Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "94664cfa4222d559cd73a0fc936a1ec1adbd8677",
+  "title": "PM-Bench: Evaluating Prospective Memory in LLM Agents",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "3737880aa312b76556e1c61d38cbc1386658035e",
+  "title": "Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "0193895f410e4a7820626da5db1669a09a0863c0",
+  "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "facc2733471db019519b9fb35eca7c4ef21f1f3d",
+  "title": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "fdb32134191927d529fe7166155400332d0da6c4",
+  "title": "The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "6d6b1ea6136f28a71fedfbf8d6435471a5461c4d",
+  "title": "ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "3b04534002e0d95801c53ea45b690a9a18ef4cf3",
+  "title": "StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "2ed1a164c182e072c00c281690bbc5b3b8f8f897",
+  "title": "The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory",
+  "date": "2026-07-12"
+ },
+ {
+  "id": "db847874532e2eb775721f6ec40ecf7f0f3071d8",
+  "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
+  "date": "2026-07-11"
+ },
+ {
+  "id": "1b9a3b4e330c2b25a33e52a43b015226453fe937",
+  "title": "What to Keep, What to Forget: A Rate-Distortion View of Memory Compaction in LLMs and Agents",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "1e196a066bc1bd1d13de2003b88aed85b40b21c0",
+  "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "85519821c994554f7023f28296227ce472b33f6f",
+  "title": "From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "9be69ce6eefecab47485a9aa7833b19ca0e92f82",
+  "title": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "fcac0d62c921b5d89d084ee6eb4b2ae6b24b654e",
+  "title": "MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "7bacbff4436888cb2c2a336f14118d3dcd62d5f3",
+  "title": "When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "95f0a83269498735950a080b7104e2cd6d80a164",
+  "title": "ObjectFinder: An Open-Vocabulary Assistive System for Interactive Object Search by People Who Are Blind",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "bcff297c488fae12a64f6f6c6a80d9491cc49d48",
+  "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "7aabd457f099cde9fe1861c7677974b606248955",
+  "title": "Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "ad616699b413343a9cedd2ffebc50f19982d6051",
+  "title": "LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "162d8248a12581fa564f2eb4d2f2bfcbc2342836",
+  "title": "LLM Agents for AIOps in Kubernetes: An Industrial Experience Report with Red Hat OpenShift",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "b716391ee541d4ebfedae3679739a8bff315d3fb",
+  "title": "SelfMem: Self-Optimizing Memory for AI Agents",
+  "date": "2026-07-04"
+ },
+ {
+  "id": "afcf0c072af816b0345b9f2c9683de37a06e4428",
+  "title": "Compression, structure, and executor capability: a controlled real-cost decomposition of language-model agent skill optimisation",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "821482fe891f71084692d5e40265b560c64a6489",
+  "title": "Organizational Memory for Agentic Business Process Execution",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "e715c218118e9a24c427aa667d3ddf91dfa8109e",
+  "title": "PromptPET: Privacy-Utility Optimized Prompt Obfuscation",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "0452b3e540d828b8dcefa8ffa57896da688ce912",
+  "title": "HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "b6f8f70e375bb5869b60cc96494208165e322c89",
+  "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "86829b8694358adada6e2e48320c0340ca7bc1c1",
+  "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "59a6b3f56ec0268d2a36b2e5b5b9eef608668869",
+  "title": "A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "bf7ddadac319f394e48102c0c4a0eab1fd7f836b",
+  "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "b508c5f4b475351c18c8c37e019e52c5487235ba",
+  "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "352a7fa444bab641a261ba4a3f935d0d951b391e",
+  "title": "TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "05c11193d7793ef5673d09e3f75c5267fd036427",
+  "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "9aed13069d85316171556d2433eda68421b793b5",
+  "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "7e542f0d9e83c39599a3589125f5c71d0e63bc47",
+  "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "317d2659a28f8444d297f5020315bcdfc2509ab1",
+  "title": "FinPersona-Bench: A Benchmark for Longitudinal Psychometric Stability of Autonomous Financial Agents",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "3e692f4c9ffec5c30b370142a576af0d9ac005b7",
+  "title": "ECHO: Prune to act, trace to learn with selective turn memory in agentic RL",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "79c360bc71d9d797b7fef36e1f4cdee345b80c79",
+  "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "7c31c2a517bcab53fd7c6d2767c3f53356e5bdb8",
+  "title": "Mandol: An Agglomerative Agent Memory System for Long-Term Conversations",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "3b67611d01d8591f4587c018ca1525f807eee7ad",
+  "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "723f6a12cefd0391858a78fa412b11fc6b862bc5",
+  "title": "Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "2f7ee6adc9ba9c7345bdd550b461a773ba70dbc6",
+  "title": "HyphaeDB: A Living Knowledge Topology for Agent-First Memory",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "fb1d8c7319122d4909c3a4c585ac4dda07e63fca",
+  "title": "DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "5ba651f0d145c6a0d0ef8499e710cad89f1c59f8",
+  "title": "Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "1d3d2f04270110888af84b9222c8a6a41a791b54",
+  "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "d04271d7fe5d097d9dd60bc5c20fe520ca1a9cc6",
+  "title": "Governed Shared Memory for Multi-Agent LLM Systems",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "95ea24aacfaf8593a7d695625f8b90d6bb36e04a",
+  "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "b872ae09a93c8727feba95a96ae04e222406d055",
+  "title": "Towards Root Memories: Benchmarking and Enhancing Implicit Logical Memory Retrieval for Personalized LLMs",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "a56cfca82ccffb84a63194cf6968615dcbb26849",
+  "title": "RaMem: Contextual Reinstatement for Long-term Agentic Memory",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "fa0691daa3d3493aef5ed36f3cfe46b919733a06",
+  "title": "TriggerBench: Investigating Prospective Memory for Large Language Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "3ec6edd820d52abe3b15a6f25624be0997d2d39c",
+  "title": "DynamicMem: A Long-Horizon Memory Benchmark in Real-World Settings",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "af9547a0cd0baa2738c79f0ec6b9005b3a9d3a84",
+  "title": "When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "cc85a6d1d790b9fd9e241f288b23670a7ca321a6",
+  "title": "KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "3f1ad45efe80eed1e33c821c9ce7cc41850ce541",
+  "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "681fe5a4a34f70f6d87a4acd4fea452efaf1b747",
+  "title": "When Does Overlap Help? OSU-Mem and a Cell-Conditional Analysis of Trajectory Memory for LLM Agents",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "31adb0c460abf3be3ef65356cb072548cd586ccc",
+  "title": "Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "e4c62633ee5b54b3c6db5434d228067b8e50f76e",
+  "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "830f9eec2550bec2abbff6c510585a4c31a32117",
+  "title": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "cb4894510f148d13c27c4c422686d8c870883e55",
+  "title": "Large Language Models Do Not Always Need Readable Language",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "3d394fb3a6ea966cab451ddd880c27d43321392b",
+  "title": "Marginal Advantage Accumulation for Memory-Driven Agent Self-Evolution",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "c84d4d7bccbe1da49252b18fe14c9ca2d8d273b4",
+  "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "a524f9cbffc89db36eb8afae61b3d4e3d33b0ccb",
+  "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "fc05605973480352547b7366dfbc794d36a15dc0",
+  "title": "User as Engram: Internalizing Per-User Memory as Local Parametric Edits",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "71aecced9e6ce9c5d85d08f86ae39c7132819ee5",
+  "title": "SlideSAVR: Enabling Live Analysis during Data Presentations via Multimodal Sketching and Voice Input",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "291a3034b8628a5e6b06bdb73dd798a2f41a17b5",
+  "title": "PreAct: Computer-Using Agents that Get Faster on Repeated Tasks",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "35e3b25c1deade62609ef026d745167839d7403c",
+  "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "6d9a064ef81498761e5e465e48c16c9e6ea88258",
+  "title": "CoreMem: Riemannian Retrieval and Fisher-Guided Distillation for Long-Term Memory in Dialogue Agents",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "46bc9a4689f110798efb83b3f1f02d25bc4eff64",
+  "title": "AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "a302c5811349c84edaa31d4f41f982fc5d5a7a48",
+  "title": "Verification-Gated Persona State Transitions for Memory-Augmented Language Agents",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "ae1fe057b35f2a8c33e10b341e3375a2e2f02a08",
+  "title": "HiMPO: Hindsight-Informed Memory Policy Optimization for Less-Entangled Credit in Long-Horizon Agents",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "f5d2f760969b3878a51ae05ab60f675cc94549d0",
+  "title": "User as Code: Executable Memory for Personalized Agents",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "99dc6dc10e5fbcddd6cee3766af25ecd14cfb790",
+  "title": "The Anatomy of Scam Scenarios: Large-Scale Characterization and Conversation-Aware Detection",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "bc3b56daba007827a05cf6f05edc7a37ddc2672e",
+  "title": "FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "ce5d4b4d02352d66a6c9ce4a70219fe69b5f94ea",
+  "title": "Control-Plane Placement Shapes Forgetting: An Architectural Study of Agent Memory Across Thirteen System Configurations",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "2547a69931b1dc746e4902d0a80c3a0ae774b584",
+  "title": "T-Mem: Memory That Anticipates, Not Archives",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "968a933bbf85a5d5976f386492dd18946cd65570",
+  "title": "MemAura: Structured Context Memory for Personalized LLM Reasoning in Smart Environments",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "7754a6d13f2a5aee1ea7366e9fb04379dc3aabbd",
+  "title": "Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "20884672745d7a387baa58a8e78954bfe77b45fe",
+  "title": "Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "5fed612263b97732175cab8118974a9835256d43",
+  "title": "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "b8fd19904225b5e46ec8ae8f2ad59a5c89f4f303",
+  "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "803d9a2b74515d6ccee9cad64057e5d5533dc961",
+  "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "a034014127bcf8af0bdcf0baa91a4d126ec16445",
+  "title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "4cca55a226abe2ab340c33e9f83da99792530516",
+  "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "0dcd67372b340fa5b095e929b85ceb7345d3db23",
+  "title": "ProPlay: Procedural World Models for Self-Evolving LLM Agents",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "175cf52a9f5117c020d69154249d5103c59c6ba9",
+  "title": "Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "ca5db5b3b6b2bd785f9e906343d5e7a7239c8c75",
+  "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "d9703eb15de2fde34b699684a5b7d57788cc987e",
+  "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "9724d2334d7300d818ca701fa80125da123a8e1a",
+  "title": "Substrate Asymmetry in User-Side Memory: A Diagnostic Framework",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "bc51903026342832d39ba4d5a8ca917fa69cb078",
+  "title": "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "3acda62b32a2412675a620fc4f3214e8a5038d2a",
+  "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "88dbe355b1b80619782e74c5b2dcd600f0fb5323",
+  "title": "Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "8669b1dc28ac630341f7af942778e2dc5ab47207",
+  "title": "REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "0b037b96c846ada6e63dda1ac89ac86462fdd175",
+  "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "ca7830d57999480fd403a94d63eea380dac4d851",
+  "title": "HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "a439ac9cd7aac287d17129cc43c89b2a8c7bb5ef",
+  "title": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "2cb75b828bdc025aba73a33bec6adc3676f3d9ee",
+  "title": "ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "84c95813d23443ab277f1476a78543e14ef20198",
+  "title": "Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "e7114df3f64738dac436d418c22af3f86fc7eb2a",
+  "title": "What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "b0349c67f0750064e5a49d3f242682c3e5b72331",
+  "title": "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "6ebb07836448278e9c6df3d44b96e13be696f5cb",
+  "title": "Riemannian Intent Manifolds for Session-Based Search: A Joint Embedding Predictive Architecture for Intent Forecasting",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "588c36e0751149396e963dd1b85897cdc6dfc78f",
+  "title": "H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "f2dc2c1b510a54d72352966e850d29ac36c17472",
+  "title": "When More Cores Hurts: The Vector Database Scaling Paradox in HPC",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "c78c1c29e74a28edee59ab76d1735bb419366af4",
+  "title": "RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "b5e4cd2c74ed508709a5bdcbd7376e72b5ae3280",
+  "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "5012b7b9b82bb8df60ee6ab2d737f081dce7bf4d",
+  "title": "ConMem: Structured Memory-Guided Adaptation in Training-Free Multi-Agent Systems",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "fd0b6b59739a4e57c7f4ce557c2d8cc53cd698b4",
+  "title": "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "a067c95976b3bf98350f70554d7860a436e9656a",
+  "title": "IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "028093a73b44555b79a8f2db8a0d966aab93ed50",
+  "title": "Rosetta Memory: Adaptive Memory for Cross-LLM Agents",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "f4bc6c973738e3e1884ca6c438f5586852cabaca",
+  "title": "FLOWREADER: Min-Cost Flow Optimization for Multi-Modal Long Document Q&A",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "6450869c3b88f9200c559fd39dc41f5b5d2b3916",
+  "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "b047002895a136aaec6869a9687631cf922edda9",
+  "title": "M3Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "f7dbf564705de0a64508f122f200ed0fc07258d4",
+  "title": "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "3f6d1515c16e41dfbca12c6a61c7c6a35f5951dd",
+  "title": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "453fe21f545a9b7f885aea2ee9165e4ada4e144f",
+  "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "3da7913953af7bb76654d5694f3f1e8ebc69e523",
+  "title": "Beyond Similarity: Trustworthy Memory Search for Personal AI Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "eac2a0ac2b10e67b38beb95ebf775b3d54b08a1b",
+  "title": "EMBER: Efficient Memory via Budgeted Evidence Retention for Long-Horizon Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "cd0de1b2c55cc95b004f004eab704da1f860ed3f",
+  "title": "Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "e35b844662092111ede2d52bdfe3d2a15c13b73b",
+  "title": "From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "acb2c4a0c010dac08add8cb69802cb65cf91f151",
+  "title": "MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "0d1e0184dd8fc663c279bae2eaaa163f5230e143",
+  "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "24f1dcafbf4a3ba0adaf36480c4c6d5b7b975dde",
+  "title": "Membrane: A Self-Evolving Contrastive Safety Memory for LLM Agent Defense",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "7b0f54d0350c401aa42d719b078ac5d72572ddcd",
+  "title": "HUSH-Bench: Measuring Memory-Use Boundaries for Sensitive History in Conversational Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "d0600cd5ad96a12f4d1e6e33cf9fafee5cf91a3c",
+  "title": "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "2896a4bcdae0034452477155b4fa9c6ef8fb2c89",
+  "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "c547961ce8af9d66d196ba6a31960a26254e7039",
+  "title": "Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "a847ab0537e30010588fd086e9d56c5fc99819d9",
+  "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "97d2a2f11f92370adeea7572860380949792a85e",
+  "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "705a8730c4a503c614bce561e78d4e210b611a9b",
+  "title": "RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "ee92a75f7d4e09d5138a6ff437b58dac04043cbe",
+  "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "770ea02c6906994742a70e2ede3e81c9adb4aeff",
+  "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "d561a59c10f368dc5f22149c5aaba0a5adab4aa3",
+  "title": "Scaling Self-Evolving Agents via Parametric Memory",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "d9a3419b1d6936786de64246417973abc10c97b1",
+  "title": "HMARS: A Hierarchical Multi-Agent Memory System for Long-Context Reasoning",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "4249fd2a3bbb8001f15ce4dd9bab6e7bbc4aac96",
+  "title": "MemTrain: Self-Supervised Context Memory Training",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "81405e1b66e54995731ac8325ce60e7af09fd7e2",
+  "title": "eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "ed0fbdfacd5e431b31944f04194a28e9615d94ee",
+  "title": "Worth Remembering: Surprise-Gated Robot Episodic Memory",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "fb1fac96557476545af9b4419b16aa8188d2dc12",
+  "title": "DMF: A Deterministic Memory Framework for Conversational AI Agents",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "d1230b55a188dd3a3f9ec54fa1d438682e9b7992",
+  "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "2fa2376d8de649712189e300898478393dd3303a",
+  "title": "SaliMory: Orchestrating Cognitive Memory for Conversational Agents",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "794c30f6ea5d846b9a19457bb08ce24871e23f4c",
+  "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "b2aec25b37c990492275eb462e13ff024d175460",
+  "title": "AgentCL: Toward Rigorous Evaluation of Continual Learning in Language Agents",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "f7b57bc65da306a4ba788665786503adfe5c99a3",
+  "title": "AVTrack: Audio-Visual Tracking in Human-centric Complex Scenes",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "63fdcfbbf73f4709264fddac53ea16523ded4431",
+  "title": "Persistent Memory Modeling and Policy Optimization for Large Language Model Agents in Long-Horizon Tasks",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "d89ad307470840bf4ceb8d85218372b31db62457",
+  "title": "Self-Reflective LLM Agents with Quality-Aware Episodic Memory for Multi-Step Task Completion",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "24ba9081d2c3053dbea554ba88617371fa69aada",
+  "title": "Speak Your Network: Automated Network Emulation Construction with Cost-Efficient Multi-Agent Orchestration",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "558d53578c43433eec089e479ef5eeb65846a53c",
+  "title": "SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "3d0d6f995ed261b4a91260dcda5a7d01eed77fc7",
+  "title": "SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "abb0aa836fe7307cdfc1e885bf83b536be752e3d",
+  "title": "MemPro: Agentic Memory Systems as Evolvable Programs",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "afea175df3d14a11a5953fd2650427c677682d1a",
+  "title": "From Empathy to Personalized Empathy: Adapting Empathetic Strategies to Individual Users",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "10b07cc21e2a960d9f7517bb916f5657c9e4ee37",
+  "title": "KACE: Knowledge-Adaptive Context Engineering for Mathematical Reasoning",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "4e92492a650879dadd30a5ff7caa9a8a883536aa",
+  "title": "Memory Shot for Long-Term Dialogue",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "e3b26b6cbb7e971bbb87ce4ba17075ee0db74f0e",
+  "title": "SAGE: A Novelty Gate for Efficient Memory Evolution in Agentic LLMs",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "93b5cfa7fed602fe9bc970dcef0688765d18264c",
+  "title": "ElasticMem: Latent Memory as a Learnable Resource for LLM Agents",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "3a084d5ab135a54e14787485e8a3b01f2e06e44d",
+  "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "0a690ddcf55dd6bb0a63e1a1482d0f6cc4b4df9a",
+  "title": "Eywa: Provenance-Grounded Long-Term Memory for AI Agents",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "dfdcaace7d72005e045d511d37d5a3eb4627420c",
+  "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "09175f17ea5aeca9ab41f3061ff2210f6cfc1524",
+  "title": "ForecastCompass: Guiding Agentic Forecasting with Adaptive Factor Memory",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "4e0399334383165488497fb479305ba85a3cd9e7",
+  "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "c30bd3319a0e54d45963acba4a53159518b7964d",
+  "title": "MetaEvo: A Meta-Optimization Framework for Experience-Driven Agent Evolution",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "ffc8b216fcc1deec26f78245c22cf775132818d4",
+  "title": "Entity-Collision: A Stratified Protocol for Attributing Retrieval Lift in Agent Memory",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "49856d29b81f1c48323d883810b9316b3085ed40",
+  "title": "Learning User-Aware Recall: Personalized Retrieval in Long-Term Conversational Memory",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "12e7f33a0cf266e4f76a57a206d76f26afda7ba3",
+  "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "5472d1806a4abf15f2881321788c81fe2e04a07c",
+  "title": "Learning Design Skills as Memory Policies for Agentic Photonic Inverse Design",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "49887c3f8a5b8bd472766bac70467afdaa61cd98",
+  "title": "EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "ff6326e4cbabeb24045c960e0ddbfb40df961559",
+  "title": "How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "a5cec27895c80ce323a1a330e2f8280cac8185e1",
+  "title": "GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "1c704a568f6593fae71bbd56160de6bda2f16be3",
+  "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "3902131bfe3b08486730e20d562c325b687f0753",
+  "title": "HTAM: Hierarchical Transition-Attended Memory for Operator Optimization",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "057c809efa1555a0c7e3ff029cb89a1a4a222475",
+  "title": "PTCG-Bench: Can LLM Agents Master Pok\u00e9mon Trading Card Game?",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "2064cb0c0541ff063b600c4a2c9012d1199c27fa",
+  "title": "Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "c5c1607d44b3a08187367a1a77fee0effb8307db",
+  "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "337e7e9b98f60bd8bdfae777d2e3d9c175e46698",
+  "title": "MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "64c49f94a78552ff0405b78ecf3916c39109db7c",
+  "title": "Long Live the Librarian! A Persistent Search Sub-Agent for Energy-Efficient Multi-Agent Software Engineering Systems",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "3ca0541de55f8a0c9021ab91aaf8ba64a328c0a4",
+  "title": "MemCog: From Memory-as-Tool to Memory-as-Cognition in Conversational Agents",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "dcbb81cf80a1f4cc39066feddba31ae75c855586",
+  "title": "Rethinking Memory as Continuously Evolving Connectivity",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "49acf1e90f335385f6f4e5fb384ce47915cdf1c3",
+  "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "7dc622bffb5fbb253fe16b17992bb48641816a99",
+  "title": "Personal Visual Memory from Explicit and Implicit Evidence",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "4f138beb44c15dcdc94e981f9cfcf8307810df51",
+  "title": "ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "1eb03921bccef3ac3d07f867c4cadad6efce3ebe",
+  "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "79087b833bdd372f4aa0cf962e632b3ff049ed17",
+  "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "1f8f46a9948c2414850fa124513e30f7cc3e4d88",
+  "title": "Libra: Training the Environment for Agentic Information Retrieval",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "27e12592e9ce5df1d15e62949cac2643781f3357",
+  "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "1297011e03704c6b089edc1c46f198c8b129baf4",
+  "title": "Iterate Until Retrieved: Factual Nugget Optimization for Discoverable Continual Corrections in Agentic RAG",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "575ae2d8e539dec98d4631ef77552d6bac03143a",
+  "title": "AuthTrace: Diagnosing Evidence Construction in Thematically Dense Single-Author Corpora",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "896aaf2acddeefea23955e018cb83d73aecbe5c6",
+  "title": "Simulating Human Memory with Language Models",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "f5c171952f046b78af61415b6bfbd5d3199f2def",
+  "title": "When Search Becomes Memory: Turning Robot Design Trials into Transferable Skills",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "929be8617ed34a4ba1ecb433996652c403b8ed02",
+  "title": "Memory Architectures for Multi-Turn Text-to-SQL: A Benchmark and Empirical Study",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "c62b67985f199dc64e81bf93f2a0052ea0ac64b5",
+  "title": "SpatialClaw: A Memory-Augmented Autonomous Ecosystem for Spatial Omics Analysis",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "acebe7c7c6bfc937e8cb26b4c01413b390812899",
+  "title": "LLM-Guided Multi-Agent Evacuation Coordination via Episodic Memory and Cognitive Task Analysis",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "3a83512c76d548d164e52f57941b1a85fd919098",
+  "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "f85865ea1f51072f83460a77cdbdf1af1a0b559f",
+  "title": "Hera: Learning Long-Horizon Coordination for Device-Cloud Collaborative LLM Agents",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "5413c1700410467f3a7a9f921c2ecf44aa8201fa",
+  "title": "AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "5df5f1166129e67e4eb3b102539766c365c91bb7",
+  "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "5b149c3067134efe007f36c74295652b0b1f0bd7",
+  "title": "DeferMem: Query-Time Evidence Distillation via Reinforcement Learning for Long-Term Memory QA",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "c416991a02aa2826dd819c18d3b3cc24ec594ea9",
+  "title": "EvoIR-Agent: Self-Evolving Image Restoration Agentic System via Experience-Driven Learning",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "b2750863c39af4ba5ef0f6b91a339cc8a6561762",
+  "title": "What Training Data Teaches RL Memory Agents: An Empirical Study of Curriculum Effects in Memory-Augmented QA",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "c0c42b3dca16be18ced707dab0f97ff776c1c64e",
+  "title": "One prompt is not enough: Instruction Sensitivity Undermines Embedding Model Evaluation",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "0d126994fe8f2c64e3ce31ce86562137c5c9f76b",
+  "title": "Self-Evolving Multi-Agent Systems via Decentralized Memory",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "c69d98754e86f4aa05465e1e3bf9df0cfdfd3c26",
+  "title": "Dynamic Mixture of Latent Memories for Self-Evolving Agents",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "79a564c6018e95373c81c1c809e8af83f703053d",
+  "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "700bbb15c3a6ebe9816bdbb8861a676cadc6c70a",
+  "title": "Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "be4bfdeaf602e2d4e1019cecc36027b20a59243a",
+  "title": "MemConflict: Evaluating Long-Term Memory Systems Under Memory Conflicts",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "01f7a76bbb9c61873925aaec45f3d63f38d393f8",
+  "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "12d960f48ac9ca424a48e3bb1be76e930629e25d",
+  "title": "Mem-\u03c0: Adaptive Memory through Learning When and What to Generate",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "5bf1dd1c505369d8ba4157595a8466a152fe9495",
+  "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "1fd3273b235531ac49bfc2060c772171a96fa030",
+  "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "c4a4ab8a9ab191123ff36ea63871d64560f87275",
+  "title": "EXG: Self-Evolving Agents with Experience Graphs",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "8d67be5cc2be54af2a4e01c7e8e89fb38722fb38",
+  "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "7fd669266b5a08fcfbf2a5838c68e14590ac9eb0",
+  "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "adb39e1a63cf38589a23ec01a6dfb35d2e421f0c",
+  "title": "AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "69fb544fcf7aa243542f2c5aec941b6438812504",
+  "title": "PyraVid: Hierarchical Multimodal Memory for Long-Horizon Video Reasoning",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "2d065df525f7619bc44fe5fdf385e1ea9714b822",
+  "title": "State Contamination in Memory-Augmented LLM Agents",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "05c58f6814d9818ab6047eec7e1e3613319b427a",
+  "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "8fdb176657cd201485db3b2cf1a9523cb9df0f49",
+  "title": "RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "1aab4197b8caefa20c391d0304e82a66931606fb",
+  "title": "DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "47d9ace7995fc53c5543be5f1e49a2f12496e20d",
+  "title": "H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "9463a765eaec72213b81ae6b513cdad61fcf099e",
+  "title": "MARS: Multi-Agent Reflective Synergy with Role-Aware Critique for Enhanced LLM Reasoning",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "4f9de75b18c6bf659fb560e32f42e3e47b8b816c",
+  "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "e77d6444e31ea86aa95170155262933285df3ad2",
+  "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "9e88977ebc27f861e11ed5349409a772696137c9",
+  "title": "Improving Multi-turn Dialogue Consistency with Self-Recall Thinking",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "356af7e086e095dc4b105d3cf2ee395f11bf35a5",
+  "title": "Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "2811abbad11843fdd4544931bc1040aaab391aeb",
+  "title": "LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "469cd86992948b1b4d4286d1bbf5a7e2a779ff33",
+  "title": "GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "2c21b844391eac5a4ab33a67050a67dbe7d227de",
+  "title": "Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "d3cc112edcbf0b1a612bf580e1300095348f1c52",
+  "title": "Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "f69a05973e40f0b3a712cd96cf0a3f39cb3b926f",
+  "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "26558f1ef58e51c0a573ac546d5612e595c7743d",
+  "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "182fffdcf6570bc273cdcf09151bfcdc28d8556a",
+  "title": "Context Training with Active Information Seeking",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "a1dc64e51b6c1cbbfe663571a752e8dda5e50c81",
+  "title": "R^2-Mem: Reflective Experience for Memory Search",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "d3b16108dad0a246863db6d01dbad848ef0d0241",
+  "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "53bf42a3057bb3da5f7c735a226b7c9a800977ca",
+  "title": "CogniFold: Always-On Proactive Memory via Cognitive Folding",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "3ed7997a61c3db4540cfde5ff808833b5ff65b2d",
+  "title": "ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "b6d422c7653ecd82fc888ecbcf9c064690969b20",
+  "title": "Turning Intent into Specifications: A Benchmark and an Interactive User-Assistant Agent",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "09a153fcc33d8837326c2d0fc78d4a801c46440a",
+  "title": "Transient-RAG: Ephemeral Graph Topology for Dynamic Reasoning",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "7e6bdf1fc5a332732034a9f34de501e2c0fb737a",
+  "title": "PRISM: Pareto-Efficient Retrieval over Intent-Aware Structured Memory for Long-Horizon Agents",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "0a664e226ad908e615063af230a87cfeaeee5d94",
+  "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "1b81384dff55bae55127770a53ea0f19220f2526",
+  "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "ec834f0c1637313d022ec2b51d8354f5a5d3f812",
+  "title": "Formalize, Don't Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "95bb7a742af788471295bb3bd6f12d4f6886dfa1",
+  "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "324517b260accdf8d918e2e60ade71312c826441",
+  "title": "EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "1790009da85b88c150d745b6a083fc3b1650a870",
+  "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "27baebd9fb8679df5ba59e9529d1ccc30825bc1d",
+  "title": "MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "ab5c91d0347eeda8df4b33ee0f7d6ec3aae8cd46",
+  "title": "MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "48f3fe4de3cd22f68dca730c3b0e0d0ef537ea06",
+  "title": "Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "8fbdf56888f98cd002dfd5eb32a72f485b2b1fcb",
+  "title": "Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "9ca3a503c0a55b1812d919be7f9ec88f8cfdcee7",
+  "title": "Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "1ad06ca131f6e83a0dc16cb42495dd29a98522ad",
+  "title": "EquiMem: Calibrating Shared Memory in Multi-Agent Debate via Game-Theoretic Equilibrium",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "bb7bf44ef651743ac40de865f87c15e98bd1a9a3",
+  "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "b7a815a0ae6169dd496666189aba8d671ca57859",
+  "title": "Empowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "b4becb73c0dcb3cc0bf0055a85dd98632aac2f5d",
+  "title": "MACAA: Belief-Revision Multi-Agent Reasoning for Code Authorship Verification",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "14564658eb7ddd15b11b61e0f58c97708c61cb92",
+  "title": "The Trap of Trajectory: Towards Understanding and Mitigating Spurious Correlations in Agentic Memory",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "4faf0b5fdbfe974ae6e2c156371f422a1b6eda67",
+  "title": "Slipstream: Trajectory-Grounded Compaction Validation for Long-Horizon Agents",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "f03cb24c34494e4d3ed92787602ff07db4f30cb5",
+  "title": "MEMOREPAIR: Barrier-First Cascade Repair in Agentic Memory",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "c3b9562c65cddba8ab83fe9c7b2c3f05f5679e36",
+  "title": "MemCompiler: Compile, Don't Inject - State-Conditioned Memory for Embodied Agents",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "ecb7f7262ca2fb5a13c080923314bae6328b0b64",
+  "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "6ef88fd26512131f39ed7fc70f8f3786e74b9b98",
+  "title": "When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "56935ac98b223d0806698d3f90d45bd9ace4bba0",
+  "title": "Tool and Agent Selection for Large Language Model Agents in Production: A Survey",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "8d660c67501f9d4f767a12c8e35f1c2b6099c3fd",
+  "title": "SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "483eab9bb77fd84543cc758685b29f9acc8054ed",
+  "title": "Belief Memory: Agent Memory Under Partial Observability",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "96fe90f5efdaebaa6fbf1bb76fb3afa53e53a7dc",
+  "title": "MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "fdc8331997e0bc19122e7193ca6adb6414d23c2b",
+  "title": "PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "0cf7be359169ad591dbde3b1b26de12357d7c513",
+  "title": "Stateful Agent Backdoor",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "2653e4c7fa3be13d3db4b7a6ff3032ac17f7f467",
+  "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "ee93868097d6beb90b6f282139afb53f7ae640a3",
+  "title": "The Context Gathering Decision Process: A POMDP Framework for Agentic Search",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "1c89de35696bf695378dc9a734e6e1848c754cee",
+  "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "fec27ef81cbc1f980c61426c03cd1a59054daa68",
+  "title": "Tree-based Credit Assignment for Multi-Agent Memory System",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "80062282552df97c228efcb95682c24a2bc9fcc5",
+  "title": "Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "a676d0f60a6d68da5b919c7dbbb0534bd395f13e",
+  "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "e4d1b5f6deccb690be057fba70eeb8752e2d933c",
+  "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "cc7ee03fce480c3e6d0688c91057780ce8338b3c",
+  "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "176f0b660b92a63f393bb4ccbd411560a7b23e01",
+  "title": "MEMAUDIT: An Exact Package-Oracle Evaluation Protocol for Budgeted Long-Term LLM Memory Writing",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "39aa2fee90ab6a05748b14aae98d7e5ccde570da",
+  "title": "MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "9fb1964978b385f46e510a0f3bdaa3e13ab0167c",
+  "title": "GRAVITY: Architecture-Agnostic Structured Anchoring for Long-Horizon Conversational Memory",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "91d289ca44f0e1c9ff1c1394f236a0c1ff5c6f96",
+  "title": "Empowering Economic Simulation Through Situation-Aware Llm-Driven Generative System",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "39ca8b1fd55668624b452d1f307a4ba71efe5ac7",
+  "title": "Reliable AI Needs to Externalize Implicit Knowledge: A Human-AI Collaboration Perspective",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "d9feccab8b625525a27e406488e48d250effa1c0",
+  "title": "MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents",
+  "date": "2026-05-02"
+ },
+ {
+  "id": "0edeaed8b1ee92cc76fecb7c63d938787334c7a4",
+  "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "84ca76407d88eb1df22c1002453c2105401ff5b4",
+  "title": "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "4fb25898ca80ee688df1096f87ab779fa5adaf92",
+  "title": "When Not to Write Memory: Governing False Promotion from Correlated Agent Traces",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "341883c91dabb788b32dae7d1bd6c6146d266b95",
+  "title": "Failure-Gated Hierarchical Memory: Preventing Memory Pollution in Long-Horizon LLM Agents via Critic-Guided Write Control",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "1b78388e834bffeaffc63b493f60764b61bf847d",
+  "title": "Evidence-Gated Memory Writing for Personalized Large Language Model Agents",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "32494c63cd4ea257a0aa4fb232d10a9046bed66a",
+  "title": "Data-Centric Foundations of Agentic AI",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "495d140352feec866e0c1b60912c2bb6a6b75dc7",
+  "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "040e5f0548ff72581e4358cd4aa2f3ae916821fe",
+  "title": "Contextual Agentic Memory is a Memo, Not True Memory",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "2c55356b139d8b9e3e180fac64730b5abd2c730c",
+  "title": "Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "09fcf3bb1cd14b0610307f5275c3776e46d8b290",
+  "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "a48effde5f614dff7368bca35a9a6c4ea9a9d4f2",
+  "title": "When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "86e9cf610d7bcf2930e28cb2478f901c983ac489",
+  "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "059015cd2c931874639ddcc2d62fec12e4b72abb",
+  "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "8021720d6162cce247bb9867405d361446c60ee9",
+  "title": "Can Current Agents Close the Discovery-to-Application Gap? A Case Study in Minecraft",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "9226afdac62d3e7913b5a0d983f48324edda8ca7",
+  "title": "ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "7c24a5f504ee15afd899be608f75c2d175d7b148",
+  "title": "ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "9d07b5cacd4362bcb8c47ae0dc35399ed5db6c02",
+  "title": "The agentic AI security adoption matrix: Understanding readiness and resistance across domains",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "14bf6407eeb2d1bbd6c8e443bc1e58138ca75e7b",
+  "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "bed53bdba6c8c12dd910f956f01c682d722d3816",
+  "title": "AEL: Evolving Agent Harness in Open-Ended Environments",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "33b787b46e87f9080572ba81db827707885b68b6",
+  "title": "Stateless Decision Memory for Enterprise AI Agents",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "ad815d2aaa1156166b62eb42b9603526c63c9790",
+  "title": "Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "20859e936cbcddacbfa79c4b8cbbc5cd5c404a21",
+  "title": "To Know is to Construct: Schema-Constrained Generation for Agent Memory",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "7848bbc92be424cfd17657a1965e08289c59300e",
+  "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "c33a6283fc115267b848b51ee631901363471830",
+  "title": "Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "a6db6898c6454aa8829914da1cd0e67327ec22ea",
+  "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "dc8186eef47ae92fc7ce90005862acc18bd943c4",
+  "title": "Latent Preference Modeling for Multi-Session Personalized Tool Calling",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "fdc590a468641a3243323604a100bcf49b640fec",
+  "title": "HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "28b4eaa34c8918550420d1391071561432ff4cad",
+  "title": "Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "9878d61b3c60237ea31c01741233bea42fc259ee",
+  "title": "Mango: Multi-Agent Web Navigation via Global-View Optimization",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "f18bc1b53208fdc182f92baf3fc1116d48719e11",
+  "title": "AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "71e8e19f424e14f7f273c8522e229d71bddb9c51",
+  "title": "Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models - A Research Agenda",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "d064e9581122bda94e5892248d2fe95a8c3819ca",
+  "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "fe7d2540488c131d292afcb27f2aeef09bf5298a",
+  "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "e5d33a82e2a0309a0a8c282ba745a0551cfda455",
+  "title": "Retention Consequence in Lifecycle Memory Control",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "1c4fd447d34af1b0310e0656ac1391dca37eb6a5",
+  "title": "Context Drift Mitigation in Long-Horizon Agentic Workflows: A Memory-Augmented Retrieval Architecture for Enterprise Process Continuity",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "8b8e011ccefc0c6cb5367dc1d838c25046452625",
+  "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "4fc7e20cbd88bbfd064418042de1863904ffb43a",
+  "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "615ad5fd9daba622455a368fa404b56931d6fb0e",
+  "title": "CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic Memory Dynamics",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "e7fed24b1353cf82d465d68dbda87c2b7243c60a",
+  "title": "MemEvoBench: Benchmarking Memory MisEvolution in LLM Agents",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "daf69a270e8fed1df3288814171e9c97da36a6f0",
+  "title": "Harnessing Pre-Resolution Signals for Future Prediction Agents",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "f955baa78eeaefb49c0c0fd1d29056193a2ea2df",
+  "title": "SAGER: Self-Evolving User Policy Skills for Recommendation Agent",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "33fa40b41dcd3689c7be79d5dc90bcfc453a2482",
+  "title": "vstash: Local-First Hybrid Retrieval with Adaptive Fusion for LLM Agents",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "9a63ed878bacfb5b5fa08fc14e1ba8943ea85068",
+  "title": "AIBuildAI: An AI Agent for Automatically Building AI Models",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "c910ad0f8a242391225bf3de0efb3b48d094fd16",
+  "title": "APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "af73514f3e45550b5854aab03253823d566dada4",
+  "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "4c86785e86d907877b573cb4aa9ad3ecdc78e68c",
+  "title": "Cooperative Memory Paging with Keyword Bookmarks for Long-Horizon LLM Conversations",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "cb5357aaa71a993f2966b71a002ab55631d4a034",
+  "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "8c214fde18564e77c59c363c112668681e120ebd",
+  "title": "Synthius-Mem: Brain-Inspired Hallucination-Resistant Persona Memory Achieving 94.4% Memory Accuracy and 99.6% Adversarial Robustness on LoCoMo",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "3ba17ae5dd0334c8972f10c177c63f1cc8d995eb",
+  "title": "Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "86cb25cf3babc6bb8692b3e504393c90df7fbc32",
+  "title": "The Missing Knowledge Layer in Cognitive Architectures for AI Agents",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "cbc0352b1c15fb3480792d3ba451eb6d1200f250",
+  "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "afea0933716f921eec3a55bcc1be520696353e08",
+  "title": "Evaluating Memory Capability in Continuous Lifelog Scenario",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "938a9230db2ae40227fd2263c4dc31b839d42858",
+  "title": "Contexty: Capturing and Organizing In-situ Thoughts for Context-Aware AI Support",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "bc290b9458ee68e6f2ccd08c784c182c1f0c6683",
+  "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "e4419946459e1f2c367ee7e8b95fbf6a4c49e7d6",
+  "title": "When to Forget: A Memory Governance Primitive",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "665d15d9873a27ab87c624a6ea5bd09b87e01586",
+  "title": "RECALLbot: Designing Agentic Memory and Reciprocal Disclosure for Human\u2013Chatbot Relationships",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "d03e14e7012e06debfc8f4659847deeea435b112",
+  "title": "From Conversation to Human-AI Common Ground: Extracting Cognitive Workflows for Reuse in Sense-making Tasks",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "f08049888b4a25ce9782ebec13193c1c57785e8d",
+  "title": "Retrieval Is Not Enough: Why Organizational AI Needs Epistemic Infrastructure",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "d812ab6d2f80bcb75d9394c858a13754a2df5418",
+  "title": "From Speech to Profile: A Protocol-Driven LLM Agent for Psychological Profile Generation",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "bca21c3d2107a959d2b52d53e41cc1ea2c745f8c",
+  "title": "ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Using LLM Agents",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "21cdaf5e3269765dfed89429f7981a6b61b261ff",
+  "title": "Self-Distilled Reinforcement Learning for Co-Evolving Agentic Recommender Systems",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "cfe303356fc27ade8ca8dd574369af7c3bb38fc0",
+  "title": "S3Mem: Structured Spatiotemporal Scene-Event Memory for Long-Horizon Interactive Question Answering",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "5e27c71af270804ebc681d5d336ab354f0e3e316",
+  "title": "MEMENTO: Teaching LLMs to Manage Their Own Context",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "a27a5b3c01117bacb4868a964c679a01eb8c5db9",
+  "title": "Lightweight LLM Agent Memory with Small Language Models",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "84e59205e4350c9596e4a03583fdfd114112586b",
+  "title": "TSUBASA: Improving Long-Horizon Personalization via Evolving Memory and Self-Learning with Context Distillation",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "75e4b0b0535d36b035eaa482b62748d5f0bed492",
+  "title": "Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "9a55662237daadeecbc1d19c84445ba84104e6a9",
+  "title": "ACF: A Collaborative Framework for Agent Covert Communication under Cognitive Asymmetry",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "5bf2d3db630745364b8a4ba817a628544b15f4fe",
+  "title": "Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "7998b2227499267bd4874e125283104fbd82d73e",
+  "title": "MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "5ad65bcd78ec0f38c5334a902f297219754cb1ba",
+  "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "038fc3503a2dd9d55e934a932e59356cd244401a",
+  "title": "ATANT: An Evaluation Framework for AI Continuity",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "18bae6292176eab10aca54065add84dd438c1288",
+  "title": "PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "0bb660ce4cd6cd265646b93c096fafc21f7a7c38",
+  "title": "Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "130f3ee74fa9b3f4e95d909ffb5b065f0bc74347",
+  "title": "Memory Intelligence Agent",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "8272a609b2ce86dc55d4de308ee60550da96a3b6",
+  "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "473b381d69441e1b49c89a6071ea6411a0c68ec2",
+  "title": "Combee: Scaling Prompt Learning for Self-Improving Language Model Agents",
+  "date": "2026-04-05"
+ },
+ {
+  "id": "b1c489e4a9ec3d3dbce4ac0e360124e7abb8be3f",
+  "title": "DeltaMem: Towards Agentic Memory Management via Reinforcement Learning",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "bc8aa4fecf7f73cc7b0377d810b0446cac7ac5ce",
+  "title": "Hierarchical Memory Orchestration for Personalized Persistent Agents",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "08523bc8bb562d915bf3652f65b355f9f92bf7ca",
+  "title": "ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "037b7a1df5f19cc40bacb8216956cbaee4916c2a",
+  "title": "Opal: Private Memory for Personal AI",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "89218d15fac4bdee1355641fa45dc635a77f511e",
+  "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "a5fea9c0ca2752b0382179fdc97a7131f296f53a",
+  "title": "Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "ddf10be49bd029082fd421a32268a9ecf158df35",
+  "title": "No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "454069505d79f8b20538c78591702ac4dae921df",
+  "title": "Oblivion: Self-Adaptive Agentic Memory Control through Decay-Driven Activation",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "16c110756c0f0395fe9cc9568434d9e5621cd464",
+  "title": "APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "8e1a8044c7d2a63cb8029788818d8a167ffa89fa",
+  "title": "Terminal Agents Suffice for Enterprise Automation",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "589ef0ddcc65e18fa2936a73eab711f89967e37e",
+  "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "13d19e0b5196b097d8ba53dac10dbc9d46527989",
+  "title": "Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "9f41bd74c19bf47418c2448c37d81d7a9c410057",
+  "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "25dd8bfa700ddbb2f91d4bb619c539ad01444e77",
+  "title": "GAAMA: Graph Augmented Associative Memory for Agents",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "029a4177295a21441cb67a6f8d6cfdf8f0c45959",
+  "title": "The Root Theorem of Context Engineering",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "0a5d419200fb6bcaa07827ea917fa721a02574e2",
+  "title": "Cognis: Context-Aware Memory for Conversational AI Agents",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "b99f0051b8cad133d3ddf79fae0f020317e90cd3",
+  "title": "Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "a0805eed33bbe30e12ef8ac4c2382dd41bcdcea8",
+  "title": "Causal-Salience Memory: Causality-Aware Memory and Explainable Preference Alignment for Personalized Agents",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "fde6e9d26d86d7cec97a6dbbb1ecefc0753e85d8",
+  "title": "Airborne Software Requirements Generation Method Based on Memory-Enhanced Graph RAG",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "4106ed2686e3ee63a9e980944dac4bea8912b332",
+  "title": "MemoryCD: Benchmarking Long-Context User Memory of LLM Agents for Lifelong Cross-Domain Personalization",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "d48ddf9fb0db16a92d5b56d36f92bf4c3158c7d8",
+  "title": "Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "bdcbd45c55f338ddf113164c79d5adc3cdd932e7",
+  "title": "See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "4f440e8e02e5cb3964c859650b961f7d4489ce72",
+  "title": "UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "098e604f3b85a07572559811b48a41908b0eb90a",
+  "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "fd9e0806059eb846ab9353444b0635c5697d7e9b",
+  "title": "PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "30c796181fb938e5a3ed1c158ca7f13e59e47acf",
+  "title": "MemCollab: Cross-Model Memory Collaboration via Contrastive Trajectory Distillation",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "7fab5371e15166903fa11109b3f44e2ac96ff988",
+  "title": "GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "5a38e2d223753043f0da416dbe18c4af6649f906",
+  "title": "MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "e016fb1f0ed9d4bff161cd618b5dc9cd499b7c8e",
+  "title": "Context Cartography: Toward Structured Governance of Contextual Space in Large Language Model Systems",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "378eedffe0e2d20a8e1e75f692af5a9d9ad03882",
+  "title": "ME-IQA: Memory-Enhanced Image Quality Assessment via Re-Ranking",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "06e2f02e73df5bf45aead80f2054d5cd87b7240e",
+  "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "4745e39bc1fcce9fadad5f6757c6543a9aae747f",
+  "title": "Coding Agents are Effective Long-Context Processors",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "0b52bd98b5e979c10cf8be89930877c59d4fe784",
+  "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "5067b632cdd0e544253a168f7d65b47e9d0563d3",
+  "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "e823593720cbf8dee593c3b863bd5cb385a4b856",
+  "title": "D-Mem: A Dual-Process Memory System for LLM Agents",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "85ad2e7c7061621f65ed002467a155cc97bb3706",
+  "title": "Narrative Aligned Long Form Video Question Answering",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "3a58ab5e09d60bcaf81b364fd97ebd02e798b59b",
+  "title": "Multi-User Large Language Model Agents",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "673bfc540c0d21b033076491c93c04ea90ac013a",
+  "title": "AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "72a795f28a93734dfd79de1728a6b0de055e1677",
+  "title": "MemArchitect: A Policy Driven Memory Governance Layer",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "57329ed2b2e54a7dc7f00c85ce999a2e94a36f3c",
+  "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "c24070eec9a8b76a3b459fc48fd5b70603a41054",
+  "title": "CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "b2e3e5834ea4dace4491339188eaf93eca971fa5",
+  "title": "Shopping Companion: Benchmarking and Training LLM Agents for Long-Horizon Preference-Grounded E-Commerce Tasks",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "34e4c1af72bae17963b1284e19ee871a0c53e241",
+  "title": "Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "9be3ff4609de5156fcfd44156ef641c0cf8b4cf9",
+  "title": "D-MEM: Dopamine-Gated Agentic Memory via Reward Prediction Error Routing",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "791ace22d3d76a919606726eace0a98bb5505def",
+  "title": "Memory as Asset: From Agent-centric to Human-centric Memory Management",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "79a45b02e82b9f1e3252ec43b23df3d795c2d625",
+  "title": "SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "1c7d352a6625cb5ef5414290119022158802c4e7",
+  "title": "SensorPersona: An LLM-Empowered System for Continual Persona Extraction from Longitudinal Mobile Sensor Streams",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "82e91b2f323d322134028e051de7ae289bb99054",
+  "title": "TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics",
+  "date": "2026-03-14"
+ },
+ {
+  "id": "abd4e67550bd629ae8066daf70c45ec6b8063f47",
+  "title": "Joint Optimization of Multi-agent Memory System",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "44b11a190a5899529c4ca3bac81a57a2ac1be018",
+  "title": "From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Research",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "7f6d5c753fbb83059ad28ef2d5b1c7d63439285f",
+  "title": "Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "310cc57e018fec7b41ac9ffa95ef04fe7bea432b",
+  "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "1a17eebc5611e32d6738a8bb36f4f18c05771a81",
+  "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "8a2211bea2bef82de683cb8f7499b49f8bd73cad",
+  "title": "Trajectory-Informed Memory Generation for Self-Improving Agent Systems",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "2b2f64c90d70bae9d67fddb48342742e0bae6611",
+  "title": "Emulating Clinician Cognition via Self-Evolving Deep Clinical Research",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "d6b9a942d26739eef6a2582c1fe4f60df182c2c5",
+  "title": "Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "fcf6dbbb51be12ab7900c03c06d268bb087eeffd",
+  "title": "TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "a9c7ba60203bafc0f1c3da9813ca49f28434e981",
+  "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "f91e50d0709a9c5156e0ec1688dadcac12445e4e",
+  "title": "Multi-Agent Memory from a Computer Architecture Perspective: Visions and Challenges Ahead",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "18b3060eb00f3cebd4ef8fd37005d216d03ea61d",
+  "title": "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "da3fb55526f29fe5e1f01d61cdff7bfee5932f7c",
+  "title": "Eyla: Toward an Identity-Anchored LLM Architecture with Integrated Biological Priors - Vision, Implementation Attempt, and Lessons from AI-Assisted Development",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "9cee0b0ed53353486d8ec4d9508947bb12a5886a",
+  "title": "Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "b1819d454c820120d550bb150d8b0dd701d2b294",
+  "title": "Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "e91dfd67d38fc53ab0cc5cda546f237e92ca0db3",
+  "title": "A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "7e382a62fcc38bb29330ba966fe3015181a50901",
+  "title": "Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "2366402832e46a565bf96a1f1796861a88ea1d2c",
+  "title": "Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "a83d0c3694f61696f03c83733226026c04d6c175",
+  "title": "LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "77fdb89de7dd1f3f7d640f3ec8379b2e7b5d6d23",
+  "title": "Proactive Memory for Ad-Hoc Recall over Streaming Dialogues",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "14a6f739dc55cdf38a46f02e90a06bd1f6f4d0c9",
+  "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "d1ed5cf8419f2e0d78a3511ae37596427e4efcbc",
+  "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "33284572e05aa5a0426c54312abdbc26738a0255",
+  "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "c11f88689572d0083985bf869a76b1feceddfc77",
+  "title": "Adaptive Memory Admission Control for LLM Agents",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "9a96478a68788d4a0c1226bf537414a2016bc6fe",
+  "title": "MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "542e35850392c33883d697f6d0a4e8198802b914",
+  "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "3de0ce48ad82e93336694a8357d169a662f749f4",
+  "title": "Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "cb7b58458f33c22276cb613e9f99e0892b5f4fe8",
+  "title": "Recursive Models for Long-Horizon Reasoning",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "9c48a61a935d37c123e01e7ee264f5820b045968",
+  "title": "According to Me: Long-Term Personalized Referential Memory QA",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "381bb56e8033eaa85d1c391eb818b6ed38ed7a86",
+  "title": "AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "b35cb4cb7644eaaec26b3e073b2da74bd34abd16",
+  "title": "From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "2dd826fe8a1b2f253687127759f607c7e5b53807",
+  "title": "Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "2f1f09543f5d0e5e4a2fd99bba5b5d46a572ebda",
+  "title": "AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "b3cf091c989fa494a2360738157016358c5b7afe",
+  "title": "SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "218f289b2e69a6b0cb93c5c3a8458391d14d1e73",
+  "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+  "date": "2026-03-01"
+ }
+]

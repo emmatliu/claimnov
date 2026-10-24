@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_561b6fbde5d19f295d3efd05f3d6022af49849e2",
+   "title": "PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA",
+   "date": "2026-05-31",
+   "is_B": true
+  },
+  {
+   "id": "c3bacc93d8c0c6ed31763d0c0fc7951f0ab82ed8",
+   "title": "Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning",
+   "date": "2023-12-29"
+  },
+  {
+   "id": "f621fb10ef1c9f66e0da3984676c99f8af1af6a4",
+   "title": "DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "49e0456e4a21b343ff0f4b6a2dc762a8daad4afe",
+   "title": "Improving LoRA in Privacy-preserving Federated Learning",
+   "date": "2024-03-18"
+  },
+  {
+   "id": "241eefc1bb11e693e0fef6977a65a0a822fb8f5e",
+   "title": "LoRA+: Efficient Low Rank Adaptation of Large Models",
+   "date": "2024-02-19"
+  },
+  {
+   "id": "201146e9b26eb4a16a26808128765ba1c906ca48",
+   "title": "Differentially Private Adaptive Optimization with Delayed Preconditioners",
+   "date": "2022-12-01"
+  },
+  {
+   "id": "af4f4b522eacb328e8971b74146843ab710ec2a0",
+   "title": "LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization",
+   "date": "2024-10-27"
+  },
+  {
+   "id": "5bd12bdcc533a212e684d2a14ec477258e82758e",
+   "title": "Private Adaptive Optimization with Side Information",
+   "date": "2022-02-12"
+  },
+  {
+   "id": "08c43944c22a3e10cecd5936f04f3e07b0e636c1",
+   "title": "Numerical Composition of Differential Privacy",
+   "date": "2021-06-05"
+  },
+  {
+   "id": "32ac52069e562d4f900afee70bdca63f53461481",
+   "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+   "date": "2023-05-23"
+  },
+  {
+   "id": "56874f9aef515902c5a49d84d10f629f8dcd5f40",
+   "title": "Differentially Private Fine-tuning of Language Models",
+   "date": "2021-10-13"
+  },
+  {
+   "id": "af8123ecdff838f63e4eba0b36b8babe4c5cee65",
+   "title": "LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models",
+   "date": "2023-10-12"
+  },
+  {
+   "id": "c44aeefe635f00089d10072ce30eafa862072bf1",
+   "title": "DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)",
+   "date": "2023-12-21"
+  },
+  {
+   "id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+   "title": "Deep Learning with Differential Privacy",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "d673e4dac43c9a21d3bd48ea6084d3b4c40db3fa",
+   "title": "Fixed-rank matrix factorizations and Riemannian low-rank optimization",
+   "date": "2012-09-03"
+  },
+  {
+   "id": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+   "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+   "date": "2006-03-04"
+  },
+  {
+   "id": "bdb68c5e2369633b20e733774ac66eb4600c34d1",
+   "title": "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models",
+   "date": "2023-04-04"
+  },
+  {
+   "id": "bea1187a1f8a68f1a93f0c2fa10d31f93a30f84e",
+   "title": "Opacus: User-Friendly Differential Privacy Library in PyTorch",
+   "date": "2021-09-25"
+  },
+  {
+   "id": "8e58dc63817a2a26e5a2ddad38d8b1d19d1c3795",
+   "title": "Machine Unlearning",
+   "date": "2019-12-09"
+  },
+  {
+   "id": "7cdaa08890895e1ad92afb5fad429690ad7b1dac",
+   "title": "Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning",
+   "date": "2022-05-11"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.7103,
+  0.7034,
+  0.6638,
+  0.638,
+  0.628,
+  0.6181,
+  0.612,
+  0.5901,
+  0.5647,
+  0.5589,
+  0.5391,
+  0.5358,
+  0.5168,
+  0.5103,
+  0.5045,
+  0.466,
+  0.451,
+  0.4265,
+  0.3994
+ ]
+}

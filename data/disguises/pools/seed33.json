@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_c4331a21e307b71bdbf1d4d811fa3f813edac5f4",
+   "title": "Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications",
+   "date": "2026-05-12",
+   "is_B": true
+  },
+  {
+   "id": "73b03356e745efc2837507aba15a24406d62b103",
+   "title": "MINIMALIST: switched-capacitor circuits for efficient in-memory computation of gated recurrent units",
+   "date": "2025-05-13"
+  },
+  {
+   "id": "31863ff77158cbe59ae1102a915d5ed6c3ae09d5",
+   "title": "A bio-inspired bistable recurrent cell allows for long-lasting memory",
+   "date": "2020-06-09"
+  },
+  {
+   "id": "79c78c98ea317ba8cdf25a9783ef4b8a7552db75",
+   "title": "Full-Capacity Unitary Recurrent Neural Networks",
+   "date": "2016-10-31"
+  },
+  {
+   "id": "434d751d355d7a7c20efa570e785c76286245e77",
+   "title": "Hierarchically Gated Recurrent Neural Network for Sequence Modeling",
+   "date": "2023-11-08"
+  },
+  {
+   "id": "5b1136a2135eaccb8c980fb61113f083ceca95e3",
+   "title": "Recurrent Neural Networks Hardware Implementation on FPGA",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "d46b81707786d18499f911b4ab72bb10c65406ba",
+   "title": "A Simple Way to Initialize Recurrent Networks of Rectified Linear Units",
+   "date": "2015-04-03"
+  },
+  {
+   "id": "e9c771197a6564762754e48c1daafb066f449f2e",
+   "title": "Unitary Evolution Recurrent Neural Networks",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "f393aff1593c2d370ec0ae004910d18e40524967",
+   "title": "Resurrecting Recurrent Neural Networks for Long Sequences",
+   "date": "2023-03-11"
+  },
+  {
+   "id": "c89ab1c37f2209e1644ac4aceac17cbe0f56a633",
+   "title": "Overcoming the vanishing gradient problem in plain recurrent networks",
+   "date": "2018-01-18"
+  },
+  {
+   "id": "fdfa7dc73dc1fc6772d26f88c72e98b68d1f8498",
+   "title": "Parallelizing Linear Recurrent Neural Nets Over Sequence Length",
+   "date": "2017-09-12"
+  },
+  {
+   "id": "0964490205fdc38c2f0980c9d778069089ca92e3",
+   "title": "HiPPO: Recurrent Memory with Optimal Polynomial Projections",
+   "date": "2020-08-17"
+  },
+  {
+   "id": "ca9047c78d48b606c4e4f0c456b1dda550de28b2",
+   "title": "Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers",
+   "date": "2021-10-26"
+  },
+  {
+   "id": "26744bcd78eef332a3f588b72f73c9cf92691aad",
+   "title": "Improving performance of recurrent neural network with relu nonlinearity",
+   "date": "2015-11-12"
+  },
+  {
+   "id": "ae8db7df2488be7eefdf98f512817ffbdb7abf35",
+   "title": "recirculation",
+   "date": "2020-04-18"
+  },
+  {
+   "id": "9d0152fd0d992fa52280d2f83d6aa41490ad95aa",
+   "title": "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues",
+   "date": "2024-11-19"
+  },
+  {
+   "id": "9e0385afae1aa0e10a134546c1355d758919b46e",
+   "title": "Were RNNs All We Needed?",
+   "date": "2024-10-02"
+  },
+  {
+   "id": "7bbc7595196a0606a07506c4fb1473e5e87f6082",
+   "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "b74bfb6afd5abcb2c6fe0b2f8d60b97cdb80ca55",
+   "title": "Orthogonal Recurrent Neural Networks with Scaled Cayley Transform",
+   "date": "2017-07-29"
+  },
+  {
+   "id": "7a89c1b4a9867cf729e17d44bc5f1a5d9ee615d1",
+   "title": "Warming up recurrent neural networks to maximise reachable multistability greatly improves learning",
+   "date": "2021-06-02"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.7094,
+  0.6498,
+  0.6204,
+  0.5951,
+  0.5895,
+  0.5864,
+  0.5835,
+  0.5801,
+  0.5752,
+  0.5645,
+  0.5618,
+  0.5586,
+  0.5541,
+  0.5493,
+  0.5459,
+  0.5434,
+  0.5257,
+  0.5252,
+  0.5197
+ ]
+}

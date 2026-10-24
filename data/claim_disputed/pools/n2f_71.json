@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_74ee70e3ecbb2a7123a14de75bee7d3d8514f1cb",
+   "title": "Wide Neural Networks Forget Less Catastrophically",
+   "is_B": true
+  },
+  {
+   "id": "f31ad882c11f5e4ebd731323972d318307634d74",
+   "title": "Architecture Matters in Continual Learning",
+   "date": "2022-02-01"
+  },
+  {
+   "id": "73d5c3cff5a777169dc62d0b351ddcfda503cd33",
+   "title": "Reinforced Continual Learning",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "9ea50b3408f993853f1c5e374690e5fbe73c2a3c",
+   "title": "Continual Lifelong Learning with Neural Networks: A Review",
+   "date": "2018-02-21"
+  },
+  {
+   "id": "4cfab1622a0dc2bbf37134d6c1179f457dfd255c",
+   "title": "Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting",
+   "date": "2019-03-31"
+  },
+  {
+   "id": "17b8a0ccb2a9450906fa3ea38ed0435b8006397d",
+   "title": "Understanding the Role of Training Regimes in Continual Learning",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "4bd7cc7d1fd2454956bafae1e00d2507bcbf5702",
+   "title": "Learning to Continually Learn",
+   "date": "2020-02-21"
+  },
+  {
+   "id": "713b0d9005944f80af00addc81b162ca74ea4b14",
+   "title": "Memory Aware Synapses: Learning what (not) to forget",
+   "date": "2017-11-27"
+  },
+  {
+   "id": "a99d857ecc78316a0d9a774972b775058d5644ca",
+   "title": "Continual Learning Through Synaptic Intelligence",
+   "date": "2017-03-13"
+  },
+  {
+   "id": "680f1bf7c3635e87d4064a2757ec0d68c01d69f3",
+   "title": "Using Hindsight to Anchor Past Knowledge in Continual Learning",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "4c21b46a123e46ee3139daff8c515c7d0f187bb4",
+   "title": "Dropout as an Implicit Gating Mechanism For Continual Learning",
+   "date": "2020-04-24"
+  },
+  {
+   "id": "475d35a691580d0082ecae212a81d9a4b6be787d",
+   "title": "Meta-Learning Representations for Continual Learning",
+   "date": "2019-05-29"
+  },
+  {
+   "id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+   "title": "Overcoming catastrophic forgetting in neural networks",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "56912f12c35af9579999b45fe6ab7d5b9f090df6",
+   "title": "Efficient Continual Learning with Modular Networks and Task-Driven Priors",
+   "date": "2020-12-23"
+  },
+  {
+   "id": "2b877889ac31b73d1ede70b00eb4c7118ef8eca2",
+   "title": "Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "d9ff7a9344dd5d6653bd7a02bfd704422bb29951",
+   "title": "Experience Replay for Continual Learning",
+   "date": "2018-11-28"
+  },
+  {
+   "id": "841c970f7ef35e28dbbe054d0a7c5df252533a4e",
+   "title": "Orthogonal Gradient Descent for Continual Learning",
+   "date": "2019-10-15"
+  },
+  {
+   "id": "b2d1fb4f78d24f03119f28a516ccabfc9591e71f",
+   "title": "An Empirical Investigation of the Role of Pre-training in Lifelong Learning",
+   "date": "2021-12-16"
+  },
+  {
+   "id": "290153e1a5f7062b7a1227beb31405da6dd00bba",
+   "title": "Slowing Down Forgetting in Continual Learning: Evidence from Manufacturing",
+   "date": "2024-11-11"
+  },
+  {
+   "id": "0407b605b8f55db72e2545586bfe8e946b691b70",
+   "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks",
+   "date": "2013-12-20"
+  }
+ ],
+ "n_candidates": 58,
+ "sims": [
+  0.9807,
+  0.736,
+  0.7159,
+  0.713,
+  0.6916,
+  0.6726,
+  0.6707,
+  0.6561,
+  0.6554,
+  0.642,
+  0.6394,
+  0.6359,
+  0.635,
+  0.6347,
+  0.6258,
+  0.6164,
+  0.6156,
+  0.6078,
+  0.6078
+ ]
+}

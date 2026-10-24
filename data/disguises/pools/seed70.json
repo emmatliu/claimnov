@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_f1e59aa43c0eb4a63ec6dcf5b09d1a2ba3cfe00d",
+   "title": "Causal Modeling of Selection in Evolution",
+   "date": "2026-06-04",
+   "is_B": true
+  },
+  {
+   "id": "2f2216c1941cbfc484440363b657655bf3890ab5",
+   "title": "When Selection Meets Intervention: Additional Complexities in Causal Discovery",
+   "date": "2025-03-10"
+  },
+  {
+   "id": "b8a3067d6c1fb255c9cdb5ac66037b82152ab3bb",
+   "title": "Controlling Selection Bias in Causal Inference",
+   "date": "2011-03-01"
+  },
+  {
+   "id": "1572d7067a42bcc4bd0689383b40c0f058504590",
+   "title": "Detecting and Identifying Selection Structure in Sequential Data",
+   "date": "2024-06-29"
+  },
+  {
+   "id": "24672d440a985e8fbb3c6b7cef2e0e5cd1e66e22",
+   "title": "Identification of Causal Effects in the Presence of Selection Bias",
+   "date": "2019-07-17"
+  },
+  {
+   "id": "91dfdd05a99256c2293b952c3b008326b015d4eb",
+   "title": "Recovering from Selection Bias in Causal and Statistical Inference",
+   "date": "2014-06-21"
+  },
+  {
+   "id": "898ef873c9a85a25ad3a3785b907bb99b0c4b8e4",
+   "title": "Latent Variable Causal Discovery under Selection Bias",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "407429aacc87ac8b1d08ff4104e49d7300ea3f9d",
+   "title": "Local Constraint-Based Causal Discovery under Selection Bias",
+   "date": "2022-03-03"
+  },
+  {
+   "id": "83ce9ac16ad2ba262bea004fdad74950816ababb",
+   "title": "Recovering Causal Effects from Selection Bias",
+   "date": "2015-01-25"
+  },
+  {
+   "id": "ca2820b5b7a877619744d3862401ad6e28478731",
+   "title": "Identifying Selection Bias from Observational Data",
+   "date": "2023-06-26"
+  },
+  {
+   "id": "998689f250121428024eed926b3c9e57727be83c",
+   "title": "Causal Inference in the Presence of Latent Variables and Selection Bias",
+   "date": "1995-08-18"
+  },
+  {
+   "id": "cdc04b748e440f43547c0516f77480ffb8bf5cda",
+   "title": "Causal Discovery from Heterogeneous/Nonstationary Data",
+   "date": "2019-03-05"
+  },
+  {
+   "id": "f896c4d266a666085878b3b2c0c926df239e51e0",
+   "title": "Evolutionary game theory of continuous traits from a causal perspective",
+   "date": "2023-03-20"
+  },
+  {
+   "id": "beade9b9ab7c47e0661dfc4b107f85ad5e93d96b",
+   "title": "A generalised approach to the study and understanding of adaptive evolution",
+   "date": "2022-10-12"
+  },
+  {
+   "id": "63620d486c12f39eae2d94ac2b7b6c9ea1415312",
+   "title": "Discovery and Visualization of Nonstationary Causal Models",
+   "date": "2015-09-27"
+  },
+  {
+   "id": "9c1f7a0274bf1398ef72388ad3159179b972a2f9",
+   "title": "Characterization and Learning of Causal Graphs with Latent Confounders and Post-treatment Selection from Interventional Data",
+   "date": "2025-09-30"
+  },
+  {
+   "id": "1b66d518db602db1c95e5c12cc93524d15172424",
+   "title": "Recursive Causal Structure Learning in the Presence of Latent Variables and Selection Bias",
+   "date": "2021-10-22"
+  },
+  {
+   "id": "b46d4cc7873cf09ab1b9aba80297d0ece6c16394",
+   "title": "Generalized Score Functions for Causal Discovery",
+   "date": "2018-07-19"
+  },
+  {
+   "id": "1c2b217e8d96e5d96f9628816b48c0a8f698eef3",
+   "title": "MissDAG: Causal Discovery in the Presence of Missing Data with Continuous Additive Noise Models",
+   "date": "2022-05-27"
+  },
+  {
+   "id": "fbefd4b287c7fd6e169fba37d6366d2c771ecc5c",
+   "title": "A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables",
+   "date": "2023-12-18"
+  }
+ ],
+ "n_candidates": 41,
+ "sims": [
+  0.7226,
+  0.6727,
+  0.6719,
+  0.6645,
+  0.6632,
+  0.6607,
+  0.6541,
+  0.6135,
+  0.6129,
+  0.607,
+  0.6058,
+  0.5886,
+  0.5858,
+  0.5794,
+  0.5747,
+  0.5616,
+  0.5614,
+  0.5432,
+  0.5369
+ ]
+}

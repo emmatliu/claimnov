@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_9c5c794094fbf5da8c48df5c3242615dc0b1d245",
+   "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
+   "is_B": true
+  },
+  {
+   "id": "097889e0b93591d75de08f9da661ff882a1532f6",
+   "title": "Learning Disentangled Representations with Semi-Supervised Deep Generative Models",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "12fcb2637f241d515827fb193a650b7e6bf6b1f7",
+   "title": "Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations",
+   "date": "2017-05-24"
+  },
+  {
+   "id": "26690f2548c6dbf630de202b40dec417b20c9b6c",
+   "title": "Variational Inference of Disentangled Latent Concepts from Unlabeled Observations",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "9eb96fe3870781de8ad7804b79c8666b912a6275",
+   "title": "Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations",
+   "date": "2018-11-01"
+  },
+  {
+   "id": "04541599accc47d8174f63345ce9c987ef21685b",
+   "title": "Disentangling by Factorising",
+   "date": "2018-02-16"
+  },
+  {
+   "id": "287547fc81364e64d196abb8d891ade3f6599a5a",
+   "title": "Understanding disentangling in \u03b2-VAE",
+   "date": "2018-04-10"
+  },
+  {
+   "id": "48a789a15e3572749905f036fcbf3310aee29b79",
+   "title": "Disentangling factors of variation in deep representation using adversarial training",
+   "date": "2016-11-10"
+  },
+  {
+   "id": "c955f0a5a70ae458084998ceee20e402ecc6504a",
+   "title": "Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data",
+   "date": "2017-09-22"
+  },
+  {
+   "id": "1a8d3ad2b400bcebc9f17b309901ca5ef2e95315",
+   "title": "Unsupervised Learning of Disentangled Representations from Video",
+   "date": "2017-05-31"
+  },
+  {
+   "id": "ea39691702bdc614d7dad08bd04c42b42d7b9140",
+   "title": "Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness",
+   "date": "2018-10-31"
+  },
+  {
+   "id": "87126d84329c548598a99092111ec5725c42435f",
+   "title": "Disentangled Sequential Autoencoder",
+   "date": "2018-03-08"
+  },
+  {
+   "id": "cff1f36b3f4b998b70732c3a2803a24485f220ed",
+   "title": "A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning",
+   "date": "2017-10-16"
+  },
+  {
+   "id": "061131b770f41acdd07ed36c7802a69bf1631195",
+   "title": "Learning the Irreducible Representations of Commutative Lie Groups",
+   "date": "2014-02-18"
+  },
+  {
+   "id": "63cbac5a39cd926a806f60116b845f9bd70f5544",
+   "title": "Disentangling Factors of Variation via Generative Entangling",
+   "date": "2012-10-19"
+  },
+  {
+   "id": "5c55162deeea9870f765e0a9cd3e8387b05a0ea2",
+   "title": "Disentangling the independently controllable factors of variation by interacting with the world",
+   "date": "2018-02-26"
+  },
+  {
+   "id": "03fffbaca597aaa740ec910acae727976f9bc19c",
+   "title": "Recent Advances in Autoencoder-Based Representation Learning",
+   "date": "2018-12-12"
+  },
+  {
+   "id": "8deee44e1473a441b97b6407e52ca5304f9b15ba",
+   "title": "Learning Deep Disentangled Embeddings with the F-Statistic Loss",
+   "date": "2018-02-01"
+  },
+  {
+   "id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+   "title": "Representation Learning: A Review and New Perspectives",
+   "date": "2012-06-24"
+  },
+  {
+   "id": "787c563657c34041357b5a92354a69b05c435032",
+   "title": "Curiosity Driven Exploration of Learned Disentangled Goal Spaces",
+   "date": "2018-07-04"
+  }
+ ],
+ "n_candidates": 39,
+ "sims": [
+  0.7278,
+  0.7182,
+  0.7147,
+  0.6933,
+  0.6842,
+  0.6781,
+  0.669,
+  0.6402,
+  0.6264,
+  0.6138,
+  0.6014,
+  0.5985,
+  0.5889,
+  0.5878,
+  0.5676,
+  0.5598,
+  0.5588,
+  0.5545,
+  0.5469
+ ]
+}

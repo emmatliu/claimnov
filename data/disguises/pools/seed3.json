@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e4f98826aeffb73eed2a547ead80ad09d82614ef",
+   "title": "Towards Efficient LLMs Annealing with Principled Sample Selection",
+   "date": "2026-05-29",
+   "is_B": true
+  },
+  {
+   "id": "35ab4a0e0d6bc65dfd89ba05a3cd525e54696ec6",
+   "title": "A Survey on Efficient Large Language Model Training: From Data-centric Perspectives",
+   "date": "2025-10-29"
+  },
+  {
+   "id": "c11ad5f316bd230ac26f44c0910a604c916079ce",
+   "title": "Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "8ec5896b4490c6e127d1718ffc36a3439d84cb81",
+   "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+   "date": "2016-09-15"
+  },
+  {
+   "id": "7f30e3da5bc00b603c15d0121ec6ca052e628c4a",
+   "title": "Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training",
+   "date": "2024-11-21"
+  },
+  {
+   "id": "c27b19aef964208447bed3ef8d43466a1985a56c",
+   "title": "InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning",
+   "date": "2023-03-08"
+  },
+  {
+   "id": "7d9b141b75f125ade3e6073abf7b72e0dae624de",
+   "title": "Scaling Laws for Optimal Data Mixtures",
+   "date": "2025-07-12"
+  },
+  {
+   "id": "453f7610c6e66bfafcb989d7a9a08e889559f041",
+   "title": "Not All Samples Are Created Equal: Deep Learning with Importance Sampling",
+   "date": "2018-03-02"
+  },
+  {
+   "id": "72e61336076192d00abd36a4390809e3469be59f",
+   "title": "YuLan-Mini: An Open Data-efficient Language Model",
+   "date": "2024-12-23"
+  },
+  {
+   "id": "81c0f7e2baf42ebcbd6a6e01a6ff8088ed719743",
+   "title": "MixMin: Finding Data Mixtures via Convex Minimization",
+   "date": "2025-02-14"
+  },
+  {
+   "id": "668075792a7ab40457d92e09da28d35c879271c3",
+   "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+   "date": "2025-01-22"
+  },
+  {
+   "id": "540c226fdf7047ac602c7cb05a18db19ee595df0",
+   "title": "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data",
+   "date": "2017-03-31"
+  },
+  {
+   "id": "e8053a7b234d2936cbc993a4f2b13ec63eb6ec90",
+   "title": "RegMix: Data Mixture as Regression for Language Model Pre-training",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "d53fb3feeeab07a0d70bf466dd473ec6052ecc07",
+   "title": "Exploring Generalization in Deep Learning",
+   "date": "2017-06-27"
+  },
+  {
+   "id": "ad1bb59e3e18a0dd8503c3961d6074f162baf710",
+   "title": "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+   "date": "2024-01-31"
+  },
+  {
+   "id": "0d57ba12a6d958e178d83be4c84513f7e42b24e5",
+   "title": "Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour",
+   "date": "2017-06-08"
+  },
+  {
+   "id": "347e837b1aa03c9d17c69a522929000f0a0f0a51",
+   "title": "SuperGlue: Learning Feature Matching With Graph Neural Networks",
+   "date": "2019-11-26"
+  },
+  {
+   "id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+   "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+   "date": "2019-05-01"
+  },
+  {
+   "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+   "title": "Training Verifiers to Solve Math Word Problems",
+   "date": "2021-10-27"
+  },
+  {
+   "id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+   "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+   "date": "2018-03-14"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.5568,
+  0.5122,
+  0.5073,
+  0.5067,
+  0.5034,
+  0.4954,
+  0.4652,
+  0.46,
+  0.4541,
+  0.451,
+  0.4445,
+  0.4322,
+  0.4239,
+  0.3948,
+  0.3821,
+  0.3605,
+  0.3424,
+  0.323,
+  0.3098
+ ]
+}

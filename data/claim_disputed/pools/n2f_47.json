@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2102.02611",
+   "title": "CKConv: Continuous Kernel Convolution For Sequential Data",
+   "is_B": true
+  },
+  {
+   "id": "7bbcd665f4847652e307ca717b209de92cd95dd2",
+   "title": "Deep Parametric Continuous Convolutional Neural Networks",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "2dad7e558a1e2982d0d42042021f4cde4af04abf",
+   "title": "Dilated Recurrent Neural Networks",
+   "date": "2017-10-05"
+  },
+  {
+   "id": "5ee147684b06ffc4db0f6326e0cba017d12ceff3",
+   "title": "PointConv: Deep Convolutional Networks on 3D Point Clouds",
+   "date": "2018-11-17"
+  },
+  {
+   "id": "cddd943dae3a6ca5c591d0c5be0bb5b490b28c63",
+   "title": "Very deep convolutional neural networks for raw waveforms",
+   "date": "2016-10-01"
+  },
+  {
+   "id": "608e4bbe7a2d6f04d68b5747d9d0778d5fce47df",
+   "title": "Learning Longer-term Dependencies in RNNs with Auxiliary Losses",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "f797fd44b9ddd5845611eb7a705ca9464a8819d1",
+   "title": "Very Deep Convolutional Networks for Text Classification",
+   "date": "2016-06-06"
+  },
+  {
+   "id": "067c5f3753709b48023678fc12063459b4d82cb6",
+   "title": "DeepSphere: a graph-based spherical CNN",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "06f3e42c28fe87156c8be5188ff38fe9845df769",
+   "title": "Interpolated Convolutional Networks for 3D Point Cloud Understanding",
+   "date": "2019-08-13"
+  },
+  {
+   "id": "5bf31dc4bd54b623008c13f8bc8954dc7c9a2d80",
+   "title": "SchNet: A continuous-filter convolutional neural network for modeling quantum interactions",
+   "date": "2017-06-26"
+  },
+  {
+   "id": "565ab57eede8bf6ef9c42df51216b9f85287c234",
+   "title": "Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN",
+   "date": "2018-03-13"
+  },
+  {
+   "id": "2e689bdce24cf3644432505ce2783f03a1445ed2",
+   "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
+   "date": "2018-12-10"
+  },
+  {
+   "id": "1a39bb2caa151d15efd6718f3a80d9f4bff95af2",
+   "title": "Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs",
+   "date": "2017-04-10"
+  },
+  {
+   "id": "921196c32213a229245a9705ee4768bc941e7a26",
+   "title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+   "date": "2018-03-04"
+  },
+  {
+   "id": "e9c771197a6564762754e48c1daafb066f449f2e",
+   "title": "Unitary Evolution Recurrent Neural Networks",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "b034b5769ab94acf9fb8ae48c7edb560a300bb63",
+   "title": "On the Number of Linear Regions of Deep Neural Networks",
+   "date": "2014-02-08"
+  },
+  {
+   "id": "d6dccb5d71fbb6f5765f89633ba3a8e6809a720d",
+   "title": "Stand-Alone Self-Attention in Vision Models",
+   "date": "2019-06-13"
+  },
+  {
+   "id": "533ee188324b833e059cb59b654e6160776d5812",
+   "title": "How to Construct Deep Recurrent Neural Networks",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "49e32810319a03f60cae281557eba2f0d91512f2",
+   "title": "From Points to Parts: 3D Object Detection From Point Cloud With Part-Aware and Part-Aggregation Network",
+   "date": "2019-07-08"
+  },
+  {
+   "id": "4177ec52d1b80ed57f2e72b0f9a42365f1a8598d",
+   "title": "Speech recognition with deep recurrent neural networks",
+   "date": "2013-03-22"
+  }
+ ],
+ "n_candidates": 53,
+ "sims": [
+  0.6413,
+  0.6017,
+  0.5645,
+  0.5566,
+  0.5429,
+  0.5415,
+  0.5238,
+  0.5218,
+  0.5206,
+  0.5205,
+  0.5161,
+  0.5018,
+  0.4986,
+  0.4956,
+  0.493,
+  0.4923,
+  0.4852,
+  0.4808,
+  0.4792
+ ]
+}

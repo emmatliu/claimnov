@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_221221b372a9be7115eb12fff5cfdc3bf6a932f1",
+   "title": "A Unifying Relational Perspective on Expressive Lottery Tickets",
+   "date": "2026-08-19",
+   "is_B": true
+  },
+  {
+   "id": "8cb97eb1acb9db3e683ab531bdf7b81e68a0cd46",
+   "title": "Rethinking Graph Lottery Tickets: Graph Sparsity Matters",
+   "date": "2023-05-03"
+  },
+  {
+   "id": "2028710190373ef893e3055c9113e04274a152d7",
+   "title": "A Unified Lottery Ticket Hypothesis for Graph Neural Networks",
+   "date": "2021-02-12"
+  },
+  {
+   "id": "ee854c29822a69e0406fd24e727c863d0308626f",
+   "title": "Weisfeiler-Lehman goes Dynamic: An Analysis of the Expressive Power of Graph Neural Networks for Attributed and Dynamic Graphs",
+   "date": "2022-10-08"
+  },
+  {
+   "id": "d2439e402f47204c908a092b20719b3cf00fd551",
+   "title": "Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets",
+   "date": "2023-12-06"
+  },
+  {
+   "id": "4b046eed8cdd0efc9a0aa346c941dfe1f6c086f5",
+   "title": "Provably expressive temporal graph networks",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "86692efd5f6467f2b79a81519215bf7e9c9bc2ed",
+   "title": "On the Relationship Between Robustness and Expressivity of Graph Neural Networks",
+   "date": "2025-04-18"
+  },
+  {
+   "id": "66ad9b9cb18b95caab3bd89f8a6d5401af8b7a88",
+   "title": "Expressive Power of Temporal Message Passing",
+   "date": "2024-08-19"
+  },
+  {
+   "id": "7dbf1219a8eef4f88a70397eebf0f59216636c02",
+   "title": "The Graph Lottery Ticket Hypothesis: Finding Sparse, Informative Graph Structure",
+   "date": "2023-12-08"
+  },
+  {
+   "id": "c663d4b4d413ba306229cd42f9339e939052b11f",
+   "title": "Weisfeiler and Leman Go Relational",
+   "date": "2022-11-30"
+  },
+  {
+   "id": "917b18b8dad23284c0a42f665f2ba1984fa360de",
+   "title": "Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "1bcf4553d841ad78cf51b4d3d48a61f9f3c71ebf",
+   "title": "Proving the Lottery Ticket Hypothesis: Pruning is All You Need",
+   "date": "2020-02-03"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+   "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+   "date": "2018-03-09"
+  },
+  {
+   "id": "09c3a0ac2a9cbc55c40b8c05fd787be68ac3d236",
+   "title": "Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network With Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "21ab210e28cb37e9ef0241850649a2963791f124",
+   "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "3f4dff0c50a2edc4d38973669f8459449f114e28",
+   "title": "A Theory of Link Prediction via Relational Weisfeiler-Leman",
+   "date": "2023-02-04"
+  },
+  {
+   "id": "ab9e30123e0914ab5a97c36b9f9dda618cb1647c",
+   "title": "Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network",
+   "date": "2020-04-19"
+  },
+  {
+   "id": "b88f456daaf29860d2b59c621be3bd878a581a59",
+   "title": "Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities",
+   "date": "2023-02-02"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.7416,
+  0.6974,
+  0.6816,
+  0.666,
+  0.6518,
+  0.6432,
+  0.6427,
+  0.6373,
+  0.6306,
+  0.6118,
+  0.5996,
+  0.5943,
+  0.5903,
+  0.5735,
+  0.57,
+  0.5682,
+  0.5674,
+  0.5582,
+  0.55
+ ]
+}

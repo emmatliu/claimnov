@@ -1,0 +1,317 @@
+[
+ {
+  "id": "2eb05c5cb8f028f498205e7c999db88d8763118c",
+  "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "8deb2520597538cb4c5b421a605b88afd0f5b64a",
+  "title": "Prefix Sliding for efficient test-time scaling",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "1cac237c5e7489f495b210a35f6d5bb786c47a77",
+  "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "889dc56951db1832b88f5787100e7f7db0fba502",
+  "title": "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "9a2d0dbc593d57d887f49b359c81416d90a3deb4",
+  "title": "Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "e50d86ece64a8672aef93572b3d412a53873ae28",
+  "title": "PI-Mem: Pushing Long-Context Reasoning to 3.6M Tokens with Parallel-Iterative Memory",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "3ca6eb5a6bfbe3536c43cd1b024da6aabef84132",
+  "title": "Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "5851d8117b0d2bec48ba621754dd0d253a5d2cc2",
+  "title": "LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "9020c3ff7ac719bbcbb0f61276c6bf8a0a8d7858",
+  "title": "AdaMTP: An Adaptive Training Paradigm for Multi-Token Prediction",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "73cbe73a7ab6f987efc3177da8788280edb0c12b",
+  "title": "Memory for Large Language Models",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "341b697a1dbb74ef0be267b518ac81ccbc454bc1",
+  "title": "CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "60a9a6d6e1b8bb681d8f61bb29dae92cc6f513bf",
+  "title": "LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "a350aef655f97578379a7bbf891a3b11332b91ea",
+  "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "76d507f5ea0bc5d568e0689e2f612fab1b0e12c8",
+  "title": "Learning What Matters: Supervising Global Context Pruning with Causal Evidence Sets",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "04f3ee7dd762dff9b6aad25bfb930e1984f74a09",
+  "title": "Scaling Attention Beyond GPUs for LLM Inference",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "8dc1e19865498ba91fa19616c51d90bd7b6f7e25",
+  "title": "DynSpAttn: Efficient Attention via Dual-Side Dynamic Sparsity on Sparse Tensor Cores",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "e160d63ad098ca82680e4af816c822cba8e70a0a",
+  "title": "Uncertainty-gated selection for block-sparse attention",
+  "date": "2026-07-04"
+ },
+ {
+  "id": "bb62eaba05a052a8864b359863f78cd96118f9d5",
+  "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "ebab52e0cc0798f6e372a8fe5d844b191da54e79",
+  "title": "MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ddc0a73bfd017fbd094dcbcc8392e343d8c3da69",
+  "title": "Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "d2d68362f054e266d1ba0b40d7c4a61c0e56081c",
+  "title": "FiLM-Coordinated Dual-Branch Transformer for Global-Local Dependency Modeling in Language Modeling",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "741a92b46bb6f8406d0adbd34872c9ee7d21fb49",
+  "title": "BTHA: Block-Then-Hash Attention for Efficient Long Context",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "f67a29537aa3f04aae5aac40f6b4e02972b4be27",
+  "title": "MiniMax Sparse Attention",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "903e8231bcf9977d8552691b7544a58e13ecb77f",
+  "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "7b5c4ed121a8f946e5231fe709fcf36f9163a96c",
+  "title": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "1851d3cb7da364633a39ccd73225b117ba94eee2",
+  "title": "ViDA: Lossless VideoQA Acceleration via Selective Sparse Self-Speculation With Parallel Computational Load Management",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "80202fc68c685bfcbca7b84ca2f5baf44b7b8873",
+  "title": "Memory-Efficient Chunked Tropical Attention for Long Sequences",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "34fdc3a94f712c15e64e829f8c7a6802f6c06eed",
+  "title": "PithTrain: A Compact and Agent-Native MoE Training System",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "ab05cfdd9718e560aa0adcfe00c52b30dc7bca43",
+  "title": "Veda: Scalable Video Diffusion via Distilled Sparse Attention",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "e0efcdfe1019fcd5aff9a7278c17cc670aceadf5",
+  "title": "Meta-Attention: Bayesian Per-Token Routing for Efficient Transformer Inference",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "acd6bb37712be184fab70ea727ea47f76e6f2101",
+  "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "36f0e5aacd32f5e677f1f44959f4f0d57f9c2a68",
+  "title": "IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "672dfa32805ea52bedfee62d20e703f8316b4645",
+  "title": "Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "a104ebe1d02f64c089064fe906f7b2236675caa8",
+  "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "e8ce26e2c2dd35ca76df7fb074aaaa35f4b04a7c",
+  "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "85b94a543b8091ede2598962635b7f2f575b8b6c",
+  "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "4ca12d5f49866e531dc8d45c4e4d6a04206f4681",
+  "title": "ElasticDiT: Efficient Diffusion Transformers via Elastic Architecture and Sparse Attention for High-Resolution Image Generation on Mobile Devices",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "2ab18bfab00e624c5375890d866118001ecbe898",
+  "title": "Learning to See What You Need: Gaze Attention for Multimodal Large Language Models",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "e54460e801c1ce01e53673a7862d9f9381464398",
+  "title": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "9c5706af172ef68b120e31a40f2208055a44dab6",
+  "title": "AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "d30e83f61a85520f3196296fc794aa295432c5b7",
+  "title": "MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "9cac55c12807f6f69e8cf7a920947c6ffd9927c1",
+  "title": "An Efficient Hybrid Sparse Attention with CPU-GPU Parallelism for Long-Context Inference",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "b252c86b2886390cc2dedecb35bb0c47fa2a18fe",
+  "title": "Long Context Pre-Training with Lighthouse Attention",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "1ac595429371620f150028cd9685df27688910e9",
+  "title": "MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "908c05adea7fb6e5cdb99b566a6b1b6c1fad2c0e",
+  "title": "UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "dce63aa75e87a8ceae21d30646d4f677d18e491a",
+  "title": "KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "9a083b5765bf219aeb241c17d1ee25287cf7723a",
+  "title": "Salca: A Sparsity-Aware Hardware Accelerator for Efficient Long-Context Attention Decoding",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "f897b7bf1bb5ce6330e07de5fee80b981dfd3ae5",
+  "title": "SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "1569141eedb7e1ce5e6cf42df97225b93568bfd5",
+  "title": "Simplified Sparse Attention via Gist Tokens",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "180e595ce360f5654a0fa0a5fcc48688cc4c247f",
+  "title": "SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "2f2a962223134684eb56dc132226fd18cbb57f08",
+  "title": "VFA: Relieving Vector Operations in Flash Attention with Global Maximum Pre-computation",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "26de9913033c9237a713e5aef5961f6c5c2d26fa",
+  "title": "AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "af696d311f9217c514dffadde4ab6c23cb8554b2",
+  "title": "Stochastic Attention: Connectome-Inspired Randomized Routing for Expressive Linear-Time Attention",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "11a0013a0bc222198812a57938fd60e20cac4f93",
+  "title": "VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "a51edccabedbebfb6c3ff9fbf40e85cf911e56bf",
+  "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "dd94082120934b04dc8ed73819bb04afe46bd2e3",
+  "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "948b013320fc80ec1bb3c16f32f2565b35324c24",
+  "title": "ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference",
+  "date": "2026-03-28"
+ },
+ {
+  "id": "15a8487a714d08f38b4ac23e4fa3880d0cbb8b21",
+  "title": "UEPS: Robust and Efficient MRI Reconstruction",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "fffaaa569dcbf8e16171654d0de16966b7cdd5f7",
+  "title": "SemantiCache: Efficient KV Cache Compression via Semantic Chunking and Clustered Merging",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "a20bd9440355e845bb7200e9ca440041bf7e570d",
+  "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "a7338afef819f96339a6dd62aac81775f395f69d",
+  "title": "Why Attend to Everything? Focus is the Key",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "14f0be1c7d56ec41fe78b4552d35141ad4eee8ce",
+  "title": "Speed3R: Sparse Feed-forward 3D Reconstruction Models",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "f51520890daaa000e5583209c9f6db66f85f7d64",
+  "title": "FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling",
+  "date": "2026-03-06"
+ }
+]

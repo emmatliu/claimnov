@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_aff0ffab532bc8ffa639034ae1b451bcf345bb8e",
+   "title": "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+   "date": "2026-05-28",
+   "is_B": true
+  },
+  {
+   "id": "b9ea98a5d091673a851351427016e666e21871ee",
+   "title": "MindBridge: A Cross-Subject Brain Decoding Framework",
+   "date": "2024-04-11"
+  },
+  {
+   "id": "9f041275cb5d7ef4a39bd89ea8b8729af8895734",
+   "title": "NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals",
+   "date": "2024-08-27"
+  },
+  {
+   "id": "79110a81a7b35f94eeb4aa1058afe2271a4f1170",
+   "title": "Psychometry: An Omnifit Model for Image Reconstruction from Human Brain Activity",
+   "date": "2024-03-29"
+  },
+  {
+   "id": "c668b80885784a2c02b7837978ee95fefd108f1d",
+   "title": "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding",
+   "date": "2022-11-14"
+  },
+  {
+   "id": "03db5b4d3f16fd9c36fcfe467044fd8c006b175a",
+   "title": "Neuro-Vision to Language: Enhancing Brain Recording-based Visual Reconstruction and Language Interaction",
+   "date": "2024-04-30"
+  },
+  {
+   "id": "5efcfc6476c5ddbd69fa1ec3ca598604ae376c1c",
+   "title": "Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "4931f7ddb16cf3954e1daf45191ccc3cf1b5f64c",
+   "title": "MindTuner: Cross-Subject Visual Decoding with Visual Fingerprint and Semantic Correction",
+   "date": "2024-04-19"
+  },
+  {
+   "id": "935e0765e93310ca9c64238953900fba56685ae7",
+   "title": "Semantic reconstruction of continuous language from non-invasive brain recordings",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "80b09cbfc102d6bd7e7102b41f9644cc32f6dadf",
+   "title": "Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "fa5fc2bcf4c6e1f0a19c3377d26e089e286d74ad",
+   "title": "Wills Aligner: Multi-Subject Collaborative Brain Visual Decoding",
+   "date": "2025-04-11"
+  },
+  {
+   "id": "32d0ad59162b07bf469b6889930ef1d10e66f7f8",
+   "title": "Brain encoding models based on multimodal transformers can transfer across language and vision",
+   "date": "2023-05-20"
+  },
+  {
+   "id": "adfac1812adc3758324d9189dcfea12c5691e8cf",
+   "title": "Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models",
+   "date": "2023-06-05"
+  },
+  {
+   "id": "91bdc4f56ece1cc95549f83d32b262ea3dcb27b8",
+   "title": "SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning",
+   "date": "2025-08-14"
+  },
+  {
+   "id": "a2098cd417464cca27f3cdd83e3af1d9236a5e3e",
+   "title": "Brain Captioning: Decoding human brain activity into images and text",
+   "date": "2023-05-19"
+  },
+  {
+   "id": "419eb47fea3931c4098232f44ccbc216275d3f56",
+   "title": "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features",
+   "date": "2022-10-13"
+  },
+  {
+   "id": "97029b53d0252ea68472423dea33e5aa2316926d",
+   "title": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model",
+   "date": "2022-11-15"
+  },
+  {
+   "id": "d4c0951d702087ea3f5c67534dde2dea8e6af078",
+   "title": "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data",
+   "date": "2024-03-17"
+  },
+  {
+   "id": "0df1f308b8df13194d76fb95aa86d18d6aeffbdc",
+   "title": "MMaDA: Multimodal Large Diffusion Language Models",
+   "date": "2025-05-21"
+  },
+  {
+   "id": "b3dc26c4512e966af967fd39cfc01d8f8e1b67c6",
+   "title": "Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model",
+   "date": "2025-05-29"
+  }
+ ],
+ "n_candidates": 71,
+ "sims": [
+  0.6572,
+  0.6117,
+  0.6034,
+  0.5993,
+  0.5948,
+  0.5804,
+  0.5803,
+  0.5799,
+  0.5793,
+  0.5738,
+  0.5726,
+  0.5681,
+  0.5679,
+  0.5672,
+  0.5614,
+  0.5609,
+  0.55,
+  0.5488,
+  0.5473
+ ]
+}

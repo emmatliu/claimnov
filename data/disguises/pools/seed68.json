@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_fca86e0e1c5a95295e7c8253c5de4ad2cad63ab7",
+   "title": "ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios",
+   "date": "2026-03-10",
+   "is_B": true
+  },
+  {
+   "id": "1df7661b39c278d1ae9991aee6e2c5d8be42f326",
+   "title": "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving",
+   "date": "2025-03-07"
+  },
+  {
+   "id": "88a8d366eaf6a63829ad1f4ca1a9ce161427ef83",
+   "title": "Dynamic Depth Decoding: Faster Speculative Decoding for LLMs",
+   "date": "2024-08-30"
+  },
+  {
+   "id": "0cee098244c9978032702862a43a09f468f691a4",
+   "title": "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+   "date": "2024-01-15"
+  },
+  {
+   "id": "f5a9ae08b63873314c1defa0b121fe54962df741",
+   "title": "Speculative Decoding: Performance or Illusion?",
+   "date": "2025-12-31"
+  },
+  {
+   "id": "81483eecb1411bd5e2448d89975421ad387a6411",
+   "title": "Inference-Cost-Aware Dynamic Tree Construction for Efficient Inference in Large Language Models",
+   "date": "2025-10-30"
+  },
+  {
+   "id": "28ea43cfad0ad2a367096581865114b6b94a9a6e",
+   "title": "MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding",
+   "date": "2024-08-20"
+  },
+  {
+   "id": "ba5261e729c181e28a98dee2c08d7cf5fc7127a2",
+   "title": "Online Speculative Decoding",
+   "date": "2023-10-11"
+  },
+  {
+   "id": "70ede1071bacc242559ff5c68f93c51744325120",
+   "title": "TurboSpec: Closed-loop Speculation Control System for Optimizing LLM Serving Goodput",
+   "date": "2024-06-20"
+  },
+  {
+   "id": "c37d87b414a1cf830547eb6311f9e4f3e28d4182",
+   "title": "TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees",
+   "date": "2026-01-12"
+  },
+  {
+   "id": "ace3d2bcecc658a97632c9be4ce461450271eb5b",
+   "title": "Parallel Speculative Decoding with Adaptive Draft Length",
+   "date": "2024-08-13"
+  },
+  {
+   "id": "095c9b1ce9a89a388f98b634989de4191a96c68c",
+   "title": "Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism",
+   "date": "2026-01-09"
+  },
+  {
+   "id": "de763ef404bb2e1b11e4d88b41bb2c693be66d9c",
+   "title": "SpecBranch: Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "f1a9e0830bc36c048fa4659beaa62609869895b5",
+   "title": "Break the Sequential Dependency of LLM Inference Using Lookahead Decoding",
+   "date": "2024-02-03"
+  },
+  {
+   "id": "94f837c05976477d10344ef1b9a7587a81571a3c",
+   "title": "Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding",
+   "date": "2025-03-13"
+  },
+  {
+   "id": "f0c31511134abdd23f990310e8a2f2eb3a629b62",
+   "title": "SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification",
+   "date": "2023-05-16"
+  },
+  {
+   "id": "a1f8082505c7e90b0a033e1b9da0a97d67aad66c",
+   "title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+   "date": "2023-02-02"
+  },
+  {
+   "id": "ac3f56e69b4771e7f02df8ca40de9a30987acd13",
+   "title": "TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding",
+   "date": "2025-02-21"
+  },
+  {
+   "id": "d0b049018c9e21b7b95c179d33e1e2ac9113c85b",
+   "title": "Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding",
+   "date": "2024-02-07"
+  },
+  {
+   "id": "56767c18bb5aaa2b6377624168bed1b6dcc4b94d",
+   "title": "DistillSpec: Improving Speculative Decoding via Knowledge Distillation",
+   "date": "2023-10-12"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.6927,
+  0.6835,
+  0.6728,
+  0.6605,
+  0.6579,
+  0.6458,
+  0.6456,
+  0.6344,
+  0.6295,
+  0.6279,
+  0.6159,
+  0.6147,
+  0.6105,
+  0.6052,
+  0.6039,
+  0.603,
+  0.5929,
+  0.5788,
+  0.5725
+ ]
+}

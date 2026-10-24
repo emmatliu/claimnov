@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e2d5706107c60a47fabcaeffb73b1259629f6660",
+   "title": "3ViewSense: Spatial and Mental Perspective Reasoning from Orthographic Views in Vision-Language Models",
+   "date": "2026-03-08",
+   "is_B": true
+  },
+  {
+   "id": "af5d02a5dcacb9bb5af1ec17006fee93aa3a062f",
+   "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "f6576c95ba2c6e9aca2789c0abef5cf0766855b5",
+   "title": "OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models",
+   "date": "2025-06-03"
+  },
+  {
+   "id": "72c82250b959bc1ae4fa8ed771b3f6587c6d0614",
+   "title": "Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views",
+   "date": "2025-10-21"
+  },
+  {
+   "id": "d7b1c96aaaeb64538b87b07df86b1f20c5c5c0e9",
+   "title": "SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "a66055e694725605f36b0eca9c7daa9631761876",
+   "title": "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "db1a54e490e8a2543a2c473df634d0d94ca7a600",
+   "title": "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation",
+   "date": "2025-04-24"
+  },
+  {
+   "id": "d06e9888daa3f5c59d4fd49d58b53487e538e274",
+   "title": "SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models",
+   "date": "2025-10-09"
+  },
+  {
+   "id": "23211449d9108aebc9ddc42d0191b92ce1e0e17d",
+   "title": "Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space",
+   "date": "2025-03-14"
+  },
+  {
+   "id": "362db7e58c4e4e3d199026dca4dbc3cdbe4d8c88",
+   "title": "SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors",
+   "date": "2024-03-18"
+  },
+  {
+   "id": "d97ca2bedf3c4a6a7ca29231cb30078e2a7e1abf",
+   "title": "SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning",
+   "date": "2025-01-17"
+  },
+  {
+   "id": "37cc48c8e1ebadd56ee6295f7afec9cc8f11b29d",
+   "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "531a8f3c4d7cd5cedb082eaef03f94dae2bb71a0",
+   "title": "Improved Visual-Spatial Reasoning via R1-Zero-Like Training",
+   "date": "2025-04-01"
+  },
+  {
+   "id": "cc2038510f2027fa504961e5268cf778487a67cc",
+   "title": "SpaceR: Reinforcing MLLMs in Video Spatial Reasoning",
+   "date": "2025-04-02"
+  },
+  {
+   "id": "79587af3abdd6047297b5708397cc4ed06fb6656",
+   "title": "VisRL: Intention-Driven Visual Perception via Reinforced Reasoning",
+   "date": "2025-03-10"
+  },
+  {
+   "id": "596d9c53f1f9b98facbb6b97cff9afb120103835",
+   "title": "Reinforced Visual Perception with Tools",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "03eb382e04cca8cca743f7799070869954f1402a",
+   "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+   "date": "2016-12-20"
+  },
+  {
+   "id": "94773f22b5befd0e167a7de525d29bec2b09937a",
+   "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+   "date": "2024-06-24"
+  },
+  {
+   "id": "15538df854dd33351dfb5cefd7e8f3340c8936c3",
+   "title": "Qwen3-VL Technical Report",
+   "date": "2025-11-26"
+  },
+  {
+   "id": "c08fa8d84104ec1a8304f75b72bed411100aaf5c",
+   "title": "OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning",
+   "date": "2025-05-13"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.7779,
+  0.776,
+  0.7641,
+  0.7631,
+  0.7433,
+  0.7366,
+  0.7342,
+  0.7166,
+  0.7098,
+  0.7073,
+  0.7057,
+  0.6332,
+  0.6331,
+  0.617,
+  0.5902,
+  0.5787,
+  0.5773,
+  0.5594,
+  0.5536
+ ]
+}

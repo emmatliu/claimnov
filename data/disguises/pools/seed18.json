@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_97dad0cd24d00035e5ae90c101de5072c2d1174d",
+   "title": "Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning",
+   "date": "2026-03-30",
+   "is_B": true
+  },
+  {
+   "id": "1ba3c0dafa9264039b25ac5cc921ea6c47ecd146",
+   "title": "Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation",
+   "date": "2024-06-28"
+  },
+  {
+   "id": "cf21a22f83e3530dbb819b531780ba3e70246be2",
+   "title": "Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "a0a9bf86c00b6ff2756053d01ab7e3a8aac804f7",
+   "title": "Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "ccae9fcb1f344e56a3f7cb05a4b49a6e658f9dd2",
+   "title": "Removing RLHF Protections in GPT-4 via Fine-Tuning",
+   "date": "2023-11-09"
+  },
+  {
+   "id": "0e0e706e13f160e74cac9556f28ab9a358c148d2",
+   "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+   "date": "2023-10-05"
+  },
+  {
+   "id": "d23fb1051574e9614dcf31c2b6963808c3981558",
+   "title": "AI security beyond core domains: resume screening as a case study of adversarial vulnerabilities in specialized LLM applications",
+   "date": "2025-12-23"
+  },
+  {
+   "id": "abdb6e912fe86a60600b438b0e36b502f6412b24",
+   "title": "Vaccine: Perturbation-aware Alignment for Large Language Model",
+   "date": "2024-02-02"
+  },
+  {
+   "id": "929305892d4ddae575a0fc23227a8139f7681632",
+   "title": "Jailbroken: How Does LLM Safety Training Fail?",
+   "date": "2023-07-05"
+  },
+  {
+   "id": "9363e8e1fe2be2a13b4d6f5fc61bbaed14ab9a23",
+   "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+   "date": "2024-01-10"
+  },
+  {
+   "id": "897940fb5dd4d739b88c4659c4565d05f48d06b8",
+   "title": "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher",
+   "date": "2023-08-12"
+  },
+  {
+   "id": "88f9af8b0a28e14c42d4f70ce2d911b51a06cd16",
+   "title": "Refusal in Language Models Is Mediated by a Single Direction",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "73a68941d81c2bd15968f60224cb4cfa3d671f1a",
+   "title": "Quantifying CBRN Risk in Frontier Models",
+   "date": "2025-10-24"
+  },
+  {
+   "id": "f213ac84409d45bceef5826c4aa0c388ad09df1a",
+   "title": "Badllama 3: removing safety finetuning from Llama 3 in minutes",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "058b71ad01f671d12b78fd0bf0d52e3da2064821",
+   "title": "All Code, No Thought: Current Language Models Struggle to Reason in Ciphered Language",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "e4854e4c12a3dc1964775c7368b3ee3adb02982e",
+   "title": "Contemporary AI foundation models increase biological weapons risk",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "8b28792f8405b737229afb92c99c579b86d8aa98",
+   "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+   "date": "2023-12-07"
+  },
+  {
+   "id": "06b9ad0b52d23231f650be0aeb0b17cc52c8a74b",
+   "title": "The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning",
+   "date": "2024-03-05"
+  },
+  {
+   "id": "57af7c40f067d1eec179793d990dd12831918b09",
+   "title": "Obfuscated Activations Bypass LLM Latent-Space Defenses",
+   "date": "2024-12-12"
+  },
+  {
+   "id": "80088c22fb9924e9555f07b920a53619b5a3cbfd",
+   "title": "Text Adversarial Attacks With Dynamic Outputs",
+   "date": "2025-09-26"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.688,
+  0.6675,
+  0.6669,
+  0.6648,
+  0.6645,
+  0.6579,
+  0.6075,
+  0.6074,
+  0.6014,
+  0.5643,
+  0.5614,
+  0.5566,
+  0.5566,
+  0.5507,
+  0.5474,
+  0.5317,
+  0.5209,
+  0.5204,
+  0.4928
+ ]
+}

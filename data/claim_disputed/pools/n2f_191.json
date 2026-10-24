@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_50df19aff9e4a68fedfc7dad3fca48a060fc9085",
+   "title": "Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents",
+   "is_B": true
+  },
+  {
+   "id": "7c3ece1ba41c415d7e81cfa5ca33a8de66efd434",
+   "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+   "date": "2017-06-07"
+  },
+  {
+   "id": "71041a541616316bbdb64c37e2ae6ccf272f7e54",
+   "title": "Diff-DAC: Distributed Actor-Critic for Average Multitask Deep Reinforcement Learning",
+   "date": "2017-10-28"
+  },
+  {
+   "id": "2b292ff89d808fba10579871591a22f1649cd039",
+   "title": "Counterfactual Multi-Agent Policy Gradients",
+   "date": "2017-05-24"
+  },
+  {
+   "id": "6a43d91c8d883e3463b358571125fa0ec7298b3a",
+   "title": "Sample Efficient Actor-Critic with Experience Replay",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "b0d8165eecf2aa04a85e701d0c6bb4edd4b3811b",
+   "title": "A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "052282998bc24db695891f755a00e3cebd3fd796",
+   "title": "The Reactor: A Sample-Efficient Actor-Critic Architecture",
+   "date": "2017-04-15"
+  },
+  {
+   "id": "3ac0fea1e5395cfb0dc1f0ee2b921fe22b23fed0",
+   "title": "Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning",
+   "date": "2017-02-28"
+  },
+  {
+   "id": "b68673a166f9c620e13152f63d358fb8fce7850d",
+   "title": "Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability",
+   "date": "2017-03-17"
+  },
+  {
+   "id": "69e76e16740ed69f4dc55361a3d319ac2f1293dd",
+   "title": "Asynchronous Methods for Deep Reinforcement Learning",
+   "date": "2016-02-04"
+  },
+  {
+   "id": "09c95e285dc973bbe2bae146aa9c9fff6d849b29",
+   "title": "QD-Learning: A Collaborative Distributed Strategy for Multi-Agent Reinforcement Learning Through Consensus + Innovations",
+   "date": "2012-04-30"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "1def5d3711ebd1d86787b1ed57c91832c5ddc90b",
+   "title": "Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "0772905d40b9afa3dc087a88184f09f3b3e1464f",
+   "title": "Learning to Communicate with Deep Multi-Agent Reinforcement Learning",
+   "date": "2016-05-21"
+  },
+  {
+   "id": "0d24a0695c9fc669e643bad51d4e14f056329dec",
+   "title": "An Actor-Critic Algorithm for Sequence Prediction",
+   "date": "2016-07-24"
+  },
+  {
+   "id": "f6c3b74e5e1d89b56da324edc87958659c05c8bf",
+   "title": "Distributed Stochastic Subgradient Projection Algorithms for\u00a0Convex Optimization",
+   "date": "2008-11-16"
+  },
+  {
+   "id": "524513b6f4ddca331c33bcc70a9f677fa240cfa3",
+   "title": "Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "3a68e5a525af1300385ebf8d31554e97f1e70bea",
+   "title": "Decentralized Q-Learning for Stochastic Teams and Games",
+   "date": "2015-06-25"
+  },
+  {
+   "id": "75a760c6bd5ae15e0fc489a074bc42bc1fc4e697",
+   "title": "Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving",
+   "date": "2016-10-11"
+  },
+  {
+   "id": "dc3e905bfb27d21675ee1720413e007b014b37d3",
+   "title": "Safe and Efficient Off-Policy Reinforcement Learning",
+   "date": "2016-06-08"
+  }
+ ],
+ "n_candidates": 36,
+ "sims": [
+  0.6463,
+  0.6373,
+  0.6316,
+  0.6263,
+  0.6091,
+  0.5913,
+  0.5779,
+  0.5606,
+  0.5472,
+  0.5438,
+  0.536,
+  0.5336,
+  0.518,
+  0.5084,
+  0.5043,
+  0.5007,
+  0.4999,
+  0.485,
+  0.4844
+ ]
+}

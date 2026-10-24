@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+   "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+   "is_B": true
+  },
+  {
+   "id": "a0185d4f32dde88aa1749f3a8000ed4721787b65",
+   "title": "Visual Transformers: Token-based Image Representation and Processing for Computer Vision",
+   "date": "2020-06-05"
+  },
+  {
+   "id": "bc51622358d8eea83248ef29402fe10640d07ba6",
+   "title": "Big Transfer (BiT): General Visual Representation Learning",
+   "date": "2019-12-24"
+  },
+  {
+   "id": "5aec474c31a2f4b74703c6f786c0a8ff85c450da",
+   "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language",
+   "date": "2019-08-09"
+  },
+  {
+   "id": "65a9c7b0800c86a196bc14e7621ff895cc6ab287",
+   "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+   "date": "2019-08-06"
+  },
+  {
+   "id": "1946ce4a2caa834f1e46da239bf35145b36830bc",
+   "title": "Self-Supervised Learning of Video-Induced Visual Invariances",
+   "date": "2019-12-05"
+  },
+  {
+   "id": "85b9e68eb27069e87181050035f40b79438dd220",
+   "title": "A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "366244acdd930e488ae224ab6e2a92dc24aa7e06",
+   "title": "Axial Attention in Multidimensional Transformers",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "21da617a0f79aabf94272107184606cefe90ab75",
+   "title": "Generating Long Sequences with Sparse Transformers",
+   "date": "2019-04-23"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "962dc29fdc3fbdc5930a10aba114050b82fe5a3e",
+   "title": "End-to-End Object Detection with Transformers",
+   "date": "2020-05-26"
+  },
+  {
+   "id": "1db9bd18681b96473f3c82b21edc9240b44dc329",
+   "title": "Image Transformer",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "a39398f68ae7e042f2ef5009e31b4e6a20fd5736",
+   "title": "Learning Deep Transformer Models for Machine Translation",
+   "date": "2019-06-05"
+  },
+  {
+   "id": "9b09d296059909490096e34e9df2d95314787ad5",
+   "title": "Learning Representations by Maximizing Mutual Information Across Views",
+   "date": "2019-06-03"
+  },
+  {
+   "id": "c41a11c0e9b8b92b4faaf97749841170b760760a",
+   "title": "VideoBERT: A Joint Model for Video and Language Representation Learning",
+   "date": "2019-04-03"
+  },
+  {
+   "id": "0f885fd46064d271d4404cf9bb3d758e1a6f8d55",
+   "title": "Exploring the Limits of Weakly Supervised Pretraining",
+   "date": "2018-05-02"
+  },
+  {
+   "id": "8760bc7631c0cb04e7138254e9fd6451b7def8ca",
+   "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era",
+   "date": "2017-07-10"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "c0aaee2337e5af680e5dca1bfc349a737dfec573",
+   "title": "Fixing the train-test resolution discrepancy",
+   "date": "2019-06-14"
+  },
+  {
+   "id": "1cae417456711c4da184f5efcd1b7464a7a0661a",
+   "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding",
+   "date": "2019-05-22"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.555,
+  0.5442,
+  0.5086,
+  0.506,
+  0.4896,
+  0.4854,
+  0.4732,
+  0.4713,
+  0.4524,
+  0.4509,
+  0.4475,
+  0.4449,
+  0.4393,
+  0.4302,
+  0.4246,
+  0.4085,
+  0.3961,
+  0.3943,
+  0.3927
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_89d20514985e9b5eaf5353a844d7e87db0f53734",
+   "title": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
+   "date": "2026-06-04",
+   "is_B": true
+  },
+  {
+   "id": "396de1a0dbef6040abe823f01a60455327e5bdfc",
+   "title": "Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs",
+   "date": "2025-07-10"
+  },
+  {
+   "id": "d97b0c0f27457ee584381b3e92593b74206c0a0b",
+   "title": "Dr.LLM: Dynamic Layer Routing in LLMs",
+   "date": "2025-10-14"
+  },
+  {
+   "id": "eee108b3e51e89d160d1116935e062c4d169b475",
+   "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+   "date": "2024-04-25"
+  },
+  {
+   "id": "7d00e7337fbbccd0208361b4c204c75239a96521",
+   "title": "LaCo: Large Language Model Pruning via Layer Collapse",
+   "date": "2024-02-17"
+  },
+  {
+   "id": "02870bb34ff05908bf46c965fb2d02e52f70bd40",
+   "title": "Adaptive Layer-skipping in Pre-trained LLMs",
+   "date": "2025-03-31"
+  },
+  {
+   "id": "3c6f2e0c5ff5dff6151c3e6489378a53318a75b4",
+   "title": "ShortGPT: Layers in Large Language Models are More Redundant Than You Expect",
+   "date": "2024-03-06"
+  },
+  {
+   "id": "875418bb21265276be9298b50e52a6c53ff3a202",
+   "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
+   "date": "2025-07-14"
+  },
+  {
+   "id": "b7486c55d0e0082916719b6e4d7632fd98316a2b",
+   "title": "Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking",
+   "date": "2025-02-19"
+  },
+  {
+   "id": "4abdbcf983f78cf3f5bf6e2032503f0e534f6ca8",
+   "title": "BERT Loses Patience: Fast and Robust Inference with Early Exit",
+   "date": "2020-06-07"
+  },
+  {
+   "id": "f4a8480cffa491020bdbb8c4c4e7a7e923b1c2c1",
+   "title": "Reducing Transformer Depth on Demand with Structured Dropout",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "0f107a8247983e494789ffd81663708dfbe483e6",
+   "title": "You Need Multiple Exiting: Dynamic Early Exiting for Accelerating Unified Vision Language Model",
+   "date": "2022-11-21"
+  },
+  {
+   "id": "a1f23f04421cdc62e80fe9f04c1ce60f4a6af9f0",
+   "title": "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models",
+   "date": "2024-04-02"
+  },
+  {
+   "id": "1406bb4cb6801bc4767b661308118c888a9b09da",
+   "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "9307d546f9c253d82086a9793f27cd53bdd14164",
+   "title": "Router-Tuning: A Simple and Effective Approach for Enabling Dynamic-Depth in Transformers",
+   "date": "2024-10-17"
+  },
+  {
+   "id": "ed3ec3ba82f7ba7adf8aa47a73c685ac023d6efd",
+   "title": "Looped Transformers are Better at Learning Learning Algorithms",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "90a1491ac32e732c93773354e4e665794ed4d490",
+   "title": "DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference",
+   "date": "2020-04-27"
+  },
+  {
+   "id": "408295dd8cb6140179fe075ca04a9d80f064bd36",
+   "title": "Looped Transformers for Length Generalization",
+   "date": "2024-09-24"
+  },
+  {
+   "id": "8747f028acccde9ee7c35c858da8091613d3e574",
+   "title": "Faster Depth-Adaptive Transformers",
+   "date": "2020-04-27"
+  },
+  {
+   "id": "e2f62a09ce62c4f1e0f2287c85d357b750980a4e",
+   "title": "Mixture of Nested Experts: Adaptive Processing of Visual Tokens",
+   "date": "2024-07-29"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.6897,
+  0.667,
+  0.6299,
+  0.6188,
+  0.6187,
+  0.5837,
+  0.5608,
+  0.5575,
+  0.5564,
+  0.5237,
+  0.5175,
+  0.5169,
+  0.4932,
+  0.4906,
+  0.4838,
+  0.4753,
+  0.461,
+  0.4496,
+  0.4483
+ ]
+}

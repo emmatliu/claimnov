@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_ebf26c7a19c8022249899c102145b986fb137af8",
+   "title": "Learning Dissipative Dynamics in Chaotic Systems",
+   "is_B": true
+  },
+  {
+   "id": "2f7dc1ee85e9f6a97810c66016e09ffeed684f03",
+   "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+   "date": "2020-10-18"
+  },
+  {
+   "id": "6958b9125dfbea51cc33f9432c62e2b0ea2c8e4f",
+   "title": "Hierarchical deep learning of multiscale differential equation time-steppers",
+   "date": "2020-08-22"
+  },
+  {
+   "id": "d407abcdf8b5ce6dbf9b9ab56357f4673676f951",
+   "title": "Neural Operator: Graph Kernel Network for Partial Differential Equations",
+   "date": "2020-02-26"
+  },
+  {
+   "id": "449310e3538b08b43227d660227dfd2875c3c3c1",
+   "title": "Neural Ordinary Differential Equations",
+   "date": "2018-06-19"
+  },
+  {
+   "id": "ee6c5d6cfe7dc2f19ffacd0db757178e49ba1b65",
+   "title": "Deep Learning of Chaotic Systems from Partially-Observed Data",
+   "date": "2022-05-12"
+  },
+  {
+   "id": "aafa9bb3ba269fb0561c0b2165d27464840545d7",
+   "title": "Neural Operator: Learning Maps Between Function Spaces",
+   "date": "2021-08-19"
+  },
+  {
+   "id": "5722e8069a2ef43338455c514e4b3e8910ee8326",
+   "title": "Machine-learning-based spatio-temporal super resolution reconstruction of turbulent flows",
+   "date": "2020-04-24"
+  },
+  {
+   "id": "d15a11a7be64ccc52b709b44b9fac1e4d6302062",
+   "title": "On universal approximation and error bounds for Fourier Neural Operators",
+   "date": "2021-07-15"
+  },
+  {
+   "id": "3c9961153493370500020c81527b3548c96f81e0",
+   "title": "Data-driven discovery of coordinates and governing equations",
+   "date": "2019-03-29"
+  },
+  {
+   "id": "37b6820d40bb884a9ae4d32c2d57357d251edd49",
+   "title": "Discovering governing equations from partial measurements with deep delay autoencoders",
+   "date": "2022-01-13"
+  },
+  {
+   "id": "294bf7b6dcbbbadf38d359b2ef0c46b690d7ab9a",
+   "title": "Learning Composable Energy Surrogates for PDE Order Reduction",
+   "date": "2020-05-13"
+  },
+  {
+   "id": "7760241beea0ccffbe116bc6681b141db07818b4",
+   "title": "Revealing the state space of turbulence using machine learning",
+   "date": "2020-08-17"
+  },
+  {
+   "id": "1069bb04b5b1a81fef2b435dab135455a8814e13",
+   "title": "Tractable Dendritic RNNs for Reconstructing Nonlinear Dynamical Systems",
+   "date": "2022-07-06"
+  },
+  {
+   "id": "f772c778135e095d7f77d6536b673958caa7c2df",
+   "title": "Data-driven forecasting of high-dimensional chaotic systems with long short-term memory networks",
+   "date": "2018-02-21"
+  },
+  {
+   "id": "71e92abb1e504d56b3f18b4909d73eee3b6048fb",
+   "title": "Sobolev Training for Neural Networks",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "3bd93e161b638552443f215150b2dc4b9840ec09",
+   "title": "Data-Driven Stabilization of Periodic Orbits",
+   "date": "2020-10-22"
+  },
+  {
+   "id": "f6cb47a3b5f27833cfc3f7b7cebffea1e0dfb91b",
+   "title": "Using machine learning to replicate chaotic attractors and calculate Lyapunov exponents from data.",
+   "date": "2017-10-19"
+  },
+  {
+   "id": "f78065c75a1d0448fc0fee1dfef8cb93c607c1cd",
+   "title": "Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics",
+   "date": "2019-10-09"
+  },
+  {
+   "id": "5d1a4a529e0b05b047dcd8b9b321e898e6526cb5",
+   "title": "A Framework for Machine Learning of Model Error in Dynamical Systems",
+   "date": "2021-07-14"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.7666,
+  0.7013,
+  0.6768,
+  0.6426,
+  0.6259,
+  0.6148,
+  0.5631,
+  0.554,
+  0.5528,
+  0.5366,
+  0.5356,
+  0.5331,
+  0.533,
+  0.527,
+  0.5263,
+  0.5239,
+  0.5205,
+  0.5124,
+  0.5122
+ ]
+}

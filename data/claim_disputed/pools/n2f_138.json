@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3a37dedf3f1a0064994c19a4791fc5a892d17b05",
+   "title": "Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models",
+   "is_B": true
+  },
+  {
+   "id": "19db8f6acb84546930c6ba22b6fde1c73cfcc4ba",
+   "title": "Joint Multimodal Learning with Deep Generative Models",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "4f00c357b4757e324dc5b0d45cf0d345e995d10d",
+   "title": "Multimodal Generative Models for Scalable Weakly-Supervised Learning",
+   "date": "2018-02-01"
+  },
+  {
+   "id": "ec0f974adddc06abe876a339fc3baa8681d6a751",
+   "title": "Variational methods for conditional multimodal deep learning",
+   "date": "2016-03-06"
+  },
+  {
+   "id": "034f1c5589644a6b42f50bf61b1628a1c5607fd9",
+   "title": "Learning Factorized Multimodal Representations",
+   "date": "2018-06-16"
+  },
+  {
+   "id": "a78273144520d57e150744cf75206e881e11cc5b",
+   "title": "Multimodal Deep Learning",
+   "date": "2011-06-28"
+  },
+  {
+   "id": "d1f7a4bf4b8691bbb67b8dd10da61c1a1b68ccce",
+   "title": "Latent Translation: Crossing Modalities by Bridging Generative Models",
+   "date": "2019-02-21"
+  },
+  {
+   "id": "c15b226c2d3f905f636f4475bc412a50f837fcc5",
+   "title": "Deep Matching Autoencoders",
+   "date": "2017-11-16"
+  },
+  {
+   "id": "226f08bb8fd049fdca2f6a8a41ffe485a0ee6ebc",
+   "title": "Generative Models of Visually Grounded Imagination",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "4070bf3a68b70ab52de35a076a17941543001be2",
+   "title": "Toward Multimodal Image-to-Image Translation",
+   "date": "2017-11-01"
+  },
+  {
+   "id": "5532c52fffb8b446e3d4fc47d4d9a9b29091bdff",
+   "title": "Towards Deeper Understanding of Variational Autoencoding Models",
+   "date": "2017-02-28"
+  },
+  {
+   "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+   "title": "Auto-Encoding Variational Bayes",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "fa3e6f9361d75b9ccbad9baeec1e9025c2b0f6db",
+   "title": "Deep Variational Canonical Correlation Analysis",
+   "date": "2016-10-11"
+  },
+  {
+   "id": "2d0363a3ebda56d91d704d5ff5458a527775b609",
+   "title": "Attribute2Image: Conditional Image Generation from Visual Attributes",
+   "date": "2015-12-02"
+  },
+  {
+   "id": "3e47c4c2dd98c49b7771c7228812d5fd9eee56a3",
+   "title": "Importance Weighted Autoencoders",
+   "date": "2015-09-01"
+  },
+  {
+   "id": "2d8ea7941e608dab54004eb13f494837dd96d83b",
+   "title": "Auto-Encoding Sequential Monte Carlo",
+   "date": "2017-05-29"
+  },
+  {
+   "id": "f4c5d13a8e9e80edcd4f69f0eab0b4434364c6dd",
+   "title": "Variational Autoencoder for Deep Learning of Images, Labels and Captions",
+   "date": "2016-09-28"
+  },
+  {
+   "id": "720ef8fabb9b7cf099a20dda7a22e5cca752b14f",
+   "title": "Tighter Variational Bounds are Not Necessarily Better",
+   "date": "2018-02-13"
+  },
+  {
+   "id": "ca6c139f28ee09f2637661a139b4b81b0ba5bdff",
+   "title": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
+   "date": "2018-10-09"
+  },
+  {
+   "id": "4430b2d83c9b5a06f40d59e186db4cce87d003cd",
+   "title": "Explicit Encoding of Multimodal Percepts by Single Neurons in the Human Brain",
+   "date": "2009-07-23"
+  }
+ ],
+ "n_candidates": 44,
+ "sims": [
+  0.8116,
+  0.8097,
+  0.7421,
+  0.7228,
+  0.6457,
+  0.6398,
+  0.6169,
+  0.5992,
+  0.5854,
+  0.5682,
+  0.5507,
+  0.5466,
+  0.5421,
+  0.5341,
+  0.5238,
+  0.5111,
+  0.5069,
+  0.5041,
+  0.4711
+ ]
+}

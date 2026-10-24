@@ -1,0 +1,307 @@
+[
+ {
+  "id": "81d7ec3e0dc0586a4d0ca6a584c6c165b9c143ce",
+  "title": "Enhancing SAE-based Steering via Neighbor Integrated Feature Selection",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "a1eb6e86dd2664dcdb92c43835c6120d453e9749",
+  "title": "A Deeper Analysis of Block-Sparse Featurizers",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "3c591dcb319773069a3e057fd5b2c4922cc0d473",
+  "title": "When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "7af584414517b50a62b79a5535ab03019e4e97ea",
+  "title": "SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "ea304ff0c94e34db302fd336c29aeaf63724d1bf",
+  "title": "Where You Measure Decides What You Measure: Position Selection in Ablation-Based SAE Evaluation",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "02c90d94099d711dca1810bd2808a04447915d11",
+  "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "0b2309a194711fbc33ba861bed9b666c289b4a33",
+  "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "fbd9069cba8258cf37da4511b4031c61626b7517",
+  "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "c28281080b94e1f5837199f5301bae8ec164e0fe",
+  "title": "Steering dense music retrieval with open-vocabulary concept discovery",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "da0566346a576c078ee9f6af5ae13537b51ec37e",
+  "title": "Through the LENS: Local Geometric Decomposition of Vision-Language Model Representations",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "b4936b5a9fee53610740cb0f17802f59322c0a1c",
+  "title": "Unboxing the Black Box: A Survey on Mechanistic Interpretability for Algorithmic Understanding of Neural Networks",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "d93d170fbf66e4748ec85db315c9df3dc2386c94",
+  "title": "Human whole-epigenome modelling for clinical applications with Pleiades",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "7e1ed64b12b6621abc0bb9eba0be2bd8447b4621",
+  "title": "Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "8ce7b44766fd75ac7dea95f7324cc9a656e13dc4",
+  "title": "From Geometric Recovery to Causal Validation: A Reproducible Audit of Sparse Autoencoder Features, from Superposition Geometry to Causal Inertness",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "e23b2e0dfec4349ef6d68a6833fdb1665b29bf21",
+  "title": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "60e2479f7ad25e3678a8fb0969f661c92e680103",
+  "title": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "0c04ecdd34478d2475cbcc8e2c2043bc37b09827",
+  "title": "Building Fast, Evaluating Slow: Pipeline Choices Dominate Autointerpretability Score Variance",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "f10181189c428b320b6b7e961a6197010cdc4339",
+  "title": "Towards Explaining Classification Models in Security with Sparse Autoencoders",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "a05f47c881e41a1171301b05f4ecf1caf967b618",
+  "title": "Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "70f132c27dc0dc6b344fb1c6f3971d392334849b",
+  "title": "Monosemanticity in Recommender Systems",
+  "date": "2026-06-28"
+ },
+ {
+  "id": "170bada7742c42e15cb3981d0082f86c6dc6163f",
+  "title": "Discovering Millions of Interpretable Features with Sparse Autoencoders",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "6439b205878664a20d03490ec59239e3e8179321",
+  "title": "Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "46401fe1d819c66c19498966fce52af3d30fc585",
+  "title": "Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "f2e968dc010073358b113e179e266c1f8a943dbb",
+  "title": "Critical Percolation as a Synthetic Data Model for Interpretability",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "d16ed171b95105fb47be9b69ec568e23205aca04",
+  "title": "Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "7d69119c2b4425b88caaeef0ae7a8c70848ab670",
+  "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "36b03659eac6c3d4a5d6a0d3a3a860bd9fcd3cc5",
+  "title": "From Tokens to Policy: Causal and Interpretable Heterogeneous Treatment Effects Identification",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "3ce8980307b47c7a9592ff8376a2c78cd58d5953",
+  "title": "Size Doesn't Matter: Cosine-Scored Sparse Autoencoders",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "e3809997670e434a4aff0c87c5a3c157101f3600",
+  "title": "Decompose Sparsely Where You Should, Absorb Densely Where You Should No",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "250dbcb43628b3d50599e222dc9cf6b90b6bd1ab",
+  "title": "A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "b3bb7e67b02e513609b26d833594da16b21aa3e7",
+  "title": "Sparsely gated tiny linear experts",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "8e9b14a3e6bbc09333bf11a66d96a32984b37399",
+  "title": "Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "738462d3080275c47cad471c92bf83d5b577620d",
+  "title": "How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "4dfdfb9a4bb99e88ffe4239990bfe16ba8463337",
+  "title": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "62c17e871b993604e19212ab4f206e5e631548dd",
+  "title": "ReSAE: Residualized Sparse Autoencoders for Multi-Layer Transformer Interventions",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "34371d7edcaae6569cb3d69555225d0425cf8aa8",
+  "title": "Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "1ac4a4ed715d7c2ad7dddcde64a7867b4b86eba6",
+  "title": "Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "734e654ccd5229916b97ffae7f7c885bad4140f0",
+  "title": "Are Sparse Autoencoder Benchmarks Reliable?",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "1b1a40c218d97bb68f8ebea2ad7f5ca52f1347c4",
+  "title": "Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "4a973ca1dd2d6838d0d459f8eb5b86827323215e",
+  "title": "The Rate-Distortion-Polysemanticity Tradeoff in SAEs",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "e6f1c4c507e2def3d7091c7aa0c7dcdf339ce223",
+  "title": "Descriptive Collision in Sparse Autoencoder Auto-Interpretability: When One Explanation Describes Many Features",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "ead34ed32f7f31da03e014ae82b07f7cc0c415f2",
+  "title": "Do Language Models Encode Knowledge of Linguistic Constraint Violations?",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "697b0a7fb80b0ee89b354d002acdd72896401f90",
+  "title": "On the Interpretability of Whisper Encodings Using Sparse Autoencoders",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "3ea2a9930e7bbf6a6c2e3488ea5b7a325a73e701",
+  "title": "Causal Dimensionality of Transformer Representations: Measurement, Scaling, and Layer Structure",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "c9851bf642bd600a89e0742ffb7a7b52bcf79eb4",
+  "title": "Bilinear autoencoders find interpretable manifolds",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "c80b35cec2a7cc0864f53f35694a7011d13e8242",
+  "title": "SMIXAE: Towards Unsupervised Manifold Discovery in Language Models",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "f1ec5dd869e672bfe1b1d52be24b119acfbff3a5",
+  "title": "Tree SAE: Learning Hierarchical Feature Structures in Sparse Autoencoders",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "f6286ae75c41f12278f38bb6ad6cfb2877448e6f",
+  "title": "Features have life history. And we should care",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "8f919302a5a29f68e1abebbe6cf30de1c89c080e",
+  "title": "Feature Starvation as Geometric Instability in Sparse Autoencoders",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "084b6536f2c7a7a78b91fbf2e117033bd33df6fb",
+  "title": "Steering grids for sparse-autoencoder features: when a top-context label names an activation regime rather than a causal axis",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "ccea3ec4d8bd55cf4a9114d3b9b1d0a0633b1921",
+  "title": "Do Sparse Autoencoders Capture Concept Manifolds?",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "43aef71fdf8bb51bfd777d677b87c5c45aba81b8",
+  "title": "Make Mechanistic Interpretability Auditable: A Call to Develop Guidelines via Continuous Collaborative Reviewing",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "920d61d5345fe9156d0c12cc18f2b4385455d1e7",
+  "title": "Stability-Aware and Phase-Aware Identification of Hallucination-Associated Neurons in LLMs",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "86379112fb22b87f013a73f9fe1974c71d7bf959",
+  "title": "Geometric Routing Enables Causal Expert Control in Mixture of Experts",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "e1a15a183a5408c45836e30fb47def690c19c32c",
+  "title": "Tracing the Thought of a Grandmaster-level Chess-Playing Transformer",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "66c8693e3bf331f4c8011b8e159334a2fbd824e7",
+  "title": "Improving Robustness In Sparse Autoencoders via Masked Regularization",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "671ee520eec51e202a278147c87ec243f98f3c37",
+  "title": "LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering",
+  "date": "2026-04-04"
+ },
+ {
+  "id": "9f8a1f21f14154b0e3bdb6f2c4b42589009107dd",
+  "title": "Similarity of Neural Network Representations in Superposition",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "9005f16e75d901500680c0b3247ca688576d56ac",
+  "title": "VisualScratchpad: Inference-time Visual Concepts Analysis in Vision Language Models",
+  "date": "2026-03-07"
+ },
+ {
+  "id": "039287d7cb15dac238786cbcdf9c4b10974c5d93",
+  "title": "What Do Biological Foundation Models Compute? Sparse Autoencoders from Feature Recovery to Mechanistic Interpretability",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "b6a7700dd1f221dd0fa3285d6b9d241c15f8cc1e",
+  "title": "Genome modelling and design across all domains of life with Evo 2",
+  "date": "2026-03-04"
+ }
+]

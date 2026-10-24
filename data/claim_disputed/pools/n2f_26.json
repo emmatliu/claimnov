@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2011.04946",
+   "title": "When Do You Need Billions of Words of Pretraining Data?",
+   "is_B": true
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "055fac05cd424e7b1bdcd359ff7980ca8d938ef3",
+   "title": "Learning Helpful Inductive Biases from Self-Supervised Pretraining",
+   "date": "2020-10-11"
+  },
+  {
+   "id": "5259de991f875b2c614c4bd7bf7bda97b81b9264",
+   "title": "On the Importance of Pre-training Data Volume for Compact Language Models",
+   "date": "2020-10-08"
+  },
+  {
+   "id": "673e970fd835c7dd1bb1e071c5a37e9df99b7c8e",
+   "title": "Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "b61c6405f4de381758e8b52a20313554d68a9d85",
+   "title": "CamemBERT: a Tasty French Language Model",
+   "date": "2019-11-10"
+  },
+  {
+   "id": "d0086b86103a620a86bc918746df0aa642e2a8a3",
+   "title": "Language Models as Knowledge Bases?",
+   "date": "2019-09-01"
+  },
+  {
+   "id": "a0e49f65b6847437f262c59d0d399255101d0b75",
+   "title": "What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models",
+   "date": "2019-07-31"
+  },
+  {
+   "id": "0672f88d5dc762002b515ca4a0a9f101017fea35",
+   "title": "Probing Across Time: What Does RoBERTa Know and When?",
+   "date": "2021-04-16"
+  },
+  {
+   "id": "b1d309073623d46548e55269fb73485a3b7f11a8",
+   "title": "Pretrained Language Model Embryology: The Birth of ALBERT",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "356645552f8f40adf5a99b4e3a69f47699399010",
+   "title": "Quantity doesn\u2019t buy quality syntax with neural language models",
+   "date": "2019-08-01"
+  },
+  {
+   "id": "ca2f1088d3e581b2c6c75cf0ebc96506d620f64d",
+   "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \ud83e\udd9c",
+   "date": "2021-03-03"
+  },
+  {
+   "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "date": "2018-04-20"
+  },
+  {
+   "id": "bd20069f5cac3e63083ecf6479abc1799db33ce0",
+   "title": "A Primer in BERTology: What We Know About How BERT Works",
+   "date": "2020-02-27"
+  },
+  {
+   "id": "97906df07855b029b7aae7c2a1c6c5e8df1d531c",
+   "title": "BERT Rediscovers the Classical NLP Pipeline",
+   "date": "2019-05-15"
+  },
+  {
+   "id": "e2587eddd57bc4ba286d91b27c185083f16f40ee",
+   "title": "What do you learn from context? Probing for sentence structure in contextualized word representations",
+   "date": "2019-05-15"
+  },
+  {
+   "id": "d6a083dad7114f3a39adc65c09bfbb6cf3fee9ea",
+   "title": "Energy and Policy Considerations for Deep Learning in NLP",
+   "date": "2019-06-05"
+  },
+  {
+   "id": "d9f6ada77448664b71128bb19df15765336974a6",
+   "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+   "date": "2019-05-02"
+  }
+ ],
+ "n_candidates": 48,
+ "sims": [
+  0.696,
+  0.6419,
+  0.6238,
+  0.6146,
+  0.5958,
+  0.5707,
+  0.5694,
+  0.5669,
+  0.5554,
+  0.5538,
+  0.545,
+  0.5441,
+  0.529,
+  0.5149,
+  0.5136,
+  0.5079,
+  0.4887,
+  0.4836,
+  0.4835
+ ]
+}

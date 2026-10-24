@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4ff1728862c7d28f6b0baed6a33327f97c1d58a3",
+   "title": "Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?",
+   "is_B": true
+  },
+  {
+   "id": "96c82727dd5a80fef93007f888bb8569feb6bd85",
+   "title": "Fixup Initialization: Residual Learning Without Normalization",
+   "date": "2019-01-27"
+  },
+  {
+   "id": "751201109e644e1422d025fe8433f29570997b7d",
+   "title": "Mean Field Residual Networks: On the Edge of Chaos",
+   "date": "2017-12-05"
+  },
+  {
+   "id": "7a87ab984ca45aae2c5768d22cd6df3b5fd509f9",
+   "title": "What\u2019s Hidden in a Randomly Weighted Neural Network?",
+   "date": "2019-11-29"
+  },
+  {
+   "id": "9edf1a25ebc182355c5584fb7f5d234e75ccf3d1",
+   "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
+   "date": "2017-11-13"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "1c4e9156ca07705531e45960b7a919dc473abb51",
+   "title": "Wide Residual Networks",
+   "date": "2016-05-23"
+  },
+  {
+   "id": "ad6309d1ea001098189425f54d069ef12abcb583",
+   "title": "Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10, 000-Layer Vanilla Convolutional Neural Networks",
+   "date": "2018-06-14"
+  },
+  {
+   "id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+   "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+   "date": "2018-03-09"
+  },
+  {
+   "id": "03e0cbeb4604262446a97cb381874c7de1cffea2",
+   "title": "The Lottery Ticket Hypothesis at Scale",
+   "date": "2019-03-05"
+  },
+  {
+   "id": "f7f846296bc3a466a2103346dc4f4f57a1a37600",
+   "title": "On the Power and Limitations of Random Features for Understanding Neural Networks",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "e5b7c1ce5a46e059fce96249c0c034afdd3c287a",
+   "title": "A Mean Field Theory of Batch Normalization",
+   "date": "2019-02-21"
+  },
+  {
+   "id": "62a0bafd54099a79d78a013611a0c7d38e237032",
+   "title": "On Lazy Training in Differentiable Programming",
+   "date": "2018-12-19"
+  },
+  {
+   "id": "2919a19b4be5e53e48fddc6c6f7361b04eb092da",
+   "title": "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off",
+   "date": "2019-06-03"
+  },
+  {
+   "id": "b0526da184f99f359fa7b3430ccc73a3340f3d70",
+   "title": "Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks",
+   "date": "2018-06-14"
+  },
+  {
+   "id": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23",
+   "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+   "date": "2015-02-06"
+  },
+  {
+   "id": "4fdc7df2c737141a1bf5aec27a438b77d01f8af0",
+   "title": "Deep Information Propagation",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "4feef0fd284feb1233399b400eb897f59ec92755",
+   "title": "mixup: Beyond Empirical Risk Minimization",
+   "date": "2017-10-25"
+  },
+  {
+   "id": "3f06d02513a2763e472d2b5d5db08e9061081b9e",
+   "title": "Linear Mode Connectivity and the Lottery Ticket Hypothesis",
+   "date": "2019-12-11"
+  },
+  {
+   "id": "71c49dd770c7b40484ee31954fd450a367f5c4b2",
+   "title": "Dynamical Isometry and a Mean Field Theory of LSTMs and GRUs",
+   "date": "2019-01-25"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.6195,
+  0.589,
+  0.5748,
+  0.5511,
+  0.5455,
+  0.5403,
+  0.5251,
+  0.5249,
+  0.5131,
+  0.4839,
+  0.4804,
+  0.4792,
+  0.4779,
+  0.4701,
+  0.4698,
+  0.4683,
+  0.4673,
+  0.4526,
+  0.4481
+ ]
+}

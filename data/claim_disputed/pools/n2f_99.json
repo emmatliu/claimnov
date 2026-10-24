@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_ef25fe928b5a9f53296a938339dff5aeffcf6e7b",
+   "title": "Latent Video Transformer",
+   "is_B": true
+  },
+  {
+   "id": "7891b414b353a88b96a4a0e14ccfbea8b16c8d39",
+   "title": "Transformation-based Adversarial Video Prediction on Large-Scale Data",
+   "date": "2020-03-09"
+  },
+  {
+   "id": "e763fdc9ae56826ff799163ea035b29bffd8ea6f",
+   "title": "Scaling Autoregressive Video Models",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "9f67271a1edea3bf80c64c2d54e2a0a57612a567",
+   "title": "Stochastic Adversarial Video Prediction",
+   "date": "2018-04-04"
+  },
+  {
+   "id": "bc4e0bec299f3d9bcb83b9613db914385597766e",
+   "title": "Towards High Resolution Video Generation with Progressive Growing of Sliced Wasserstein GANs",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "e0eecfcd233bb0c32ec21fec18bcd7c66885eb3e",
+   "title": "VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation",
+   "date": "2019-03-04"
+  },
+  {
+   "id": "355f98e4827a1b6ad3f29d07ea2bcf9ad078295c",
+   "title": "Video (language) modeling: a baseline for generative models of natural videos",
+   "date": "2014-12-20"
+  },
+  {
+   "id": "6be216d93421bf19c1659e7721241ae73d483baf",
+   "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2",
+   "date": "2019-06-02"
+  },
+  {
+   "id": "c5b55f410365bb889c25a9f0354f2b86ec61c4f0",
+   "title": "Video-to-Video Synthesis",
+   "date": "2018-08-20"
+  },
+  {
+   "id": "ee091ccf24c4f053c5c3dfbefe4a7975ed3447c1",
+   "title": "Generating Videos with Scene Dynamics",
+   "date": "2016-09-08"
+  },
+  {
+   "id": "17fa1c2a24ba8f731c8b21f1244463bc4b465681",
+   "title": "Deep multi-scale video prediction beyond mean square error",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "de3b9eb697feed3d097e3f671afe395f48c1ab76",
+   "title": "Stochastic Video Generation with a Learned Prior",
+   "date": "2018-02-21"
+  },
+  {
+   "id": "36d3a18a1519e27f7c9c8479b19fc00d4d805a00",
+   "title": "Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "062c41dad67bb68fefd9ff0c5c4d296e796004dc",
+   "title": "Temporal Generative Adversarial Nets with Singular Value Clipping",
+   "date": "2016-11-21"
+  },
+  {
+   "id": "1d38ee16ed990689c3a85160dbc20e22b72afb6d",
+   "title": "Learning to Decompose and Disentangle Representations for Video Prediction",
+   "date": "2018-06-11"
+  },
+  {
+   "id": "d1c424c261c577958917055f72fb9e2ad0348865",
+   "title": "PixelSNAIL: An Improved Autoregressive Generative Model",
+   "date": "2017-12-28"
+  },
+  {
+   "id": "2fc43c2c3f7ad1ca7a1ce32c5a9a98432725fb9a",
+   "title": "Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture",
+   "date": "2017-11-27"
+  },
+  {
+   "id": "2f66d531439f5847afa7b31f49db87a44b788690",
+   "title": "Video Generation From Single Semantic Label Map",
+   "date": "2019-03-11"
+  },
+  {
+   "id": "bea92a69b48287caa3a25ff3dfe727bed8888348",
+   "title": "Few-shot Video-to-Video Synthesis",
+   "date": "2019-10-28"
+  },
+  {
+   "id": "d718941506d2adabc4792cb13d49e6336957e52e",
+   "title": "PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning",
+   "date": "2018-04-17"
+  }
+ ],
+ "n_candidates": 44,
+ "sims": [
+  0.7766,
+  0.7591,
+  0.6947,
+  0.6926,
+  0.6889,
+  0.6786,
+  0.6766,
+  0.6718,
+  0.6686,
+  0.6649,
+  0.6625,
+  0.6536,
+  0.6268,
+  0.626,
+  0.6067,
+  0.6026,
+  0.6005,
+  0.5959,
+  0.5935
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_bebac60e7eadf9e89b824f57b62b2e7351fbfa37",
+   "title": "Protein Fold Classification at Scale: Benchmarking and Pretraining",
+   "date": "2026-05-18",
+   "is_B": true
+  },
+  {
+   "id": "f1ba5a12faae6935027cab278bd3d3b836af7f2e",
+   "title": "Exploring structural diversity across the protein universe with The Encyclopedia of Domains",
+   "date": "2024-03-27"
+  },
+  {
+   "id": "62a26a4334f1262aad35a5c2e5ae7d7f8f0195c1",
+   "title": "Masked Inverse Folding with Sequence Transfer for Protein Representation Learning",
+   "date": "2023-03-19"
+  },
+  {
+   "id": "ec7c9b201fc1ce18b4e0131691c9418f519a71c5",
+   "title": "Evaluating Protein Transfer Learning with TAPE",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "06da451106c15ecf0d1fd4e7370fc2cf75d790a1",
+   "title": "CATHEDRAL: A Fast and Effective Algorithm to Predict Folds and Domain Boundaries from Multidomain Protein Structures",
+   "date": "2007-11-01"
+  },
+  {
+   "id": "bd019df02bfb734ba335f9d6d49bd282297180f8",
+   "title": "DeepSF: deep convolutional neural network for mapping protein sequences to folds",
+   "date": "2017-06-04"
+  },
+  {
+   "id": "c080266260e7b5c709350519f0534f362e521b95",
+   "title": "Protein Representation Learning by Geometric Structure Pretraining",
+   "date": "2022-03-11"
+  },
+  {
+   "id": "6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+   "title": "Masked Autoencoders Are Scalable Vision Learners",
+   "date": "2021-11-11"
+  },
+  {
+   "id": "dc32a984b651256a8ec282be52310e6bd33d9815",
+   "title": "Highly accurate protein structure prediction with AlphaFold",
+   "date": "2021-07-15"
+  },
+  {
+   "id": "c3b5e431f58f607a034dfcf52ac16879ac73acb5",
+   "title": "Endowing Protein Language Models with Structural Knowledge",
+   "date": "2024-01-26"
+  },
+  {
+   "id": "c49a0912595a1cc70aab63524f64ed08c92194a8",
+   "title": "Evolutionary-scale prediction of atomic level protein structure with a language model",
+   "date": "2022-12-21"
+  },
+  {
+   "id": "3178dca5bfbc6050b88577cfbd09e5e730e09f42",
+   "title": "Merizo: a rapid and accurate protein domain segmentation method using invariant point attention",
+   "date": "2023-05-11"
+  },
+  {
+   "id": "0320061f488adb79d82b6fa9d7e6e4618c9cf48b",
+   "title": "Clustering predicted structures at the scale of the known protein universe",
+   "date": "2023-03-10"
+  },
+  {
+   "id": "df3c304ff2ddde18496d2a4b50bbbeaf118d12b3",
+   "title": "Systematic comparison of SCOP and CATH: a new gold standard for protein structure analysis",
+   "date": "2009-04-17"
+  },
+  {
+   "id": "afe2c63f1c9c4619dd8c2af25cef4e5daf6a6150",
+   "title": "CATHe: detection of remote homologues for CATH superfamilies using embeddings from protein language models",
+   "date": "2022-03-13"
+  },
+  {
+   "id": "e7ad6378413fc2460e35734d10ebbf135fe22827",
+   "title": "Chainsaw: protein domain segmentation with fully convolutional neural networks",
+   "date": "2024-03-25"
+  },
+  {
+   "id": "18a93dc1558bf9d7534d0b416633cebaf75c1145",
+   "title": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
+   "date": "2019-04-29"
+  },
+  {
+   "id": "a938303f20b7fcde2bfdb7ca95ff5b69739430d3",
+   "title": "AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences",
+   "date": "2023-11-02"
+  },
+  {
+   "id": "655fa18c26267f33084647b30fb0964ec199cd97",
+   "title": "Fast and accurate protein structure search with Foldseek",
+   "date": "2022-02-09"
+  },
+  {
+   "id": "b9f80f0c582bd6e920ec3639a521c3d22a5350e8",
+   "title": "A unified approach to protein domain parsing with inter-residue distance matrix",
+   "date": "2023-02-01"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.6718,
+  0.6599,
+  0.6552,
+  0.6338,
+  0.6161,
+  0.6016,
+  0.5933,
+  0.5875,
+  0.5813,
+  0.5769,
+  0.5725,
+  0.5716,
+  0.5691,
+  0.5677,
+  0.5592,
+  0.5582,
+  0.5556,
+  0.5541,
+  0.5491
+ ]
+}

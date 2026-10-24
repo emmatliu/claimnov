@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_7b39f0a1b5880eb1bf53de64c0072795aaf71bcc",
+   "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
+   "date": "2026-04-20",
+   "is_B": true
+  },
+  {
+   "id": "dd015eb103783fb8ebbbeb576be45cf751531c28",
+   "title": "Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation",
+   "date": "2025-10-15"
+  },
+  {
+   "id": "32566efe68955837f5d677cde1cddff09dbad381",
+   "title": "DanceGRPO: Unleashing GRPO on Visual Generation",
+   "date": "2025-05-12"
+  },
+  {
+   "id": "16c38a5b7d7d8487c9e03e7231330445eb64e5b1",
+   "title": "Flow-GRPO: Training Flow Matching Models via Online RL",
+   "date": "2025-05-08"
+  },
+  {
+   "id": "701fa19a19f9996f5d322e13e8c7427324338a06",
+   "title": "TempFlow-GRPO: When Timing Matters for GRPO in Flow Models",
+   "date": "2025-08-06"
+  },
+  {
+   "id": "20309e3e9934742961623b1acf459bf247954016",
+   "title": "MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE",
+   "date": "2025-07-29"
+  },
+  {
+   "id": "d8c78221e4366d6a72a6b3e41e35b706cc45c01d",
+   "title": "Training Diffusion Models with Reinforcement Learning",
+   "date": "2023-05-22"
+  },
+  {
+   "id": "f5275c61736781d236abe6700b822f1ea62f982e",
+   "title": "Diffusion Model Alignment Using Direct Preference Optimization",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "87362cbd9039011e990511d4668f77de6c17a6ef",
+   "title": "PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models",
+   "date": "2024-02-13"
+  },
+  {
+   "id": "91b32fc0a23f0af53229fceaae9cce43a0406d2e",
+   "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "03aeaf92956a7ca8c35f9946b678a13df40bace3",
+   "title": "Uniform Discrete Diffusion with Metric Path for Video Generation",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "7ee862c9de83ded9358deec49e3d5b951d59ca4c",
+   "title": "GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment",
+   "date": "2023-10-17"
+  },
+  {
+   "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "9e08d4f7348ff2afbe8c96e7564f43d326e67d00",
+   "title": "A Dense Reward View on Aligning Text-to-Image Diffusion with Preference",
+   "date": "2024-02-13"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "17fdf94362b3ae856f67edafd6a8532dc87642ee",
+   "title": "FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "d7890d1906d95c4ae4c430b350455156d6d8aed9",
+   "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+   "date": "2023-07-04"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+   "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+   "date": "2024-03-05"
+  },
+  {
+   "id": "1e4b6567ff66de6cdcbe58c863538241e2f62b45",
+   "title": "Aligning Text-to-Image Models using Human Feedback",
+   "date": "2023-02-23"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.7547,
+  0.7307,
+  0.705,
+  0.663,
+  0.6521,
+  0.6275,
+  0.624,
+  0.6231,
+  0.6099,
+  0.6061,
+  0.5924,
+  0.5881,
+  0.5847,
+  0.574,
+  0.5627,
+  0.5598,
+  0.554,
+  0.5514,
+  0.5435
+ ]
+}

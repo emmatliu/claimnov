@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_31090c39f1777c67d0be7c81e3e5e281ae756207",
+   "title": "Delving into Deep Imbalanced Regression",
+   "is_B": true
+  },
+  {
+   "id": "bcfba69c2fadf2efea83be12fda2601f8d4681af",
+   "title": "Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss",
+   "date": "2019-06-18"
+  },
+  {
+   "id": "788142b03f2c8683ee2fe8bc11c481d635041d9f",
+   "title": "Imbalanced Deep Learning by Minority Class Incremental Rectification",
+   "date": "2018-04-28"
+  },
+  {
+   "id": "5099d47408251626a4adc6a0f5e93678d8188732",
+   "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning",
+   "date": "2020-06-13"
+  },
+  {
+   "id": "380d5138cadccc9b5b91c707ba0a9220b0f39271",
+   "title": "Deep Imbalanced Learning for Face Recognition and Attribute Prediction",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "91d8795790baf687e4b928c720314bb0fc900dea",
+   "title": "Bidirectional Inference Networks: A Class of Deep Bayesian Networks for Health Profiling",
+   "date": "2019-02-06"
+  },
+  {
+   "id": "dcc4c760c3f1cb17f953c487190b735030c33b78",
+   "title": "Decoupling Representation and Classifier for Long-Tailed Recognition",
+   "date": "2019-10-21"
+  },
+  {
+   "id": "4feef0fd284feb1233399b400eb897f59ec92755",
+   "title": "mixup: Beyond Empirical Risk Minimization",
+   "date": "2017-10-25"
+  },
+  {
+   "id": "54036f43acc6c9b49b334270c7237217685f52fb",
+   "title": "Class-Balanced Loss Based on Effective Number of Samples",
+   "date": "2019-01-16"
+  },
+  {
+   "id": "5313367e0a350f3e0b632dfb2e588f63fc272b2b",
+   "title": "Feature Transfer Learning for Face Recognition With Under-Represented Data",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "9757ef31095227cb289af22b0a4010eda754d100",
+   "title": "A systematic study of the class imbalance problem in convolutional neural networks",
+   "date": "2017-10-15"
+  },
+  {
+   "id": "c5e4ed93580d50c46426642cd85b93d0e64629a3",
+   "title": "Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect",
+   "date": "2020-09-28"
+  },
+  {
+   "id": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+   "title": "GloVe: Global Vectors for Word Representation",
+   "date": "2014-10-01"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "72ccaf2a39a297db03a3f7b6b70d1a0abe7b9f1d",
+   "title": "Range Loss for Deep Face Recognition with Long-Tailed Training Data",
+   "date": "2016-11-28"
+  },
+  {
+   "id": "9717f7d873859ca0080caf944f7a2d9b456be121",
+   "title": "AdaBins: Depth Estimation Using Adaptive Bins",
+   "date": "2020-11-28"
+  },
+  {
+   "id": "034eff6fda29c70c861ffac18882ea129249555f",
+   "title": "Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps With Accurate Object Boundaries",
+   "date": "2018-03-23"
+  },
+  {
+   "id": "03479dd8970c96058998956b7eadbac485a2a170",
+   "title": "Continuously Indexed Domain Adaptation",
+   "date": "2020-07-03"
+  },
+  {
+   "id": "73c07e0a998576bb9d9409e5eed713788c0be037",
+   "title": "Large-Scale Long-Tailed Recognition in an Open World",
+   "date": "2019-04-10"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.5556,
+  0.5248,
+  0.5215,
+  0.5199,
+  0.4917,
+  0.4854,
+  0.4793,
+  0.4714,
+  0.4449,
+  0.442,
+  0.4341,
+  0.4152,
+  0.4086,
+  0.4062,
+  0.3976,
+  0.3879,
+  0.3841,
+  0.3781,
+  0.3747
+ ]
+}

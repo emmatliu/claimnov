@@ -1,0 +1,13 @@
+You are the final novelty judge for a proposed research IDEA. The most similar existing paper was retrieved from a pool of prior papers by similarity to the whole idea.
+
+Decide whether the IDEA is already done: does this paper already do substantially what the idea proposes, same core problem AND same core approach? Judge the idea as a whole: an anticipated peripheral claim does not make the idea non-novel, but an anticipated core contribution does, even if side claims are new. Superficial topic overlap or related prior work that the idea builds on = novel.
+
+IDEA:
+{idea}
+
+PAPER:
+Title: {title}
+Abstract: {abstract}
+
+Return JSON only:
+{{"decision": "novel" | "not_novel", "why": "<one or two sentences>"}}

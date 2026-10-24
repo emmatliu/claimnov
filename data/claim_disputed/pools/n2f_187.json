@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4f6eafafc9563a5b904535078df7e74afe39ef59",
+   "title": "Domain Generalization with MixStyle",
+   "is_B": true
+  },
+  {
+   "id": "5c717445179991e002333182df3b233fe502e357",
+   "title": "Learning to Generalize: Meta-Learning for Domain Generalization",
+   "date": "2017-10-10"
+  },
+  {
+   "id": "9f93e2de4c24acd3ffb10efae1c849a63830148d",
+   "title": "Domain Generalization via Model-Agnostic Learning of Semantic Features",
+   "date": "2019-10-29"
+  },
+  {
+   "id": "b249fe4e5e2bada6655ce5d61e7f50da5d471cb4",
+   "title": "Domain Generalization: A Survey",
+   "date": "2021-03-03"
+  },
+  {
+   "id": "b1e7f07965a53491690bd31fdab626bfac606eae",
+   "title": "Deeper, Broader and Artier Domain Generalization",
+   "date": "2017-10-09"
+  },
+  {
+   "id": "14d9d5fd85641f91b1c6364fd1206e88d9252ae0",
+   "title": "Deep Domain-Adversarial Image Generation for Domain Generalisation",
+   "date": "2020-03-12"
+  },
+  {
+   "id": "ba6ba7f488c1ece0803f4b9e1c83a3196d061610",
+   "title": "Domain Generalization with Adversarial Feature Learning",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "ac780229c64422398b0aa212489be2c965d224ce",
+   "title": "Learning to Generate Novel Domains for Domain Generalization",
+   "date": "2020-07-07"
+  },
+  {
+   "id": "1dac467c4a1c84c50ccb664e83272d893647a980",
+   "title": "Episodic Training for Domain Generalization",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "cabc42832388b1995d1f815f9fc4253f3f593993",
+   "title": "Generalizing Across Domains via Cross-Gradient Training",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "9fcd6d95bea171c9a5156cf9d4b6c8654a7b684f",
+   "title": "Learning to Optimize Domain Specific Normalization for Domain Generalization",
+   "date": "2019-07-09"
+  },
+  {
+   "id": "921de7e47e8921ce991ce1b754ebb16d4c4d0ba3",
+   "title": "Unified Deep Supervised Domain Adaptation and Generalization",
+   "date": "2017-09-28"
+  },
+  {
+   "id": "79c286bf03ed97fb94d33511f3355770dcee0aec",
+   "title": "Domain Generalization via Invariant Feature Representation",
+   "date": "2013-01-10"
+  },
+  {
+   "id": "1f49f005859e966af8d8fcfb2ec3e880e5afde94",
+   "title": "Domain Adaptive Ensemble Learning",
+   "date": "2020-03-16"
+  },
+  {
+   "id": "dc05886db1e6f17f4489d867477b38fe13e31783",
+   "title": "Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning",
+   "date": "2019-10-11"
+  },
+  {
+   "id": "7ce7941ffe5220383d4e614ebcf2397e30cb27a7",
+   "title": "Domain Generalization by Solving Jigsaw Puzzles",
+   "date": "2019-03-16"
+  },
+  {
+   "id": "ef2bc452812d6005ab0a66af6c3f97b6b0ba837e",
+   "title": "Quantifying Generalization in Reinforcement Learning",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "60fc8a885083f74c7a0aea829c81a92f2107e4d1",
+   "title": "Illuminating Generalization in Deep Reinforcement Learning through Procedural Level Generation",
+   "date": "2018-06-28"
+  },
+  {
+   "id": "ec60d968355439870bf8261a963ca33cfaef082d",
+   "title": "Efficient unsupervised domain adaptation via self-supervised vision transformer and synergistic cross-domain alignment",
+   "date": "2024-07-31"
+  },
+  {
+   "id": "567eb0ab96fb7f2869e9c4c204da9f2cf422d946",
+   "title": "Generalization and Regularization in DQN",
+   "date": "2018-09-27"
+  }
+ ],
+ "n_candidates": 51,
+ "sims": [
+  0.7063,
+  0.6843,
+  0.6744,
+  0.6555,
+  0.6383,
+  0.6242,
+  0.6149,
+  0.6106,
+  0.607,
+  0.5971,
+  0.5822,
+  0.5757,
+  0.5674,
+  0.5546,
+  0.5424,
+  0.5363,
+  0.5354,
+  0.5247,
+  0.5217
+ ]
+}

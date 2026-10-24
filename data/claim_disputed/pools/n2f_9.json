@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_9d15ebe3f5aaf32a9f835f88703241461324c35b",
+   "title": "Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding",
+   "is_B": true
+  },
+  {
+   "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+   "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+   "title": "VQA: Visual Question Answering",
+   "date": "2015-05-03"
+  },
+  {
+   "id": "00f5bfc2fb760249ba4e9c72b72eea4574068339",
+   "title": "VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation",
+   "date": "2017-08-15"
+  },
+  {
+   "id": "5823d18cd378898b12de537862d996443ce9c9e8",
+   "title": "Structured Attentions for Visual Question Answering",
+   "date": "2017-08-07"
+  },
+  {
+   "id": "fb9d253258d6b3beceb9d6cd7bba6e0a29ab875b",
+   "title": "Hierarchical Question-Image Co-Attention for Visual Question Answering",
+   "date": "2016-05-31"
+  },
+  {
+   "id": "eff328e0ecfb9a7a2d6664ee38aa32a61c7b9f42",
+   "title": "Visual Question Reasoning on General Dependency Tree",
+   "date": "2018-03-31"
+  },
+  {
+   "id": "03eb382e04cca8cca743f7799070869954f1402a",
+   "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+   "date": "2016-12-20"
+  },
+  {
+   "id": "0b0a1cd432413978e4ef3d0418ebf3bb07af6c7a",
+   "title": "Explicit Knowledge-based Reasoning for Visual Question Answering",
+   "date": "2015-11-09"
+  },
+  {
+   "id": "0c41d7cfadcdaa5a66694bd57fa5eaf807043ef9",
+   "title": "Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering",
+   "date": "2018-03-01"
+  },
+  {
+   "id": "83f355634fac2b445a475ee81b8d16bf768188ec",
+   "title": "Learning by Asking Questions",
+   "date": "2017-12-04"
+  },
+  {
+   "id": "cd0a7c58964905ccfddbad1614165320ccc56393",
+   "title": "Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning",
+   "date": "2018-03-14"
+  },
+  {
+   "id": "ac64fb7e6d2ddf236332ec9f371fe85d308c114d",
+   "title": "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input",
+   "date": "2014-10-01"
+  },
+  {
+   "id": "2c1890864c1c2b750f48316dc8b650ba4772adc5",
+   "title": "Stacked Attention Networks for Image Question Answering",
+   "date": "2015-11-07"
+  },
+  {
+   "id": "8a79a876d65cdaf10244e0def2f5a36f34aecdb7",
+   "title": "SCAN: Learning Abstract Hierarchical Compositional Visual Concepts",
+   "date": "2017-07-11"
+  },
+  {
+   "id": "226f08bb8fd049fdca2f6a8a41ffe485a0ee6ebc",
+   "title": "Generative Models of Visually Grounded Imagination",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "a396a6febdacb84340d139096455e67049ac1e22",
+   "title": "Learning to Reason: End-to-End Module Networks for Visual Question Answering",
+   "date": "2017-04-18"
+  },
+  {
+   "id": "98ea4abc9bf0e30eb020db2075c9c8a039a848a3",
+   "title": "Learning to Compose Neural Networks for Question Answering",
+   "date": "2016-01-07"
+  },
+  {
+   "id": "302ae0d991d62dee82b63530b487a50469810af4",
+   "title": "Learning Interpretable Spatial Operations in a Rich 3D Blocks World",
+   "date": "2017-12-10"
+  },
+  {
+   "id": "e60f6be86bc88fc2309b17d3df2885886448d16e",
+   "title": "Neural Scene De-rendering",
+   "date": "2017-07-01"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.6816,
+  0.6584,
+  0.6141,
+  0.5903,
+  0.5899,
+  0.5892,
+  0.5745,
+  0.5733,
+  0.5538,
+  0.5405,
+  0.5106,
+  0.5088,
+  0.4837,
+  0.4734,
+  0.4707,
+  0.4515,
+  0.4464,
+  0.4327,
+  0.4159
+ ]
+}

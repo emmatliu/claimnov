@@ -1,0 +1,692 @@
+[
+ {
+  "id": "a0bba0cad9d5ceab5870ba6f0fddb01055acc787",
+  "title": "SQL-Zero: Self-Evolving Text-to-SQL",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "da1b86be84ac1464cdccda54e041040b27b66b8f",
+  "title": "DE-Venus: A Data-Efficient RLVR Framework for Large Language Models",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "21b0dbf4c8ef2099ad0f39e5ad1c20d2b5848516",
+  "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "d894f05fb1a7906f0f51bdc81a120dbaff9a9186",
+  "title": "ARISE-RL: Agentic Rubric-Grounded Iterative Self-Evolution with Reinforcement Learning",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "10055175d6b05b2441efbaab9f8d2f2958930c73",
+  "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "cc939de9a65ed960aa0009d4273f9a6caff53881",
+  "title": "StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "cc06d7ef8ab4eceb5f7c2b6570623f728cb3cc2b",
+  "title": "From Rollouts to Recipes: Self-Contained Post-Training for LLMs",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "f7fd026d22d8f5f20eb774b33cc09704c6c1b15a",
+  "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "1e09ad3afabaede57277750fd344575ea673e9c5",
+  "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "f47b1bcb9514eacb5e00e4e69b31756b08de945f",
+  "title": "Beyond Uncertainty: Multi-Solver Disagreement Rewards for Self-Evolving Reasoning Curricula",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "2feddad3f3cd9d75c3f710047ceeef7a7fadd3ad",
+  "title": "J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "23538a25020b5d3e64cead526f8869bf0db00f6b",
+  "title": "TailSFT: Filtered Fine-Tuning Improves Post-Training Performance",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "d0b4b3fd0e59af61da3034b83901ae1786b784e5",
+  "title": "Unsupervised Post-Training of Foundation Models: A Survey",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "5255b0cdeee997084dd97764ce34f3189ef63723",
+  "title": "From Solver Feedback to Faithful Plans: Multi-Role Reinforcement Learning for Symbolic Planning",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "47aa2ac90ad7d8685e5c810b6b24e6949c7bb67c",
+  "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "fc4485cae9575af6ce9fc712f16d383f3509fd31",
+  "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "c087faadad41a881e8f87ef10249b9f66ff7566b",
+  "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "6628460699399ac871ab39654f2bb86c06581fea",
+  "title": "ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "49bd9a8ef8f005692fe82de91c50aebb6e750cde",
+  "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "c4255c564004d428101d6ad178eae8ce56ac9fbe",
+  "title": "Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "ab370ddd1579149f4f7ed73c127acf1b1a7b4e64",
+  "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "4338f36688868e28cee15c74e45b6476fc0087da",
+  "title": "Ask-E: An Environment for Calibrated Question Generation",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "b7887fed31725d4dbbdd542f83d0e9c7085a4d0b",
+  "title": "IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "f8a2506102d4febc0a2497ef89b6f5a06dcd367e",
+  "title": "On-Policy Self-Distillation without Any Supervision",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "6470042083a68bb97dd3da45c7fb938e38c23baa",
+  "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "11cdae3be1a2b016123c0c33d1b97d29e94f518c",
+  "title": "Don't Peek at the Answer: Outcome-Masked Group Relative Policy Optimization for Label-Free RLVR",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "8140cd528a77a8a994917d45a120920fcbdf3f83",
+  "title": "CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "b1796921ef6e77d8ab5ac3db9631d2b55e926e8b",
+  "title": "SkillMentor: LLM Agent Self-Evolution via Learning Blind-Spot Diagnosis",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "fbf7e7e8d73faaa40d2518d921ac343fcd3921ff",
+  "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "bbd8d91508353a690b727dd524c1101078489927",
+  "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "1fccf02a8c543d8ca42d48ffbf86b65268d76871",
+  "title": "Audio-Zero: Label-Free Self-Evolution for Fine-Grained Audio Reasoning",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "2956d1dfe124a651dead33966abd2d8aaeef570d",
+  "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "45856dd780762b0db40390c1c425b3287eabddc6",
+  "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "4dbd7c771c35c58a1ee1a22dee5334f7498a6b18",
+  "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "013cf67a04d6246488d6ab400f6368c89575a137",
+  "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "1738b5a613e43507c6491c823fb3660d02cd4338",
+  "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "1231876b4c92c7a26d4e0cbea9cac388d6dafefb",
+  "title": "Anchored Self-Play for Code Repair",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "655020fd6a4239848ee9e90deacbda225500b1a3",
+  "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "210c58cbad558d627e396bd0434638165dd21319",
+  "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "aecc49e9adc06806c63fc23819a730995bb70cf6",
+  "title": "Teach-to-Reason: Competition-Guided Reasoning with a Self-Improving Teacher",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "b9b9e070197525115eb559239adc760dee7a6bda",
+  "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "b0c852b2d6b7a62fed619f91e8acfbe1cdfae7b0",
+  "title": "Metis: Bridging Text and Code Memory for Self-Evolving Agents",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "214654e44aa166cee9df3c0a1112595d2655ec56",
+  "title": "PragReST: Self-Reinforcing Counterfactual Reasoning for Pragmatic Language Understanding",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "1cd3dffe7ab679e177d164af26c03093274234d2",
+  "title": "Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "7ef8bf9793a9c77c857966483ee9e199d183596c",
+  "title": "Continual Self-Improvement with Lightweight Experiential Latent Memories",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "26f66db7df4b0be12aae85b47331d797b1156dcb",
+  "title": "Evo-CuRL: Curriculum-Aware Reinforcement Learning over Code Lineage Graphs for Software Engineering Reasoning",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "355dc55ae40f4e5f29807ae824a122f6f86b7636",
+  "title": "SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "ffc488793e4af6f4a9934eb00eaf4c3fc43a4885",
+  "title": "Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "5bdf3bfabafa2b44691130f5c8d2dc3877df7f35",
+  "title": "Ouroboros-Spatial: Closing the Data-Model Loop for Spatial Reasoning",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "be8702f21bf7afd5c03a07d9f98a9baaef1040b8",
+  "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "7b1f168bbb5d0f98b850a901908a94494c847bf8",
+  "title": "Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "756cfb762291cfd05b0a4c6c7098644ce48d406c",
+  "title": "The Role of Feedback Alignment in Self-Distillation",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "e468022845f743997ac20ce8557b3ca821dcb746",
+  "title": "PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "0626c6de4fa5f8111c62318b4d44492ea19a934a",
+  "title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "731cd5fbdd2bf63d66571997ec06be9b7c1ef562",
+  "title": "Towards Healthy Evolution: Exploring the Role and Mechanisms of Human-Agent Interaction in Self-Evolving Systems",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "bcc4a0feebcb786c4792b11ed0d4bc31c616921c",
+  "title": "EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "97d2a2f11f92370adeea7572860380949792a85e",
+  "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "92a72910256129d0d8ff1f5ba175f1d7f5b7e494",
+  "title": "GeoMin: Data-Efficient Semi-Supervised RLVR via Geometric Distribution Modeling",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "30c5193338b57e24aee8090ff6011d9809fcdb9c",
+  "title": "Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "c55325c8f6b0ee93d400bf49fd665f3965325673",
+  "title": "Self-Evolving Deep Research via Joint Generation and Evaluation",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "f5d73d6c5a15988f816e891aea7e87548670e7f3",
+  "title": "Exploiting Verification-Generation Gap: Test-Time Reinforcement Learning with Confidence-Conditioned Verification",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "fec29e395ec7100ecf8ce2eaaf5b805ff7c2cd5b",
+  "title": "OctoT2I: A Self-Evolving Agentic Text-to-Image Router",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "904799ceef2601e0866b851fee60299450dd282d",
+  "title": "HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "025a427e56db67476a23d96361f7b50786fe976c",
+  "title": "A Primer in Post-Training Reasoning Data: What We Know About How It Works",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "8cdc407b7810ec235b8a5b353558796772806cf3",
+  "title": "On the Generalization Gap in Self-Evolving Language Model Reasoning",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "5c3df7e2d285518271566e4cee4b76401c884ba9",
+  "title": "BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "ea4c41458288e07c0a0c66b1d400f27abbfd5c6c",
+  "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "635f82bcf9b9535212f8dc396d80156b7552af2f",
+  "title": "Combinatorial Synthesis: Scaling Code RLVR via Atomic Decomposition and Recombination",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "6cc8fe55a6a90f580fc34fcd20334935db8a99c6",
+  "title": "FinGuard: Detecting Financial Regulatory Non-Compliance in LLM Interactions",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "49887c3f8a5b8bd472766bac70467afdaa61cd98",
+  "title": "EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "de2004da6d47f1fe8f2bc7f9cd22130745d170cf",
+  "title": "Confidence-Orchestrated Self-Evolution against Uncertain LLM Feedback",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "d9ab0839229cd5b19d17a0365c78cfecf2e3127a",
+  "title": "Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "f2e062bfc45c3160b7742ffc6c975d06d8410b25",
+  "title": "Safe Evolution with Circuit Anchors",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "bf81751029fae289c6ec6d2262fab502bdd130e4",
+  "title": "Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "7441b7c9392a7f40286ccc98b8c7b62a5aa76cc4",
+  "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "dbe3439cb19fdbef10fecd1e62ab6ac5b4ea4f87",
+  "title": "EvoVid: Temporal-Centric Self-Evolution for Video Large Language Models",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "b69faf9361115e8a13340b2523ed4f37a06fd93a",
+  "title": "Two is better than one: A Collapse-free Multi-Reward RLIF Training Framework",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "232dc57b3ca80d3292afdcc4078e8f19af2c6620",
+  "title": "Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "e89c583978bb68ef5a1ed4b8b72b99ea4e24d5ec",
+  "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "0d9e16cc477d2d8313ebcb044c8c94cc16eb2a02",
+  "title": "RISE: Reliable Improvement in Self-Evolving Vision-Language Models",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "1d374028142fd1aaec8901eba5f951ac5a328912",
+  "title": "GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "4fe61ff9df9714770be1fafa688b4591d07b807a",
+  "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "b5fd7a88781be3abe42b5277cb00f9778dbc0a62",
+  "title": "D2Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "3000c27d5373e9b52cb5f579c65d78c25ed0fb84",
+  "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "a9fee94ccc48f755045e9ca8957071261f80e15e",
+  "title": "Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "8ea52b51147e2a02c14521bc2c01ace0872ff388",
+  "title": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "d47bd0ae1093c8a5a92ed402d3166161dfa6548f",
+  "title": "EvoGround: Self-Evolving Video Agents for Video Temporal Grounding",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "caaf858b3109b0ebe20759e7ac5f1c3d5f87426c",
+  "title": "RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "23bad9e695ee960e8e74cb15f6f53e86d0c4f355",
+  "title": "Seir\u00eanes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "ae12e8205a7563a918e4003a377eceb9f7dc4e4a",
+  "title": "Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "4bc028b8913da6949e57d78e1e0835679f70671f",
+  "title": "StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "2a21fd611688c2ae01744d5f7ab6c407c9f5c21a",
+  "title": "Team-Based Self-Play With Dual Adaptive Weighting for Fine-Tuning LLMs",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "27baebd9fb8679df5ba59e9529d1ccc30825bc1d",
+  "title": "MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "e5f4d8707986be68c6ebbc2319a579530b34af9c",
+  "title": "G-Zero: Self-Play for Open-Ended Generation from Zero Data",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "f965788121beb498d2d4f949e7647f1577d38c3e",
+  "title": "An Execution-Verified Multi-Language Benchmark for Code Semantic Reasoning",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "80d2203913047029012b77cde3f17637256a13a8",
+  "title": "Experience Sharing in Mutual Reinforcement Learning for Heterogeneous Language Models",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "ae6da838750455df61d16dfcacb5c4a54f9354db",
+  "title": "SEIF: Self-Evolving Reinforcement Learning for Instruction Following",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "66fe8a799e8750cad035b7aec61630b6ff45576d",
+  "title": "Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "ddf44e2398a793bfb0c697d94388eae28f055679",
+  "title": "SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "01027e961b0a496284bb136e50fccc253ebd686c",
+  "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "e19e889587ae8abbf50f04c3b5db96f4a0293d85",
+  "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "ea6a089acfee6f98e48b89ec42f5942d7f16d644",
+  "title": "Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "d546a82f7f2cb5e3bbc1a7b717f90d6c32257679",
+  "title": "ANCORA: Learning to Question via Manifold-Anchored Self-Play for Verifiable Reasoning",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "a1aff9022443e3e2e2ac24c5dc9e6c6d12cd5ae4",
+  "title": "JURY-RL: Votes Propose, Proofs Dispose for Label-Free RLVR",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "30e8d68e14b703dac488abc98916eef2a860e196",
+  "title": "DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Discrete Diffusion Models",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "09f3f1fa0aa7073fcb8341553337e00af01bbba3",
+  "title": "Scaling Self-Play with Self-Guidance",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "d197e12d11aa84562f6016125b3a924902c27414",
+  "title": "Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "0ffd2f3d442e2e2042226b189572e97f1b95287b",
+  "title": "SELF-EMO: Emotional Self-Evolution from Recognition to Consistent Expression",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "aa690067741be675db30a4caeb604446ce4a7d16",
+  "title": "HEALing Entropy Collapse: Enhancing Exploration in Few-Shot RLVR via Hybrid-Domain Entropy Dynamics Alignment",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "334b8de92f9475a59d06aa1efe8ecc65f2c5e4ce",
+  "title": "EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "a47023b2f83aa7cbabeff08b5ea2931c182d78ef",
+  "title": "A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "a99672f54eda0781f48bf020f736b9f006d4d8c4",
+  "title": "MARS2: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "c105b94fbc113aea341d4d7f22e0f09fa0e52305",
+  "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "f21c3b99c12c52f9bdc34e2d86bdacb7fded1535",
+  "title": "ZeroCoder: Can LLMs Improve Code Generation Without Ground-Truth Supervision?",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "baea8d3195e47025ab167ed289dfff7ae1d06cca",
+  "title": "How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "131f14ad975426108d2286e4f3f203826c6fcca4",
+  "title": "Stabilizing Unsupervised Self-Evolution of MLLMs via Continuous Softened Retracing reSampling",
+  "date": "2026-04-04"
+ },
+ {
+  "id": "d4a176a4bfd5e2645307ca191d7dec7a1848a82f",
+  "title": "Vocabulary Dropout for Curriculum Diversity in LLM Co-Evolution",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "915755b9f9d71d694113f9534b5de0d47fb6a665",
+  "title": "Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "4374c1bffbad6f7ace4ae9038a867f97539eddca",
+  "title": "Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models",
+  "date": "2026-03-28"
+ },
+ {
+  "id": "7c92bac291ee5a4e332eea907b75e63f4e3323a8",
+  "title": "A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "918b8ce1c1072d10d8d91b9cb75e74bd8273bac7",
+  "title": "When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "99ada167d8cf0bca239953ef7e4e37feb63c4197",
+  "title": "WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "50383430118568a08d0818ec962182154893979d",
+  "title": "What If Consensus Lies? Selective-Complementary Reinforcement Learning at Test Time",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "e43565f5b27392de04e6e32c3e6f6d2270fab43e",
+  "title": "Learning to Self-Evolve",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "57d0b6b990b6730e8ecb5ddd1721ee92307b71fd",
+  "title": "Context Bootstrapped Reinforcement Learning",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "6ec664f798e08e763e4f2327f8c89d6645599157",
+  "title": "CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "b6016bd5cae40f0fa832200b63281a8ce89ce36d",
+  "title": "Complementary RL: Towards Efficient Experience-Driven Agent Learning",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "169921db22d0537487b1a0223984501b2ca3e9ef",
+  "title": "Dual Consensus: Escaping from Spurious Majority in Unsupervised RLVR via Two-Stage Vote Mechanism",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "b108a217f3a9dbbf97cdffa45965fe73d35fb691",
+  "title": "Internalizing Agency from Reflective Experience",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "fa21ca43763302c94a44039da6e77e256d951346",
+  "title": "SAGE: Multi-Agent Self-Evolution for LLM Reasoning",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "f72872cafddac4867df4ae524c7c825c4950062d",
+  "title": "GASP: Guided Asymmetric Self-Play For Coding LLMs",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "48854f77c0315c0a3e8c06eb55bf0ef635e7f008",
+  "title": "Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "5d86f0c18de23af5ded2566d5cd14c162f781343",
+  "title": "MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "245d4d3631a31289e11fed0f0e0b0f63b853e2e8",
+  "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "23202659638fa4c6809e3251f7bfd520630d008b",
+  "title": "SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "6566571f416ef2b6021bd31b0d49558d04bc05ed",
+  "title": "Preventing Curriculum Collapse in Self-Evolving Reasoning Systems",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "019b03c9cff16e38049f5ca31f5ecbbad46f6116",
+  "title": "Recursive Think-Answer Process for LLMs and VLMs",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "678c5ae3fc245b17c14753b349fba03605d48f9c",
+  "title": "Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards",
+  "date": "2026-03-01"
+ }
+]

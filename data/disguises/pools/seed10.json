@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_b777513f7da53feefb9abf1beb4ae37ed8e0ebd3",
+   "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning",
+   "date": "2026-05-13",
+   "is_B": true
+  },
+  {
+   "id": "f8a642fbb51e0b0ae4774781309545d15d6d9b11",
+   "title": "Aligning Modalities in Vision Large Language Models via Preference Fine-tuning",
+   "date": "2024-02-18"
+  },
+  {
+   "id": "b368528a18d8f7b377e6fc74c1050df8c0348a1f",
+   "title": "LlaVA-CoT: Let Vision Language Models Reason Step-By-Step",
+   "date": "2024-11-15"
+  },
+  {
+   "id": "23c3bf6a61ee9a1f03fa0f5e16ab286f7f040487",
+   "title": "Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark",
+   "date": "2025-01-09"
+  },
+  {
+   "id": "0af4359948693c7aa60caf5e13aaab9d32fced92",
+   "title": "R1-VL: Learning to Reason with Multimodal Large Language Models via Step-Wise Group Relative Policy Optimization",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "328eb183007bf4aefbf42437b42a15db375803e3",
+   "title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding",
+   "date": "2023-11-28"
+  },
+  {
+   "id": "6f0f0d9f29586344ae6403fe906c24e4f16eaed8",
+   "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "98eb8d20b64f3c799b99fd5730113f59899990ca",
+   "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+   "date": "2025-09-03"
+  },
+  {
+   "id": "c672ec79f55cef8f7a32cd8dddfa981b893f1567",
+   "title": "V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs",
+   "date": "2023-12-21"
+  },
+  {
+   "id": "04103e74563315dbf4217337e5825992608fca56",
+   "title": "Thinking With Blueprints: Assisting Vision-Language Models in Spatial Reasoning Via Structured Object Representation",
+   "date": "2026-01-05"
+  },
+  {
+   "id": "10f9f4a1284a62bfdda89777c1e62d2cdc6c1b9e",
+   "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
+   "date": "2025-03-13"
+  },
+  {
+   "id": "e6fa169323f1fe839e0bec21c520cf26c0514783",
+   "title": "Self-Supervised Visual Preference Alignment",
+   "date": "2024-04-16"
+  },
+  {
+   "id": "1c87dcf82b168d8d4ce3450caa8948c9ef1c50a8",
+   "title": "To Code or not to Code? Adaptive Tool Integration for Math Language Models via Expectation-Maximization",
+   "date": "2025-02-02"
+  },
+  {
+   "id": "8946891e94831adc8cddb0d32311cce2445c96d2",
+   "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+   "date": "2023-10-03"
+  },
+  {
+   "id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+   "title": "Visual Instruction Tuning",
+   "date": "2023-04-17"
+  },
+  {
+   "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+   "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+   "date": "2024-09-18"
+  },
+  {
+   "id": "b1b62d324e2cae75cc75538ec50a86edfa60229c",
+   "title": "Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models",
+   "date": "2024-08-28"
+  },
+  {
+   "id": "45f29eb686230c4739ee43b9b07a40bd4a743448",
+   "title": "MuSeLLM: SDF Generation and Understanding via Multi-Scale Tokenization with Position-Aware Guidance",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "ca38d3dbf0ca25d4eeeb43becdc50aa45052e22d",
+   "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+   "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+   "date": "2022-01-28"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.689,
+  0.6562,
+  0.6552,
+  0.6515,
+  0.6479,
+  0.6413,
+  0.6398,
+  0.6325,
+  0.6251,
+  0.6202,
+  0.6064,
+  0.6049,
+  0.5936,
+  0.5713,
+  0.5587,
+  0.5552,
+  0.5436,
+  0.5394,
+  0.5319
+ ]
+}

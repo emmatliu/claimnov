@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_597ca966d6979582032b8a9de3dfc9b5319bff5a",
+   "title": "MetaphorVU: Towards Metaphorical Video Understanding",
+   "date": "2026-05-25",
+   "is_B": true
+  },
+  {
+   "id": "2b070923f46f1a6592e7975cfb01bcd4ba911b96",
+   "title": "Unveiling the Invisible: Captioning Videos with Metaphors",
+   "date": "2024-06-07"
+  },
+  {
+   "id": "0125e4f8d35544737086549b1dd894855e0cc5e7",
+   "title": "Understanding Figurative Meaning through Explainable Visual Entailment",
+   "date": "2024-05-02"
+  },
+  {
+   "id": "9cc222cdc7dfd4e01d57ae9cfc0a784e1cd9d51f",
+   "title": "Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors",
+   "date": "2025-06-08"
+  },
+  {
+   "id": "eec16a53e04ca8976f9b68d7e2fe58d1332ec8f9",
+   "title": "Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models",
+   "date": "2022-09-16"
+  },
+  {
+   "id": "048353d379c3ca41bcb3601f572e5b14337f6213",
+   "title": "MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos",
+   "date": "2025-06-04"
+  },
+  {
+   "id": "ad0c8f7b318178626baceb82330cacb8742ac54b",
+   "title": "Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "bc3e474a383efa9ec2c491171c35711b50337dfe",
+   "title": "Ring That Bell: A Corpus and Method for Multimodal Metaphor Detection in Videos",
+   "date": "2022-12-15"
+  },
+  {
+   "id": "4e3d888abc01555feb92a60935c8e537abc4648a",
+   "title": "Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos",
+   "date": "2025-01-23"
+  },
+  {
+   "id": "aa3cc9b2d17eae33b55bd90e43d188301c3414d8",
+   "title": "ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models",
+   "date": "2025-07-14"
+  },
+  {
+   "id": "903e2169fcb33c74f73cf4e12e1b508b3ab37156",
+   "title": "SurveillanceVQA-589K: A Benchmark for Comprehensive Surveillance Video-Language Understanding with Large Models",
+   "date": "2025-05-19"
+  },
+  {
+   "id": "846d87ed8db30da702c4db151b9773d1b87d4eab",
+   "title": "Multi-Granular Multimodal Clue Fusion for Meme Understanding",
+   "date": "2025-03-16"
+  },
+  {
+   "id": "459cc557791f61cf696f24e80b9827756de94e1a",
+   "title": "VLMs-in-the-Wild: Bridging the Gap Between Academic Benchmarks and Enterprise Reality",
+   "date": "2025-09-03"
+  },
+  {
+   "id": "376461a2c049f6fa51a4303853fdc672e4d07a0d",
+   "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "82aa1783f65c7b4b3bf8310c392f1bc5e61f1e19",
+   "title": "Frame Sampling Strategies Matter: A Benchmark for small vision language models",
+   "date": "2025-09-18"
+  },
+  {
+   "id": "b4a52af0e7efe7084c20e909635dbb11f51a6000",
+   "title": "VideoAds for Fast-Paced Video Understanding",
+   "date": "2025-04-12"
+  },
+  {
+   "id": "b65d6bc8c7184db100d7a881f4d6c2bebfdea9dc",
+   "title": "VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "35d39da7697686dfbffe01915a3cee927b4bab75",
+   "title": "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning",
+   "date": "2025-05-18"
+  },
+  {
+   "id": "4711896d3700e11520229e8831c292cf945e489d",
+   "title": "MET-Meme: A Multimodal Meme Dataset Rich in Metaphors",
+   "date": "2022-07-06"
+  },
+  {
+   "id": "c6ea4031eb837c2b11336d10e105552d11d04648",
+   "title": "Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge",
+   "date": "2025-06-18"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7492,
+  0.6982,
+  0.6834,
+  0.6726,
+  0.6677,
+  0.6578,
+  0.6519,
+  0.6518,
+  0.6391,
+  0.6296,
+  0.6239,
+  0.6228,
+  0.6219,
+  0.6216,
+  0.6183,
+  0.6154,
+  0.6152,
+  0.6131,
+  0.5973
+ ]
+}

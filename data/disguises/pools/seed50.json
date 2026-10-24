@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e4d20cebb58793703b4d4794e510d9f2bc9a8046",
+   "title": "GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures",
+   "date": "2026-06-29",
+   "is_B": true
+  },
+  {
+   "id": "dce4ad8a9d177080b38e18012ed730380de21441",
+   "title": "CopyrightShield: Enhancing Diffusion Model Security Against Copyright Infringement Attacks",
+   "date": "2024-12-02"
+  },
+  {
+   "id": "7ead75362398ef3c2d9f9289d8bc0dbdb6cfd26f",
+   "title": "A Watermark-Conditioned Diffusion Model for IP Protection",
+   "date": "2024-03-16"
+  },
+  {
+   "id": "a5a1196b6bd79031994c09caa3e0f41cbb1c94a3",
+   "title": "How to Backdoor Diffusion Models?",
+   "date": "2022-12-11"
+  },
+  {
+   "id": "7f70ce1a75d32e62a17d16d01480f5569cb7cc53",
+   "title": "Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process",
+   "date": "2023-06-06"
+  },
+  {
+   "id": "d691f970a55c91d4fd720b7a78fcf857f53d37ae",
+   "title": "PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "d817bff2d70a6cd795a17e0f5c45c24971d03b60",
+   "title": "Embedding Watermarks in Diffusion Process for Model Intellectual Property Protection",
+   "date": "2024-10-29"
+  },
+  {
+   "id": "77fa06b12aea62f13c91d8dc666c7ef2b26662ff",
+   "title": "A Recipe for Watermarking Diffusion Models",
+   "date": "2023-03-17"
+  },
+  {
+   "id": "9f6accefa5b49e113165289cd7cbbcd759b444f8",
+   "title": "Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models",
+   "date": "2024-07-31"
+  },
+  {
+   "id": "6f648aeb5c5219cf021840eaf3df03ac86cebff4",
+   "title": "The Stable Signature: Rooting Watermarks in Latent Diffusion Models",
+   "date": "2023-03-27"
+  },
+  {
+   "id": "2597e9ea5f31698dc4db64861f07ccf32ee50431",
+   "title": "SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models",
+   "date": "2024-12-06"
+  },
+  {
+   "id": "fef8e393a6a1fb92ae8435f81d5ac82b2dc4ffc2",
+   "title": "Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning",
+   "date": "2023-05-07"
+  },
+  {
+   "id": "157be85306dce2536edeb6b89eafd7fffde183ca",
+   "title": "Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models",
+   "date": "2024-04-07"
+  },
+  {
+   "id": "dd0ebe7c71819a61ac6cc7a2d21665f83d52415d",
+   "title": "AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA",
+   "date": "2024-05-18"
+  },
+  {
+   "id": "7198e6acc18981d8bd01ee2f904e53e73d2ad78d",
+   "title": "Denoising Diffusion Bridge Models",
+   "date": "2023-09-29"
+  },
+  {
+   "id": "6b7b32662da9047b9fe45edbc26b840f56a0b1cf",
+   "title": "MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schr\u00f6dinger Bridges",
+   "date": "2025-05-12"
+  },
+  {
+   "id": "09035f0d603b19feed64fb5a02e63745e1ba1781",
+   "title": "Consistency Diffusion Bridge Models",
+   "date": "2024-10-30"
+  },
+  {
+   "id": "e0465eb9e62aaa52e1b22b806f666ea526d8c2ac",
+   "title": "Private Sampling of Latent Diffusion Models for Encrypted Prompt",
+   "date": "2025-06-01"
+  },
+  {
+   "id": "c3111e374ad14357172ef63e7063e0182f8030d4",
+   "title": "Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models",
+   "date": "2021-12-10"
+  },
+  {
+   "id": "1f6968453f98e75a3f24e46ac392bbbed4eab9de",
+   "title": "The Principles of Diffusion Models",
+   "date": "2025-10-24"
+  }
+ ],
+ "n_candidates": 59,
+ "sims": [
+  0.7732,
+  0.7296,
+  0.729,
+  0.7258,
+  0.7187,
+  0.7155,
+  0.6799,
+  0.679,
+  0.6784,
+  0.6539,
+  0.6538,
+  0.6521,
+  0.6455,
+  0.6294,
+  0.6232,
+  0.6128,
+  0.6109,
+  0.6088,
+  0.6044
+ ]
+}

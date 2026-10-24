@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_9e20f6874feaaf7c9994f9875b1d9cab17a2fd59",
+   "title": "Learning Mesh-Based Simulation with Graph Networks",
+   "is_B": true
+  },
+  {
+   "id": "989e681731eb27ac1e12b2d60c8612c6982fe8c7",
+   "title": "Towards Physics-informed Deep Learning for Turbulent Flow Prediction",
+   "date": "2019-11-20"
+  },
+  {
+   "id": "f1a5c2405906eec16d1609d5f137848996a4ca55",
+   "title": "Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow",
+   "date": "2018-02-27"
+  },
+  {
+   "id": "0a3bf9ee0f618389e49927b437f74d4329587d45",
+   "title": "Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction",
+   "date": "2020-07-08"
+  },
+  {
+   "id": "c529f5b08675f787cdcc094ee495239592339f82",
+   "title": "Learning to Simulate Complex Physics with Graph Networks",
+   "date": "2020-02-21"
+  },
+  {
+   "id": "70375d7005f32d3522e04212f9bf072fb818cd9d",
+   "title": "Deep Learning Methods for Reynolds-Averaged Navier\u2013Stokes Simulations of Airfoil Flows",
+   "date": "2018-10-18"
+  },
+  {
+   "id": "bd1b4ff2fae9b761a9fade041aab1a5ac45067b7",
+   "title": "Data-driven prediction of unsteady flow over a circular cylinder using deep learning",
+   "date": "2018-04-17"
+  },
+  {
+   "id": "bdb1bda0c98111c238b55f0805038e17f4d1bf0e",
+   "title": "Liquid Splash Modeling with Neural Networks",
+   "date": "2017-04-14"
+  },
+  {
+   "id": "ebd67537c800d52526b541c8dfb49d405436f696",
+   "title": "Prediction of aerodynamic flow fields using convolutional neural networks",
+   "date": "2019-05-30"
+  },
+  {
+   "id": "f7ba0c6f2446cf1bb2a5d763b23dd1876efbe9aa",
+   "title": "Graph Element Networks: adaptive, structured computation and memory",
+   "date": "2019-04-18"
+  },
+  {
+   "id": "f8deb92dc04f282eb22ccdbf71e78e2f382df2d5",
+   "title": "Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient",
+   "date": "2017-12-29"
+  },
+  {
+   "id": "2581b3e44592b3b3741474c8d6f483a90c29f139",
+   "title": "Deep learning for physical processes: incorporating prior scientific knowledge",
+   "date": "2017-11-21"
+  },
+  {
+   "id": "b5ecebe86d6697062fbbb32642459dfbec44b3e3",
+   "title": "Enhancing computational efficiency in multiscale systems using deep learning of coordinates and flow maps",
+   "date": "2024-04-28"
+  },
+  {
+   "id": "43879cf527f4918955fd55128baa6745174d8555",
+   "title": "Graph networks as learnable physics engines for inference and control",
+   "date": "2018-06-04"
+  },
+  {
+   "id": "02ecdd6a3df513777b0c450f7bbbe48a29f369b2",
+   "title": "Smart finite elements: A novel machine learning application",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "0e779fd59353a7f1f5b559b9d65fa4bfe367890c",
+   "title": "Geometric Deep Learning: Going beyond Euclidean data",
+   "date": "2016-11-24"
+  },
+  {
+   "id": "84fae4c57e9f65459cf404866f83ff0b70fd7b75",
+   "title": "PolyGen: An Autoregressive Generative Model of 3D Meshes",
+   "date": "2020-02-23"
+  },
+  {
+   "id": "d40531ed81859ce40f119c1bbc1d1cb50af498fd",
+   "title": "Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "1a907442ba7ca5df77c1510a2abbb3c436b855fa",
+   "title": "Hybrid Iterative Solvers With Geometry\u2010Aware Neural Preconditioners for Parametric PDEs",
+   "date": "2025-12-16"
+  },
+  {
+   "id": "ac079a305a0d0159cdf528146ca56003dc75f0ce",
+   "title": "PINN-MG: a multigrid-inspired hybrid framework combining the iterative method and physics-informed neural networks",
+   "date": "2024-10-08"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.6905,
+  0.671,
+  0.6409,
+  0.6117,
+  0.6013,
+  0.5988,
+  0.5882,
+  0.5837,
+  0.5618,
+  0.5433,
+  0.5404,
+  0.5379,
+  0.5316,
+  0.5308,
+  0.5237,
+  0.5176,
+  0.5148,
+  0.4868,
+  0.4858
+ ]
+}

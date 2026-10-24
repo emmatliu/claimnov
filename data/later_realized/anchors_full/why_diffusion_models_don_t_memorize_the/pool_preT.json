@@ -1,0 +1,377 @@
+[
+ {
+  "id": "35ab014ae97f98192824963d00559adb5a699141",
+  "title": "Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "c60bbdfd53783008e864344161ce79f1a780fe71",
+  "title": "Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "d3899b92e7e8e9ff517efa5c22948ce46cad0749",
+  "title": "Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization",
+  "date": "2025-02-05"
+ },
+ {
+  "id": "a3ce587d9a2ed318afa885cd1a84fba023d9ef8c",
+  "title": "Denoising score matching with random features: insights on diffusion models from precise learning curves",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "1d15c4d8aa9dc74cdf38d0622526036c75aa0d35",
+  "title": "Memorization and Regularization in Generative Diffusion Models",
+  "date": "2025-01-27"
+ },
+ {
+  "id": "84f683b80b87da7989f7a2f9fe05234628bae1fb",
+  "title": "An analytic theory of creativity in convolutional diffusion models",
+  "date": "2024-12-28"
+ },
+ {
+  "id": "533d77c2dd250e18da88b269cbb221c4835f1365",
+  "title": "Probabilistic weather forecasting with machine learning",
+  "date": "2024-12-04"
+ },
+ {
+  "id": "9a0632f4b9b1ef0f036e4b8032f0ecb9ab2422a9",
+  "title": "Losing dimensions: Geometric memorization in generative diffusion",
+  "date": "2024-10-11"
+ },
+ {
+  "id": "8bee0f76898b673414edf417965d16572126c22c",
+  "title": "Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion",
+  "date": "2024-10-08"
+ },
+ {
+  "id": "849b9aeff35963c5460d9b54933fe266c252e59f",
+  "title": "Breaking the Curse of Dimensionality: Diffusion Models Efficiently Learn Low-Dimensional Distributions",
+  "date": "2024-09-04"
+ },
+ {
+  "id": "4b4c77e60abb37894792a50649f4d6954dcdc7e6",
+  "title": "Detecting, Explaining, and Mitigating Memorization in Diffusion Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "fc7c347df3b1988228ab8180be6de98e82ba598f",
+  "title": "Towards Memorization-Free Diffusion Models",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "863cfc6c15fb81f57a2a9b4969e4cb896ca794cb",
+  "title": "Dynamical regimes of diffusion models",
+  "date": "2024-02-28"
+ },
+ {
+  "id": "a6f7485dfdf45320e82d84bcfdc51bcd52dff18b",
+  "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+  "date": "2024-02-27"
+ },
+ {
+  "id": "1e33027c18740ece794d07d334b794412788522b",
+  "title": "A Good Score Does not Lead to A Good Generative Model",
+  "date": "2024-01-10"
+ },
+ {
+  "id": "a3eff696eef2d9cf155a4433f8a4e77c78229373",
+  "title": "On the Generalization Properties of Diffusion Models",
+  "date": "2023-11-03"
+ },
+ {
+  "id": "8ca474281465529dca63721f4fcf06d284b33557",
+  "title": "Analysis of learning a flow-based generative model from limited sample complexity",
+  "date": "2023-10-05"
+ },
+ {
+  "id": "122a7e217fe70d5a1a44a6e2b67e859d1fc8e28d",
+  "title": "On Memorization in Diffusion Models",
+  "date": "2023-10-04"
+ },
+ {
+  "id": "a8724abaf519ab9113cf9dcc4c6d17f984de52cf",
+  "title": "Generalization in diffusion models arises from geometry-adaptive harmonic representation",
+  "date": "2023-10-04"
+ },
+ {
+  "id": "3220796addbd971fe9952cb4c53b9db49f43f8ca",
+  "title": "High-dimensional robust regression under heavy-tailed data: asymptotics and universality",
+  "date": "2023-09-28"
+ },
+ {
+  "id": "392cb8df15fd972e1119e70d76590ba0d2790aa5",
+  "title": "Synthetic Lagrangian turbulence by generative diffusion models",
+  "date": "2023-07-17"
+ },
+ {
+  "id": "ec4398c262169eb7c8bcec0ad9916dd898a9a5d1",
+  "title": "Understanding and Mitigating Copying in Diffusion Models",
+  "date": "2023-05-31"
+ },
+ {
+  "id": "6dd1859af3f4856a0d3f9cca81c8d2121fb3979a",
+  "title": "A Survey on Audio Diffusion Models: Text To Speech Synthesis and Enhancement in Generative AI",
+  "date": "2023-03-23"
+ },
+ {
+  "id": "cd7427ba511c126ed0cf32ba9404b6aa53da0153",
+  "title": "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions",
+  "date": "2023-03-15"
+ },
+ {
+  "id": "2e965b5d97c2d6fb4af284307735be39283792ba",
+  "title": "Extracting Training Data from Diffusion Models",
+  "date": "2023-01-30"
+ },
+ {
+  "id": "c287fac6c4c3f913e0e91a196e979ce251e0c624",
+  "title": "Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models",
+  "date": "2022-12-07"
+ },
+ {
+  "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+  "title": "Flow Matching for Generative Modeling",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "1b89413384801db90059abe4b6c00d8d6b0375ce",
+  "title": "Convergence of denoising diffusion models under the manifold hypothesis",
+  "date": "2022-08-10"
+ },
+ {
+  "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+  "title": "Classifier-Free Diffusion Guidance",
+  "date": "2022-07-26"
+ },
+ {
+  "id": "2f4c451922e227cbbd4f090b74298445bbd900d0",
+  "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+  "date": "2022-06-01"
+ },
+ {
+  "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "date": "2021-12-20"
+ },
+ {
+  "id": "9cf6f42806a35fd1d410dbc34d8e8df73a29d094",
+  "title": "Maximum Likelihood Training of Score-Based Diffusion Models",
+  "date": "2021-01-22"
+ },
+ {
+  "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+  "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+  "date": "2020-11-26"
+ },
+ {
+  "id": "014576b866078524286802b1d0e18628520aa886",
+  "title": "Denoising Diffusion Implicit Models",
+  "date": "2020-10-06"
+ },
+ {
+  "id": "823a121be652c615d0d45dd40181558bc2c7d0f2",
+  "title": "Universality Laws for High-Dimensional Learning With Random Features",
+  "date": "2020-09-16"
+ },
+ {
+  "id": "da8b0dd1132f22f42df118d46dd2157e56a74848",
+  "title": "The Gaussian equivalence of generative models for learning with shallow neural networks",
+  "date": "2020-06-25"
+ },
+ {
+  "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+  "title": "Denoising Diffusion Probabilistic Models",
+  "date": "2020-06-19"
+ },
+ {
+  "id": "014e8de014d1a4aaeeb1b1ba8cdfeb04b5220fb2",
+  "title": "Double Trouble in Double Descent : Bias and Variance(s) in the Lazy Regime",
+  "date": "2020-03-02"
+ },
+ {
+  "id": "baa102eb3aaef5fb82f78ab63358610436150607",
+  "title": "Generalisation error in learning with random features and the hidden manifold model",
+  "date": "2020-02-21"
+ },
+ {
+  "id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+  "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+  "date": "2019-12-03"
+ },
+ {
+  "id": "41c0be3adfd33cb6d0cb24c6fb1de109929276ca",
+  "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+  "date": "2019-08-14"
+ },
+ {
+  "id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+  "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+  "date": "2019-07-12"
+ },
+ {
+  "id": "fa260bd84ebb6e87fdba500d12b08e8c643f1b02",
+  "title": "Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit",
+  "date": "2019-02-16"
+ },
+ {
+  "id": "d34b3bb6d5b611e6117e7e25f0b5419d3a99fdf1",
+  "title": "Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks",
+  "date": "2019-01-19"
+ },
+ {
+  "id": "715a73290f260cf2196307e59fe0b6776841f170",
+  "title": "On the Spectral Bias of Neural Networks",
+  "date": "2018-06-22"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+  "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+  "date": "2015-05-18"
+ },
+ {
+  "id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+  "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+  "date": "2015-03-11"
+ },
+ {
+  "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "date": "2014-12-22"
+ },
+ {
+  "id": "6424b69f3ff4d35249c0bb7ef912fbc2c86f4ff4",
+  "title": "Deep Learning Face Attributes in the Wild",
+  "date": "2014-11-27"
+ },
+ {
+  "id": "a669e4ce6e918b9406156fa0f83ad192a2b92f21",
+  "title": "Balancing Symmetry and Efficiency in Graph Flow Matching",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "027ea080f18ea452a11e29da9d8ec3c87083a11d",
+  "title": "Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "821b67f2bfde92704c1dac4ab377d5ea013df3ad",
+  "title": "MGD: Moment Guided Diffusion for Maximum Entropy Generation",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "4b2beb694c718b5411c862d3be76d1996800520e",
+  "title": "Steering Dynamical Regimes of Diffusion Models by Breaking Detailed Balance",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "4520f610e87305bf5568557a8b9d17a6e8171b97",
+  "title": "A Kinetic-Energy Perspective of Flow Matching",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "6f4d62fff722b98291ca4f20a856ac93fd5ba954",
+  "title": "Generative Neural Operators through Diffusion Last Layer",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "4cc09877c5a3f3c6d331eba08fe4594b1e087eb7",
+  "title": "Sparsely Supervised Diffusion",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "146dea8d54ce6e93bf388aa0e9d8579ee7486ea2",
+  "title": "Reducing Memorisation in Generative Models via Riemannian Bayesian Inference",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "af6dcc2b6229ba77934ee8a2d7944a8094974a60",
+  "title": "Revisiting Diffusion Model Predictions Through Dimensionality",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "e84322be86f6803945a4ba7ed86aa1f9c65ddbb2",
+  "title": "Memorization Control in Diffusion Models from Denoising-centric Perspective",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "bb3eec7da6be3016a41af66a8caa5fdf736d0519",
+  "title": "Constraint Breeds Generalization: Temporal Dynamics as an Inductive Bias",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "425ae625c6ecefc57297976c5319ebd436080a31",
+  "title": "Generalization of Diffusion Models Arises with a Balanced Representation Space",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "16c9fa73c06db989c86126173bb49e25ee6c0c18",
+  "title": "Beyond Memorization: Selective Learning for Copyright-Safe Diffusion Model Training",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "db10997740be98f40530c063cd0237dae6e942e7",
+  "title": "Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "c61d45ca2d0c7b5d343a666bbb789b353f822bae",
+  "title": "From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "0392eea0e5d285b0dcc989420149708bac8b20a5",
+  "title": "The Generation Phases of Flow Matching: a Denoising Perspective",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "03a8d4cf393e93f120d04259f12e7da47600b13b",
+  "title": "The Information Dynamics of Generative Diffusion",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "ce1207c3241dd2c987b9acf41d37393c9bd35fb6",
+  "title": "Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "1895c803a45194ef2ac39f2bd96dcdf9b8df4b27",
+  "title": "Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "6565b9978b0a29bf20d09e584f545cdcec0c96ec",
+  "title": "On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "a995e9a117f24a5f43c503b331f6f9bc06ff632d",
+  "title": "Generalization Dynamics of Linear Diffusion Models",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "b331e5311d31a0145673159ae599e71c8f3a6d26",
+  "title": "Understanding Generalization in Diffusion Distillation via Probability Flow Distance",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "a3217e0d5d4587feac7b31db059c2461f60a9fc4",
+  "title": "What Do You Need for Compositional Generalization in Diffusion Planning?",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "2fc303bb6bc284843edab5eb9ca1320199393262",
+  "title": "On the Interpolation Effect of Score Smoothing",
+  "date": "2025-02-26"
+ },
+ {
+  "id": "2c5d684f688e7f692356867552378fca8af3fe81",
+  "title": "Replication in Visual Diffusion Models: A Survey and Outlook",
+  "date": "2024-07-07"
+ }
+]

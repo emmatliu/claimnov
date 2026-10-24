@@ -1,0 +1,697 @@
+[
+ {
+  "id": "fe450d7b24fdcf92c1cb68c69df72ca24cbceb9a",
+  "title": "Exact Record Omission in Delta Attention: A Transport Criterion, Its Cost, and a Replay Certificate",
+  "date": "2026-09-06"
+ },
+ {
+  "id": "986e26f08a9fa7943c7fd34f3468a8c95fa56e58",
+  "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "fcd4afe882b0c3cece4244fe0c26117ad163feb2",
+  "title": "Transfiver: Human-AI Co-Inference through a Shared Editable State",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "02ee9494d77ebb5f35d1112a2b60a86b51c29e4d",
+  "title": "Generative large language models in medicine: a scoping review of recent methodological advances",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "f33b0b528d2af4229c44756fa645d6dde5ecf2d6",
+  "title": "Kathleen Remembers: Length-Invariant One-Shot Recall Without Attention",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "c6fce04a38c98674967232de9d56cd1bc8acc17f",
+  "title": "Can Video World Models Track Unobserved World States?",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "ea334b08b8c06b02b8a69ae7d7cb9ad7913acf4e",
+  "title": "Good Memory Has ECC: Evaluating the Memory of Vision-Language Models Beyond Accuracy",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "0070c4973f588b9187ba0bbefc0f721d88a1cea8",
+  "title": "Titans-QFWP: A Regime-Aware Hybrid Quantum Fast Weight Programmer for Portfolio Optimization",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "8351277f821b8a6faaa37a6baecd64c16b1a23f8",
+  "title": "LongVU-TTT: Causal Test-Time Training for Visual Resampling in Long Video Understanding",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "932fefbb047ef32ef1ab1e02d51374e525a48fa0",
+  "title": "SANE: State Anomaly Neutralization for Stable Extreme-Context Delta-Rule Models",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "17366dc8c2f796686e14d17cff62afd1f1d5a71a",
+  "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "ac0d7e0bfceafc8236d2f411d0091a900b1d89d9",
+  "title": "MoNe: Modular Neural Memory for Efficient Long Context Inference",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "71c85752f3846e936cba4de3a42655f3467a63ce",
+  "title": "Dynamic Compression in Recurrent Networks",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "48b33207781a7d1714a73d15e1f88e95414e05a4",
+  "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "a546eb3cc50ed81b2158b673c9e5e7f520a6c407",
+  "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "2bc97d02615ac66f4691feb5016874de1de23236",
+  "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "1e143a75958ecd594c539cb90d7b92d5f82ad2ba",
+  "title": "StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "780416f96eb2582cc42addf8fe6d3690118f2b02",
+  "title": "Consolidator: Learning Persistent Routed Memory Across Context Boundaries",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "c4fbe663a2ae45d041eb383ab25b9ea0fccfd9f6",
+  "title": "Towards a Formal Definition of Agent Memory: Basis, Span, Optimality, and the Sequential Memory Problem",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "889dc56951db1832b88f5787100e7f7db0fba502",
+  "title": "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "8c997a1092c95806f62a9e40a144dc1aeb112172",
+  "title": "TTMC: Brain-Inspired Test-Time Memory Calibration with Orthogonal Projection for Online Continual Learning",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "f358a697146702c31764abe8c8c28c6ba8231f84",
+  "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "0703778160b0ab669b44c5606c4eea043940025c",
+  "title": "Continual Learning in Transition",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "7091c769bf6317008fa75468c072819dad59020d",
+  "title": "Learning What to Remember: Test-Time Training via Context Distillation",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "02b144cf7e7ca44f42323aed57c9db15be49e489",
+  "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "0668899c8671ad8b4cf50eba5d70da665efe18dd",
+  "title": "Maglev: Sliding Recurrent Memory",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "ed2e612417ea52d4054e7f69bdedcab7eabee566",
+  "title": "Back from the Future: Key-Value Cache Management by Counter-Causal Surprise",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "22804234c6880f008a53e627aedeaf858470e73b",
+  "title": "Can an AI Assistant Really Forget? Auditable Deletion from Addressable Memory",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "c0493855f7f661290ddbe4a0d61a6723b42f6f93",
+  "title": "NMKFR: A Robust Framework for Time-Aware Cold-Start Recommendation",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "378b5acfbd4f5bb8bd1c01325e4bf2eb356fa957",
+  "title": "Metis: Memory Foundation Model",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "73cbe73a7ab6f987efc3177da8788280edb0c12b",
+  "title": "Memory for Large Language Models",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "32b9ee769c5d8925bfb5a0fc9fe7ee8d9d7bed97",
+  "title": "MemSFT: Mitigating Alignment Tax with an External Parametric Memory",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "0c8a7473e1453472f28f5b63dab6e896ea984337",
+  "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "a2cbd8da06e37487019e0070dd39f72fbeeaf176",
+  "title": "Memoir: Should a Model Write to Its Memory While It Thinks?",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "d2dcea463deca9fc6513acc8257571ddb38410b1",
+  "title": "Black-Mamba: Biologically-Inspired Leaky Accumulation for Conceptual Knowledge under Distribution Drift",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "803eebac52c3cbf0cd2c6eccf1a4449041a7803b",
+  "title": "Kernelized Linear Attention: Breaking the Capacity Wall with Symmetric Cones",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "0f9e3bf031a948615d2f68a22326d3222e662ddc",
+  "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "273ff98365654bf4ca6364b7174479ad62589cd5",
+  "title": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "261b1f8ed5dc67ac12a6eb9f3535cb516c3b4b37",
+  "title": "What a Deletion Certificate Covers, and Where It Expires: Auditable Removal from a Support-Vector Memory",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "a54f3e2b79610a1049a7a30dc9751fedc7ced62a",
+  "title": "Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "1b9a3b4e330c2b25a33e52a43b015226453fe937",
+  "title": "What to Keep, What to Forget: A Rate-Distortion View of Memory Compaction in LLMs and Agents",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "bd0037b226923d551f0ddde576d60f0a83547587",
+  "title": "WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "134d4b6ecb5e5044c139b3f8d49738f5ccb4e28b",
+  "title": "ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "18f3aa92e274708e542fc1a425fbe6a9eee4c9ac",
+  "title": "Beyond Perplexity: A Behavioral Evaluation Framework for Deployment-Memory Claims in LLM Test-Time Training",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "7520bf62b6173f31bad27d398ed50ce6a799ff8f",
+  "title": "Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "f271ebf23ca8c19db74dacbccf2b1914418a9e35",
+  "title": "PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "1c4d1db3c84384fd82d77478870ccc21b858aaf1",
+  "title": "Surprise as a Signal for Plasticity and Metacognition",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "00ad9fdd7d57f6d0f3f933bd42844f4dc9dfa92c",
+  "title": "MuonSSM: Orthogonalizing State Space Models for Sequence Modeling",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "7c31c2a517bcab53fd7c6d2767c3f53356e5bdb8",
+  "title": "Mandol: An Agglomerative Agent Memory System for Long-Term Conversations",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "d71a11634425ebc062f84921a909942dc5049929",
+  "title": "Lifelong In-Context Learning with Transformers Requires Parametric Forms of Attention",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "1d3d2f04270110888af84b9222c8a6a41a791b54",
+  "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "2753ce5d64e1d1dc0cc3263dcc9d0c728f64b4f7",
+  "title": "ATMA: Long-Context Language Modeling via Polar Attention and Gated-Delta Compression Memory",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "5eb5bc78ec543a1a556cbf9d6df1dd7e353170e3",
+  "title": "Tapered Language Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "5853c6a653477a40cde9be5b499cd2827187640d",
+  "title": "Test-Time Training with Next-Token Prediction",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "0696622bb8b71de99f343d588b361a68fa198527",
+  "title": "Repeated Shared Access Enables Grokking, but Edit Propagation Depends on an Addressable Memory",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "fdf3fb1260bbc87807105d469bcfdacf5bf557f9",
+  "title": "Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "87cf40b41429ad4e2982e8a36042971ad77eae54",
+  "title": "Q-Delta: Beyond Key-Value Associative State Evolution",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "5bb2c8b85f3d16d59d7c321c511b643730cd7d76",
+  "title": "AdMem: Advanced Memory for Task-solving Agents",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "96dc7510ae1cab59cdb2dfc087a32d725c00438d",
+  "title": "Planning-aligned Token Compression for Long-Context Autonomous Driving",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "6f46783ee30d6df54af38023ebc113d8681b6098",
+  "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "5d4e0c68814409736c3e85b8826b80eb78f52394",
+  "title": "UniPTMs: a unified multi-type PTM site prediction model via master\u2013slave architecture-based multi-stage fusion strategy and hierarchical contrastive loss",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "347650ce5f3201f54e13f193e2b614b6a21dec1c",
+  "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "a2c1ac3d56532780e00f3448d0fee499441fa0f2",
+  "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "149e20f38a94f484d4c1b4fffa8b5639d1be3c57",
+  "title": "Don't Read Everything: A Curvature-Conditioned Query for Linear Attention",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "3a084d5ab135a54e14787485e8a3b01f2e06e44d",
+  "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "1899327e38f8ab32af036a788baa02351c3f6940",
+  "title": "AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "072e20fd4fc8869751acfe53d95f298717d2ea11",
+  "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "dcbb81cf80a1f4cc39066feddba31ae75c855586",
+  "title": "Rethinking Memory as Continuously Evolving Connectivity",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "defc304f26e488a9a4921df81d2b06cee6d6ce0d",
+  "title": "Universal Time Series Generation with Neural Controlled Differential Equations",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "3bdb2ef4f6545cf2c2a16a7efc644d027c6df88c",
+  "title": "Multi-Mixer Models: Flexible Sequence Modeling with Shared Representations",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "acd6bb37712be184fab70ea727ea47f76e6f2101",
+  "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "121eecbbad4114f91069f80613f5c34124e57aab",
+  "title": "Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "ff815552a12fa27c6bc22eb9e5c51ee29fc217db",
+  "title": "NestedKV: Nested Memory Routing for Long-Context KV Cache Compression",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "4e40e052b2da69e0b33fe06463a7d469741ea413",
+  "title": "Mitigating Provenance-Role Collapse in Long-Term Agents via Typed Memory Representation",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "36f0e5aacd32f5e677f1f44959f4f0d57f9c2a68",
+  "title": "IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "811b5f616aadc4d9a742ddbcbccccc8478f3d744",
+  "title": "Interdomain Attention: Beyond Token-Level Key-Value Memory",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "64b39218817e41caef166a87d8874c9a4b37babc",
+  "title": "PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "03bd3e3f7321580508fe6ab4c216d40ddc008266",
+  "title": "Preisach Attention: A Hysteretic Model of Sequential Memory",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "4cd7a8d8f392d3d5bd5a87c3a456cad03d0a7e7d",
+  "title": "How Many Different Outputs Can a Transformer Generate?",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "40e218b4ae23aabe3c8351177f1003f9721600ad",
+  "title": "TIDE: Asymmetric Neural Circuits for Stabilized Temporal Inhibitory-Excitatory Dynamics",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "4ae339e2c2a8c75aca45a0b6f4f0dcf9ab91069e",
+  "title": "Dynamic nested hierarchies: self-evolving machine learning architectures for lifelong learning",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "571c71eabf3b5ad7d809467fbaacc77af60074de",
+  "title": "OSDN: Improving Delta Rule with Provable Online Preconditioning in Linear Attention",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "53bf42a3057bb3da5f7c735a226b7c9a800977ca",
+  "title": "CogniFold: Always-On Proactive Memory via Cognitive Folding",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "a59a4d8c5ddbdec97a9d3e03e4afa813a2f70bfa",
+  "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "fa5983c1d75dda92d575038ad142053628ffe526",
+  "title": "Composition of Memory Experts for Diffusion World Models",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "2825a1f858c5c4928eab7e340e6afba660f5bdd2",
+  "title": "Think as Needed: Geometry-Driven Adaptive Perception for Autonomous Driving",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "c2de963ee6f209dd5affe51f8b532ea8224dcc31",
+  "title": "Key-Value Means: Transformers with Expandable Block-Recurrent Compressed Memory",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "0ec53ce590a5daba3e32d05813005469efab33c0",
+  "title": "Mela: Test-Time Memory Consolidation based on Transformation Hypothesis",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "d3eeb370b8846fa1a47e064565ee141301fab24f",
+  "title": "A Single-Layer Model Can Do Language Modeling",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "bd6168f9cea1c2b47c629ce7edb0d35bfe32e3e2",
+  "title": "An SE(3)-equivariant and dynamic multi-modal engine advancing from PTM site prediction to network understanding",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "2414b79adc32c9c454497f8c9611c758bb7249b4",
+  "title": "LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "f7c96417f598082dc7cf0b04106573a55d3ec041",
+  "title": "A Brain-Inspired Framework for Memory Prioritization in Neural Networks Based on Valence",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "32291ff2c915d4559bf50140c2694580f79980bd",
+  "title": "Federated Nested Learning: Collaborative Training of Self-Referential Memories for Test-Time Adaptation",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "0cdbf4deddcaac28bbd0eab0d7cbf6f8d5ec52f3",
+  "title": "MDN: Parallelizing Stepwise Momentum for Delta Linear Attention",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "31dff60cd449bdb7f920ba5b47c428cd4a29ba84",
+  "title": "Retrieval from Within: An Intrinsic Capability of Attention-Based Models",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "1c89de35696bf695378dc9a734e6e1848c754cee",
+  "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "a592c77c38f58b89f9c3cbac96771b795ed019fb",
+  "title": "The Impossibility Triangle of Long-Context Modeling",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "80062282552df97c228efcb95682c24a2bc9fcc5",
+  "title": "Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "4bb0754843fc7b058784aa0ec79b1a1904ddcfd4",
+  "title": "Species-specific transformer models of bacterial gene order and content for genomic surveillance tasks",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "556bafa5d9865b2977ef931efc98e298bd3143dd",
+  "title": "Bilevel learning",
+  "date": "2026-05-02"
+ },
+ {
+  "id": "14ff5c251eabea1e3af9ada6268d9d08df7b062c",
+  "title": "A KG-LLM Pipeline for Automated Regulatory Alignment in CPS-IoT Systems",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "d87d60ee99ff2993520eae8b09cd80e1b2ddcb48",
+  "title": "Beyond the Attention Stability Boundary: Agentic Self-Synthesizing Reasoning Protocols",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "03c397084f37d92d449511635d3f8bd46922837d",
+  "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "d3944893325ad2906c09870ceef1d2bdb3935229",
+  "title": "Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "d0a36495b0a587f283baefc81c44e14ff5946791",
+  "title": "FG2-GDN: Enhancing Long-Context Gated Delta Networks with Doubly Fine-Grained Control",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "28b4eaa34c8918550420d1391071561432ff4cad",
+  "title": "Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "ee3f7be0c7e03b80a11a5ac49ff0f27876229901",
+  "title": "Beyond Meta-Reasoning: Metacognitive Consolidation for Self-Improving LLM Reasoning",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "56fead1a8cad24340dae325acb5be28654562ea4",
+  "title": "DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "59cd3a2ef2325f6817f1a8a4bdae60e5b2e63e9f",
+  "title": "Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "fecf61df052be249b6c2f7f9f2e4e09b0fc24d6b",
+  "title": "Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "0263e93876bec6ed6c5f6fbd718d7edf8b25157e",
+  "title": "Fast Spatial Memory with Elastic Test-Time Training",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "3008be7598614b60f81742bc80a47d63d1c604b7",
+  "title": "In-Place Test-Time Training",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "73baca7825e9928f11c3c6553ce744bed93ab261",
+  "title": "Agentic Tool Use in Large Language Models",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "e34fc3f6f0efc420d7615a4bc3350abd5561181c",
+  "title": "Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "13d19e0b5196b097d8ba53dac10dbc9d46527989",
+  "title": "Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "4a5e442f79c4f1a8fcbdff1367e48f748c48f284",
+  "title": "Persistent Memory Through Triple-Loop Consolidation Under Stochastic Unit Turnover",
+  "date": "2026-03-28"
+ },
+ {
+  "id": "a05bf8c33703bc1424409690b6364ca445526f1b",
+  "title": "PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "768d45e915c3de59ea780d61c9612ba4aa106635",
+  "title": "Mixture of Chapters: Scaling Learnt Memory in Transformers",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "e016fb1f0ed9d4bff161cd618b5dc9cd499b7c8e",
+  "title": "Context Cartography: Toward Structured Governance of Contextual Space in Large Language Model Systems",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "054725120425ac572b5d07ba9b90c8d3ba9bf136",
+  "title": "Efficiency Follows Global-Local Decoupling",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "578535084fc0686ad21653fff60385c0bb74c441",
+  "title": "Hybrid Associative Memories",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "a205390e3c921ed9221b667e67aeed483134913c",
+  "title": "MANAR: Memory-augmented Attention with Navigational Abstract Conceptual Representation",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "612b9268a7eb193dfe323de1c2a340b12c9b2a35",
+  "title": "Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "72a795f28a93734dfd79de1728a6b0de055e1677",
+  "title": "MemArchitect: A Policy Driven Memory Governance Layer",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "6658abe4b70757bc1a802657203c55d83d3d267b",
+  "title": "From the Inside Out: Progressive Distribution Refinement for Confidence Calibration",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "9868da0bcb0a9615a9f39f6c98ed26e137eee305",
+  "title": "MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "28f26d9f92233924f209ff87cd195b3920724816",
+  "title": "Selective Memory for Artificial Intelligence: Write-Time Gating with Hierarchical Archiving",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "82c0b4a4c4e9fd48077f97ece80956ae1e7d97b3",
+  "title": "GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent",
+  "date": "2026-03-14"
+ },
+ {
+  "id": "14f1f3ef08088c636e3b65f4dc7e1a31f84ae536",
+  "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "aba1afd4ec132da154ff9c8021aa9e0744c30d32",
+  "title": "LPC-SM: Local Predictive Coding and Sparse Memory for Long-Context Language Modeling",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "418a69fc3ca55723210f9f9f3a88fdd6c8463a8c",
+  "title": "Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "b1819d454c820120d550bb150d8b0dd701d2b294",
+  "title": "Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "51c0861aebcc7042be27d64da9a08f3b939875d5",
+  "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "3379ac3ef4f014e3eceb95ed7fd3d7b428be237b",
+  "title": "ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "c6b05297eb491ddb669a5d88b5a3dc8490248318",
+  "title": "A Neuropsychologically Grounded Evaluation of LLM Cognitive Abilities",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "c522c068714f28acf790401d21cbeb17298c9f14",
+  "title": "Modular Memory is the Key to Continual Learning Agents",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "c856c2bc3ef2299f76c191750b45617d8215bf02",
+  "title": "Tool Verification for Test-Time Reinforcement Learning",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "5ee494622271c88b5cea848aaf881966c5d49b3e",
+  "title": "TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "218f289b2e69a6b0cb93c5c3a8458391d14d1e73",
+  "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+  "date": "2026-03-01"
+ }
+]

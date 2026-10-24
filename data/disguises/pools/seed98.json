@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_174eb000ab1b0187b37558abc7456f06ebb44233",
+   "title": "Latent Laplace Diffusion for Irregular Multivariate Time Series",
+   "date": "2026-05-19",
+   "is_B": true
+  },
+  {
+   "id": "195dc158fa820c70f9d9892b7f2a150ca0cfc939",
+   "title": "DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting",
+   "date": "2023-06-03"
+  },
+  {
+   "id": "7d9fcc512c425c2deb9c24be25518cfd3dfe0491",
+   "title": "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting",
+   "date": "2023-07-21"
+  },
+  {
+   "id": "1823ce7fc8179b71d63692646a2ac346761eeb50",
+   "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction",
+   "date": "2023-06-08"
+  },
+  {
+   "id": "31603b3339f4da5bdc6b7de4231bd1ddfb32a50a",
+   "title": "Neural Controlled Differential Equations for Irregular Time Series",
+   "date": "2020-05-18"
+  },
+  {
+   "id": "ef7993ab30d0a8afabb4ebab080e471c0d5c743c",
+   "title": "Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models",
+   "date": "2022-08-19"
+  },
+  {
+   "id": "d70125dc8a5bc89bc0fc9a95767dd4510260d737",
+   "title": "Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "c5e9555d22118a36d19feb76c56fb164fb3b20d4",
+   "title": "Physics-Informed Diffusion Models",
+   "date": "2024-03-21"
+  },
+  {
+   "id": "07334ab67ee57811f32da13588f900e8dc3211c6",
+   "title": "Interpolation-Prediction Networks for Irregularly Sampled Time Series",
+   "date": "2019-09-13"
+  },
+  {
+   "id": "8982bb695dcebdacbfd079c62cd7acca8a8b48dc",
+   "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "ed910407900873a2dca8431b54bfb5f95cafd49c",
+   "title": "Neural Laplace: Learning diverse classes of differential equations in the Laplace domain",
+   "date": "2022-06-10"
+  },
+  {
+   "id": "3711a745537f2f2e139ec759d36f31946fa549fd",
+   "title": "N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting",
+   "date": "2022-01-30"
+  },
+  {
+   "id": "5ee2008c1eab4545f1e001b2cf3c0578b7a1aafe",
+   "title": "ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling",
+   "date": "2024-02-16"
+  },
+  {
+   "id": "9ced9dac3aca804522f474d39595b4c44d277303",
+   "title": "Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series",
+   "date": "2023-06-14"
+  },
+  {
+   "id": "014576b866078524286802b1d0e18628520aa886",
+   "title": "Denoising Diffusion Implicit Models",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "59a546126a456911c04efeebc311aeb8128f4be0",
+   "title": "Modeling Irregular Time Series with Continuous Recurrent Units",
+   "date": "2021-11-22"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "70e5e9bd353d1b1e54b4eebd3a67b58026a13dff",
+   "title": "PrimeNet: Pre-training for Irregular Multivariate Time Series",
+   "date": "2023-06-26"
+  },
+  {
+   "id": "bd723bc768baa78b7bd3e6f28a401d6d5cfe87f8",
+   "title": "Recurrent Neural Networks for Multivariate Time Series with Missing Values",
+   "date": "2016-06-06"
+  },
+  {
+   "id": "33cb7b4d3b1e849748f4163cee821bf1306a118b",
+   "title": "BRITS: Bidirectional Recurrent Imputation for Time Series",
+   "date": "2018-05-01"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.7106,
+  0.6645,
+  0.6526,
+  0.5871,
+  0.5857,
+  0.5817,
+  0.5809,
+  0.5642,
+  0.5625,
+  0.5576,
+  0.5457,
+  0.5452,
+  0.5401,
+  0.54,
+  0.5279,
+  0.5175,
+  0.5166,
+  0.514,
+  0.5096
+ ]
+}

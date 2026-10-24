@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_92dd23025dab88d9922047f84a21b40b9f12a596",
+   "title": "Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence",
+   "date": "2026-03-08",
+   "is_B": true
+  },
+  {
+   "id": "37cc48c8e1ebadd56ee6295f7afec9cc8f11b29d",
+   "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "cc2038510f2027fa504961e5268cf778487a67cc",
+   "title": "SpaceR: Reinforcing MLLMs in Video Spatial Reasoning",
+   "date": "2025-04-02"
+  },
+  {
+   "id": "cd1d87e7e31a05a82b6b25bf231f831c39006ef1",
+   "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+   "date": "2025-11-06"
+  },
+  {
+   "id": "88df9aaf190e392fa64d19e0c0ae5932a9b643fd",
+   "title": "SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models",
+   "date": "2025-11-28"
+  },
+  {
+   "id": "5c93b01196374e36912c16cec0b3943ba4467559",
+   "title": "Visual Spatial Tuning",
+   "date": "2025-11-07"
+  },
+  {
+   "id": "054b40c7582366866f0a35160469ead3750fcab1",
+   "title": "MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "1c14b22e6852dd9e17062e697bfcb087753e1944",
+   "title": "Scaling Spatial Intelligence with Multimodal Foundation Models",
+   "date": "2025-11-17"
+  },
+  {
+   "id": "13398189baf8efc4660825c641aba15d883f51e4",
+   "title": "Holistic Evaluation of Multimodal LLMs on Spatial Intelligence",
+   "date": "2025-08-18"
+  },
+  {
+   "id": "e52e37cd91366f07df1f98e88f87010f494dd16e",
+   "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+   "date": "2017-02-14"
+  },
+  {
+   "id": "ac980fe6382a89d50ebf395f626b8677541a2547",
+   "title": "DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision",
+   "date": "2023-12-26"
+  },
+  {
+   "id": "ac00b6290ec4c3ed558a81c1dd03b0e4dedb3d1e",
+   "title": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "941dea94c02b3e670bab4261dac56cb5b0b2d2f4",
+   "title": "Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "10301766e5686bda76722ef2af1362213b934cc0",
+   "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model",
+   "date": "2025-01-27"
+  },
+  {
+   "id": "c08273cf614e633efbe8d44411d6a1046ee4a65f",
+   "title": "MindCube: Spatial Mental Modeling from Limited Views",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "9a7fcc41c5da78aa961eb8225a55f1df6539b649",
+   "title": "From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "4b033c4d2e38ff0b70cd6695d09cd3cf5881b681",
+   "title": "A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science",
+   "date": "2025-04-14"
+  },
+  {
+   "id": "fc96c4a7d4708bfd6138bfd16482229975404499",
+   "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes",
+   "date": "2023-08-22"
+  },
+  {
+   "id": "42fb38cba6e078a1c5c2d98694dd55613ebca150",
+   "title": "LangSplat: 3D Language Gaussian Splatting",
+   "date": "2023-12-26"
+  },
+  {
+   "id": "c03ed10a4b8d435401e96e784e949a944e550d22",
+   "title": "LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding",
+   "date": "2024-12-23"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.6855,
+  0.6846,
+  0.6841,
+  0.6622,
+  0.6548,
+  0.6517,
+  0.6506,
+  0.6275,
+  0.6191,
+  0.619,
+  0.5984,
+  0.5933,
+  0.592,
+  0.5911,
+  0.5817,
+  0.5686,
+  0.5615,
+  0.5563,
+  0.5396
+ ]
+}

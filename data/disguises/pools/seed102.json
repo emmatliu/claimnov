@@ -1,0 +1,97 @@
+{
+ "pool": [
+  {
+   "id": "B_f6d9cd309367f7393c3b42548f03ba56b3bd691d",
+   "title": "Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing",
+   "date": "2026-09-06",
+   "is_B": true
+  },
+  {
+   "id": "11edac6632bf3feb18d7fc0dedca93ea1b990bf7",
+   "title": "Simple Regret Optimization in Online Planning for Markov Decision Processes",
+   "date": "2012-06-15"
+  },
+  {
+   "id": "bdc9bfb6ecc6fb5afb684df03d7220c46ebdbf4e",
+   "title": "Integrating Sample-Based Planning and Model-Based Reinforcement Learning",
+   "date": "2010-07-03"
+  },
+  {
+   "id": "cd98161ae841a79ef5fe7de5f9f69184ce607b29",
+   "title": "Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning",
+   "date": "2016-12-05"
+  },
+  {
+   "id": "e0567d531294b610f7071e9b8f1ac0b105ca7bc8",
+   "title": "Efficient Learning for Entropy-Regularized Markov Decision Processes via Multilevel Monte Carlo",
+   "date": "2025-03-27"
+  },
+  {
+   "id": "6f840ce7c8373c11f89ea1693d0cab170627d31f",
+   "title": "Stochastic Optimization for Large-scale Optimal Transport",
+   "date": "2016-05-27"
+  },
+  {
+   "id": "3298d7ff91feca265793c57d3daaa8f79a15b72f",
+   "title": "Planning in Markov Decision Processes with Gap-Dependent Sample Complexity",
+   "date": "2020-06-10"
+  },
+  {
+   "id": "2e7d1e21409a90e66106722506aeb434ee7a18f3",
+   "title": "A unified view of entropy-regularized Markov decision processes",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "b3b3d1d6d36ac203cd06c00bb37e66c000430275",
+   "title": "A Theory of Regularized Markov Decision Processes",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "811df72e210e20de99719539505da54762a11c6d",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "date": "2018-01-04"
+  },
+  {
+   "id": "ac33aaa81ebe93690c6364dfae599aa55d7fb51e",
+   "title": "Bandit Algorithms for Tree Search",
+   "date": "2007-03-13"
+  },
+  {
+   "id": "8e51d68250db5637cd6bc1de98a99396441399b2",
+   "title": "Computational Optimal Transport",
+   "date": "2018-03-01"
+  },
+  {
+   "id": "0080118b0eb02af581ff32b85a1bb6aed7081f45",
+   "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transport",
+   "date": "2013-06-04"
+  },
+  {
+   "id": "9172cd6c253edf7c3a1568e03577db20648ad0c4",
+   "title": "Reinforcement Learning with Deep Energy-Based Policies",
+   "date": "2017-02-27"
+  },
+  {
+   "id": "4a40c0dbb166d27c8fe4b86aacf98f65173faf38",
+   "title": "Monte-Carlo Tree Search by Best Arm Identification",
+   "date": "2017-06-09"
+  }
+ ],
+ "n_candidates": 14,
+ "sims": [
+  0.5477,
+  0.5216,
+  0.506,
+  0.5018,
+  0.4836,
+  0.4812,
+  0.4528,
+  0.4242,
+  0.423,
+  0.4127,
+  0.4005,
+  0.3757,
+  0.3646,
+  0.3628
+ ]
+}

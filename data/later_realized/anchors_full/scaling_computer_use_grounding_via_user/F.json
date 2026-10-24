@@ -1,0 +1,272 @@
+[
+ {
+  "id": "5ece479cb5b29bb21e1a36ed7e0732c15390595c",
+  "title": "UI-Venus-2 Technical Report",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "38aecb40f8167b98b88e55da216155277b6a870f",
+  "title": "GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "42c3beec05162975e1cac53e5bae97d0addd38f9",
+  "title": "FigmaTrace: Capturing Creative Nuances in Human Figma Design Workflows",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "74e125178d26886374867340c1638281efbad8f9",
+  "title": "SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "17d10be4ee45da17329d978cd9836467338ec0d4",
+  "title": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "fa28cb877c3d85a38a1fe8f5c349fce8cf7eb84d",
+  "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "303fd3964898e22fce6518b595a269e8a93872a7",
+  "title": "Qwen-CUA: Native Computer Use for (almost) Everything",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "21be08e890dc3ee751882f404bf454a9608799ce",
+  "title": "Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "b2674403a95193e595fd614eb5c3f44bb4e4b675",
+  "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "6ff39240f257ec9005f1f38a34710495b046b898",
+  "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "e8b5f97061c3c622514aafd35e7b652bf889a4c6",
+  "title": "HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "5469daa5a1d53c1f48c3ecc54c9143a5200751b5",
+  "title": "SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "7e7eab324eeb2a16cedbe9b9fc31a6875e696316",
+  "title": "Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "740534cdf0367e97de470019ca05e14ed13c991a",
+  "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "c11746246059bb75e77d2117160a63f1c2a12656",
+  "title": "Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "4f4901b1b13593e0cfbb5104c5c2cc450ecdab4c",
+  "title": "Xiaomi-GUI-0 Technical Report",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "71b954424c6f5b9aa8aaa95182ea694ac9949320",
+  "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "6ffc017fd5347b3c6067f8e76754f8f92ba96057",
+  "title": "WinDOM: Self-Family Distillation for Small-Model GUI Grounding",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "2824bc94c44fd9fc84362801a7983a4d4a611e29",
+  "title": "Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "3d9d5b2077ce792bfa60102005927569e45772c9",
+  "title": "Fara-1.5: Scalable Learning Environments for Computer Use Agents",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "eb7e7579704a16188df5f05f10b44f8ef93bbf90",
+  "title": "Skill-Guided Continuation Distillation for GUI Agents",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "7c1ae4ca3eb3fbeaa109434ceaabffad10285a68",
+  "title": "Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "0fd3b0a48b626c668846795252959ca96b6b0cb3",
+  "title": "WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "24454c52c770125ad6e3f126d2d45c41c694d951",
+  "title": "Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "8c14656b643ca5293f7308fea89d61738a91bc3b",
+  "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "60a22547f079a491bc37a8a4f17fc094e0f6ad76",
+  "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "ae2fbe593787f8f3eea929d3c1a0e611c3997a07",
+  "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "69f838632e536793f823fea37c5b29a83d9e0988",
+  "title": "MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "ffce3a7deaf7a82b432e84b0ecf5f56a1ba5d8ff",
+  "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "68332fdd138223f36c5ed08ee49ad3e204bda18a",
+  "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "f057b04bef5cc60b0f80be6f8c1dcb9acf651263",
+  "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "073fc3f8468d0536b74a4598cd86bf8ee5ded6f9",
+  "title": "What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "7f3170be18e623c000fe653ed0e076d45b0f0ece",
+  "title": "LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "dfc6bb00b68ff28b4065c777e426398c74df1556",
+  "title": "AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "d4d3a3b7d0594667543a54112aa5d6086440e040",
+  "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "7b31d779bfe315a32ce4ed53734adf4217021b0e",
+  "title": "FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "1d46b966b1984f4e46b2641a42e49ef53803a11a",
+  "title": "Benchmarking and Improving GUI Agents in High-Dynamic Environments",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "f40d01af18a719f5aaedc0b4067396a2de24a382",
+  "title": "Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "c40b9ea8df9d0b6de0cc8d1c5ff279d3c9f9fb89",
+  "title": "Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "f251d9c16fe550be55698415f2b7f9d0bdd48f18",
+  "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "74d03e405ee630f4f5baa200f35f6ead43f4a79d",
+  "title": "UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "ccdfbebfaa782c0a15d4af9b4fdbd41c4309a6ed",
+  "title": "GUI-Perturbed: Domain Randomization Reveals Systematic Brittleness in GUI Grounding Models",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "8174119588041d2b8bc04f56fb08a1af494759b5",
+  "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "9213d640fa97b1afa3c8a75f1f10aef400d2c7a8",
+  "title": "Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "d830315b2a6a2d6a5f32a697bc4e8252ce00a796",
+  "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "78319d20f2002864a9b6ccb23a466d0eb9f46259",
+  "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "530db1b5821c0921f864f73db86e26b8e02aa191",
+  "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "33c21d8a7aed0ec38aadc2962578fa5dfc9fbd13",
+  "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "3993cf68e530cb76bff22e7ded87ed61640be6de",
+  "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "f91b1843f32aebe9dc1a904d528e8f35967fc834",
+  "title": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "087c45b39d27f494f1aaf097b4329219cc120620",
+  "title": "Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "a02a9cc19c734e9909cd03a3aba42a647c7930f9",
+  "title": "Anticipatory Planning for Multimodal AI Agents",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "e87f448a71d339966029e986b981aa19d863b2ef",
+  "title": "Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "1e898ee0ab5821caefb7d4d2c089d72272f27934",
+  "title": "Video-Based Reward Modeling for Computer-Use Agents",
+  "date": "2026-03-10"
+ }
+]

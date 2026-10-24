@@ -1,0 +1,3042 @@
+[
+ {
+  "id": "6af804207a40dc35c23361a1ff85d6a63c3483f5",
+  "title": "Winning Gold at IMO 2025 with a Model-Agnostic Verification-and-Refinement Pipeline",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "e9c6bb610149ffae9716e636b60dc8c5316a1ff1",
+  "title": "QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "233a096b55dae7a3da37a1bb43cecf7f7bd111b2",
+  "title": "StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "ed32e5bb11a9e5e2f03ea805782e8670a6e10efd",
+  "title": "AlphaEvolve: A coding agent for scientific and algorithmic discovery",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "568dde53ebd55103129eb9cdbe86014d34d8a47d",
+  "title": "Magistral",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "d6a29be03a0497602e89311ec38e5141335647c5",
+  "title": "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "cf5f4acfd80e30c141c132322e012bac687c74ab",
+  "title": "AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "d2d84d56f730f81d276a02b48d5d44db5bde0b4a",
+  "title": "Qwen3 Technical Report",
+  "date": "2025-05-14"
+ },
+ {
+  "id": "09b2a0f0d7c1164ab334e13e70eb0d65b5b96393",
+  "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "07017b4c848371df9414f64d91002292d42324cd",
+  "title": "Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining",
+  "date": "2025-04-10"
+ },
+ {
+  "id": "f5d194b600e4e4021564f3647afde07308ac41d3",
+  "title": "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model",
+  "date": "2025-04-10"
+ },
+ {
+  "id": "0eb0484d19b8cbfeae73163fe9bff41089a985fa",
+  "title": "Rethinking Reflection in Pre-Training",
+  "date": "2025-04-05"
+ },
+ {
+  "id": "de23d38bc2604dcf334dcc46aff217eb6bcd1fe1",
+  "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+  "date": "2025-03-26"
+ },
+ {
+  "id": "16db56b5a57f2e675e5c4f60ca0fbd5764915a5e",
+  "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+  "date": "2025-03-24"
+ },
+ {
+  "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+  "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "71b7a18e75dc540c889be080f4206460359ea20d",
+  "title": "Qwen2.5-1M Technical Report",
+  "date": "2025-01-26"
+ },
+ {
+  "id": "668075792a7ab40457d92e09da28d35c879271c3",
+  "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "88aa6b1f37d1fd8e0a40499ce9bb87873f03aaa8",
+  "title": "Qwen2.5 Technical Report",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "6a7c29829227bfd65ae0ffec294a874bb9ea0871",
+  "title": "T\u00dcLU 3: Pushing Frontiers in Open Language Model Post-Training",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "f2d0f3d47ae850f49a58f4977393bd0025af4bec",
+  "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+  "date": "2024-09-28"
+ },
+ {
+  "id": "f66b6049946a10080d1f2a7ee6a40e5cca3ee6a0",
+  "title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "40e8af970329135ec95057d73e239dab805ad128",
+  "title": "The Llama 3 Herd of Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "afe0998d191f3ea8490c7df100a3ffc5dcc62c5e",
+  "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+  "date": "2024-03-12"
+ },
+ {
+  "id": "e96c86407b3acf09e5d7729bec201824b717b476",
+  "title": "Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset",
+  "date": "2024-02-22"
+ },
+ {
+  "id": "bcf2c7e3f4ed64c8294c35a59220a26dd4f40060",
+  "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+  "date": "2024-02-21"
+ },
+ {
+  "id": "35b142ea69598e6241f0011312128031df55895c",
+  "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+  "date": "2024-02-05"
+ },
+ {
+  "id": "d3f8d5a9c48ee9f338f25f1be5f3adc7fd5dd855",
+  "title": "ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models",
+  "date": "2023-10-16"
+ },
+ {
+  "id": "8946891e94831adc8cddb0d32311cce2445c96d2",
+  "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+  "date": "2023-10-03"
+ },
+ {
+  "id": "182c7b40ff7560a5545764814338f55a2098e441",
+  "title": "Reinforced Self-Training (ReST) for Language Modeling",
+  "date": "2023-08-17"
+ },
+ {
+  "id": "fbd2c8089870814449f9254a711041bbae145a82",
+  "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources",
+  "date": "2023-06-07"
+ },
+ {
+  "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+  "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "date": "2023-05-29"
+ },
+ {
+  "id": "b45ec1cb2ba6b2d1ac24723fa836aee06a3db97a",
+  "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+  "date": "2023-05-02"
+ },
+ {
+  "id": "163b4d6a79a5b19af88b8585456363340d9efd04",
+  "title": "GPT-4 Technical Report",
+  "date": "2023-03-15"
+ },
+ {
+  "id": "912a39c2e0e4a35747531669cfa952d2c5627729",
+  "title": "Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",
+  "date": "2022-10-03"
+ },
+ {
+  "id": "ab0e3d3e4d42369de5933a3b4c237780b41c0d77",
+  "title": "Solving Quantitative Reasoning Problems with Language Models",
+  "date": "2022-06-29"
+ },
+ {
+  "id": "e3c598f5233d91f887edb626bb02ba86010a69c0",
+  "title": "Value-Consistent Representation Learning for Data-Efficient Reinforcement Learning",
+  "date": "2022-06-25"
+ },
+ {
+  "id": "23dd78e424d32f6a48660dcd67ce994b8a7db8be",
+  "title": "STaR: Bootstrapping Reasoning With Reasoning",
+  "date": "2022-03-28"
+ },
+ {
+  "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+  "title": "Training language models to follow instructions with human feedback",
+  "date": "2022-03-04"
+ },
+ {
+  "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+  "title": "Training Verifiers to Solve Math Word Problems",
+  "date": "2021-10-27"
+ },
+ {
+  "id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+  "title": "Evaluating Large Language Models Trained on Code",
+  "date": "2021-07-07"
+ },
+ {
+  "id": "fb1c90806fc5ec72987f58110aa255edbce6620d",
+  "title": "Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning",
+  "date": "2021-05-10"
+ },
+ {
+  "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+  "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+  "date": "2021-03-05"
+ },
+ {
+  "id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+  "title": "The Curious Case of Neural Text Degeneration",
+  "date": "2019-04-22"
+ },
+ {
+  "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+  "title": "Proximal Policy Optimization Algorithms",
+  "date": "2017-07-20"
+ },
+ {
+  "id": "32576eb17d61bd56c5c0804a8b08df5c231ac636",
+  "title": "Recycling Failures: Salvaging Exploration in RLVR via Fine-Grained Off-Policy Guidance",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "32d4e06a1e790b3693b99e6cbce5dd6ca818ae68",
+  "title": "Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "580d1e3c630a409a259ddc6ce3ba48b3b3f3aef9",
+  "title": "ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "fe39dc7edaabf67b3a7891467e07135f9fabe0f1",
+  "title": "Reinforcement-aware Knowledge Distillation for LLM Reasoning",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "1dbc97f49abe9fd5271081913b61586c365a82c9",
+  "title": "NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "335518f51ee721b6c224138ba8f757703434c00f",
+  "title": "Transcoder Adapters for Reasoning-Model Diffing",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "ce77d14b72360a71e6836c4bcb25913c96af7cf2",
+  "title": "Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "4372443b7f99e7633a8d8d8615454787081059f1",
+  "title": "Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "5df3d4e8ffd38a417da455aff5eb36783c0ac22d",
+  "title": "LAD: Learning Advantage Distribution for Reasoning",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "4c7759a740f66a13e1b26fc9eb5947a2b38b2202",
+  "title": "RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "8eb299469b1e27063035a2061a1ef08b2608223b",
+  "title": "LLMs Can Learn to Reason Via Off-Policy RL",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "b9000e0514f23f771497458c70cf844bf303d9a9",
+  "title": "Learning to Detect Language Model Training Data via Active Reconstruction",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "6ab6498fdbd3cf8c543010ca1823913a69cf3f40",
+  "title": "MagicAgent: Towards Generalized Agent Planning",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "f3d5b4391c7f7abba9dcda33319e6af188c5ba3f",
+  "title": "How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "05f59829bfd0224fa2a5532f076cdd96feb453ea",
+  "title": "Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "3fd30408271e03afd2a4687e3ebb6428c5e29394",
+  "title": "Not all tokens are needed(NAT): token efficient reinforcement learning",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "ea6e507138cf110d7cbf282f777e2c4095fcc9e6",
+  "title": "CADReasoner: Iterative Program Editing for CAD Reverse Engineering",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "c61a1c3d1e9a29bb6f533f162cc8d521bfae73cc",
+  "title": "Interactionless Inverse Reinforcement Learning: A Data-Centric Framework for Durable Alignment",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "44ab50aeda9b3003b9bc19d0f5c117443c3f3364",
+  "title": "Disentangling Deception and Hallucination Failures in LLMs",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "ae683417ff1a33451dcba503b00a44d27fe45616",
+  "title": "Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "9fa706669d8e3e0e4213ae709b591b50587f303c",
+  "title": "GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "1736bb236b7cef7f974cf6fee365b024062eeb9b",
+  "title": "Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "8b2553189fcd68d536ff619c414a5213ff10a68a",
+  "title": "Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "f337ef64a802a3035a5b48447093e00a7bacc1a2",
+  "title": "Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "0d74cb2ba2422adf9a5b04b3adb06c087f636374",
+  "title": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "5d446cb0623a1cee5b144adb8b147a9b13504686",
+  "title": "Generalized Discrete Diffusion with Self-Correction",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "54f505fae744967391aace74e52cf59e8cd8feab",
+  "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "9ef7fd0900721bee3227c30e5b49bb55a56d3230",
+  "title": "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "74d59bf279948532cd2d9339b028807531a1d279",
+  "title": "Detecting RLVR Training Data via Structural Convergence of Reasoning",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "6e91efeec3a7061de382945146b43c7d5a929c82",
+  "title": "LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "eebed486170b3b6df1795eddd672c6b62d1f3c7c",
+  "title": "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "80d4f0bf8fce599bbb5f5ac149510325f1887b1e",
+  "title": "UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "acb089b319bcb085c3897196665effc306472b0a",
+  "title": "Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "11cd8e0ff133fc32a2ca5be03e2acfbfe0b8ecda",
+  "title": "Reward Modeling for Reinforcement Learning-Based LLM Reasoning: Design, Challenges, and Evaluation",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "87dec39d87f8ba3a57379ed0eea6c33b45615361",
+  "title": "ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "0dd0928f212fa5d91a103642d2f4e6e2b323404f",
+  "title": "Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "1df8c56d0a0c9c39503e92d8ac09a172b2cee3df",
+  "title": "Power-SMC: Low-Latency Sequence-Level Power Sampling for Training-Free LLM Reasoning",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "a7f7df71e8f85935873516dd1dbf56a0da266813",
+  "title": "Beyond Correctness: Learning Robust Reasoning via Transfer",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "811a5b6dea3b358148f4af3bafe7ad5f77dc05d4",
+  "title": "New Skills or Sharper Primitives? A Probabilistic Perspective on the Emergence of Reasoning in RLVR",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "c334b50ea68b42844a02f5b198aa67a43760f0cb",
+  "title": "Pretraining with Token-Level Adaptive Latent Chain-of-Thought",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "f39cafba1a0507a03115a3f497b3e43ba6b07f8c",
+  "title": "Document Reconstruction Unlocks Scalable Long-Context RLVR",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "cd730cd2b15bb6c39e24b7fca35393b37042391a",
+  "title": "GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Problem-Solving",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "f99fa8b67691315b03443c5f55c2eaf47ec034f2",
+  "title": "Learning Self-Correction in Vision-Language Models via Rollout Augmentation",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "696b850c9a9a3e91872bac5355d48e8f6dcda563",
+  "title": "Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "47c3f1b004825c05487809ba49ee787365f6a590",
+  "title": "Effective Reasoning Chains Reduce Intrinsic Dimensionality",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "59c97e4b88542606c7f63a79f6a4e0a8af19d742",
+  "title": "n-Musketeers: Reinforcement Learning Shapes Collaboration Among Language Models",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "484ec1ff2c7739faa1c4e1ef6fe6ba71a43fdcc7",
+  "title": "TwinRL: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "29f341c0e6c367b0b596a2d9542ec4db794e00d9",
+  "title": "When Is Compositional Reasoning Learnable from Verifiable Rewards?",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "f3f0515cf8e01a2187f2d54b750db4f081b00c87",
+  "title": "F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "53be45b25f5b0f0c0730179776c4981b2f13bc7f",
+  "title": "Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "d428425bcaf14e627b80c2156ed93e285a58eb49",
+  "title": "TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "650f3d715a0ed2d4d3518d10211e38849930290f",
+  "title": "Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "3b55c1adcea9791c00309973e7bb03992ae6a488",
+  "title": "When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "57d6c184f356b8ff91aa78ff19c5b622d14af4a4",
+  "title": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "a00eb9e6df862f35675927ab4e5c14eee3078d07",
+  "title": "ERNIE 5.0 Technical Report",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "0f006173732b928d7e23f5e1dc144066c7baca06",
+  "title": "Privileged Information Distillation for Language Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "7b403924f85f59274fbdfedacd6e428516a9267b",
+  "title": "Dual Tuning for Reasoning Efficacy-Driven Data Curation in Multimodal LLM Training",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "4d0b6107bc1c2f4d1dd5e815c56880fe2d497b58",
+  "title": "Tutorial on Reasoning for IR & IR for Reasoning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "ef86c2256a9c91a7593828f51cc662b2bbc28c3b",
+  "title": "Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "19fb47301079702fabee26e20bd085c940ee2feb",
+  "title": "Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "8b8fd2afae12fb9492f088a78b984be6ba1420a1",
+  "title": "Maximum Likelihood Reinforcement Learning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "80043ff15772ab13c7697168ea4b604f40d79fbc",
+  "title": "A Relative-Budget Theory for Reinforcement Learning with Verifiable Rewards in Large Language Model Reasoning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "39dc6ec119aa6574c3ddd693ad4cbc926616d494",
+  "title": "D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "38c59131a54c0240d8646acf9ed4cb7475f6e529",
+  "title": "Beyond Precision: Training-Inference Mismatch is an Optimization Problem and Simple LR Scheduling Fixes It",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "3846bae473a95e8a57cb3dcc37f109bf036c85b0",
+  "title": "LaDi-RL: Latent Diffusion Reasoning Prevents Entropy Collapse in Reinforcement Learning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "d25e36f07654d686b0ed9928460753b220e56e10",
+  "title": "Making Expert Reasoning Learnable with Self-Distillation",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "a9eea2bad7ccf30b67f2a62179972b48843676d6",
+  "title": "SRVAU-R1: Enhancing Video Anomaly Understanding via Reflection-Aware Learning",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "f32e942cc9f011b94aa67c2da5f4d5737fc7b29e",
+  "title": "Probing the Knowledge Boundary: An Interactive Agentic Framework for Deep Knowledge Extraction",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "e779c9b1a2dab3397d31307802249ce3c33a6a7d",
+  "title": "SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "2099eeb8339edbac846b3f88dbaccbfd04c785b0",
+  "title": "Discovering Process-Outcome Credit in Multi-Step LLM Reasoning",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "2f26b699268d7fe742ac98fc4e49bde48154ee22",
+  "title": "Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "d72949172984d6d75efd6180e33922e00a15eae2",
+  "title": "APR: Penalizing Structural Redundancy in Large Reasoning Models via Anchor-based Process Rewards",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "b0595b01b691edd3c345c824ed3f975d93301dc1",
+  "title": "Reasoning as State Transition: A Representational Analysis of Reasoning Evolution in Large Language Models",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "7b6af97a9e74158f480d4b8994b9476a377ad799",
+  "title": "Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "ffd78c946d5dcb71862f39c64ffbb466f733f457",
+  "title": "Convergent World Representations and Divergent Tasks",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "757d2138e4c0ba32579d2ca990302cf0e0cd5e90",
+  "title": "Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "ee15162193fc198668292d83bf8ca00bd836d7e0",
+  "title": "OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "35d45c194cda86e4e50ce72c4003c431ed084c04",
+  "title": "Beyond Alignment: Expanding Reasoning Capacity via Manifold-Reshaping Policy Optimization",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "67e3803dbfc2b60f204684582ee886a2f0ee7edc",
+  "title": "Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "3d2778fc969edf37ff3ba3c40c523d7d114242e4",
+  "title": "Transformation-Augmented GRPO for Enhancing Exploration in Reasoning of Large Language Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "d5fe4b0d3f4c7755c5f1382b4724b8c27876385a",
+  "title": "RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "1c2cec8c8773c0af3c95715296f46141786759bb",
+  "title": "Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "890269179558c7526e3084d150d8befd747188bd",
+  "title": "Shaping capabilities with token-level data filtering",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "d8b1d19446a37fd6db68f115adf0b30bb146ecd9",
+  "title": "Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "bfeb679f72fc4f3d984d8c7e033bca8427503e0c",
+  "title": "Do Reasoning Models Enhance Embedding Models?",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "5d57bb6b3fe6f33832e7e4f6567bb204e043b85a",
+  "title": "Thinking Seeds: Leveraging Historical Diversity for Position-Aware RL in LLMs",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "af8a2dbeb5e78e32cd9b75edd4a37180151373a5",
+  "title": "Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "663306db31a9b9be5dd4d504994b6eef9936dd2b",
+  "title": "Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "13bac953404320ba36c175b4f25b3fd4af0b40ef",
+  "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "89e83ee3eb95843292b1f75f0e50b89e7667b828",
+  "title": "Reinforcement Learning via Self-Distillation",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "2881cba7aae0bd7efc03f5be79a315b965323361",
+  "title": "Glance and Focus Reinforcement for Pan-cancer Screening",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "370a293b5dcf9d456ba7f805b5b0a3d8e984ff6e",
+  "title": "Self-Distillation Enables Continual Learning",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "f804929bcd2c87767b15a9cb9875e18ede13a46a",
+  "title": "TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "79098a97039a67faa091e004c6d042663c454ad9",
+  "title": "POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "37b7eb8f0337e30e69cba6b2050f7811c163c8e5",
+  "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "9668149e13b9980b15d98a00c2499517cf9d5765",
+  "title": "Gained in Translation: Privileged Pairwise Judges Enhance Multilingual Reasoning",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "9d317102e82a43db4c461976c4ec914a1e423e90",
+  "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "d445b4dd765283fffdc25233b80ceb860bb02952",
+  "title": "Save the Good Prefix: Precise Error Penalization via Process-Supervised RL to Enhance LLM Reasoning",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "a30edaf335e3682c5ac4503456847b0f981c8148",
+  "title": "Unsupervised Elicitation of Moral Values from Language Models",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "6da16ac0d6fbf8b94ab42e111ce9440e0d46bee4",
+  "title": "The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "a88e7a2a6860bae22dc27db7320c212a1e130f09",
+  "title": "Reasoning Promotes Robustness in Theory of Mind Tasks",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "bb152ca26881d6a61f9b60fbcf658b3394611825",
+  "title": "Learning Domain Knowledge in Multimodal Large Language Models through Reinforcement Fine-Tuning",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "ea72a18dbbe3cb8f21e57649aae9f62b3a841034",
+  "title": "Inference-Time Diversity in RL-Trained Lean Theorem Provers: A Diagnostic Study",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "876502373064ab11852413ca8d938d884d9188a3",
+  "title": "When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "db5139cd29a27bf97baca0b3ad4d720394dfe831",
+  "title": "The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "652f5d13cc8137d2d11cfd4457274f975941b8de",
+  "title": "Rethinking Reinforcement fine-tuning of LLMs: A Multi-armed Bandit Learning Perspective",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "db2162c3670566a952a65522b4e05f7d132e5485",
+  "title": "CoScale-RL: Efficient Post-Training by Co-Scaling Data and Computation",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "bbe72de0a9e40b75da57f88322a666e5b275ff06",
+  "title": "Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "762f8a010040304be1ae88bff0847c31165b3980",
+  "title": "InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "0c97059256c1101dc379df292b8f62279185059c",
+  "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "14675909f0a9047c88d27b1ea59160d928d4ce18",
+  "title": "Towards Execution-Grounded Automated AI Research",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "ad7b5985218753a057008bc81e40b97564a89ae9",
+  "title": "Distribution-Centric Policy Optimization Dominates Exploration-Exploitation Trade-off",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "1023a38eb00796661d157b0868d09d045cc9b4d0",
+  "title": "StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "e13ec3369e4184be99aa08c18b6503699ac8001e",
+  "title": "Incentivizing In-depth Reasoning over Long Contexts with Process Advantage Shaping",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "e7c7813f1ad188ba2765d2478cb116c56dd5c5ba",
+  "title": "Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Versatile Image Generation",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "f76052aeec449a8c9b374cd47b896cdcf74043d4",
+  "title": "Aletheia: What Makes RLVR For Code Verifiers Tick?",
+  "date": "2026-01-17"
+ },
+ {
+  "id": "4d14780945fb845fe2b759fba1332d72ab8a4d98",
+  "title": "Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs",
+  "date": "2026-01-16"
+ },
+ {
+  "id": "cc6b39ccf1607371d317ed391dcf24da4af9d313",
+  "title": "Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "9bcde6514a13336e9f4df1f03d82ebb11d4b6fec",
+  "title": "GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "0fa664d72aa359c552d45e0fc05c8e4205d24622",
+  "title": "STEP3-VL-10B Technical Report",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "f45af36772445a5571308353124e82d8a7808def",
+  "title": "Hallucination Detection and Mitigation in Large Language Models",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "ba15f1493f3b90e4f7bec68ba8bde6b05523f146",
+  "title": "Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs",
+  "date": "2026-01-13"
+ },
+ {
+  "id": "711d95689035c3d9b2a8436878590047a91d5e87",
+  "title": "Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge",
+  "date": "2026-01-13"
+ },
+ {
+  "id": "e978d785bf91a29e021030b302e8f6afc77b5ed4",
+  "title": "Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling",
+  "date": "2026-01-13"
+ },
+ {
+  "id": "1ac89e1f0e562580de228f0bfb551b2f9d25d214",
+  "title": "Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "f35c893e796fbe770d3b2af5bd19ee70d1cec514",
+  "title": "Distributional Clarity: The Hidden Driver of RL-Friendliness in Large Language Models",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "34cecfd6f28ba72b173b3276f35e4f2f55b9b98b",
+  "title": "Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "2fd4c9b70919b68364cb75c750e4b1892876acf9",
+  "title": "A Rising Tide Lifts All Boats: MTQE Rewards for Idioms Improve General Translation Quality",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "a6ca84e2c05033a934b1cf06bcd9f472b9857c12",
+  "title": "Miner:Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "0493b56ef1183050de7d9736616a981d54158a20",
+  "title": "Learning Dynamics in RL Post-Training for Language Models",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "312c4e56273246d274048c8636611ee30fd18b58",
+  "title": "Precision over Diversity: High-Precision Reward Generalizes to Robust Instruction Following",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "edaa3a8a27256a73749c49f2eaaf03aa019e825e",
+  "title": "Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "6e9e5474c0b2e3bd7c8a33f4b93250feecc1bc8c",
+  "title": "Linear Dynamics in the RLVR Training of Large Language Models",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "90aef88ec266cbad84e9dd575395c731e7d1dbe6",
+  "title": "Interleaved Tool-Call Reasoning for Protein Function Understanding",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "e78b69e0c5b38f6d7b4b77e4676e3b64cdcc3350",
+  "title": "All-Quadrant Bounded Clipping GRPO: Closing the Unbounded Blind Spot for Stable and Generalizable Training",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "a395ade3dd9b4e445500ac90b9340868e596dbbd",
+  "title": "AMIR-GRPO: Inducing Implicit Preference Signals into GRPO",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "05b1542c8986bf51c8f4750d5f96b8701cc87ffe",
+  "title": "TIR-Flow: Active Video Search and Reasoning with Frozen VLMs",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "4af4f726ff6be4102c92b9a82d16b1fbb1d7e9cd",
+  "title": "Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "5903b31a63189c3337e55733cecd33096f23eda2",
+  "title": "Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "8a04250bea97357d76c561afb3d00e157159a22b",
+  "title": "Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "92f6d296bff754fcc1364c56b986db671cb0682f",
+  "title": "Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "344b69077460f2a4c661cb011d58fa0bca96e3e6",
+  "title": "SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "791a1527a48fb0188e12794485239bffef4f6561",
+  "title": "Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model",
+  "date": "2025-12-25"
+ },
+ {
+  "id": "957506ad81b73946a4e20ebdffb3571a466d7ac3",
+  "title": "Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards",
+  "date": "2025-12-25"
+ },
+ {
+  "id": "64b221092aa0fc9947d8a0c0e6859092bf7c8a09",
+  "title": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "022349469fb90ec9bf5bd779ac0351e9723d0dfa",
+  "title": "Generalization of RLVR Using Causal Reasoning as a Testbed",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "1b086d01d9b9335fed895fc8dbab592ea6644f1e",
+  "title": "Trust-Region Adaptive Policy Optimization",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "b18c87901b7de91f36cdd774690bc8561936bd2f",
+  "title": "Leveraging Process Hints to Expand Capability Boundaries in LLM Reasoning",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "850c2788769053e8642cca549a7bda6b9bce58c7",
+  "title": "UCoder: Unsupervised Code Generation by Internal Probing of Large Language Models",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "114fc4f2c514a34f3c7303ea025b8619fa1d114a",
+  "title": "AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "920ca1123808fc8e2d19869a00fb03fada203965",
+  "title": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "7d6569f2ed5172b97a86169c8250779c67e74ea3",
+  "title": "Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "4ff7cf37a3fab2dab1b1db152555661d1b9f57cd",
+  "title": "GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "b1cf5444947bdec0a3d1337b3238ab097cf1c8d8",
+  "title": "Intern-S1-MO: Long-horizon Reasoning Agent for Olympiad?Level Mathematical Problem Solving",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "3b8c3617a1a2e3bf070701ffdda770ae6c75a536",
+  "title": "rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "b61b174edd1db965f43e91563464ea04d2eb830d",
+  "title": "PCMind-2.1-Kaiyuan-2B Technical Report",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "4c4e490f98785422154e091356730c69f9a03442",
+  "title": "ReLaX: Reasoning with Latent Exploration for Large Reasoning Models",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "745aa14908a33003f70b8c4d5f4ee9b43d9481df",
+  "title": "On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "0a64b498a4d8579b2cf8eef06e10e496e2626ffb",
+  "title": "Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning",
+  "date": "2025-12-06"
+ },
+ {
+  "id": "5c4fd9ac3b3afd38e0ef46f3f9c8aa842f52590a",
+  "title": "Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "f4e2ba57853bd55a839028b20ef6983a5a7cc299",
+  "title": "Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "d1b1cc6280460b85d83b289d388bfc8aab391c91",
+  "title": "CARL: Criticality-Aware Agentic Reinforcement Learning",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "0509f3a645155971dca0ac5d67da614505b71f08",
+  "title": "PretrainZero: Reinforcement Active Pretraining",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "7366fcb45e8b69625e16f70254d28afa6a4d6491",
+  "title": "MindGPT-4ov: An Enhanced MLLM via a Multi-Stage Post-Training Paradigm",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "dbdf4178ae121bf6cce414469f8ee256564bfe13",
+  "title": "Hierarchical Process Reward Models are Symbolic Vision Learners",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "c11392864d5f68888e5d5406887b38c1cda449bc",
+  "title": "MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "793db7d7dc7e124dfc5a9c88d15540445af49158",
+  "title": "How Does RL Post-training Induce Skill Composition? A Case Study on Countdown",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "b1474c1208157036eb936197b9e76f5c28a8d89c",
+  "title": "Atomic Skills are the Prerequisite: When Reinforcement Learning Synthesizes Compositional Reasoning, and When It Only Amplifies",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "9201b3d0a0be7369b649c56e8ee91641db696832",
+  "title": "Mode-Conditioning Unlocks Superior Test-Time Scaling",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "d36a1047fa0be9bd3161042c5a81d9ef5b72d9af",
+  "title": "ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "d6d6762d76bcd338c6bd1dd5a097d13c0615fc16",
+  "title": "OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "9ed09716c3d6156d63ccdf090c36e1265f4a6757",
+  "title": "Beyond Query-Level Comparison: Fine-Grained Reinforcement Learning for Text-to-SQL with Automated Interpretable Critiques",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "c6e163a141a51fcb8b59c1413dd52db7b573127b",
+  "title": "Breaking the Safety-Capability Tradeoff: Reinforcement Learning with Verifiable Rewards Maintains Safety Guardrails in LLMs",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "d8044291aedc5b7d39313920b12e11195c40069b",
+  "title": "Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "e6c47beea2d8df421ac7dd3ae6e064d6f77adcbd",
+  "title": "Boosting Reasoning in Large Multimodal Models via Activation Replay",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "37c5ed8e2c76e384200f3c76411c544ff3b9f49f",
+  "title": "SPHINX: A Synthetic Environment for Visual Perception and Reasoning",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "a43ab1c3a0607f62849e2f356dc0e160a2969215",
+  "title": "SO-Bench: A Structural Output Evaluation of Multimodal LLMs",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "d6cdbd046197d65ec25c4514d709e34cf19c4fa5",
+  "title": "Pass@k Metric for RLVR: A Diagnostic Tool of Exploration, But Not an Objective",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "a647788b47b1bac9c137ab192316f72de52471d4",
+  "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "a062da720c2aa9a4c9ee30bd53f386bacb7cd2f0",
+  "title": "PIGEON: VLM-Driven Object Navigation via Points of Interest Selection",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "304a4e68bb7d2a004aba181d809f0105e14767e9",
+  "title": "Tailored Primitive Initialization is the Secret Key to Reinforcement Learning",
+  "date": "2025-11-16"
+ },
+ {
+  "id": "1a0d334b894809656f0099aeb7159879070805b0",
+  "title": "Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning",
+  "date": "2025-11-15"
+ },
+ {
+  "id": "a93bd362e7f6191c9bcce4c911bc73c6c25d0824",
+  "title": "Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "eae6f5d34b7b9dbd5f00618875063b28d77268c4",
+  "title": "Learning to Focus: Focal Attention for Selective and Scalable Transformers",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "5d1b3c4c864e92dc93fe703459fa44ac24066f24",
+  "title": "Provable Benefit of Curriculum in Transformer Tree-Reasoning Post-Training",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "064fba25d8c5506974365ca27dbdea8ffe523b90",
+  "title": "Tracing the Logic: Evaluating LLM Reasoning Paths in RTL Generation",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "a9563b78c84ce87d8dee7ddaa31a615c4cf7011f",
+  "title": "Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "32d2cfcfbf00b9c3a16038eb3908141bdfb2751d",
+  "title": "RLoop: An Self-Improving Framework for Reinforcement Learning with Iterative Policy Initialization",
+  "date": "2025-11-06"
+ },
+ {
+  "id": "279fc43a3962bacf02750fa3c846f9b2e96420f3",
+  "title": "Linear Differential Vision Transformer: Learning Visual Contrasts via Pairwise Differentials",
+  "date": "2025-11-02"
+ },
+ {
+  "id": "0aebba7604a576e7293380aabb179dbfb6b7e2af",
+  "title": "Do Math Reasoning LLMs Help Predict the Impact of Public Transit Events?",
+  "date": "2025-11-02"
+ },
+ {
+  "id": "37cc28809b2a02a4a39f3194042245d705abd09b",
+  "title": "Does RLVR Extend Reasoning Boundaries? Investigating Capability Expansion in Vision-Language Models",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "748b77a6825a091ae16290e3bf910ad1da963576",
+  "title": "OpenSIR: Open-Ended Self-Improving Reasoner",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "3f28e24ee4a2fd2ab8252c1cc92e9233f6087a4c",
+  "title": "Towards Understanding Self-play for LLM Reasoning",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "f68d69f7cb23300530fafbcb4f6227a6cdd3e90e",
+  "title": "Think Outside the Policy: In-Context Steered Policy Optimization",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "c81ef83a7d8a22efadb74ac401a95dbcbc998f3d",
+  "title": "Reasoning Up the Instruction Ladder for Controllable Language Models",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "581febfd2c8734c5fbc5b63d8be8a4791e78481d",
+  "title": "Do Not Step Into the Same River Twice: Learning to Reason from Trial and Error",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "a67f6696ebf1aa1f9bed5166e71e0fa9e4e10e21",
+  "title": "The End of Manual Decoding: Towards Truly End-to-End Language Models",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "96feb8ea0882f6d5a61cdfb741c08c7ab7e0f28c",
+  "title": "Limits of Generalization in RLVR: Two Case Studies in Mathematical Reasoning",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "1ef04ec6d4b0b07cd1276ab54e12eddbc95aaab7",
+  "title": "RAVR: Reference-Answer-guided Variational Reasoning for Large Language Models",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "144dbb486ad778acd10a30125afd0a1c8b0be22a",
+  "title": "SymCode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "4010db05a68a15d9d1df3478460d487ed07b43a9",
+  "title": "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "010dcf3082daf00d28b2a41f5408e489f20ca357",
+  "title": "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "daa95da4677655d8e3e21b5f6dfd390ef9d548a9",
+  "title": "MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "bf92697028509bd2d29f19ba9e8deee6e641c0d8",
+  "title": "The Best of N Worlds: Aligning Reinforcement Learning with Best-of-N Sampling via max@k Optimisation",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "90644395e6d0e633bb382d1e0d3d5be723b160b1",
+  "title": "Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in Large Reasoning Models",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "6958f9d683d8a5161c7f50cb97c8e5448596420d",
+  "title": "Code-enabled language models can outperform reasoning models on diverse tasks",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "a896a3b4427f7383a800f1b58e5694e864253bc5",
+  "title": "DiSRouter: Distributed Self-Routing for LLM Selections",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "891290cc2d45e34cbf3145c6b70c727a9140a83c",
+  "title": "A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "fa639b05ae4ad81aaada7089a95c0cdd61b512d2",
+  "title": "Rethinking On-policy Optimization for Query Augmentation",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "39b7f8a947ce75c683c11032c40c04181778761d",
+  "title": "EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable Learning",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "f8b9ccf816a3ea3e80bd119eb8c2d2139bf69411",
+  "title": "Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "8e53c7a1d2d197522370fdf4447828bb80ca86df",
+  "title": "Video Reasoning without Training",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "55e9f0624ba2d9ad68fa4fe89b8c8cccc8402319",
+  "title": "The Road Less Traveled: Enhancing Exploration in LLMs via Sequential Sampling",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "3094a1165943eac0e018363f73df986a310db83e",
+  "title": "Soundness-Aware Level: A Microscopic Signature that Predicts LLM Reasoning Potential",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "b51114590dc5ef1f896204dcc5d9d61dec26946a",
+  "title": "LaSeR: Reinforcement Learning with Last-Token Self-Rewarding",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "dfdb18b51645058f0ad0539077247866dfeba9d4",
+  "title": "ATGen: Adversarial Reinforcement Learning for Test Case Generation",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "e2e6e4288610c9311efccec7266f1d53e0a91581",
+  "title": "IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "255c44c37825397b7f97b849df34f8cfbf9add9b",
+  "title": "An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "d8bc136b69fc735f7650bfb5e6b266f0668bb0b8",
+  "title": "Reasoning with Sampling: Your Base Model is Smarter Than You Think",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "c89819b747f08f12f8fd6a1a78afe8fbe0f54d63",
+  "title": "Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "4af03e3796c0767104581ca8d56f01824d3e9e52",
+  "title": "Beyond the Sampled Token: Preserving Candidate Support in RLVR",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "0a117f3879c4d2e5e7b352c247bed2affcdc4267",
+  "title": "DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "45c250d99cb2a0b991d29b9b9576057ec542af2c",
+  "title": "Self-Verifying Reflection Helps Transformers with CoT Reasoning",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "bcb99150a6dc087be5682c026e06cc890cbb91cc",
+  "title": "Can GRPO Help LLMs Transcend Their Pretraining Origin?",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "d830f96d00469bb04721b7bec4bdae33d08615ea",
+  "title": "Revisiting Entropy Regularization: Adaptive Coefficient Unlocks Its Potential for LLM Reinforcement Learning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "1ffbfbe4b76033313a07fe2f89bee1fe61e4c458",
+  "title": "Representation-Based Exploration for Language Models: From Test-Time to Post-Training",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "b2672390026f42c96cbba4abab69ffc38781b27e",
+  "title": "MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "2045aa04f13ecd3496be82736ffd644de04f5f33",
+  "title": "LLM Knowledge is Brittle: Truthfulness Representations Rely on Superficial Resemblance",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "d7ac061611abcda1bd7f651e15728c59e6a143ed",
+  "title": "Unlocking Exploration in RLVR: Uncertainty-aware Advantage Shaping for Deeper Reasoning",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "7f9b0c6b54669d67d50f867736b9986f6a77a290",
+  "title": "VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "4bbeb551b8ef26e26e146b45bc63029388da130e",
+  "title": "Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "187f687e87753b13393b803382eb0264e7b2ed0f",
+  "title": "Don\u2019t Tell the Answer, Truly Guide the Reasoning During RL Rollouts",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "e0536267ddd5a8b67c8b01a8ac39f7b3fdc3787a",
+  "title": "LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "4484f22da6993d53487c81dcc917b73db5977329",
+  "title": "MaP: A Unified Framework for Reliable Evaluation of Pre-training Dynamics",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "d71499383e7ec0d486f23ea057651f0480851ce2",
+  "title": "DARO: Difficulty-Aware Reweighting Policy Optimization",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "0af99fac300a5477adbd9f7e1f9de49cdfde751e",
+  "title": "Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "e6554e7d6b75f36a37765cb4d833a3474671ca8d",
+  "title": "Don't Throw Away Your Pretrained Model",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "937154c2b26d9468af7e9903ae4bf4344df4558c",
+  "title": "LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "5293f9baf0b34b53617d8c3b5c579a2106f150b4",
+  "title": "OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "4b5b744f0bd8d5679b106d43b661db622594d042",
+  "title": "GCPO: When Contrast Fails, Go Gold",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "ee22a1ba6f92815bfeff2c8b795956a0b8a2fbe2",
+  "title": "Selection, Reflection and Self-Refinement: Revisit Reasoning Tasks via a Causal Lens",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "6d1f14238c530581d4c33f8790501b75531b5b7c",
+  "title": "SCOPE-RL: Stable and Quantitative Control of Policy Entropy in RL Post-Training",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "f967eed7e0954b401fd77817345cfaa48b298749",
+  "title": "h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "da7dc2a14da68decd0cc6b15aff029f83f118ac9",
+  "title": "Base Models Know How to Reason, Thinking Models Learn When",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "4144e0f83ef6a12d23404ca43867ff5b43819bf8",
+  "title": "Optimizing for Persuasion Improves LLM Generalization: Evidence from Quality-Diversity Evolution of Debate Strategies",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "229db65b100f4a54d95d9b5e67411ce1b68f950b",
+  "title": "Learning on the Job: Test-Time Curricula for Targeted Reinforcement Learning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "4ba74db3b4c287fd4a432e520c79118bbd16d28b",
+  "title": "Mitigating Forgetting Between Supervised and Reinforcement Learning Yields Stronger Reasoners",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "f20eeafa3931d52c2d16cd25f9f228e7bb1aad90",
+  "title": "Making Mathematical Reasoning Adaptive",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "63fc4f619bab220bfd5869b55d4feb6384283e64",
+  "title": "LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "7a5c35fd917bdd8842cd4ae7968dc52ec05041d6",
+  "title": "Let it Calm: Exploratory Annealed Decoding for Verifiable Reinforcement Learning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "fe9104aa9fdb49832f276a2662ca054c701535ec",
+  "title": "Reinforce-Ada: An Adaptive Sampling Framework under Non-linear RL Objectives",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "eca98768e0931de26156e1b582b16be96d6756df",
+  "title": "The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "4343a5098166871bb5d5d2b40e521e4902181e4d",
+  "title": "Selective Expert Guidance for Effective and Diverse Exploration in Reinforcement Learning of LLMs",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "165f3f89f742865b15d4225e1cbb57b88ffbc6fd",
+  "title": "SPOGW: a Score-based Preference Optimization method via Group-Wise comparison for workflows",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "62b0e59f5058c48220298e26f6c25d9c6f8d582c",
+  "title": "Unlocking Reasoning Capabilities in LLMs via Reinforcement Learning Exploration",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "f5fefe661adbd54c6f17c96469618d3f4cb00289",
+  "title": "What Can You Do When You Have Zero Rewards During RL?",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "82a1759629f4ec4b55b3326e86e5cf328d24cc64",
+  "title": "The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "47009065ba03c9cd3e777ba172ae1849257f7d6f",
+  "title": "RESTRAIN: From Spurious Votes to Signals - Self-Driven RL with Self-Penalization",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "ea090c112be388712fc65d5c06420891f03955ad",
+  "title": "Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "50f863402797cb2e05f2fba04c440d4a2d30c579",
+  "title": "Quagmires in SFT-RL Post-Training: When High SFT Scores Mislead and What to Use Instead",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "db48a10aef628d4af7337c92c3feba2ac812fc63",
+  "title": "More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "6e579f5bc5e0da2d654e50e2f0080fbf7ec2f290",
+  "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "063450e52300005763b7242223d90806e00f50eb",
+  "title": "On the Role of Temperature Sampling in Test-Time Scaling",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "fb24cefcc22851482b28a6e0a762973fce2cd11e",
+  "title": "Graph-S3: Enhancing Agentic textual Graph Retrieval with Synthetic Stepwise Supervision",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "8ec8c5f143fbdcf8d4d4262ded61a2a02b3ff441",
+  "title": "AP2O-Coder: Adaptively Progressive Preference Optimization for Reducing Compilation and Runtime Errors in LLM-Generated Code",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "02dd49f4ce3d311b214c5bf307f14a7f2cf8251b",
+  "title": "RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "954262d662696e7a025568fffb19eb9e81214b3d",
+  "title": "On Predictability of Reinforcement Learning Dynamics for Large Language Models",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "8e4f0dbb926cdcc395013ba1cae7954614da82db",
+  "title": "Training Large Language Models To Reason In Parallel With Global Forking Tokens",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "35021a554922cd5f18b2b2fa647feb79973ba719",
+  "title": "DecepChain: Inducing Deceptive Reasoning in Large Language Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "326f147bcc81ca289f5115f425f6aabff5d93a40",
+  "title": "Boosting Process-Correct CoT Reasoning by Modeling Solvability of Multiple-Choice QA",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "761600ac0c503e7d19969a19e788bb1e91828f8e",
+  "title": "Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "fad80049ed41365b5e7c79ccea425b0364821af0",
+  "title": "MUVLA: Learning to Explore Object Navigation via Map Understanding",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "059a907c71b5daab58788c17b65e918b8d882281",
+  "title": "Nudging the Boundaries of LLM Reasoning",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "4d1a1bb2bf6d2916913b3b853516dc1dac9ea0d8",
+  "title": "Clip-Low Increases Entropy and Clip-High Decreases Entropy in Reinforcement Learning of Large Language Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "9a5bf5d3c7116cc4a104c06599fbcef2d1b5abf3",
+  "title": "On The Fragility of Benchmark Contamination Detection in Reasoning Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "bb869a9f5829d73a6909643440495abacc7f2cde",
+  "title": "Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "4f36b972658bebe1dda299fbdf8c8e468b777935",
+  "title": "Rethinking Entropy Regularization in Large Reasoning Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "cfcea5f1e1fc0a06d1edc29087acd30280744aae",
+  "title": "From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "42c010fae77a00108d41d76b36b928a31d232763",
+  "title": "Random Policy Valuation is Enough for LLM Reasoning with Verifiable Rewards",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "9c03c7b9ae5bc182134edd736c6d48946f4aaaaf",
+  "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "d1c6fae67b3a48f4b90fa471077b534e1e87183b",
+  "title": "Risk-Sensitive RL for Alleviating Exploration Dilemmas in Large Language Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7da0852f60fb5abf7a7172b4419c19fc292ece9c",
+  "title": "Scaling Generalist Data-Analytic Agents",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "cde07fd6bff078e40d267b3ec4718e397e3ca3e5",
+  "title": "Humanline: Online Alignment as Perceptual Loss",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "94d2e51a54e389f7a6606a1f2b26666390046cf1",
+  "title": "Polychromic Objectives for Reinforcement Learning",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "6794971b191f82e7b78f4a1cb8e09dca2d2b8e82",
+  "title": "DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "4d8c091fafa58bde0acfe8af864c4ace2a557004",
+  "title": "Semantic-Space Exploration and Exploitation in RLVR for LLM Reasoning",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "61b763922db3e3d293ecd85c54305fd1f996320f",
+  "title": "Beyond English-Centric Training: How Reinforcement Learning Improves Cross-Lingual Reasoning in LLMs",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "894a22a9430dfb53918c26026e36f77ef5fe1b75",
+  "title": "Timber: Training-free Instruct Model Refining with Base via Effective Rank",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "a8f55e21e524f6cbef649b63634ab356e7d87e9b",
+  "title": "HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "8c1a420f1bec9713b13d5ed4e82d2146d8bb4b23",
+  "title": "Emergent Slow Thinking in LLMs as Inverse Tree Freezing",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "ef8b004e4b61f258d4ea848e369f6e4079395bbf",
+  "title": "C2GSPG: Confidence-calibrated Group Sequence Policy Gradient towards Self-aware Reasoning",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "b0b668b142d232d102b4cf105965651b7e1fea7c",
+  "title": "Tracing the Representation Geometry of Language Models from Pretraining to Post-training",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "146677a3e91c233acaa0d237f2a4ca02fa9dc647",
+  "title": "PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "0130c49acc87278366d209d8e7e3090ab9e80ac0",
+  "title": "SPEC-RL: Accelerating On-Policy Reinforcement Learning with Speculative Rollouts",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "59e218c85c3048d4249a91e5ad4a6b2f3798c73a",
+  "title": "Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "51357ff32df3924f29e550aaf71c9882c2b99348",
+  "title": "Variational Reasoning for Language Models",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "b587dcd1df34b1de997622b33b8fbe6d284282fb",
+  "title": "Position: The Hidden Costs and Measurement Gaps of Reinforcement Learning with Verifiable Rewards",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "6b8b9c975eee4c5bf81a805bb8bf717d58fe2b65",
+  "title": "RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "b90b1b03970cc156cdebcd8056cca8f787b8f994",
+  "title": "RL Grokking Recipe: How Does RL Unlock and Transfer New Algorithms in LLMs?",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "1a0c847772e838dfe1a46ce348ca0d25eccd4fd5",
+  "title": "Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "9c1a8741e12b446eea3a3a9d23372c88147c6d47",
+  "title": "Learning to Reason with Mixture of Tokens",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "1afa08179c7fad0491b922c74686e1298baaa5b8",
+  "title": "RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "50bba76bc8c6f3541e3759d5b3b3baf044d50912",
+  "title": "A Novel TARL Framework for Intelligent and Semantically Coherent Music Composition in Smart Signal Systems",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "d10460857477f83bfde00f1a4a26ebfa7c449842",
+  "title": "Reinforcement Learning on Pre-Training Data",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "095877ca77a899eaa9aebb82a88d953ea94dfb6f",
+  "title": "NGRPO: Negative-enhanced Group Relative Policy Optimization",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "7f1cdaad0af5a80c509ebb00590f6ee9599bf882",
+  "title": "MAPO: Mixed Advantage Policy Optimization",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "cd19f63aed8d27e41ac371a84324bc6665da7265",
+  "title": "Introducing LongCat-Flash-Thinking: A Technical Report",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "a330dc0db965b899d1a1c04160b59939dde3bec3",
+  "title": "Correlation or Causation: Analyzing the Causal Structures of LLM and LRM Reasoning Process",
+  "date": "2025-09-22"
+ },
+ {
+  "id": "60c55a3c704f3b110acb508f814ba4ddbebeffe7",
+  "title": "Understanding Post-Training Structural Changes in Large Language Models",
+  "date": "2025-09-22"
+ },
+ {
+  "id": "7f83b606812ba4f799e303f31c200c59cb5d844c",
+  "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers",
+  "date": "2025-09-21"
+ },
+ {
+  "id": "439dfba3da8026559ab8ba5d088c2e601c11de74",
+  "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "55ca8913b2d324d41d83ad7235dea2b409459399",
+  "title": "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "b6da88d81547cfa2fcc8cbd8d361546a9c0b8132",
+  "title": "ATTS: Asynchronous Test-Time Scaling via Conformal Prediction",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "9b2810399f99db32b4141855aeb636009236c066",
+  "title": "GenExam: A Multidisciplinary Text-to-Image Exam",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "66152393e107ad9b5080de3272c88bd312c551b4",
+  "title": "THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "8e84909fcadd50be875ce2522d9413d9a9cc6c53",
+  "title": "MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "10f479757f9db5edc486cde16e272fe3c6ecabd2",
+  "title": "Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "0c8bd4625dbf1aabfb3f1c8501ebf36b8f747bfd",
+  "title": "Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "8ea85716c8a1d539be28148c3b11cf8d32cb8609",
+  "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "dff2fe5b12890ac5dba3667ebbc664ec97dc714f",
+  "title": "When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "4b5c2f7a39f456e98c5dc8ae2f0a6910cc3273d5",
+  "title": "AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives",
+  "date": "2025-09-11"
+ },
+ {
+  "id": "030dbcea8a5a5e2296afe8d19b9e6fa5e7e7084b",
+  "title": "The Choice of Divergence: A Neglected Key to Mitigating Diversity Collapse in Reinforcement Learning with Verifiable Reward",
+  "date": "2025-09-09"
+ },
+ {
+  "id": "039625bbc94ffa91291699e1f0c1d2a5e254a236",
+  "title": "K2-Think: A Parameter-Efficient Reasoning System",
+  "date": "2025-09-09"
+ },
+ {
+  "id": "9c08b152c65d87421998a098e4f5dabb79099ef4",
+  "title": "TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "9bf180774da3f753435ff18e4947a4df7b84cb4c",
+  "title": "Staying in the Sweet Spot: Responsive Reasoning Evolution via Capability-Adaptive Hint Scaffolding",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "3720121580e1ba7348ddad97bc20a618a1fc93f7",
+  "title": "UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "0fe8f2f55046ad0b8d6337f57a78466790923264",
+  "title": "Outcome-based Exploration for LLM Reasoning",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "63f251bbb143f7f993bf87c74796fae4abe4cb4e",
+  "title": "RL Fine-Tuning Heals OOD Forgetting in SFT",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "ce4456ac12fd6c5211c422567b07a06de3cd7a76",
+  "title": "Symbolic Graphics Programming with Large Language Models",
+  "date": "2025-09-05"
+ },
+ {
+  "id": "3bf1f8a4678290b5d06ba24fe3c76873cfef659e",
+  "title": "Why Does Reasoning Length Converge? Unveiling the Underfitting-Overfitting Trade-off in Chain-of-Thought",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "9b683772ab72b8a3ea1b4e973ba30603a17defe7",
+  "title": "Towards a Unified View of Large Language Model Post-Training",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "e20b91ceb9af898f49ec0f859df7d4ed9f9fa8bd",
+  "title": "Empowering Lightweight MLLMs with Reasoning via Long CoT SFT",
+  "date": "2025-09-03"
+ },
+ {
+  "id": "6544b41d4412f315842465f11998fa6cd4486427",
+  "title": "DCPO: Dynamic Clipping Policy Optimization",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "6b31ec3319866640afeae8fcf340dfb9a9cabbf3",
+  "title": "Distilled Pretraining: A modern lens of Data, In-Context Learning and Test-Time Scaling",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "f9e767e01b55e977f9ac51877cfb670acb934695",
+  "title": "Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "2354568cc89601c881b4e1653e3021b326139e9d",
+  "title": "rStar2-Agent: Agentic Reasoning Technical Report",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "22e71eb3f7f9a45821d24f4aecbf2c315ac9b9fc",
+  "title": "Understanding Tool-Integrated Reasoning",
+  "date": "2025-08-26"
+ },
+ {
+  "id": "18d83103fb98905ccbce420987470eb2ea021187",
+  "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "28c1e69bc0135ef8de85662ec6aa649c78d30e6c",
+  "title": "Spacer: Towards Engineered Scientific Inspiration",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "d4fce730c7ceb40d92612f9abd7eb12a6d13a652",
+  "title": "Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning",
+  "date": "2025-08-23"
+ },
+ {
+  "id": "ba1e9567cb6f9707bbb5cc41590841e3aee8a7c2",
+  "title": "Recall-Extend Dynamics: Enhancing Small Language Models through Controlled Exploration and Refined Offline Integration",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "a29904e740589b5edd0bdad3b2125f4fb88a9b3e",
+  "title": "Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "ee26c8ca8aee85141075782bcf4d5baa8c4f61a3",
+  "title": "Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "8fc9b4611000855c3ab977d3c06fff86b87763c1",
+  "title": "HeroBench: A Benchmark for Long-Horizon Planning and Structured Reasoning in Virtual Worlds",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "ebe7209983d0c6c2eff2b5ee80915bd2189f3a01",
+  "title": "G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "01957008d36e54db3049afc6310cd5a1a841dc04",
+  "title": "DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "ea974e5365960629edc0588b9f039b91c49cf012",
+  "title": "Wisdom of the Crowd: Reinforcement Learning from Coevolutionary Collective Feedback",
+  "date": "2025-08-17"
+ },
+ {
+  "id": "804039e844664365265dca969ae612d32a992503",
+  "title": "On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting",
+  "date": "2025-08-15"
+ },
+ {
+  "id": "5bb3e1643f7c1aafaa1ad78c4c4be13838f0faa1",
+  "title": "Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "39a3330a8c73618f087386fff03ff1c4765e7adb",
+  "title": "SSRL: Self-Search Reinforcement Learning",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "abad502ad7e56d6105dc0a91a970b26a47792cd1",
+  "title": "MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement",
+  "date": "2025-08-13"
+ },
+ {
+  "id": "b0314bf027b0f35fbcb8af895e7e3561015ee7cb",
+  "title": "Pruning Long Chain-of-Thought of Large Reasoning Models via Small-Scale Preference Optimization",
+  "date": "2025-08-13"
+ },
+ {
+  "id": "f8fc0386fdd208b51fa885aef27e345a9c08b51b",
+  "title": "Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1",
+  "date": "2025-08-13"
+ },
+ {
+  "id": "7f5b2ddc683b7b4be98d327ae006a85c0b6081c5",
+  "title": "MiGrATe: Mixed-Policy GRPO for Adaptation at Test-Time",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "1ae10be82a6c09b6d53b6932d764f6f34bbeb9e4",
+  "title": "EvoCoT: Overcoming the Exploration Bottleneck in Reinforcement Learning",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "64b704bfabc7499e4c375e8845e4a3dceb3fe008",
+  "title": "From Trial-and-Error to Improvement: A Systematic Analysis of LLM Exploration Mechanisms in RLVR",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "da7f0bf97dd26cfc51e928abe3c461137982980e",
+  "title": "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance",
+  "date": "2025-08-09"
+ },
+ {
+  "id": "424b37d1590626bf25696518dc1297e68698619a",
+  "title": "Inference-Aware Prompt Optimization for Aligning Black-Box Large Language Models",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "6b3e64ab07bdb533d26bc4a78dad189e02a9bcb8",
+  "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "0859b3bfc28a8dcce29648bacb369dc0957d37dc",
+  "title": "GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "5cf103a9610d3f1bb11ec254281f2e01284819b1",
+  "title": "Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "283da6590d52a05a6da0cfdd3f8344e08a3db0c8",
+  "title": "LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "b0d5cb6e5c6e33a7ab90cfb265c4a1b78e1c1bee",
+  "title": "From Stimuli to Minds: Enhancing Psychological Reasoning in LLMs via Bilateral Reinforcement Learning",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "ae42cc15452b5b6d089bc535cdcd55648c29557d",
+  "title": "Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "5f34b8b56bc4060e3a278aa3fc858c26edcd27e6",
+  "title": "RSPO: Risk-Seeking Policy Optimization for Pass@k and Max@k Metrics in Large Language Models",
+  "date": "2025-08-02"
+ },
+ {
+  "id": "b43f8bacd80f32734cdff4f9d8c79e397872aed6",
+  "title": "RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "0b228ce57cf0929eec39e8ae4d450e6f266ea3fa",
+  "title": "Good Learners Think Their Thinking: Generative PRM Makes Large Reasoning Model More Efficient Math Learner",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "6cd0e918e5c5fad702dfd71e5ee4762a4c3c076c",
+  "title": "Few-Shot Vision-Language Reasoning for Satellite Imagery via Verifiable Rewards",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "d4e568f40de7d095f8ac0c73500d3b160ddb3cd6",
+  "title": "Diversity-Enhanced Reasoning for Subjective Questions",
+  "date": "2025-07-27"
+ },
+ {
+  "id": "ea04cea955b1d959b0e36942216c07bd87f75bf9",
+  "title": "Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning",
+  "date": "2025-07-23"
+ },
+ {
+  "id": "8f7bf1352362e4cac6e2e7f1e3c2e4fa48c1ddbe",
+  "title": "Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "2021af3e36bab92fc8353f3783dbb1f8fef49226",
+  "title": "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "c1f63e6940938953a810f95a4f6f1c94ed9700af",
+  "title": "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "5f8582f9b78cd78360aee5496ec9a0f9dc05acb2",
+  "title": "AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning",
+  "date": "2025-07-20"
+ },
+ {
+  "id": "6bbf6b7d6a42dd007be115046893bb553b1c14c2",
+  "title": "The Invisible Leash: Why RLVR May or May Not Escape Its Origin",
+  "date": "2025-07-20"
+ },
+ {
+  "id": "48fa1dba812b78a6c731363594d5bc6a4e9353b8",
+  "title": "Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need",
+  "date": "2025-07-18"
+ },
+ {
+  "id": "3a7e649794e41bb15acd60283a5d861d18cc0c8f",
+  "title": "A Simple \"Try Again\" Can Elicit Multi-Turn LLM Reasoning",
+  "date": "2025-07-18"
+ },
+ {
+  "id": "c703b729f3b97ffe4c9a6c430e2a18f6d4f7223e",
+  "title": "Logit Arithmetic Elicits Long Reasoning Capabilities Without Training",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "8d38460f65578920d65f606d3d882f0af388d025",
+  "title": "Making Language Model a Hierarchical Classifier and Generator",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "609118209144fae8b2f65dbe2aeb7070b161ef05",
+  "title": "Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "bd10897908a37b6210f30fb92750027848e10e72",
+  "title": "Kevin: Multi-Turn RL for Generating CUDA Kernels",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "226285abc0a0b8565cdaa9f9ab5eb8031a3a8ec9",
+  "title": "ROC-n-reroll: How verifier imperfection affects test-time scaling",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "cc1f03a6c330a398a81de79f49fb0dc2322f8e5e",
+  "title": "The Serial Scaling Hypothesis",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "3b93e661e225484bea101907b9289c1824584308",
+  "title": "A Compute-Matched Re-Evaluation of TroVE on MATH",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "ded0a11a7d3f1ad43d23aca8b750d10c939da59c",
+  "title": "KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?",
+  "date": "2025-07-15"
+ },
+ {
+  "id": "8c5dd649a96a8b8fa3c7cc2dd40919f34280036b",
+  "title": "REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "24a35803e943a1b70a7620e9493949c5016a1e21",
+  "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "e8ae4a277aed1bbf5e92fe4422d3e6bde0f7ae28",
+  "title": "VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "b966a64ba56f00fec011be30131333d848e38d91",
+  "title": "ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "74434ed4e1db22a45ed743f4063efadf1a973d79",
+  "title": "Scalpel vs. Hammer: GRPO Amplifies Existing Capabilities, SFT Replaces Them",
+  "date": "2025-07-13"
+ },
+ {
+  "id": "3ae141b988f37040cbef0c531575a6189f297b2e",
+  "title": "RedOne: Revealing Domain-specific LLM Post-Training in Social Networking Services",
+  "date": "2025-07-13"
+ },
+ {
+  "id": "2f444ac447a42b2d7197215ab02674d4ccaff65b",
+  "title": "Can Group Relative Policy Optimization Improve Thai Legal Reasoning and Question Answering?",
+  "date": "2025-07-13"
+ },
+ {
+  "id": "9cd27c2c71141771c721487cef71cffe0b8bde81",
+  "title": "Teaching LLM to Reason: Reinforcement Learning from Algorithmic Problems without Code",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "099906e0c4faa56c071389a020c30079da952f38",
+  "title": "CTRLS: Chain-of-Thought Reasoning via Latent State-Transition",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "4c34c20de2ff9036c8245b2639eeae3124ce7c79",
+  "title": "Self-Improving Language Models for Evolutionary Program Synthesis: A Case Study on ARC-AGI",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "c640c653a4db2077899938981df777b532c49848",
+  "title": "BlueLM-2.5-3B Technical Report",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "25c9d2d459967582e41601e0b6e63d693e51fd29",
+  "title": "CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "a262c950dcb16041df74eef33262dbf6d110de98",
+  "title": "Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning",
+  "date": "2025-07-06"
+ },
+ {
+  "id": "216fd8b8b8f5e7947f6bf1b121a394598934145c",
+  "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "3a0bde838c114f61fd8081c3c34a258eeb09c015",
+  "title": "ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "7da361cbbf5e0c10e6eec89f8e8e1618a6778b84",
+  "title": "RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "526818e4f4e71d50300f5e6a0560eac430a24b5a",
+  "title": "Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "72c749cc9ee05bee3963488a1b1e68f0d63d6015",
+  "title": "Look-Back: Implicit Visual Re-focusing in MLLM Reasoning",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "79166ecf79630aafe6a8dc2ed738e03a54382702",
+  "title": "NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "2da9163730998a4368c609972ccff0582518b36b",
+  "title": "Energy-Based Transformers are Scalable Learners and Thinkers",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "7d291643bf9bfa74e3f1e8b014103dc81c85e361",
+  "title": "Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "341428444a2bf015cb728abd61a9e531c01ac1e2",
+  "title": "Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "cd06e543486ada9fa66891badf367ff43e3461c7",
+  "title": "Large Reasoning Models are not thinking straight: on the unreliability of thinking trajectories",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "880334f22a8bd9db1d7977477d50e70ff9749d83",
+  "title": "Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "f8d476070a933074b90cff91c0a8ce7ee3edbd9f",
+  "title": "Listener-Rewarded Thinking in VLMs for Image Preferences",
+  "date": "2025-06-28"
+ },
+ {
+  "id": "7172cee0149e6a135f019bb5d9db6587adb84cf6",
+  "title": "Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "7dd6b0495ee60a6705f12a3848b6b8a7c6c24735",
+  "title": "The Hidden Link Between RLHF and Contrastive Learning",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "33eb087f52e37349f13c9a44e6bd09d5f89fcbfd",
+  "title": "EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "c430897158e2bab32307dc91f60c256f4c0c80ae",
+  "title": "ReCode: Updating Code API Knowledge with Reinforcement Learning",
+  "date": "2025-06-25"
+ },
+ {
+  "id": "61024282f1523543a5b06326cb58c9b6ad14cdd1",
+  "title": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation",
+  "date": "2025-06-25"
+ },
+ {
+  "id": "344b7374b1b78df4a4d488e38cd94af7d84ec6c0",
+  "title": "KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "b84a918a147f5f1d216d5b241384cfd4f2d9dfb3",
+  "title": "SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "ab60ca888dfe60bc7a50f47bd483737523943682",
+  "title": "Thought Anchors: Which LLM Reasoning Steps Matter?",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "32eea884cbf692fa8daead9f01a81fc442274c75",
+  "title": "RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "295e2586a549790c96c5dfe99886a723bc315a09",
+  "title": "OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "92b852470985ff3712cc6fc7316fba78bae22ef2",
+  "title": "LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "a07c53a72fd28054a37beb7e9b57b700d20d0770",
+  "title": "Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning",
+  "date": "2025-06-22"
+ },
+ {
+  "id": "2868932ec97c80d9a17376ee5dacda7e3121e269",
+  "title": "RL for Reasoning by Adaptively Revealing Rationales",
+  "date": "2025-06-22"
+ },
+ {
+  "id": "61d0b02e7d262923b704173c029276075a2c0e2b",
+  "title": "Shrinking the Generation-Verification Gap with Weak Verifiers",
+  "date": "2025-06-22"
+ },
+ {
+  "id": "c7015e293bd768f023c4e5b3458ffceff5b4a242",
+  "title": "BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning",
+  "date": "2025-06-20"
+ },
+ {
+  "id": "5695f983699b36af61851d8025aab9caea970eae",
+  "title": "No Free Lunch: Rethinking Internal Feedback for LLM Reasoning",
+  "date": "2025-06-20"
+ },
+ {
+  "id": "bf5f27b17ee596b7f8a96e6dabd608f5f6723387",
+  "title": "Chiron-o1: Igniting Multimodal Large Language Models towards Generalizable Medical Reasoning via Mentor-Intern Collaborative Search",
+  "date": "2025-06-20"
+ },
+ {
+  "id": "69535d3c6ff3238f8e7b2b29c1d40ea9d9d7914f",
+  "title": "Reasoning with Exploration: An Entropy Perspective",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "6aa55900c2bcf1860938520bdf1952f462ed37a1",
+  "title": "Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "502a9fe58f14fa1252648bcb434e7ad04913c525",
+  "title": "Adaptive Guidance Accelerates Reinforcement Learning of Reasoning Models",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "2bdccbeffa0bae760f416a72ebe7a3951e230659",
+  "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "dd3ad0b37c2aa78ee347b04b7593b1330ff01f7f",
+  "title": "CAPO: Reinforcing Consistent Reasoning in Medical Decision-Making",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "38b95849308f6db01a5c89342a65a797870b2dc9",
+  "title": "Towards Understanding the Cognitive Habits of Large Reasoning Models",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "2804f5e90879ed0bb3af30a612138e6381775abf",
+  "title": "From Emergence to Control: Probing and Modulating Self-Reflection in Language Models",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "aee08e76992c63d7207cbe79809989d0801d1b43",
+  "title": "Eliciting Reasoning in Language Models with Cognitive Tools",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "e98e055d5a03953e1d961de1f9811b1cb9d0ccc5",
+  "title": "DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "58688b06a04d974d611d9d171b51697ded077245",
+  "title": "ReVeal: Self-Evolving Code Agents via Reliable Self-Verification",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "f3ec0ee1538796c8d5e5633958106fbe394a32ad",
+  "title": "Spurious Rewards: Rethinking Training Signals in RLVR",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "f961589644c0030dbc2f2d53398fd03934e13bfa",
+  "title": "Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "a8a54a168109ed5cbfef4d0af237c9785742c430",
+  "title": "Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "9d349f6cd41f734739150a8662054b6a6672cf10",
+  "title": "Reinforced Refinement With Self-Aware Expansion for End-to-End Autonomous Driving",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "fed4309c9842e484b35b2317545d8b4a7ec46206",
+  "title": "RePO: Replay-Enhanced Policy Optimization",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "a7296ed5abc6ea2ce742647b98d2d35b5f1c98a8",
+  "title": "VerIF: Verification Engineering for Reinforcement Learning in Instruction Following",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "797f7ce4a5ec1f74c340776d7a4ecfd5cac056b2",
+  "title": "Unsupervised Elicitation of Language Models",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "b00bf6242d2a7b9455080330b31be29d8c554ab8",
+  "title": "A Survey on Large Language Models for Mathematical Reasoning",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "4d44955349b4fe72dd22fef5be2ee56c86202ec5",
+  "title": "Reinforcement Learning Teachers of Test Time Scaling",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "78389b6d2afb88bd5158700f61c7c6f37f8abf2c",
+  "title": "Wait, We Don't Need to \"Wait\"! Removing Thinking Tokens Improves Reasoning Efficiency",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "ddf93bf2cc37dbbe68e5774645df05b28f86db86",
+  "title": "Large Language Models Have Intrinsic Meta-Cognition, but Need a Good Lens",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "f45e7ebf613d14bcfaf310b188b493cae42ec243",
+  "title": "Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "cf92906ac18467b2bce3cf1cbd77bc4ed1201352",
+  "title": "SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "ff76e9e076f4aa1b6fb9b1826297553973a54dc4",
+  "title": "e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "82f59319e581cdfe16a97fe29bec6215ad818a81",
+  "title": "Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "bbac26c776bd7312c6051e8abf39427e2f61cd88",
+  "title": "RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "3ba8eb19663f7dc7e31a17cb98a73bae949d19f6",
+  "title": "GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "5c9217a9b3370bbf363c805cb2780ba64ea0a0db",
+  "title": "Play to Generalize: Learning to Reason Through Game Play",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "7f75a4b28a8a473d7cafc621f976fa4545ce2fc6",
+  "title": "CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "1eab09d29fa9e7ff08e8c82166b9faf4463e84d5",
+  "title": "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+  "date": "2025-06-07"
+ },
+ {
+  "id": "bc09f88f2161dca3fcb3fe00423409615ebf2c9c",
+  "title": "Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning",
+  "date": "2025-06-07"
+ },
+ {
+  "id": "aa011fde2d4cf069734858d9b215f6da43df2508",
+  "title": "Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning",
+  "date": "2025-06-07"
+ },
+ {
+  "id": "c0e9fae1c5ab223601ee44482c726e779a478d71",
+  "title": "Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models",
+  "date": "2025-06-06"
+ },
+ {
+  "id": "fe54c92cb5f7c2c68847354af8770dd8df5f7088",
+  "title": "Reshaping Reasoning in LLMs: A Theoretical Analysis of RL Training Dynamics through Pattern Selection",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "a09c56dd02190a45a23f0007e69a31656f97fc4e",
+  "title": "Revisiting Test-Time Scaling: A Survey and a Diversity-Aware Method for Efficient Reasoning",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "a8c5f91c6ad306734187f6e85a60a4a1ffb456c3",
+  "title": "Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "cf4c361ad7196b8ff950c2804a2ca42e048778db",
+  "title": "Dissecting Long-Chain-of-Thought Reasoning Models: An Empirical Study",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "8f15336fdd32214c749db716fce9a32c8d22c829",
+  "title": "How Far Are We from Generating Missing Modalities with Foundation Models?",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "18432c7bcc8ac6eeadb9e2f4ab4490257af2aae5",
+  "title": "Seed-Coder: Let the Code Model Curate Data for Itself",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "2c96c423d0cd481953e50ded37fb04921af02f5e",
+  "title": "Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "2587ee3880c15a247f8f5fca40ffdef088102100",
+  "title": "Rewarding the Unlikely: Lifting GRPO Beyond Distribution Sharpening",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "23240583bebf95df06d238e90d6cbcb87afa5eeb",
+  "title": "StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "f9593e4c247defe3e1e518f59848048c9bc19a8e",
+  "title": "Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "3fae1aae2f8e70ae0b706a237ab7da721ed33ad6",
+  "title": "World Modelling Improves Language Model Agents",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "6d8d11f982b5b87fa84c2859398b002f2f5d8b1e",
+  "title": "From Street Views to Urban Science: Discovering Road Safety Factors with Multimodal Large Language Models",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "a7933f44a76c680b074591deb74b444ab8c748e0",
+  "title": "The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "3646acd0dc49a00d38517abccfc3a54cb78bbadc",
+  "title": "SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "f7b400cab655e820a38348fd1c933ab3036b29f9",
+  "title": "KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "0eed0ba7bf63c67cd34c082990aaf96a49fbbdc5",
+  "title": "Generalizable LLM Learning of Graph Synthetic Data with Post-training Alignment",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "45122e82fcbaf1dbc98884eacc9e13383ea05e93",
+  "title": "LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da2db415a3c9dfa0efaf3207f1cd6e4254e3d1eb",
+  "title": "Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs",
+  "date": "2025-05-31"
+ },
+ {
+  "id": "45b76cccce462e22c152f59bd8149ac444376abd",
+  "title": "Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting",
+  "date": "2025-05-31"
+ },
+ {
+  "id": "ce2549e32f9e089c9d083fa3ff4f707b84bdd126",
+  "title": "Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "10feab31bb9e71a0f1094fb00c0554abfb992c4d",
+  "title": "ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "b75643c6817b50b65f23b3b3868be7f0eeaddb0e",
+  "title": "RAST: Reasoning Activation in LLMs via Small-model Transfer",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "1bac1895263f10e52cbee5742fa7b896b5bc4976",
+  "title": "MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "ac1d5df9687455f405de44ef8190aa5321a99a5b",
+  "title": "Towards Effective Code-Integrated Reasoning",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "def268940f3bc1f3541693fbc565ff32e0c0dbc9",
+  "title": "How Much Backtracking is Enough? Exploring the Interplay of SFT and RL in Enhancing LLM Reasoning",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "9feb0460f23ea2cbd9ad68843256c9a6d828fa18",
+  "title": "REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "c03d9b77bf69879faf646270d5e78a71a5d22809",
+  "title": "ProxyThinker: Test-Time Guidance through Small Visual Reasoners",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "8bb0689f435be4a2e0f448c027be8d9489c564c2",
+  "title": "Grounded Reinforcement Learning for Visual Reasoning",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "d9c149114c2d71fc6c00e9b3f7faae18d2ff1e08",
+  "title": "Table-R1: Inference-Time Scaling for Table Reasoning",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "4a0be5039b2d462fedafec282ac19dce5746dad8",
+  "title": "Diversity-Aware Policy Optimization for Large Language Model Reasoning",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "8791d0fd351f9b8fa294087bbdba817cba862dc8",
+  "title": "Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "78bce79425835345e6b3a2284bdedc83e8b05610",
+  "title": "Beyond path selection: Better LLMs for Scientific Information Extraction with MimicSFT and Relevance and Rule-induced(R2)GRPO",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "532c7d150d7bfece96e3c51ad0c8e4e18271912c",
+  "title": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "c14bdd1555be953c3b37154a0b5cf1d8b129058b",
+  "title": "Decomposing Elements of Problem Solving: What \"Math\" Does RL Teach?",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "7d52057bce1d4e1edd05aa31df2844bfa03a043e",
+  "title": "Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "01e0ff53a6af26f001c8866b6cee570f14b1372d",
+  "title": "The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "84ac4173ac8cd7cfea0262ceedc0796d0ea4b0e2",
+  "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "a74aa10c1912ac69b0f47d1b33614100117757aa",
+  "title": "The Price of a Second Thought: On the Evaluation of Reasoning Efficiency in Large Language Models",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "dd2db8725e39c7c0a541fa74a4302d2d189eccf1",
+  "title": "cadrille: Multi-modal CAD Reconstruction with Reinforcement Learning",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "03e385b1a6fdb7bef5612feea44e44d5efd45bcc",
+  "title": "Accelerating RL for LLM Reasoning with Optimal Advantage Regression",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "59a30ea323f3f11765c55b6db50105e1c4bf9d98",
+  "title": "Pretraining Language Models to Ponder in Continuous Space",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "c2dea4e4bf4ea7cb63a6f35b4564873810cb9b45",
+  "title": "Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "5bd465c1d9f74d4769d5a1887a13f84b8c7d1a73",
+  "title": "Temporal Sampling for Forgotten Reasoning in LLMs",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "35f64b55d673e2331dfb7141bdfcb8b5cdba9f21",
+  "title": "Incentivizing Strong Reasoning from Weak Supervision",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "d624ac7d5cacc53ff21eb8bb94988165b1ddc197",
+  "title": "Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "03013a1f76048fcabb9d3d66a30543c0dda5ceec",
+  "title": "R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "8520bc0e31cb875ffe7defe0154e6f65a7923c79",
+  "title": "Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "aae764d14baec66d17e4da84a09996954c2ed2b6",
+  "title": "The Limits of Preference Data for Post-Training",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "89e3017e1ffdf5f7cedd3b5bb08fcc0ab48200ba",
+  "title": "Learning to Reason without External Rewards",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "6c8f155cafdb286e09abbed89cd7c70a550a8aef",
+  "title": "Do Large Language Models (Really) Need Statistical Foundations?",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "8443d3b607b3f30ace2449a4df1d55976dd16a37",
+  "title": "SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "7cab61a4d24a6e10abaadca758824e078e790187",
+  "title": "Behavior Injection: Preparing Language Models for Reinforcement Learning",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "aca3814e519363e2747cd3defe9b17f58358dec1",
+  "title": "AI Pedagogy: Dialogic Social Learning for Artificial Agents",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "1cce5f75d76b07a9b8b8e2c36b4d0a3b520d27ef",
+  "title": "Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "0b22a66d2896dd025616cef6d7f40a3565281f9e",
+  "title": "ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "15f0ebcfef190e6aeac25e08e71e320be0263696",
+  "title": "Bridging Supervised Learning and Reinforcement Learning in Math Reasoning",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "7ebf432cee3811235abc1b4947b3d4625e35de99",
+  "title": "RLKD: Distilling LLMs' Reasoning via Reinforcement Learning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "2ad1d0e5fd9b0a71fa3d09f9048daafe22697b39",
+  "title": "SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "846e9ca039d4b9fadbc15e1c462785078b5f19ba",
+  "title": "Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "859caa7e5a365c5c13d5fb0c614ac8d151126e29",
+  "title": "UFT: Unifying Supervised and Reinforcement Fine-Tuning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "34035d548b6cc7b6448db4f24064b185231038de",
+  "title": "TemplateRL: Structured Template-Guided Reinforcement Learning for LLM Reasoning",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "fec0d490e9c9fb0ca600afa8da84135714bcf620",
+  "title": "When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "a3987a49a39b955a506bbb19dfea484b8f93db50",
+  "title": "Citation Parsing and Analysis with Language Models",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "c5f39bcc5c9923f81047c804fb21ea0f761eab1b",
+  "title": "NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "350e5ff510d6ae5e280b4af38b4ce085531e4a52",
+  "title": "GRIT: Teaching MLLMs to Think with Images",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "044fb37355f003460f468feb13b25b6effebf2d1",
+  "title": "AAPO: Enhancing the Reasoning Capabilities of LLMs with Advantage Margin",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "2287c77e0e8c533647577c2ddc6dfa0d509db6bb",
+  "title": "Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "78169fd4729b3da0f5cf72f57bd968515a5ed646",
+  "title": "RLVR-World: Training World Models with Reinforcement Learning",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "3d3a2628996d859235fce41c5f23f5123c181cb8",
+  "title": "Efficient Agent Training for Computer Use",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "0d5cb721b3541f445f47c049ccd03e66c3e7c591",
+  "title": "J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "e796d03228f09497ea43a0e330c88ba6015a6c0a",
+  "title": "Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "fde0ffe77186561497ce15e4faca82db11dacd64",
+  "title": "Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "0576c5be53db2c04d644637308763a4fc2db3a36",
+  "title": "Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "830a0c3b26f11003ae0fdd50571b7a26df3f524b",
+  "title": "RL in Name Only? Analyzing the Structural Assumptions in RL post-training for LLMs",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "9718720c314c372b82db74b1132a823ed73a4978",
+  "title": "BARREL: Boundary-Aware Reasoning for Factual and Reliable LRMs",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "e98e1f50c1892c08ecb19d27df4f9c7d97fd9353",
+  "title": "Synthetic Data RL: Task Definition Is All You Need",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "95a3f6316054ba40f409a75b742ad7a2c8bf339c",
+  "title": "CPGD: Toward Stable Rule-based Reinforcement Learning for Language Models",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "0146b3e180c012da41d66741c24f7bcf1e48a12d",
+  "title": "Using Reinforcement Learning to Train Large Language Models to Explain Human Decisions",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "ed0689265c039a1e5adae8d2596b22b8833aac95",
+  "title": "Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning",
+  "date": "2025-05-15"
+ },
+ {
+  "id": "f6b52ce940245c2af1ac5f104fb2e1f747065383",
+  "title": "Memorization-Compression Cycles Improve Generalization",
+  "date": "2025-05-13"
+ },
+ {
+  "id": "99195e486c8d7057e91efcc6660cf386180c6d99",
+  "title": "Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation",
+  "date": "2025-05-13"
+ },
+ {
+  "id": "28e9c552dc60ce90144b932027e67442b4da5a40",
+  "title": "Adaptive GoGI-Skip: Coupling Goal-Gradient Importance with Dynamic Uncertainty for Efficient Reasoning",
+  "date": "2025-05-13"
+ },
+ {
+  "id": "97e0a3548a6f0818262b4f86e4180f256e2f0128",
+  "title": "MiMo: Unlocking the Reasoning Potential of Language Model - From Pretraining to Posttraining",
+  "date": "2025-05-12"
+ },
+ {
+  "id": "139932253d5a8f07ddf07bac61a62d6a4dcc947d",
+  "title": "Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "0708d2761c22419a77f54873b7bb7800b43d31ad",
+  "title": "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "1122b654f8b47c1aa9c04ff6bbe7561c798e2ad0",
+  "title": "Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
+  "date": "2025-04-29"
+ },
+ {
+  "id": "41309d007b6d6b66a034900901ad5c934a2a2922",
+  "title": "GVPO: Group Variance Policy Optimization for Large Language Model Post-Training",
+  "date": "2025-04-28"
+ },
+ {
+  "id": "847d63914c51e3855ed7f13e74157daaa4a37d94",
+  "title": "Learning to Reason under Off-Policy Guidance",
+  "date": "2025-04-21"
+ },
+ {
+  "id": "a98d0e00bfcb5315aa118120560f178c018bbb10",
+  "title": "The Geometry of Self-Verification in a Task-Specific Reasoning Model",
+  "date": "2025-04-19"
+ },
+ {
+  "id": "80ec713f64a6b7b0c72de3c23824840e9037c893",
+  "title": "Offline Learning and Forgetting for Reasoning with Large Language Models",
+  "date": "2025-04-15"
+ },
+ {
+  "id": "aa3517c664890cd36aee3cfff0f09d2645e373b6",
+  "title": "A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility",
+  "date": "2025-04-09"
+ },
+ {
+  "id": "1738bfdda961ddc9d31b39f3dd38b1f425199e94",
+  "title": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "bd0968a985baacd381e537a37c0d8c09672de345",
+  "title": "Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models",
+  "date": "2025-03-27"
+ },
+ {
+  "id": "82a82bbb75b08c3de78f7cebd52e1c3c38d515b2",
+  "title": "Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition",
+  "date": "2025-03-16"
+ },
+ {
+  "id": "e71ff5188cc6435f0ba3ebbb054829c0b1dd3ba8",
+  "title": "Chain-of-Thought Reasoning In The Wild Is Not Always Faithful",
+  "date": "2025-03-11"
+ },
+ {
+  "id": "f53651553e060e56c14efe31b069edc2c92e6317",
+  "title": "Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "ffcf77027f5144c17de1cbb72b5c1d783a3848f7",
+  "title": "CMCTS: A Constrained Monte Carlo Tree Search framework for mathematical reasoning in large language model",
+  "date": "2025-02-16"
+ },
+ {
+  "id": "603b0144faf69fb3216b843667b6f27050cccf0e",
+  "title": "Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "d7fa275c7bdd3d1dafd144145d4135c107218225",
+  "title": "Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning",
+  "date": "2025-02-07"
+ },
+ {
+  "id": "c89257cd21e6c6d70ca1171f8fcedf65796bac3f",
+  "title": "AStar: Boosting Multimodal Reasoning with Automated Structured Thinking",
+  "date": "2025-02-04"
+ },
+ {
+  "id": "e005e84a0d74fad8062028b4796d8282e2f0487f",
+  "title": "Unlocking Multimodal Mathematical Reasoning via Process Reward Model",
+  "date": "2025-01-08"
+ },
+ {
+  "id": "593eb9e34076a78ee1914bd8253b8b02de50e0eb",
+  "title": "Densing law of LLMs",
+  "date": "2024-12-05"
+ },
+ {
+  "id": "5f4351b4298f918aa8a837454ec198df81dce061",
+  "title": "Learning to Better Search with Language Models via Guided Reinforced Self-Training",
+  "date": "2024-10-03"
+ }
+]

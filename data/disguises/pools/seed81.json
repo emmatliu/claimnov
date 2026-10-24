@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_82ff27faefe5c1e81e81cbebf2ce1c640a0b56fd",
+   "title": "Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation",
+   "date": "2026-05-21",
+   "is_B": true
+  },
+  {
+   "id": "23777febe7a2105b4209d35f61348ea050cee182",
+   "title": "Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "4dce522a4b7dd1ef7feab460cd23740fc5112117",
+   "title": "Integrating neural operators with diffusion models improves spectral representation in turbulence modelling",
+   "date": "2025-03-01"
+  },
+  {
+   "id": "4db80ee52ced582b90a80ff563bf0485af0c6afd",
+   "title": "Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution",
+   "date": "2024-05-20"
+  },
+  {
+   "id": "f912394da890461457a3141e247ac55a7443af79",
+   "title": "Toward a Better Understanding of Fourier Neural Operators from a Spectral Perspective",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "41eabc7bb069f342d08b6f65986675294f736cca",
+   "title": "Mitigating spectral bias for the multiscale operator learning",
+   "date": "2022-10-19"
+  },
+  {
+   "id": "efe3e8607666e9d5ad3adac99da184c014bee33e",
+   "title": "RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "aafa9bb3ba269fb0561c0b2165d27464840545d7",
+   "title": "Neural Operator: Learning Maps Between Function Spaces",
+   "date": "2021-08-19"
+  },
+  {
+   "id": "2f7dc1ee85e9f6a97810c66016e09ffeed684f03",
+   "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+   "date": "2020-10-18"
+  },
+  {
+   "id": "03547cf81db895a448c3d0283bdfa20695ed26ab",
+   "title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+   "date": "2019-10-08"
+  },
+  {
+   "id": "29023501b10d0fcfee00c2cbca32d8a0738bef10",
+   "title": "F-Adapter: Frequency-Adaptive Parameter-Efficient Fine-Tuning in Scientific Machine Learning",
+   "date": "2025-09-27"
+  },
+  {
+   "id": "6d23a4d05c55094b632d83563fb0b178351221c2",
+   "title": "Breaking Scale Anchoring: Frequency Representation Learning for Accurate High-Resolution Inference from Low-Resolution Training",
+   "date": "2025-11-28"
+  },
+  {
+   "id": "08080874ebb13d92b1214cb0f60dfcd737f88a92",
+   "title": "Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning",
+   "date": "2024-02-24"
+  },
+  {
+   "id": "91601c65cd6bfe04a7caf8ed4916006f2f25550b",
+   "title": "A Library for Learning Neural Operators",
+   "date": "2024-12-13"
+  },
+  {
+   "id": "f02417f3d6798862b6782dfa411c3952111842f0",
+   "title": "Convergence analysis of Tikhonov regularization for non-linear statistical inverse problems",
+   "date": "2019-02-14"
+  },
+  {
+   "id": "715a73290f260cf2196307e59fe0b6776841f170",
+   "title": "On the Spectral Bias of Neural Networks",
+   "date": "2018-06-22"
+  },
+  {
+   "id": "449310e3538b08b43227d660227dfd2875c3c3c1",
+   "title": "Neural Ordinary Differential Equations",
+   "date": "2018-06-19"
+  },
+  {
+   "id": "3e8a7b2bd31b2e77565ecc58394889c51a0016d3",
+   "title": "DISCO: learning to DISCover an evolution Operator for multi-physics-agnostic prediction",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "16ba65426ed5e1e3367eff5bd507dcf6d99bd7c2",
+   "title": "Wide Activation for Efficient and Accurate Image Super-Resolution",
+   "date": "2018-08-27"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.6371,
+  0.6166,
+  0.6118,
+  0.6021,
+  0.5955,
+  0.5802,
+  0.5556,
+  0.5351,
+  0.5274,
+  0.5094,
+  0.5093,
+  0.5078,
+  0.5052,
+  0.4926,
+  0.479,
+  0.4587,
+  0.4479,
+  0.4451,
+  0.4231
+ ]
+}

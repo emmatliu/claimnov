@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e816f788767eec6a8ef0ea9eddd0e902435d4271",
+   "title": "Don\u2019t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+   "is_B": true
+  },
+  {
+   "id": "578e050d6e007797d032a07e712142035f2666dc",
+   "title": "An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models",
+   "date": "2019-02-27"
+  },
+  {
+   "id": "8659bf379ca8756755125a487c43cfe8611ce842",
+   "title": "To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks",
+   "date": "2019-03-14"
+  },
+  {
+   "id": "b47381e04739ea3f392ba6c8faaf64105493c196",
+   "title": "Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks",
+   "date": "2018-11-02"
+  },
+  {
+   "id": "9f1c5777a193b2c3bb2b25e248a156348e5ba56d",
+   "title": "Cloze-driven Pretraining of Self-attention Networks",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "e0c6abdbdecf04ffac65c440da77fb9d66bb474c",
+   "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "61d24c45e41f4f6cfc3d9da2f03efde1862b839e",
+   "title": "Using Similarity Measures to Select Pretraining Data for NER",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "87f714f3534c7a3ca2bf41ce5825139ddc8247bf",
+   "title": "What to do about non-standard (or non-canonical) language in NLP",
+   "date": "2016-08-28"
+  },
+  {
+   "id": "c39e409d6b7744200c4fd12a6b81e51f6145cfae",
+   "title": "Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling",
+   "date": "2019-04-04"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "1e077413b25c4d34945cc2707e17e46ed4fe784a",
+   "title": "Universal Language Model Fine-tuning for Text Classification",
+   "date": "2018-01-18"
+  },
+  {
+   "id": "5f7b1cf0323893735220332ef6aecbff90f3d44b",
+   "title": "Learning to select data for transfer learning with Bayesian Optimization",
+   "date": "2017-07-17"
+  },
+  {
+   "id": "a022bda79947d1f656a1164003c1b3ae9a843df9",
+   "title": "How to Fine-Tune BERT for Text Classification?",
+   "date": "2019-05-14"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "95856e0789481eedc2cedc413581a0a819ef8fc8",
+   "title": "Unsupervised Domain Clusters in Pretrained Language Models",
+   "date": "2020-04-05"
+  },
+  {
+   "id": "3b3f47170ec5c4fabac510585b33aeb87b384396",
+   "title": "Variational Pretraining for Semi-supervised Text Classification",
+   "date": "2019-06-05"
+  },
+  {
+   "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "date": "2018-04-20"
+  },
+  {
+   "id": "1e43c7084bdcb6b3102afaf301cce10faead2702",
+   "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+   "date": "2019-01-25"
+  },
+  {
+   "id": "a54b56af24bb4873ed0163b77df63b92bd018ddc",
+   "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+   "date": "2019-10-02"
+  }
+ ],
+ "n_candidates": 60,
+ "sims": [
+  0.601,
+  0.5934,
+  0.5933,
+  0.5791,
+  0.5479,
+  0.5428,
+  0.5192,
+  0.5144,
+  0.5102,
+  0.5093,
+  0.5063,
+  0.4883,
+  0.4784,
+  0.4731,
+  0.4707,
+  0.4706,
+  0.4655,
+  0.4608,
+  0.4559
+ ]
+}

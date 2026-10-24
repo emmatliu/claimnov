@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8e7dc80a2e67345b4b9c42132aa4a25d74726aec",
+   "title": "Exploring Wav2vec 2.0 Model for Heart Murmur Detection",
+   "is_B": true
+  },
+  {
+   "id": "904fd897a47e2713257334f17c1ce09114e7973d",
+   "title": "Audio self-supervised learning: A survey",
+   "date": "2022-03-02"
+  },
+  {
+   "id": "49a049dc85e2380dde80501a984878341dd8efdf",
+   "title": "wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations",
+   "date": "2020-06-20"
+  },
+  {
+   "id": "9a9d374d1dad72a0349c3a64be93660151274f41",
+   "title": "Exploring wav2vec 2.0 on speaker verification and language identification",
+   "date": "2020-12-11"
+  },
+  {
+   "id": "4fffa5245d3972077c83614c2a08a47cb578631e",
+   "title": "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units",
+   "date": "2021-06-14"
+  },
+  {
+   "id": "0c635829365f8639f699892764669ad143bff88a",
+   "title": "BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation",
+   "date": "2021-03-11"
+  },
+  {
+   "id": "89e52c4e2ec88531ddd7b2a4d3bb65521a34ff0b",
+   "title": "Exploring the influence of fine-tuning data on wav2vec 2.0 model for blind speech quality prediction",
+   "date": "2022-04-05"
+  },
+  {
+   "id": "8b939af3ef6ab8e0b17d2c671a499891c0e72f4e",
+   "title": "Fine-Tuning Wav2Vec2 for Speaker Recognition",
+   "date": "2021-09-30"
+  },
+  {
+   "id": "2e5dee9f5dfd988cab159980a966f89f88b5bd2e",
+   "title": "Self-Supervised Representation Learning from Electroencephalography Signals",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "2214ae5dbbadfe40efa49f17f00cc11076aad790",
+   "title": "Contrastive learning of heart and lung sounds for label-efficient diagnosis",
+   "date": "2021-12-01"
+  },
+  {
+   "id": "c008f0f47bde9c224d5cdbc63988033995fa87c4",
+   "title": "BENDR: Using Transformers and a Contrastive Self-Supervised Learning Task to Learn From Massive Amounts of EEG Data",
+   "date": "2021-01-28"
+  },
+  {
+   "id": "0170bb0b524df2c81b5adc3062c6001a2eb34c96",
+   "title": "Self-Supervised Learning of Pretext-Invariant Representations",
+   "date": "2019-12-04"
+  },
+  {
+   "id": "72f1b98bb5719bbd8747438bcf5308540a1208bc",
+   "title": "Learning Music Representations with wav2vec 2.0",
+   "date": "2022-10-27"
+  },
+  {
+   "id": "a484fc24b62758b5bc61e6b967e7935c1a08dcab",
+   "title": "Self-Supervised ECG Representation Learning for Emotion Recognition",
+   "date": "2020-02-04"
+  },
+  {
+   "id": "61b4f4623f78921767f498a18b0dd5079b7bba9d",
+   "title": "Listen2YourHeart: A Self-Supervised Approach for Detecting Murmur in Heart-Beat Sounds",
+   "date": "2022-08-31"
+  },
+  {
+   "id": "9fa6c0bf913d42f764977c619d0308a25bf1584a",
+   "title": "Detection of Heart Murmurs in Phonocardiograms with Parallel Hidden Semi-Markov Models",
+   "date": "2022-09-04"
+  },
+  {
+   "id": "faadd7d081c8d67e8c2567e8a5579e46cd6b2280",
+   "title": "fairseq: A Fast, Extensible Toolkit for Sequence Modeling",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "1269e191091eadeed6f246cf5a6692b178bb4d94",
+   "title": "Super-convergence: very fast training of neural networks using large learning rates",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "3fb62cfb12f5943c24931bc74b0403a8576a37cc",
+   "title": "Deep attention-based neural networks for explainable heart sound classification",
+   "date": "2022-05-01"
+  },
+  {
+   "id": "c6dcc175031f773ad9aeddfce0ba69df6846dc00",
+   "title": "Deep Learning Based Heart Murmur Detection Using Frequency-time Domain Features of Heartbeat Sounds",
+   "date": "2022-09-04"
+  }
+ ],
+ "n_candidates": 21,
+ "sims": [
+  0.7106,
+  0.6732,
+  0.6206,
+  0.5865,
+  0.5709,
+  0.5678,
+  0.5587,
+  0.5386,
+  0.5287,
+  0.5225,
+  0.4953,
+  0.4931,
+  0.483,
+  0.4638,
+  0.4132,
+  0.406,
+  0.394,
+  0.3776,
+  0.3597
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_73de7df8e81a533993b59c138fe12c7b23975a0f",
+   "title": "Matroid Algorithms Under Size-Sensitive Independence Oracles",
+   "date": "2026-04-30",
+   "is_B": true
+  },
+  {
+   "id": "a6548c87ee9dc8dd4f315121289008b7d9c3c98c",
+   "title": "Accelerating Matroid Optimization through Fast Imprecise Oracles",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "24bfc6542bd4eed9088a3b7236854209254055d9",
+   "title": "Fast Algorithms via Dynamic-Oracle Matroids",
+   "date": "2023-02-20"
+  },
+  {
+   "id": "c0fb4dd8f273d37a6abcd3b5ed5ddbeee10897df",
+   "title": "Breaking the quadratic barrier for matroid intersection",
+   "date": "2021-02-10"
+  },
+  {
+   "id": "1f24afb6aaa9f2c448456a19aa2ee2b60699bd41",
+   "title": "Faster Matroid Intersection",
+   "date": "2019-11-01"
+  },
+  {
+   "id": "6e201e3b8b55f408aadb54dd4e4133f53ed695df",
+   "title": "On the Parallel Complexity of Finding a Matroid Basis",
+   "date": "2025-07-10"
+  },
+  {
+   "id": "55be55e14e2d6704f8815727bf585f28f070c351",
+   "title": "Faster exact and approximation algorithms for packing and covering matroids via push-relabel",
+   "date": "2023-03-02"
+  },
+  {
+   "id": "81cfdceb04d0d902d311b702e3d2159f35b8f3e4",
+   "title": "Matroid Secretary Problems",
+   "date": "2018-11-19"
+  },
+  {
+   "id": "0d32773b665284d1eb22eeea462a5cefaa146ea1",
+   "title": "A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization",
+   "date": "2015-08-20"
+  },
+  {
+   "id": "3825c640ba0323627007968cb2a4b2fa99b5470c",
+   "title": "Deterministic Algorithm and Faster Algorithm for Submodular Maximization Subject to a Matroid Constraint",
+   "date": "2024-08-07"
+  },
+  {
+   "id": "37855378358fc7a53b35757a8dc58ba2b94aba3b",
+   "title": "Dynamic Algorithms for Matroid Submodular Maximization",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "6dbfc909b331261a03626aef4d3a3a630e87a5e4",
+   "title": "Deterministic Approximation for Submodular Maximization over a Matroid in Nearly Linear Time",
+   "date": "2020-10-22"
+  },
+  {
+   "id": "16be2ce82b60a3339000549862f91397ed57227b",
+   "title": "Fully Dynamic Submodular Maximization over Matroids",
+   "date": "2023-05-31"
+  },
+  {
+   "id": "5a06ae6b41877cc02f43cb6280537cf962092a7a",
+   "title": "Matroid Semi-Bandits in Sublinear Time",
+   "date": "2024-05-28"
+  },
+  {
+   "id": "964d50fb5ce6fe7f53802a04786c9a025b88b92e",
+   "title": "Deletion Robust Submodular Maximization over Matroids",
+   "date": "2022-01-31"
+  },
+  {
+   "id": "8d2395a455d63043d57d28f035bfef51595ac8b2",
+   "title": "Forests, frames, and games: Algorithms for matroid sums and applications",
+   "date": "1988-01-01"
+  },
+  {
+   "id": "b5a09f164a4f9f0db14ed524803cbc2366919990",
+   "title": "Transversals and Matroid Partition",
+   "date": "1965-07-01"
+  },
+  {
+   "id": "5f0ffbe98dbf70951fecde8abf1f631bd4c382a5",
+   "title": "Combining Preference Elicitation with Local Search and Greedy Search for Matroid Optimization",
+   "date": "2021-05-18"
+  },
+  {
+   "id": "59b40faa990084599e8f98334f7eb707de992619",
+   "title": "Large-Scale Trade-Off Curve Computation for Incentive Allocation with Cardinality and Matroid Constraints",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "e080fbf23fa228a993d3613a5351afb79e97a0e9",
+   "title": "Truthful and Fair Mechanisms for Matroid-Rank Valuations",
+   "date": "2021-09-13"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.7601,
+  0.7516,
+  0.7262,
+  0.7145,
+  0.707,
+  0.6944,
+  0.6719,
+  0.6637,
+  0.6527,
+  0.6451,
+  0.6347,
+  0.6252,
+  0.6177,
+  0.6029,
+  0.6004,
+  0.5849,
+  0.5831,
+  0.562,
+  0.5511
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_cbe3886c383b97dd3435070c4a401924e3de4b4b",
+   "title": "Suppress and Diversify: Refining Robust Pathways for Corruption Robustness",
+   "date": "2026-08-07",
+   "is_B": true
+  },
+  {
+   "id": "c1aa4853087481a35d39a6a0ed11f8909853c21d",
+   "title": "Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "1f4daed8d981bfba84076d8edc57661df1e2cff9",
+   "title": "Improving Robustness by Enhancing Weak Subnets",
+   "date": "2022-01-30"
+  },
+  {
+   "id": "c22e5a704ecbfda27ac75f40cc9e62231924be1f",
+   "title": "Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation",
+   "date": "2021-10-15"
+  },
+  {
+   "id": "934d7bffdba0b560a80a518b99a791a16b3e198c",
+   "title": "A Fourier Perspective on Model Robustness in Computer Vision",
+   "date": "2019-06-21"
+  },
+  {
+   "id": "b97d8b27224efb6655091393f27441b6ed8e6395",
+   "title": "Benchmarking the Robustness of Semantic Segmentation Models with Respect to Common Corruptions",
+   "date": "2019-08-14"
+  },
+  {
+   "id": "652148c270cca84613eb65875fc99e74ac3ae1ef",
+   "title": "Exploring Robust Features for Improving Adversarial Robustness",
+   "date": "2023-09-09"
+  },
+  {
+   "id": "e609165fac8e4923423f754fb82292a614395c92",
+   "title": "Measuring Robustness to Natural Distribution Shifts in Image Classification",
+   "date": "2020-07-01"
+  },
+  {
+   "id": "022622e024890d6e044ac50e2da6b44c59bdf418",
+   "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
+   "date": "2020-06-29"
+  },
+  {
+   "id": "49b64383fe36268410c430352637ed23b16820c5",
+   "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+   "date": "2019-03-28"
+  },
+  {
+   "id": "677550190015f7fb4f041cff8763e6ca63857858",
+   "title": "Improving robustness against common corruptions with frequency biased models",
+   "date": "2021-03-30"
+  },
+  {
+   "id": "a0395cba344603237c9a6b9dd0358aea49491dae",
+   "title": "Dynamic Sparse Training versus Dense Training: The Unexpected Winner in Image Corruption Robustness",
+   "date": "2024-10-03"
+  },
+  {
+   "id": "6af5cdb1c6d54ed75a32353f3c31097eca6cb35e",
+   "title": "On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness",
+   "date": "2021-02-22"
+  },
+  {
+   "id": "62deb62f75338bd2ee3a7a4f717027f058688241",
+   "title": "Toward a Holistic Evaluation of Robustness in CLIP Models",
+   "date": "2024-10-02"
+  },
+  {
+   "id": "f86e786c73891219efd24852212100992f0df764",
+   "title": "Towards robust vision by multi-task learning on monkey visual cortex",
+   "date": "2021-07-29"
+  },
+  {
+   "id": "ba8926f5d2615a233216ae7e98a50c6ffaa5eebf",
+   "title": "Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving",
+   "date": "2023-03-20"
+  },
+  {
+   "id": "dc2a41c444a4af205664e50190951d5433fdedf5",
+   "title": "PRIME: A Few Primitives Can Boost Robustness to Common Corruptions",
+   "date": "2021-12-27"
+  },
+  {
+   "id": "530805f7c2173bf151e1bd0b043d2feaebc33959",
+   "title": "Improving robustness to corruptions with multiplicative weight perturbations",
+   "date": "2024-06-24"
+  },
+  {
+   "id": "54fc23348ed840cb5f1fe2b41c80bfdcfc03631f",
+   "title": "Generalisation in humans and deep neural networks",
+   "date": "2018-08-27"
+  },
+  {
+   "id": "b5d77728381d0fec93a10d5593b2c45b48892aca",
+   "title": "A Winning Hand: Compressing Deep Networks Can Improve Out-Of-Distribution Robustness",
+   "date": "2021-06-16"
+  }
+ ],
+ "n_candidates": 93,
+ "sims": [
+  0.6768,
+  0.6677,
+  0.658,
+  0.6521,
+  0.6518,
+  0.6514,
+  0.6457,
+  0.6407,
+  0.6391,
+  0.6386,
+  0.6245,
+  0.6218,
+  0.6196,
+  0.6182,
+  0.6174,
+  0.6156,
+  0.6134,
+  0.6118,
+  0.6094
+ ]
+}

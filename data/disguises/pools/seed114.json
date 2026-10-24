@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_cc26037281e74325784ce2492f29f23d099347b0",
+   "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+   "date": "2026-04-07",
+   "is_B": true
+  },
+  {
+   "id": "d20e6d59f63fbfbe7a4c2df7ccee74235afda39e",
+   "title": "The Price of Format: Diversity Collapse in LLMs",
+   "date": "2025-05-25"
+  },
+  {
+   "id": "4a0be5039b2d462fedafec282ac19dce5746dad8",
+   "title": "Diversity-Aware Policy Optimization for Large Language Model Reasoning",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "2eed1fad9bbf887d4395de40f20144c4fafefd7f",
+   "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+   "date": "2025-01-22"
+  },
+  {
+   "id": "cc1658260272b8deb85fd4de7edba36ca83ccc95",
+   "title": "Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "be20d1688725d60821ffb77edbe4bea7bf997179",
+   "title": "Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense",
+   "date": "2025-10-08"
+  },
+  {
+   "id": "38c59131a54c0240d8646acf9ed4cb7475f6e529",
+   "title": "Beyond Precision: Training-Inference Mismatch is an Optimization Problem and Simple LR Scheduling Fixes It",
+   "date": "2026-02-02"
+  },
+  {
+   "id": "de23d38bc2604dcf334dcc46aff217eb6bcd1fe1",
+   "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+   "date": "2025-03-26"
+  },
+  {
+   "id": "cb3968152f7d93f53d24b00279a90d5071ddc85a",
+   "title": "Understanding the Effects of RLHF on LLM Generalisation and Diversity",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "af9d67c8f373113127a0cb5abedbfedf82ed7648",
+   "title": "Why Do LLM Agents Fail in Exploring New Environments? A World-Modeling Perspective",
+   "date": "2025-10-16"
+  },
+  {
+   "id": "6f3784db24d9e6f207fcec5b0abea18e01fdf510",
+   "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents",
+   "date": "2025-10-19"
+  },
+  {
+   "id": "af7669dc48c70d8cf6fccdf1322d6056a6b39dc8",
+   "title": "Confronting Reward Model Overoptimization with Constrained RLHF",
+   "date": "2023-10-06"
+  },
+  {
+   "id": "bff9c3aa0289c57ef1757e37719d0bf159f3903e",
+   "title": "Reward Estimation for Variance Reduction in Deep Reinforcement Learning",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "7dc928f41e15f65f1267bd87b0fcfcc7e715cb56",
+   "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+   "date": "2023-05-07"
+  },
+  {
+   "id": "603d3f90fc40f79ff51258f0295de3ec5107f73e",
+   "title": "AI models collapse when trained on recursively generated data",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+   "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "e8815da26d4e6cac8b23b7e6aa75cec028cb66d2",
+   "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+   "date": "2024-04-01"
+  },
+  {
+   "id": "12c0751b4f51ed833172a713b7e32390032ead93",
+   "title": "Soft Actor-Critic Algorithms and Applications",
+   "date": "2018-12-13"
+  },
+  {
+   "id": "0671fd553dd670a4e820553a974bc48040ba0819",
+   "title": "Reflexion: language agents with verbal reinforcement learning",
+   "date": "2023-03-20"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.6213,
+  0.6163,
+  0.5877,
+  0.5866,
+  0.5795,
+  0.5745,
+  0.5741,
+  0.5724,
+  0.5631,
+  0.5627,
+  0.5509,
+  0.5328,
+  0.5296,
+  0.5203,
+  0.509,
+  0.4987,
+  0.4982,
+  0.4971,
+  0.4952
+ ]
+}

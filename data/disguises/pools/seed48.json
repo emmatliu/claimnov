@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_f1f745a514b2a6cb69ba7faf1379e6f735214ebc",
+   "title": "A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots",
+   "date": "2026-05-08",
+   "is_B": true
+  },
+  {
+   "id": "86dc74089c3ece01a38831092d9652499957fbc8",
+   "title": "A Computational Framework for Solving Wasserstein Lagrangian Flows",
+   "date": "2023-10-16"
+  },
+  {
+   "id": "370b8a550ba4f91572fc4b9e0e2a6c09d6f49468",
+   "title": "Wasserstein Hamiltonian flows",
+   "date": "2019-03-04"
+  },
+  {
+   "id": "010ffbdab53cdf3fee2fdd24ded5fac28b0f0890",
+   "title": "Conditional Lagrangian Wasserstein Flow for Time Series Imputation",
+   "date": "2024-10-10"
+  },
+  {
+   "id": "9ae10becb8e54cafbd2f6816df79fe4d0b996d4f",
+   "title": "Curly Flow Matching for Learning Non-gradient Field Dynamics",
+   "date": "2025-10-30"
+  },
+  {
+   "id": "bb1ffaa2ee40b42f9c69f55a85acdf0dbd543650",
+   "title": "Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold",
+   "date": "2024-08-26"
+  },
+  {
+   "id": "38cdb6fc3f8548facad8d6a9c8952a5878b8ee6d",
+   "title": "Proximal Optimal Transport Modeling of Population Dynamics",
+   "date": "2021-06-11"
+  },
+  {
+   "id": "cba209da222a2ef655abfedd7a45252fe876fb2e",
+   "title": "{Euclidean, metric, and Wasserstein} gradient flows: an overview",
+   "date": "2016-09-13"
+  },
+  {
+   "id": "14e2346e73e34683ee27c0abfeb1112d82d9c2f6",
+   "title": "Action Matching: Learning Stochastic Dynamics from Samples",
+   "date": "2022-10-13"
+  },
+  {
+   "id": "1d25a5f3bccc0654fd7a21b7b2f46e68009bbfa7",
+   "title": "Large deviations and gradient flows",
+   "date": "2012-01-22"
+  },
+  {
+   "id": "a691582f7806f363b7617e02e614dbfe7c0a6faa",
+   "title": "Gradient-flow SDEs have unique transient population dynamics",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "20ed61c929d7db14a5e26d7c2a02bbb917909351",
+   "title": "Towards a mathematical theory of trajectory inference",
+   "date": "2021-02-18"
+  },
+  {
+   "id": "e5ccc6a56d3a4d83fc9f03990e051bf27a9e2183",
+   "title": "Random walk models in biology",
+   "date": "2008-08-06"
+  },
+  {
+   "id": "13062391e5e194e511142c21e6a49eb1f746d671",
+   "title": "Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots",
+   "date": "2024-10-30"
+  },
+  {
+   "id": "ecb752e3533626aa4f46be8488b1037a10db4464",
+   "title": "DICE: Discrete inverse continuity equation for learning population dynamics",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "e136b8e7261e1835acc89bf0402e956bd4ee5225",
+   "title": "Learning Diffusion at Lightspeed",
+   "date": "2024-06-18"
+  },
+  {
+   "id": "f87ebd76d938a9cb14e25176ab1473688b7279fb",
+   "title": "Learning of Population Dynamics: Inverse Optimization Meets JKO Scheme",
+   "date": "2025-06-02"
+  },
+  {
+   "id": "e1549ea0d203e000db51db14accbcbd179a8fa27",
+   "title": "Oh SnapMMD! Forecasting Stochastic Dynamics Beyond the Schr\u00f6dinger Bridge's End",
+   "date": "2025-05-21"
+  },
+  {
+   "id": "6f908e38b1f1afcaeb307161331c5f039d8d9494",
+   "title": "Metric Flow Matching for Smooth Interpolations on the Data Manifold",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "7c90e55d1c30d08ba33c0b5d6f63a0eb528717b8",
+   "title": "Fundamental limits on dynamic inference from single-cell snapshots",
+   "date": "2017-07-30"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.6888,
+  0.6295,
+  0.6158,
+  0.6129,
+  0.6119,
+  0.5999,
+  0.5769,
+  0.5678,
+  0.5673,
+  0.5635,
+  0.5557,
+  0.5508,
+  0.5469,
+  0.5339,
+  0.5321,
+  0.5293,
+  0.5183,
+  0.5059,
+  0.4986
+ ]
+}

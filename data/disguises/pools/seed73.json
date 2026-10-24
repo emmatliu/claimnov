@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_5589700e4601bd7e78ba75b1d3480cc809387f78",
+   "title": "CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning",
+   "date": "2026-06-12",
+   "is_B": true
+  },
+  {
+   "id": "5ee4efa8f7454770df0c43ce4d6fb65dd085fca5",
+   "title": "Augmented Proximal Policy Optimization for Safe Reinforcement Learning",
+   "date": "2023-06-26"
+  },
+  {
+   "id": "7a4193d0b042643a8bb9ec262ed7f9d509bdb12e",
+   "title": "Constrained Policy Optimization",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "7f023eddeb658666db7d6e2b32b37bcbc063e807",
+   "title": "Adaptive Primal-Dual Method for Safe Reinforcement Learning",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "5eca55f6d39f5a3dbb019ad598e77195549d5980",
+   "title": "Penalized Proximal Policy Optimization for Safe Reinforcement Learning",
+   "date": "2022-05-24"
+  },
+  {
+   "id": "cb7c479a36520da1caeeec67db10772351a390c6",
+   "title": "Reward Constrained Policy Optimization",
+   "date": "2018-05-28"
+  },
+  {
+   "id": "3ffa359555ab15e7e2c379daec73fbcf5bafa458",
+   "title": "Constrained Update Projection Approach to Safe Policy Optimization",
+   "date": "2022-09-15"
+  },
+  {
+   "id": "b98a16d59c69103758bef12700c7b502f2e271ba",
+   "title": "Embedding Safety into RL: A New Take on Trust Region Methods",
+   "date": "2024-11-05"
+  },
+  {
+   "id": "9ec0bd60df62b997bb371e65d254434f8851ea9b",
+   "title": "Projection-Based Constrained Policy Optimization",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "629d0ce250581471f07083bbab95f23623b00201",
+   "title": "Responsive Safety in Reinforcement Learning by PID Lagrangian Methods",
+   "date": "2020-07-08"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "a234389fd1e14e17b2d59f5fc02c85c99ec242de",
+   "title": "Exterior Penalty Policy Optimization with Penalty Metric Network under Constraints",
+   "date": "2024-07-22"
+  },
+  {
+   "id": "ec9c093fe0b4d4a492d76dc25a2babd20e786f2c",
+   "title": "IPO: Interior-point Policy Optimization under Constraints",
+   "date": "2019-10-21"
+  },
+  {
+   "id": "b58ef62a34bdbcd357824c9e58d89cbbcc0e2375",
+   "title": "Evaluating Model-free Reinforcement Learning toward Safety-critical Tasks",
+   "date": "2022-12-12"
+  },
+  {
+   "id": "e56769f6f43c1922e037afef75a7d6c3177516b1",
+   "title": "Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark",
+   "date": "2023-10-19"
+  },
+  {
+   "id": "c919ae4366f5cc4901b854cc259101ccc13e6f3f",
+   "title": "Constrained Reinforcement Learning Has Zero Duality Gap",
+   "date": "2019-10-29"
+  },
+  {
+   "id": "cb071e609fe6c82ccc906c878c535098b773e266",
+   "title": "OmniSafe: An Infrastructure for Accelerating Safe Reinforcement Learning Research",
+   "date": "2023-05-16"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "759bbd8dd50cb4790cad7a3bccbdfcbfee5e3e89",
+   "title": "Risk-Constrained Reinforcement Learning with Percentile Risk Criteria",
+   "date": "2015-12-05"
+  },
+  {
+   "id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+   "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+   "date": "2015-06-08"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.8192,
+  0.7848,
+  0.7698,
+  0.7466,
+  0.7348,
+  0.729,
+  0.7153,
+  0.7151,
+  0.6856,
+  0.6611,
+  0.6571,
+  0.6541,
+  0.6507,
+  0.645,
+  0.6298,
+  0.604,
+  0.5847,
+  0.5696,
+  0.5509
+ ]
+}

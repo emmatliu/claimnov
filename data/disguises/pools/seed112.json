@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d8d11c2a6805dfb6286cbe8c0b0dcef4d577baee",
+   "title": "Exact Unlearning in Reinforcement Learning",
+   "date": "2026-06-02",
+   "is_B": true
+  },
+  {
+   "id": "0fa360d5bb8ce649155c6816fd19e5bffac4e07c",
+   "title": "Machine Unlearning via Algorithmic Stability",
+   "date": "2021-02-25"
+  },
+  {
+   "id": "be0d92040d33c9ce59b931f73c85e55254a5e85d",
+   "title": "Reinforcement Unlearning",
+   "date": "2023-12-26"
+  },
+  {
+   "id": "ea3eff68041f3a22b984578e8da8533aa3f766de",
+   "title": "From Adaptive Query Release to Machine Unlearning",
+   "date": "2023-07-20"
+  },
+  {
+   "id": "89e83cf5f3ee0d0f42a12b7576b49e1d10605ae1",
+   "title": "Remember What You Want to Forget: Algorithms for Machine Unlearning",
+   "date": "2021-03-04"
+  },
+  {
+   "id": "8e58dc63817a2a26e5a2ddad38d8b1d19d1c3795",
+   "title": "Machine Unlearning",
+   "date": "2019-12-09"
+  },
+  {
+   "id": "749b6e07675845b9a91113c1e4defeead4638554",
+   "title": "When to Forget? Complexity Trade-offs in Machine Unlearning",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "a03de6e3118b47b607f7f55ce5da1cec16a3bb7a",
+   "title": "The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning",
+   "date": "2024-12-12"
+  },
+  {
+   "id": "617dad3ccbbf9e93c4faf54e19e449649433a10d",
+   "title": "Descent-to-Delete: Gradient-Based Methods for Machine Unlearning",
+   "date": "2020-07-06"
+  },
+  {
+   "id": "df0fc3fd23fd69c93ccde8745c3c51979057fa43",
+   "title": "Near-Optimal Differentially Private Reinforcement Learning",
+   "date": "2022-12-09"
+  },
+  {
+   "id": "a2dfa4e1d5377a305cb5d023502883c028ab952b",
+   "title": "Differentially Private Reinforcement Learning with Linear Function Approximation",
+   "date": "2022-01-18"
+  },
+  {
+   "id": "67d10cea808937089d6492acff14ad9ef156e3c5",
+   "title": "Minimax Regret Bounds for Reinforcement Learning",
+   "date": "2017-03-16"
+  },
+  {
+   "id": "c9e0e0afaf053f0b1a2ed6cc7e32c4dd15ed43ad",
+   "title": "Forgettable Federated Linear Learning With Certified Data Unlearning",
+   "date": "2023-06-03"
+  },
+  {
+   "id": "57d006f1f2f82efa2099094fcc032eaff812225d",
+   "title": "Differentially Private Regret Minimization in Episodic Markov Decision Processes",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "6a2efd7e59ec314e29850e744be05eb65ccdfbc4",
+   "title": "Making AI Forget You: Data Deletion in Machine Learning",
+   "date": "2019-07-11"
+  },
+  {
+   "id": "40a7c44d1cfaa9faf1f731a6f93a889fab5426da",
+   "title": "Who's Harry Potter? Approximate Unlearning in LLMs",
+   "date": "2023-10-03"
+  },
+  {
+   "id": "a5aa39bf8e21c6b709b8854614ca11acc1500093",
+   "title": "Private Reinforcement Learning with PAC and Regret Guarantees",
+   "date": "2020-09-18"
+  },
+  {
+   "id": "2bac6b71d252f93c4841e325ca111f2752109931",
+   "title": "Certified Data Removal from Machine Learning Models",
+   "date": "2019-11-08"
+  },
+  {
+   "id": "46eebe70e934200b1bdf4b8fddfaa083321419b1",
+   "title": "Differentially Private Contextual Linear Bandits",
+   "date": "2018-09-28"
+  },
+  {
+   "id": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+   "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+   "date": "2006-03-04"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.6942,
+  0.6597,
+  0.6455,
+  0.6394,
+  0.6234,
+  0.6182,
+  0.6149,
+  0.6106,
+  0.5845,
+  0.5822,
+  0.5701,
+  0.5678,
+  0.5539,
+  0.5506,
+  0.5365,
+  0.53,
+  0.5035,
+  0.449,
+  0.3748
+ ]
+}

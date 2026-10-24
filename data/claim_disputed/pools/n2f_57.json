@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e28b9bc26f5f7eb3b0532d823713400202372da2",
+   "title": "Stackelberg Actor-Critic: Game-Theoretic Reinforcement Learning Algorithms",
+   "is_B": true
+  },
+  {
+   "id": "7882493365cd96481c13ab66fbf6577350cf7787",
+   "title": "Characterizing the Gap Between Actor-Critic and Policy Gradient",
+   "date": "2021-06-13"
+  },
+  {
+   "id": "27bc1680936e27cfc808923443b39c00fd12959b",
+   "title": "Guide Actor-Critic for Continuous Control",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "708d634c3dcfa01f534c79234485105eded31d61",
+   "title": "A Two-Timescale Stochastic Algorithm Framework for Bilevel Optimization: Complexity Analysis and Application to Actor-Critic",
+   "date": "2020-07-10"
+  },
+  {
+   "id": "811df72e210e20de99719539505da54762a11c6d",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "date": "2018-01-04"
+  },
+  {
+   "id": "f1328905c42a53b84701cb72bc05788e83f628ac",
+   "title": "Bi-level Actor-Critic for Multi-agent Coordination",
+   "date": "2019-09-08"
+  },
+  {
+   "id": "69e76e16740ed69f4dc55361a3d319ac2f1293dd",
+   "title": "Asynchronous Methods for Deep Reinforcement Learning",
+   "date": "2016-02-04"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+   "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "c657d513a0f7f6966bb18da4c3bbba49c9b572bd",
+   "title": "Competitive Policy Optimization",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "593678c350e955f9fe4e0b1ac7f51a74b026709a",
+   "title": "Multi-Agent Learning with Policy Prediction",
+   "date": "2010-07-04"
+  },
+  {
+   "id": "964d83cc4da6ef9b60c33e32495fbbe3ee13596e",
+   "title": "Newton Optimization on Helmholtz Decomposition for Continuous Games",
+   "date": "2020-07-15"
+  },
+  {
+   "id": "ba9e5bd20a3db119c0118240e32fa5acdbd6b3b6",
+   "title": "Solving Min-Max Optimization with Hidden Structure via Gradient Descent Ascent",
+   "date": "2021-01-13"
+  },
+  {
+   "id": "3cf906d2cc57f07244cd1f74ccb1ace8e70073cc",
+   "title": "Stable Opponent Shaping in Differentiable Games",
+   "date": "2018-11-20"
+  },
+  {
+   "id": "325488b29a33ba8e3f061dda9aed7b2df52f0447",
+   "title": "A Game Theoretic Framework for Model Based Reinforcement Learning",
+   "date": "2020-04-16"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "1d92cf3f0c86bfde10238fcaf31182a245bc920b",
+   "title": "Learning with Opponent-Learning Awareness",
+   "date": "2017-09-13"
+  },
+  {
+   "id": "0717e64a010a8cc45da64127b5bce10afc9d6d01",
+   "title": "A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity",
+   "date": "2017-07-28"
+  },
+  {
+   "id": "a2933c8d0e152264d1cd25ca8248b25d4b49038b",
+   "title": "Meta-Learning with Implicit Gradients",
+   "date": "2019-09-10"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.7779,
+  0.7294,
+  0.6342,
+  0.6271,
+  0.6241,
+  0.621,
+  0.6087,
+  0.5539,
+  0.5501,
+  0.5462,
+  0.531,
+  0.4948,
+  0.4857,
+  0.4819,
+  0.481,
+  0.4669,
+  0.4668,
+  0.4585,
+  0.4463
+ ]
+}

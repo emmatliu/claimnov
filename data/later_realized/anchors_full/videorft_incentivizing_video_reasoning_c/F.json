@@ -1,0 +1,262 @@
+[
+ {
+  "id": "31a2748d4df251b9eb35e1177f2425b6a749808d",
+  "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "3da9d0d42a733f03fb0631524b95e35e885b5fde",
+  "title": "PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "d2d4150d4eb3fbca89fc392d24e7c39b9af7b7a0",
+  "title": "Video-FLAIR: Not Whether to Reason, But How",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "7a23373b3c335e521089849fedcbc6e5c80c5bb0",
+  "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "69c8a6c4c52e2288d3dcfb1b2c96efa63a48bb31",
+  "title": "Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "6b87811e396aa84623f87ab17d3212c6b1b5af31",
+  "title": "MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "a693b0ccce8b447c63f50a404544505a02eef301",
+  "title": "CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "2712b482e221543467b6e9a41dc44bed144be3b0",
+  "title": "Thinking outside the frame: viewpoint-aware spatial reasoning in large multimodal models",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "aa8308c3cf5dec6c29d51db4d74b4a1563fbd8a0",
+  "title": "PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "a97bef9eb0dc47a5362cecbf2ab86009c7a4170f",
+  "title": "Perception Before Reasoning: Dynamic Latent Reasoning for Video Understanding and Question Answering",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "7b03736ba0ffe2be92b682c7964005aa228a8cf3",
+  "title": "CAVE: Competence-Aware Visual Boundary Evidence Alignment for Video Temporal Grounding",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "4c596c751b94c7a889e75f9390cad91a79dca9ee",
+  "title": "AdaThinkV: Adaptive Thinking for Token-Efficient Video Reasoning",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "123761847480b64073787907735fae5ecb8c592c",
+  "title": "TimeThink: Reasoning with Time for Video LLMs",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "a39482c8dbb3da1c6cf7a40a0223af99ebecb1a9",
+  "title": "VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "eade8ac3c2f3e49fa0f516f0a10eaae806fd8b11",
+  "title": "SafeGuard: A Multi-Agent Perception-Reasoning Framework for Social-Risk AI-Generated Video Detection",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "39671e919e0ce6932b9794f622a05b65c9f5a3bd",
+  "title": "EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "6e8cebbc9ad25880c1da939705b54301bc758151",
+  "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "7b6f14e36528f1a9592d9db84b7bdfa30c8a64d4",
+  "title": "SER: Learning to Ground Video Reasoning with Semantic Evidence Rewards",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "13235fb434a6b4f5e758db2fd6aa473477331a5f",
+  "title": "CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "94d71a3930b14a7fe69ac65ca4ea304254d36fe8",
+  "title": "VideoLatent: Video-Language Learning via Latent Self-Forcing",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "f4bedf2251ca8fdfa3d58c31c162245fc533a113",
+  "title": "CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "3942849a80ffe6a7dd09e6d62d56db4d4cba3112",
+  "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "de078520cad682e61ce47f26321088df3586c0f2",
+  "title": "Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "8189961a1097ed4080c820b4d4f0715d90a7be84",
+  "title": "Watch, Remember, Reason: Human-View Video Understanding with MLLMs",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "e9c3b69689f9e194242434af99fbba75948a3067",
+  "title": "VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "f8246f8ebe0b3fbe98579d4a35c34b51e5aa2e90",
+  "title": "DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "597ca966d6979582032b8a9de3dfc9b5319bff5a",
+  "title": "MetaphorVU: Towards Metaphorical Video Understanding",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "39d4f23df9005465da1de53c018a58c93c4e5951",
+  "title": "Learning Spatiotemporal Sensitivity in Video LLMs via Counterfactual Reinforcement Learning",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "8bb5a637a4932f9e6d4f1ab7b0645392174211d2",
+  "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "10f4ce6893c4b6bdb4d48da2618bf62dd7d7c990",
+  "title": "Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "39c145a3573783b6a5f433f6c6f94ff66ba67e28",
+  "title": "VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "c9ddb013f3bc5c7f3fcaac23cd4660d6ec14666a",
+  "title": "Tracking the Truth: Object-Centric Spatio-Temporal Monitoring for Video Large Language Models",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "2b75a73400d5d196f27857b6a6bb3aa816b40905",
+  "title": "EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "af9090b815e27c4c7ae15e39801be355c1a8d281",
+  "title": "VISD: Enhancing Video Reasoning via Structured Self-Distillation",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "6a0f48c8aff31cbd23826b4b878d31b3644177d3",
+  "title": "Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "aabd4bd8aedda787702e56192a12c1565330ad47",
+  "title": "Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "e90e0729c15cfdcf3bf8dccdb3634617ceb0bfda",
+  "title": "Act2See: Emergent Active Visual Perception for Video Reasoning",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "eada0cf06c3b752a8ecaaeb184fe8bd3aa1655d4",
+  "title": "Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs",
+  "date": "2026-05-02"
+ },
+ {
+  "id": "064b70078aa176921956b9bdf76571f89b8c02f1",
+  "title": "CurEvo: Curriculum-Guided Self-Evolution for Video Understanding",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "b2d5de80c6c3839b8df8e618f40a7813876e9b34",
+  "title": "Video-ToC: Video Tree-of-Cue Reasoning",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "bdce5e1876aeac611ae85045aac40066f17621f6",
+  "title": "Thinking Before Matching: A Reinforcement Reasoning Paradigm Towards General Person Re-Identification",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "739b9fd6172d322b544ec9bdc7c6c278c786a460",
+  "title": "Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "974e35a22da86affaad4f8df1efaa114ee34a929",
+  "title": "VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "83918dfbb2354ba6ed7a2bca32433ae74632c241",
+  "title": "MA-Bench: Towards Fine-grained Micro-Action Understanding",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "3bc80668e06d744fcdeac11ca282c9165d3b445a",
+  "title": "Reinforcing Structured Chain-of-Thought for Video Understanding",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "38ea6dc892569984e5ccae45f75d1d16b91cf267",
+  "title": "Motion-o: Trajectory-Grounded Video Reasoning",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "fa85016ed15ec724137a65c59c1ca333b6ec219c",
+  "title": "When Thinking Hurts: Mitigating Visual Forgetting in Video Reasoning via Frame Repetition",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "ac9daea2394cca29f79b2bf4e630dade333a4261",
+  "title": "Video-CoE: Reinforcing Video Event Prediction via Chain of Events",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "fd440ff8f6f66a143cf08f4b8b2b7a8a094b4210",
+  "title": "VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "0f248f585c4353822b2e31f25c45264230d0d361",
+  "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "2fd9f68f33f3d683c5ec0371f707c8820b719859",
+  "title": "EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "990a81093516b34886739df50e9a5a503d0a7cf7",
+  "title": "3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding",
+  "date": "2026-03-05"
+ }
+]

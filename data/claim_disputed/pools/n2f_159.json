@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_075d94936309f7e631bc7fec36ef1436f8f071ab",
+   "title": "Distributional Generalization: A New Kind of Generalization",
+   "is_B": true
+  },
+  {
+   "id": "540c226fdf7047ac602c7cb05a18db19ee595df0",
+   "title": "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data",
+   "date": "2017-03-31"
+  },
+  {
+   "id": "54ddb00fa691728944fd8becea90a373d21597cf",
+   "title": "Understanding deep learning requires rethinking generalization",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "2b627185499791048681e8d24190c31dea928f16",
+   "title": "Uniform convergence may be unable to explain generalization in deep learning",
+   "date": "2019-02-13"
+  },
+  {
+   "id": "1ebe6d1248c8ce7075f0a4b42c998d3fa457319e",
+   "title": "Generalisation dynamics of online learning in over-parameterised neural networks",
+   "date": "2019-01-25"
+  },
+  {
+   "id": "41c0be3adfd33cb6d0cb24c6fb1de109929276ca",
+   "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+   "date": "2019-08-14"
+  },
+  {
+   "id": "6104568e318f140d7adcf646412f182906db69b1",
+   "title": "High-dimensional dynamics of generalization error in neural networks",
+   "date": "2017-10-10"
+  },
+  {
+   "id": "6ddf83bee5ca7a0542964e389a98adc1ed4a6838",
+   "title": "Deep Ensembles: A Loss Landscape Perspective",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "14558cb69319eed0d5bfc5648aafcd09d882f443",
+   "title": "Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks",
+   "date": "2019-01-24"
+  },
+  {
+   "id": "96f4d4fc345698b9b44f034c0d63b704772c8386",
+   "title": "Deep Learning is Robust to Massive Label Noise",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "36451fe94b7b1f978b8301cf3f7305566bd3b454",
+   "title": "Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "71022c0c51f1e06384ff211467d04230dee96f51",
+   "title": "Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss",
+   "date": "2020-02-11"
+  },
+  {
+   "id": "d65ce2b8300541414bfe51d03906fca72e93523c",
+   "title": "On Calibration of Modern Neural Networks",
+   "date": "2017-06-14"
+  },
+  {
+   "id": "611fe6e34df07ea1b2104899e49642b4531b53e9",
+   "title": "Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers",
+   "date": "2018-11-12"
+  },
+  {
+   "id": "bd949f2a0c23742427d8886e43c1d8c98c1865ea",
+   "title": "Harmless interpolation of noisy data in regression",
+   "date": "2019-03-21"
+  },
+  {
+   "id": "89efc1022a5700ddfc6bc6e7d4e03fd84312fb24",
+   "title": "Stiffness: A New Perspective on Generalization in Neural Networks",
+   "date": "2019-01-28"
+  },
+  {
+   "id": "0fdf1a213ed08012d5d21067544b860f40c08e8f",
+   "title": "Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "51063caeb691f9a20e34feb721f14660a0df968e",
+   "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "802168a81571dde28f5ddb94d84677bc007afa7b",
+   "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+   "date": "2016-12-05"
+  },
+  {
+   "id": "baa102eb3aaef5fb82f78ab63358610436150607",
+   "title": "Generalisation error in learning with random features and the hidden manifold model",
+   "date": "2020-02-21"
+  }
+ ],
+ "n_candidates": 58,
+ "sims": [
+  0.6681,
+  0.6436,
+  0.6292,
+  0.6036,
+  0.6012,
+  0.5934,
+  0.5639,
+  0.5463,
+  0.5445,
+  0.5412,
+  0.5311,
+  0.5231,
+  0.5166,
+  0.5153,
+  0.512,
+  0.5074,
+  0.5043,
+  0.5027,
+  0.501
+ ]
+}

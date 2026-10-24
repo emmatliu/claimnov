@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_7f7c6573424ec49b986a8f5a4d5f87d896edd364",
+   "title": "From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models",
+   "date": "2026-05-06",
+   "is_B": true
+  },
+  {
+   "id": "5e25c253b0c3fb159c9581131e22b6e9f615619c",
+   "title": "Latent Action Pretraining from Videos",
+   "date": "2024-10-15"
+  },
+  {
+   "id": "0b58f071387f9f67df640ec852d1a55b8798537c",
+   "title": "villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models",
+   "date": "2025-07-31"
+  },
+  {
+   "id": "d4dee189fd92a8ab065123645d67383fd7438e5c",
+   "title": "Latent Action Learning Requires Supervision in the Presence of Distractors",
+   "date": "2025-02-01"
+  },
+  {
+   "id": "23ec5b0184fe48558f14401247a411d2a48bd75f",
+   "title": "UniVLA: Learning to Act Anywhere with Task-centric Latent Actions",
+   "date": "2025-05-09"
+  },
+  {
+   "id": "14fc3877eda79752bd7c1e127a01d85e90195a3d",
+   "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "996f5d92e6c6a6b88a98657e7a664bcc29cb5c14",
+   "title": "ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning",
+   "date": "2025-07-22"
+  },
+  {
+   "id": "4d11f95062ab1ff6bbdbc0fe93ca67659d996f89",
+   "title": "Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance",
+   "date": "2025-09-02"
+  },
+  {
+   "id": "d71ab72104e48c9f37a9acedb749bf5c7fa90622",
+   "title": "Learning to Act without Actions",
+   "date": "2023-12-17"
+  },
+  {
+   "id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "date": "2024-06-13"
+  },
+  {
+   "id": "58ee28b8712b8ba512b7d65e7c3ae37ffbaa6548",
+   "title": "LAOF: Robust Latent Action Learning with Optical Flow Constraints",
+   "date": "2025-11-20"
+  },
+  {
+   "id": "5088b84507462bf725bb4898623d1dead4c6a206",
+   "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "263896525561a4c4299dcf1bf80815088d00e509",
+   "title": "Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model",
+   "date": "2025-10-14"
+  },
+  {
+   "id": "4bcbeedd9cedcd2f668bf82a4c52f9fea5c79147",
+   "title": "What Do Latent Action Models Actually Learn?",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "b8e34568d1b631b37449085da7f825ad78c0949a",
+   "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+   "date": "2025-12-27"
+  },
+  {
+   "id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+   "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+   "date": "2023-07-28"
+  },
+  {
+   "id": "6480a454486119fdec3f8eec9e7c1cf13dde71db",
+   "title": "Grounding Multimodal Large Language Models in Actions",
+   "date": "2024-06-12"
+  },
+  {
+   "id": "c9f926f18886a1e4107f91125aac209a4565bfa0",
+   "title": "Motus: A Unified Latent Action World Model",
+   "date": "2025-12-15"
+  },
+  {
+   "id": "1e2a82ef5e0325a26ca0344c4f8c256c52fae7ec",
+   "title": "\u03c00.5: a Vision-Language-Action Model with Open-World Generalization",
+   "date": "2025-04-22"
+  },
+  {
+   "id": "7e7e59d2e247d99954081080ddd5aae93d10b9e0",
+   "title": "\u03c00: A Vision-Language-Action Flow Model for General Robot Control",
+   "date": "2024-10-31"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.7547,
+  0.7496,
+  0.748,
+  0.744,
+  0.7244,
+  0.7152,
+  0.7054,
+  0.699,
+  0.6793,
+  0.6759,
+  0.674,
+  0.6732,
+  0.673,
+  0.6668,
+  0.6496,
+  0.6171,
+  0.6055,
+  0.5993,
+  0.5871
+ ]
+}

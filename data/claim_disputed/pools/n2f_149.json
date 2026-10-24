@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_9ed4321e552d069ff6aa6f88480809e23927131d",
+   "title": "Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks",
+   "is_B": true
+  },
+  {
+   "id": "6e4fd9b4b2b673c981cda528d8039a221ad35225",
+   "title": "NAS-Bench-101: Towards Reproducible Neural Architecture Search",
+   "date": "2019-02-25"
+  },
+  {
+   "id": "3259c9ab1714a4cfdf6439cca6bdc5f78d78fda3",
+   "title": "NATS-Bench: Benchmarking NAS Algorithms for Architecture Topology and Size",
+   "date": "2020-08-28"
+  },
+  {
+   "id": "48167fbde4ef8d5caa69e1c0c9d6e2ac7fd48c3b",
+   "title": "NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "645a24296f96f325f4a6fd324cef85661a8987da",
+   "title": "NAS evaluation is frustratingly hard",
+   "date": "2019-12-28"
+  },
+  {
+   "id": "d449f259fce5248455830637989f5b58611b6ee0",
+   "title": "Multi-objective Neural Architecture Search via Predictive Network Performance Optimization",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "f55b7e06c7656d3ef235d72e9d0eab4148c01ead",
+   "title": "NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search",
+   "date": "2020-01-28"
+  },
+  {
+   "id": "cb709eec9456b32e2a882468f970f1d4fa4ff99e",
+   "title": "A Semi-Supervised Assessor of Neural Architectures",
+   "date": "2020-05-14"
+  },
+  {
+   "id": "d47f600c2e306be7b8e85e0ab8be70704574ff0c",
+   "title": "Understanding Architectures Learnt by Cell-based Neural Architecture Search",
+   "date": "2019-09-20"
+  },
+  {
+   "id": "c13f5dbf6fd48ae339dd3f3394e0cbe9661756d3",
+   "title": "How Powerful are Performance Predictors in Neural Architecture Search?",
+   "date": "2021-04-02"
+  },
+  {
+   "id": "a10daed04b387cdb6b9c71a623994bc083599c84",
+   "title": "HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark",
+   "date": "2021-03-19"
+  },
+  {
+   "id": "35a59bd09974c7fc78cf681f77f7301e180fd23c",
+   "title": "Random Search and Reproducibility for Neural Architecture Search",
+   "date": "2019-02-20"
+  },
+  {
+   "id": "6dc84d38f6d8d964456b127d6f45c5b4de73bb86",
+   "title": "Zero-Cost Proxies for Lightweight NAS",
+   "date": "2021-01-20"
+  },
+  {
+   "id": "36af270288d616f14c4ca745b600c52a3c723203",
+   "title": "Differential Evolution for Neural Architecture Search",
+   "date": "2020-12-11"
+  },
+  {
+   "id": "24db2d47dfd90272c06675548460d44176cb60be",
+   "title": "A Study on Encodings for Neural Architecture Search",
+   "date": "2020-07-09"
+  },
+  {
+   "id": "78dbb9334215194020437c2c2cfdfce478f30060",
+   "title": "Best Practices for Scientific Research on Neural Architecture Search",
+   "date": "2019-09-05"
+  },
+  {
+   "id": "f1e917b0d8b9946af7769767c41d9c1aebcfb055",
+   "title": "BRP-NAS: Prediction-based NAS using GCNs",
+   "date": "2020-07-16"
+  },
+  {
+   "id": "25c371d565b387dbf22207a954a9549557698c21",
+   "title": "Neural Architecture Search without Training",
+   "date": "2020-06-08"
+  },
+  {
+   "id": "a95dc4b926c90e79d80cfb156e275083ec9c1911",
+   "title": "Few-shot Neural Architecture Search",
+   "date": "2020-06-11"
+  },
+  {
+   "id": "663bc61408a758872afed9c132923eb1e57c3544",
+   "title": "Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel",
+   "date": "2020-06-13"
+  }
+ ],
+ "n_candidates": 73,
+ "sims": [
+  0.7608,
+  0.7483,
+  0.7388,
+  0.7294,
+  0.6896,
+  0.6895,
+  0.6854,
+  0.6805,
+  0.6795,
+  0.6758,
+  0.672,
+  0.665,
+  0.6636,
+  0.662,
+  0.662,
+  0.6525,
+  0.6524,
+  0.6351,
+  0.6321
+ ]
+}

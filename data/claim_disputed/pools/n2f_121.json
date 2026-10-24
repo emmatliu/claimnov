@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_394be105b87e9bfe72c20efe6338de10604e1a11",
+   "title": "Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts",
+   "is_B": true
+  },
+  {
+   "id": "73c07e0a998576bb9d9409e5eed713788c0be037",
+   "title": "Large-Scale Long-Tailed Recognition in an Open World",
+   "date": "2019-04-10"
+  },
+  {
+   "id": "b5ef0f91663f0cbd6910dec9a890c138f7ec10e0",
+   "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks",
+   "date": "2020-04-13"
+  },
+  {
+   "id": "54416048772b921720f19869ed11c2a360589d03",
+   "title": "UNITER: Learning UNiversal Image-TExt Representations",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "ceabd7ff28ce2d501511da998252aeb938adc98b",
+   "title": "Partially-Supervised Image Captioning",
+   "date": "2018-06-15"
+  },
+  {
+   "id": "5aec474c31a2f4b74703c6f786c0a8ff85c450da",
+   "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language",
+   "date": "2019-08-09"
+  },
+  {
+   "id": "f147279c9d1edddda57f1f21f23b3b58998bad74",
+   "title": "VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training",
+   "date": "2020-09-28"
+  },
+  {
+   "id": "3b6e6822eabe2f64192a1965c23e38043866319c",
+   "title": "Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering",
+   "date": "2019-09-04"
+  },
+  {
+   "id": "2bc1c8bd00bbf7401afcb5460277840fd8bab029",
+   "title": "Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training",
+   "date": "2019-08-16"
+  },
+  {
+   "id": "b82153bf85d5d1edd3f170aace830e5328ca9ed0",
+   "title": "Fusion of Detected Objects in Text for Visual Question Answering",
+   "date": "2019-08-01"
+  },
+  {
+   "id": "d64f52b94977b71976327eeb3db702b246ee39ce",
+   "title": "Decoupled Novel Object Captioner",
+   "date": "2018-04-11"
+  },
+  {
+   "id": "086fa2fe3ee2a5b805aeaf9fbfe59ee8157dad5c",
+   "title": "Guided Open Vocabulary Image Captioning with Constrained Beam Search",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "99b5153235b0ee583803bbd7cd6bd9da161d5348",
+   "title": "Multimodal Transformer With Multi-View Visual Representation for Image Captioning",
+   "date": "2019-05-20"
+  },
+  {
+   "id": "79c93274429d6355959f1e4374c2147bb81ea649",
+   "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers",
+   "date": "2019-08-20"
+  },
+  {
+   "id": "0f885fd46064d271d4404cf9bb3d758e1a6f8d55",
+   "title": "Exploring the Limits of Weakly Supervised Pretraining",
+   "date": "2018-05-02"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "65a9c7b0800c86a196bc14e7621ff895cc6ab287",
+   "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+   "date": "2019-08-06"
+  },
+  {
+   "id": "6648b4db5f12c30941ea78c695e77aded19672bb",
+   "title": "Unified Vision-Language Pre-Training for Image Captioning and VQA",
+   "date": "2019-09-24"
+  },
+  {
+   "id": "9915315f5cae822e98c94382ce3b0a6f9a7f8e5e",
+   "title": "12-in-1: Multi-Task Vision and Language Representation Learning",
+   "date": "2019-12-05"
+  },
+  {
+   "id": "3bf09b2e2639add154a9fe6ff98cc373d3e90e4e",
+   "title": "Neural Baby Talk",
+   "date": "2018-03-27"
+  }
+ ],
+ "n_candidates": 75,
+ "sims": [
+  0.607,
+  0.5967,
+  0.58,
+  0.5723,
+  0.5587,
+  0.5575,
+  0.5548,
+  0.5543,
+  0.5508,
+  0.5476,
+  0.5451,
+  0.5448,
+  0.5385,
+  0.5363,
+  0.5323,
+  0.5322,
+  0.5305,
+  0.5224,
+  0.5223
+ ]
+}

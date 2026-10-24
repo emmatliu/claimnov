@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1903.12648",
+   "title": "Overcoming Catastrophic Forgetting With Unlabeled Data in the Wild",
+   "is_B": true
+  },
+  {
+   "id": "d475f695dedd94e96771fdaa1e5c075fd01d11cf",
+   "title": "Variational Continual Learning",
+   "date": "2017-10-29"
+  },
+  {
+   "id": "5cb76f738721f255be0dfa93e0d37b330b0b9f4c",
+   "title": "Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning",
+   "date": "2025-04-29"
+  },
+  {
+   "id": "3c4bb963e2dd70eafa8fd9276655d090f7b2b570",
+   "title": "Generative Models from the perspective of Continual Learning",
+   "date": "2018-12-21"
+  },
+  {
+   "id": "a36c43156fda548b40539b691706fddb1b142a9c",
+   "title": "Encoder Based Lifelong Learning",
+   "date": "2017-04-06"
+  },
+  {
+   "id": "3d4477c47681748dae5fee959666a9b35d8f1bed",
+   "title": "Keep and Learn: Continual Learning by Constraining the Latent Space for Knowledge Preservation in Neural Networks",
+   "date": "2018-05-28"
+  },
+  {
+   "id": "713b0d9005944f80af00addc81b162ca74ea4b14",
+   "title": "Memory Aware Synapses: Learning what (not) to forget",
+   "date": "2017-11-27"
+  },
+  {
+   "id": "1703631a938b397ba7e858161ce16448f6046d6f",
+   "title": "iCaRL: Incremental Classifier and Representation Learning",
+   "date": "2016-11-23"
+  },
+  {
+   "id": "118fae4b4d07453561f1eded88654f812c7c61ec",
+   "title": "Gradient Episodic Memory for Continual Learning",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "a99d857ecc78316a0d9a774972b775058d5644ca",
+   "title": "Continual Learning Through Synaptic Intelligence",
+   "date": "2017-03-13"
+  },
+  {
+   "id": "8f3b80ddc0dd62e6c3369fabb1715990c29e9b9a",
+   "title": "Learning without Forgetting",
+   "date": "2016-06-29"
+  },
+  {
+   "id": "66b8d34477cf1736f91fd22b27e37ce0b703c86e",
+   "title": "Expert Gate: Lifelong Learning with a Network of Experts",
+   "date": "2016-11-18"
+  },
+  {
+   "id": "058dd355ec60af11048ee49a54db599003356322",
+   "title": "End-to-End Incremental Learning",
+   "date": "2018-07-25"
+  },
+  {
+   "id": "29af8829e70aec87731dd5022a71cd77589e9b87",
+   "title": "Generative replay with feedback connections as a general strategy for continual learning",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "4e6d882a4d2e6351cdf3013f0f7785941e3efd00",
+   "title": "The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "5af71de484273b4ecaea4486228af6d0c3c325f6",
+   "title": "SupportNet: solving catastrophic forgetting in class incremental learning with support data",
+   "date": "2018-06-08"
+  },
+  {
+   "id": "df1769afbbf3904877629dd7e785f195361ec531",
+   "title": "Lifelong Learning with Dynamically Expandable Networks",
+   "date": "2017-08-04"
+  },
+  {
+   "id": "20854a1c708b32631c08b7e95b6ec0f5ab4147b7",
+   "title": "Revisiting Distillation and Incremental Classifier Learning",
+   "date": "2018-07-08"
+  },
+  {
+   "id": "0a47481e741172f09eca86229561da8aa05bf6b2",
+   "title": "Hierarchical Novelty Detection for Visual Object Recognition",
+   "date": "2018-04-02"
+  },
+  {
+   "id": "36653f8705b56e39642bcd123494eb680cd1636b",
+   "title": "Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples",
+   "date": "2017-11-26"
+  }
+ ],
+ "n_candidates": 36,
+ "sims": [
+  0.5718,
+  0.5337,
+  0.5165,
+  0.504,
+  0.5036,
+  0.497,
+  0.4925,
+  0.4871,
+  0.4845,
+  0.4836,
+  0.4815,
+  0.4807,
+  0.4771,
+  0.4745,
+  0.4691,
+  0.4658,
+  0.4577,
+  0.4561,
+  0.4458
+ ]
+}

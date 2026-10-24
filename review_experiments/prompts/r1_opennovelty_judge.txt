@@ -1,0 +1,21 @@
+You are assessing the novelty of a research PROPOSAL contribution by contribution. For each contribution below, candidate prior papers were retrieved; decide whether the candidates can refute the novelty of that contribution.
+
+Verdict for each contribution:
+- "can_refute": at least one candidate paper already presents substantially the same contribution (same problem and same technical idea or finding), so the contribution is not new. Name the single paper that refutes it most clearly and quote or closely paraphrase the passage of its abstract that shows this.
+- "cannot_refute": no candidate presents this contribution; candidates that only share the topic, solve a different problem, use a different approach, or are prior work the contribution builds on do not refute it.
+- "unclear": a candidate overlaps substantially, but the abstract does not give enough detail to decide. Name that candidate.
+Judge only from the candidate papers listed for that contribution. Be strict: a contribution is refuted only by a paper that already does it, not by a paper that makes it easier or more expected.
+
+CORE TASK: {core_task}
+
+PROPOSAL:
+{idea}
+
+CONTRIBUTIONS AND THEIR CANDIDATE PAPERS (ids refer to the paper list below):
+{contributions}
+
+CANDIDATE PAPERS:
+{papers}
+
+Return JSON only, one entry per contribution in the order given:
+{{"contributions": [{{"index": 1, "verdict": "can_refute" | "cannot_refute" | "unclear", "refuting_paper_id": "<id such as P3, or null for cannot_refute>", "refuting_paper_title": "<exact title or null>", "evidence": "<at most 30 words from the paper's abstract, or null>", "reason": "<one sentence>"}}]}}

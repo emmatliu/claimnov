@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8f435293ddeaa91819e4c9c5c0e0180750fe44cc",
+   "title": "Large Scale Private Learning via Low-rank Reparametrization",
+   "is_B": true
+  },
+  {
+   "id": "6f674172fd1a14d4f6a566d7ba1f75303c8d3ff7",
+   "title": "Large Language Models Can Be Strong Differentially Private Learners",
+   "date": "2021-10-12"
+  },
+  {
+   "id": "ee500b621cc59f76b3396c6c5f136be8e9c44726",
+   "title": "Do Not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning",
+   "date": "2021-02-25"
+  },
+  {
+   "id": "f864273db01ce9b728c3c16b08a5f7b22b917efb",
+   "title": "Differentially Private Learning Needs Better Features (or Much More Data)",
+   "date": "2020-11-23"
+  },
+  {
+   "id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+   "title": "Deep Learning with Differential Privacy",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "7290945147946bc5ac06ec010e07d027e306d6aa",
+   "title": "Tempered Sigmoid Activations for Deep Learning with Differential Privacy",
+   "date": "2020-07-28"
+  },
+  {
+   "id": "d2f7399164596c6787573335fd2ac11859b14d07",
+   "title": "Differentially Private Iterative Gradient Hard Thresholding for Sparse Learning",
+   "date": "2019-08-01"
+  },
+  {
+   "id": "e70b9a38fcf8373865dd6e7b45e45cca7ff2eaa9",
+   "title": "Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data",
+   "date": "2016-10-18"
+  },
+  {
+   "id": "46c1f116b6db95b0ec16a2ca9556dfbb4bb71709",
+   "title": "Assessing differentially private deep learning with Membership Inference",
+   "date": "2019-12-24"
+  },
+  {
+   "id": "5ed15fa4db57275f1360ac5c41ebedca7d7bb85f",
+   "title": "Data Poisoning against Differentially-Private Learners: Attacks and Defenses",
+   "date": "2019-03-23"
+  },
+  {
+   "id": "f5c66cb689aa9b4404c72afc263023c26433553a",
+   "title": "Differentially Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds",
+   "date": "2014-05-27"
+  },
+  {
+   "id": "04ed677647a2d124e1b8646bcb866885cbc4ef33",
+   "title": "The Cost of Privacy: Optimal Rates of Convergence for Parameter Estimation with Differential Privacy",
+   "date": "2019-02-12"
+  },
+  {
+   "id": "44058a625cb64c311043145655645d8206e272c2",
+   "title": "Scalable Private Learning with PATE",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "a5aa39bf8e21c6b709b8854614ca11acc1500093",
+   "title": "Private Reinforcement Learning with PAC and Regret Guarantees",
+   "date": "2020-09-18"
+  },
+  {
+   "id": "465c52d9aa7b451a6ced3fafb377bac1b7da1ca1",
+   "title": "Bypassing the Ambient Dimension: Private SGD with Gradient Subspace Identification",
+   "date": "2020-07-07"
+  },
+  {
+   "id": "3e86a51d1f2051ab8f448b66c6dcc17924d17cfa",
+   "title": "Certified Robustness to Adversarial Examples with Differential Privacy",
+   "date": "2018-02-09"
+  },
+  {
+   "id": "7288ae9d13f8608d3c763abdfdc3ca58128dd6c2",
+   "title": "On Sparse Linear Regression in the Local Differential Privacy Model",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "df7d26339adf4eb0c07160947b9d2973c24911ba",
+   "title": "Extracting Training Data from Large Language Models",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "90d1be1c16e0df7d7a0e8839ec34171c13265678",
+   "title": "cpSGD: Communication-efficient and differentially-private distributed SGD",
+   "date": "2018-05-27"
+  },
+  {
+   "id": "72b1f7ae81685f632deefe2c346202cc6ca8f724",
+   "title": "(Locally) Differentially Private Combinatorial Semi-Bandits",
+   "date": "2020-06-01"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.7328,
+  0.6996,
+  0.6349,
+  0.6335,
+  0.6226,
+  0.6003,
+  0.5968,
+  0.5953,
+  0.5867,
+  0.5847,
+  0.5824,
+  0.5736,
+  0.5476,
+  0.5473,
+  0.5461,
+  0.5259,
+  0.5223,
+  0.5125,
+  0.5116
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e631b8333d998c70f78f40d74d535f755885af7c",
+   "title": "Riemannian Metric Matching for Scalable Geometric Modeling of Distributions",
+   "date": "2026-06-12",
+   "is_B": true
+  },
+  {
+   "id": "0f314950e801f8b79d20bf08802b37562d4522fd",
+   "title": "A Review on Riemannian Metric Learning: Closer to You than You Imagine",
+   "date": "2025-03-07"
+  },
+  {
+   "id": "c3aa77879eea3a6a27fea10ddbb8c1e3194910f8",
+   "title": "Learning Euclidean-to-Riemannian Metric for Point-to-Set Classification",
+   "date": "2014-06-01"
+  },
+  {
+   "id": "6589d537fb04be7e6f254f390e5716c812405475",
+   "title": "Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension",
+   "date": "2024-11-06"
+  },
+  {
+   "id": "be0c6512b43078e372868909eba514422ccd2f1b",
+   "title": "What's Inside Your Diffusion Model? A Score-Based Riemannian Metric to Explore the Data Manifold",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "29bfa1a81f004e5c5500f9d8cb4f76ba1f6225a7",
+   "title": "Landing with the Score: Riemannian Optimization through Denoising",
+   "date": "2025-09-27"
+  },
+  {
+   "id": "6f908e38b1f1afcaeb307161331c5f039d8d9494",
+   "title": "Metric Flow Matching for Smooth Interpolations on the Data Manifold",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "abee8d0fe154c85c7dca4098d4e1d45ce0db8f98",
+   "title": "Riemannian geometry for efficient analysis of protein dynamics data",
+   "date": "2023-08-15"
+  },
+  {
+   "id": "17b3b48e41e56fa4f0006c86eda58074c1ec8fda",
+   "title": "Carr\u00e9 du champ flow matching: better quality-generalisation tradeoff in generative models",
+   "date": "2025-10-07"
+  },
+  {
+   "id": "527ce2776d8d4a1a11b4ef507a8ecb2bc064b72c",
+   "title": "Iso-Riemannian Optimization on Learned Data Manifolds",
+   "date": "2025-10-23"
+  },
+  {
+   "id": "a8724abaf519ab9113cf9dcc4c6d17f984de52cf",
+   "title": "Generalization in diffusion models arises from geometry-adaptive harmonic representation",
+   "date": "2023-10-04"
+  },
+  {
+   "id": "9f696b7156716c978b62a92714e7038a99f7a53c",
+   "title": "Latent Space Oddity: on the Curvature of Deep Generative Models",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "4790292cc46b4a99a8826395c80bb1b99474b5a3",
+   "title": "Computing Diffusion Geometry",
+   "date": "2026-02-05"
+  },
+  {
+   "id": "c7508fc5da708aa3d86a3071b2da00cab791f22e",
+   "title": "Geometrically Enriched Latent Spaces",
+   "date": "2020-08-02"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "4a45e6d6184d44fd1163a0a93af273ed4ab41fff",
+   "title": "Hardness of Learning Neural Networks under the Manifold Hypothesis",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+   "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+   "date": "2019-07-12"
+  },
+  {
+   "id": "e1ffb83f9a2137c048c0f2058770f3c888f5ca4f",
+   "title": "Estimating the intrinsic dimension of datasets by a minimal neighborhood information",
+   "date": "2017-09-22"
+  },
+  {
+   "id": "48078a161e14d42bb122eee2b621e6973b6e0473",
+   "title": "Estimating High Order Gradients of the Data Distribution by Denoising",
+   "date": "2021-11-08"
+  },
+  {
+   "id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+   "title": "Representation Learning: A Review and New Perspectives",
+   "date": "2012-06-24"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.7136,
+  0.6783,
+  0.6712,
+  0.6664,
+  0.6429,
+  0.6409,
+  0.6233,
+  0.6203,
+  0.5784,
+  0.569,
+  0.5664,
+  0.5505,
+  0.5437,
+  0.5415,
+  0.5395,
+  0.5125,
+  0.5051,
+  0.4999,
+  0.4999
+ ]
+}

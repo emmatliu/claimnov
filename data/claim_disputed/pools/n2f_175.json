@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_d966edcc545f2b6a8ee2403da237eafc2330e048",
+   "title": "Stochastic Security: Adversarial Defense Using Long-Run Dynamics of Energy-Based Models",
+   "is_B": true
+  },
+  {
+   "id": "6faa9f1359cdcfcb8b502a0288d65d98aa229980",
+   "title": "Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model",
+   "date": "2019-04-22"
+  },
+  {
+   "id": "daa69245c8e956c12583d64acd718210c57c32ba",
+   "title": "On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models",
+   "date": "2019-03-29"
+  },
+  {
+   "id": "9dfe94243788a4bc992b1c8e933afcfef94ce467",
+   "title": "Cooperative Learning of Energy-Based Model and Latent Variable Model via MCMC Teaching",
+   "date": "2018-04-29"
+  },
+  {
+   "id": "c62e11dee8c687a226cfb398285246e8f938391b",
+   "title": "Learning Generative ConvNets via Multi-grid Modeling and Sampling",
+   "date": "2017-09-26"
+  },
+  {
+   "id": "4f8c49cd3eccc2417c78e0b310698d9f603aa2e9",
+   "title": "ME-Net: Towards Effective Adversarial Robustness with Matrix Estimation",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "1a98549aa8ab011480f0be5fe074fbe6b2acc2dd",
+   "title": "Flow Contrastive Estimation of Energy-Based Models",
+   "date": "2019-12-02"
+  },
+  {
+   "id": "97cd86d8d8c0f27cd3e64c6ca5cfdeb957ee39f4",
+   "title": "Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One",
+   "date": "2019-12-06"
+  },
+  {
+   "id": "9a5f775f7490f410692bb224ff021da97d5e0ddc",
+   "title": "Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling",
+   "date": "1998-04-01"
+  },
+  {
+   "id": "e83291498a3bc6b0efe8f9571e9c9ca1811707bd",
+   "title": "PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "2f201c77e7ccdf1f37115e16accac3486a65c03d",
+   "title": "Stochastic Activation Pruning for Robust Adversarial Defense",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "58c143069444c7dff4be53531a47efefc40be497",
+   "title": "On Adaptive Attacks to Adversarial Example Defenses",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "a30e33d5323343fd02be10975946e14df4a962e8",
+   "title": "Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "3636d3f0562f3ab5f5df68c1c9a23530c0fbce64",
+   "title": "Parametric Noise Injection: Trainable Randomness to Improve Deep Neural Network Robustness Against Adversarial Attack",
+   "date": "2018-11-22"
+  },
+  {
+   "id": "f7bb1636ced9036b3d0edafc7d82ad43164d41a3",
+   "title": "Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "17f2f3f7e58b916175d495109bc74b2757ef952a",
+   "title": "Barrage of Random Transforms for Adversarially Robust Defense",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "9fec45e1ff97ffb0e0cf9f039e39b46043430301",
+   "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+   "date": "2017-04-04"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "9a089c56eec68df722b2a5a52727143aacdc2532",
+   "title": "Mitigating adversarial effects through randomization",
+   "date": "2017-11-06"
+  },
+  {
+   "id": "8f253d759d99e92888bf9eb595c59cf962fd9069",
+   "title": "Improving Generalization Performance by Switching from Adam to SGD",
+   "date": "2017-12-20"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.7622,
+  0.703,
+  0.5958,
+  0.5414,
+  0.5313,
+  0.5025,
+  0.4863,
+  0.4821,
+  0.4803,
+  0.4401,
+  0.437,
+  0.4165,
+  0.4139,
+  0.4084,
+  0.4068,
+  0.403,
+  0.4006,
+  0.3985,
+  0.3978
+ ]
+}

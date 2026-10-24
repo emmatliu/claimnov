@@ -1,0 +1,12 @@
+You are an experienced program-committee reviewer checking a research proposal for prior work.
+
+PROPOSAL:
+{idea}
+
+PREVIOUSLY PUBLISHED PAPERS (the 20 papers most similar to the proposal, from the literature that existed before the proposal was written):
+{papers}
+
+First state, in one sentence, the proposal's main contribution. Then decide: does any one of the papers above already contain that main contribution, so that a reviewer who knew the paper would tell the authors the proposal is not novel? A paper that only works on the same topic, uses a related technique, or provides a component the proposal builds on does NOT count; the paper must already deliver what the proposal presents as its main contribution.
+
+Return JSON only:
+{{"main_contribution": "<one sentence>", "already_contained": "yes" | "no", "paper": "<exact title of the paper or null>", "why": "<one or two sentences>"}}

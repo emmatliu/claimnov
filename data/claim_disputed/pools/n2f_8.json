@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_cfa46317f14cc32bcbd21a8e02e913616fabdb68",
+   "title": "Performative Prediction",
+   "is_B": true
+  },
+  {
+   "id": "9c088b1be5af3782faae121f152aa10d360a247c",
+   "title": "The Disparate Effects of Strategic Manipulation",
+   "date": "2018-08-27"
+  },
+  {
+   "id": "b006aefa9c8be8c33138c4c5352f4d2d44378be9",
+   "title": "Counterfactual reasoning and learning systems: the example of computational advertising",
+   "date": "2012-09-11"
+  },
+  {
+   "id": "510e2853084282300c96ff32ecb5b7e13aabb81a",
+   "title": "Causal Feature Discovery through Strategic Modification",
+   "date": "2020-02-17"
+  },
+  {
+   "id": "1f4dc42971044d409aab379e49ea7ad23fb3aa6a",
+   "title": "How Do Classifiers Induce Agents to Invest Effort Strategically?",
+   "date": "2018-07-13"
+  },
+  {
+   "id": "eaf878420712e98e4a76cdae3bb231faaac5931c",
+   "title": "Strategic Classification is Causal Modeling in Disguise",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "81fd20c2b903d979075e0c6a59258b0a84213095",
+   "title": "Strategic Classification",
+   "date": "2015-06-23"
+  },
+  {
+   "id": "f28364dd4751d678a03a3448841ce01c72362732",
+   "title": "Characterizing concept drift",
+   "date": "2015-11-12"
+  },
+  {
+   "id": "4f2baff3195b6fc43a38e3e869496dab9fe9dbc3",
+   "title": "Delayed Impact of Fair Machine Learning",
+   "date": "2018-03-12"
+  },
+  {
+   "id": "16f0c508aa54e26aa18e3b0f3c91b0c143c6a605",
+   "title": "Fairness Without Demographics in Repeated Loss Minimization",
+   "date": "2018-06-20"
+  },
+  {
+   "id": "47f57f789bbd6756554b9432bbe2ff9665c06128",
+   "title": "Allocating Interventions Based on Predicted Outcomes: A Case Study on Homelessness Services",
+   "date": "2019-07-17"
+  },
+  {
+   "id": "2075c51f185b5bd200e804e4490a80b2853cdb36",
+   "title": "Learning under Concept Drift: an Overview",
+   "date": "2010-10-22"
+  },
+  {
+   "id": "1e2f6ad00e3e7f6f3b64d630ace6a103b3ba5074",
+   "title": "The Social Cost of Strategic Classification",
+   "date": "2018-08-25"
+  },
+  {
+   "id": "2a33a1e161d6e3bc91e1f33ad7172d29d3ce0b73",
+   "title": "Runaway Feedback Loops in Predictive Policing",
+   "date": "2017-06-29"
+  },
+  {
+   "id": "b880789a27c1758518f22141a5dbb8fc64999d68",
+   "title": "A Short-term Intervention for Long-term Fairness in the Labor Market",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "6b88333518c780a60a39732b1f020cb1cbd09260",
+   "title": "Prediction Policy Problems",
+   "date": "2015-05-01"
+  },
+  {
+   "id": "0f7c85357c366b314b5b55c400869a62fd23372c",
+   "title": "Train faster, generalize better: Stability of stochastic gradient descent",
+   "date": "2015-09-03"
+  },
+  {
+   "id": "d9665992ee36699b8ae4a2e2294552cd4be9003a",
+   "title": "Statistical fraud detection: A review",
+   "date": "2002-08-01"
+  },
+  {
+   "id": "075f328ef87a076151feb4d5b1f97b66aa597a90",
+   "title": "Convex Optimization: Algorithms and Complexity",
+   "date": "2014-05-20"
+  },
+  {
+   "id": "32d55bb86cdb1bc374767383c77f97d8c5bce0ea",
+   "title": "On the rate of convergence in Wasserstein distance of the empirical measure",
+   "date": "2013-12-07"
+  }
+ ],
+ "n_candidates": 19,
+ "sims": [
+  0.5839,
+  0.579,
+  0.5536,
+  0.5466,
+  0.5355,
+  0.5321,
+  0.4975,
+  0.4962,
+  0.4762,
+  0.4682,
+  0.4669,
+  0.4524,
+  0.4458,
+  0.4395,
+  0.4389,
+  0.3646,
+  0.3511,
+  0.3389,
+  0.3266
+ ]
+}

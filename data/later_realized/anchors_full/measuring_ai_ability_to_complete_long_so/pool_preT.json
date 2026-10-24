@@ -1,0 +1,497 @@
+[
+ {
+  "id": "19815be25dd0d2853302481bf192fa574c73c049",
+  "title": "Mapping AI Benchmark Data to Quantitative Risk Estimates Through Expert Elicitation",
+  "date": "2025-03-06"
+ },
+ {
+  "id": "143c5fa755cd96c111d40e7a6078a440989265e6",
+  "title": "Forecasting Frontier Language Model Agent Capabilities",
+  "date": "2025-02-21"
+ },
+ {
+  "id": "6eeaf1e7b3be81eb1f44f80906757964e6183fec",
+  "title": "AIDE: AI-Driven Exploration in the Space of Code",
+  "date": "2025-02-18"
+ },
+ {
+  "id": "431b9e03d31a98ed424c5e4b2e3a5e5d570be96b",
+  "title": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "7deaa55c18b1cbb315df8ac7a05441c0ec6b38a0",
+  "title": "ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models",
+  "date": "2025-02-13"
+ },
+ {
+  "id": "c13e8d0d00687e8fc04b4e263818abd451d8e4de",
+  "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+  "date": "2024-12-18"
+ },
+ {
+  "id": "5dbd9f9fd231863dda17d9e3caff2edb99a113e2",
+  "title": "RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "395c978221a21ee47c84a40a2ef11fb4d012fca1",
+  "title": "DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?",
+  "date": "2024-09-12"
+ },
+ {
+  "id": "cb4b0bba67466c22bbc99bbf973dce5e1d9a48b6",
+  "title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+  "date": "2024-08-15"
+ },
+ {
+  "id": "dfd5186def202285a0f23cd3f08415a5780895c1",
+  "title": "metabench -- A Sparse Benchmark of Reasoning and Knowledge in Large Language Models",
+  "date": "2024-07-04"
+ },
+ {
+  "id": "65c3916b6bc73d4d1df9e58cb7931c2ef3243f1c",
+  "title": "Evaluating Frontier Models for Dangerous Capabilities",
+  "date": "2024-03-20"
+ },
+ {
+  "id": "66eae99f971b8dc3b3fd83e335848d9c95594bb5",
+  "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+  "date": "2024-03-12"
+ },
+ {
+  "id": "2257f5310f8bdcabef3a7c6303979053e2bbca7c",
+  "title": "How predictable is language model benchmark performance?",
+  "date": "2024-01-09"
+ },
+ {
+  "id": "ab8169d6e4dfabfe7c30ebec1bb871bf3e1551cd",
+  "title": "GAIA: a benchmark for General AI Assistants",
+  "date": "2023-11-21"
+ },
+ {
+  "id": "94a5f96308729e31c1ffbc0f0618db87795092fe",
+  "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+  "date": "2023-10-10"
+ },
+ {
+  "id": "b8ee0b5322382807e687c95cc87b059d3f348495",
+  "title": "MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation",
+  "date": "2023-10-05"
+ },
+ {
+  "id": "5dbf93a68b7fda600521f046dea35ea8ba9e884f",
+  "title": "AgentBench: Evaluating LLMs as Agents",
+  "date": "2023-08-07"
+ },
+ {
+  "id": "0bfc804e31eecfd77f45e4ee7f4d629fffdcd628",
+  "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+  "date": "2023-07-31"
+ },
+ {
+  "id": "99832586d55f540f603637e458a292406a0ed75d",
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "bd1331b233e84bab7eba503abc60b31ac08e7881",
+  "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+  "date": "2022-06-09"
+ },
+ {
+  "id": "927a5203363fc9c8ba48599dc749cf0cc647444b",
+  "title": "Compute Trends Across Three Eras of Machine Learning",
+  "date": "2022-02-11"
+ },
+ {
+  "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+  "title": "Training Verifiers to Solve Math Word Problems",
+  "date": "2021-10-27"
+ },
+ {
+  "id": "a38e0f993e4805ba8a9beae4c275c91ffcec01df",
+  "title": "Program Synthesis with Large Language Models",
+  "date": "2021-08-16"
+ },
+ {
+  "id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+  "title": "Evaluating Large Language Models Trained on Code",
+  "date": "2021-07-07"
+ },
+ {
+  "id": "1ccd031f28dccfb226f6c0c588c93a97a50bf95f",
+  "title": "Measuring Coding Challenge Competence With APPS",
+  "date": "2021-05-20"
+ },
+ {
+  "id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+  "title": "Measuring Massive Multitask Language Understanding",
+  "date": "2020-09-07"
+ },
+ {
+  "id": "f46cdf47ab7627cc40b166b7a471321d53b69ba2",
+  "title": "Item response theory in AI: Analysing machine learning classifiers at the instance level",
+  "date": "2019-06-01"
+ },
+ {
+  "id": "d9f6ada77448664b71128bb19df15765336974a6",
+  "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+  "date": "2019-05-02"
+ },
+ {
+  "id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+  "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+  "date": "2019-05-01"
+ },
+ {
+  "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+  "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+  "date": "2018-04-20"
+ },
+ {
+  "id": "5ed791f810da580c78df6a052c6b9f2e258f6b0a",
+  "title": "The LAMBADA dataset: Word prediction requiring a broad discourse context",
+  "date": "2016-06-20"
+ },
+ {
+  "id": "f55038aed16ac5833e278768b48c1bda1ae0be45",
+  "title": "Human-Like Coarse Object Representations in Vision Models",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "b3927b390bdccc8999f01e4ac54ac24f91f30dd2",
+  "title": "Basic Legibility Protocols Improve Trusted Monitoring",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "8e539b3e65f9dd76b5b140f02a92100d9b255f4a",
+  "title": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "5a4760dbf645898b46e0b667490e248c4f6e0003",
+  "title": "Agentic Uncertainty Reveals Agentic Overconfidence",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "6a9b9ddaa6ac55bb28bc7c191b210073d6af2d7e",
+  "title": "Semantic Self-Distillation for Language Model Uncertainty",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "c3bd9d4dc0a0ebd255135fe12378118a9d089e82",
+  "title": "Are AI Capabilities Increasing Exponentially? A Competing Hypothesis",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "c0f6d28b943316660a3bc8fb412008c2b08417ef",
+  "title": "Attack Selection Reduces Safety in Concentrated AI Control Settings against Trusted Monitoring",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "719c0ac906289103abc3af9a923a7d6185ff215f",
+  "title": "Understanding Persuasion in Long-Running Agents",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "745ec6a8c22a8ae81866ab72a7f79f0fece12d8f",
+  "title": "Multi-Agent Systems Should be Treated as Principal-Agent Problems",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "cc1dfd92acacf58a5e50eed6aadbb093d4af67f8",
+  "title": "The Hot Mess of AI: How Does Misalignment Scale With Model Intelligence and Task Complexity?",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "b31f961c68c85d31fd8d10a217058f81d38c3d13",
+  "title": "AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "f7f4852a3be29d29dfe663ceaec79037fce30dbb",
+  "title": "IDE-Bench: Evaluating Large Language Models as IDE Agents on Real-World Software Engineering Tasks",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "7acb7fa15d1fe53160097b631f06ee64df890153",
+  "title": "How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers",
+  "date": "2026-01-16"
+ },
+ {
+  "id": "3355f45fd1101ee0121aca0d6d46eff7fa4440dc",
+  "title": "A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "70c3767a9673be5fb3bb811c6cec8ab2daf2ac5b",
+  "title": "Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "8441da8a48c8031d91ae47670436ec9ac58b0040",
+  "title": "WOLF: Werewolf-based Observations for LLM Deception and Falsehoods",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "1875c53cabc37fe132bfc887611a88756bc655e9",
+  "title": "Towards an AI biomedical scientist: Accelerating discoveries in neurodegenerative disease",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "02489e31aff5ecafbad15efdfa7778b3a310466c",
+  "title": "On the Regulatory Potential of User Interfaces for AI Agent Governance",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "891d143a881dfe8a6e1a9d5a1449401887d19159",
+  "title": "Towards aligned body representations in vision models",
+  "date": "2025-11-29"
+ },
+ {
+  "id": "4550e9852e02c6bbae4e9131bc9842004e4b8d07",
+  "title": "A Rosetta Stone for AI Benchmarks",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "a235e3e445a91ec1a5c24ecf2835b329144fdef1",
+  "title": "Forecasting AI Time Horizon Under Compute Slowdowns",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "cd1e511e658c481974a1ae022061b56aee256cce",
+  "title": "What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "2bc32558cf07a5e34089409d2de0287e169c6680",
+  "title": "Toward a new AI winter? How diffusion of technological innovation on networks leads to chaotic boom-bust cycles",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "0fc30d552b48b12817ba6ec4dfa9571b2a262b8d",
+  "title": "Kosmos: An AI Scientist for Autonomous Discovery",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "2cfa1f04d64af3228666bf992236a6983c7cc96f",
+  "title": "The Future of Generative AI in Software Engineering: A Vision From Industry and Academia in the European Genius Project",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "7039028cd9085ef2c0283854412648974b6027b9",
+  "title": "ParaScopes: What do Language Models Activations Encode About Future Text?",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "f9e2f9784dbcfcee3191d1deb627673d90be75be",
+  "title": "ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "bd6da4167bdb42a2cbe1ffeed9274a87c820f888",
+  "title": "LLM Safety and Context Fallacies",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "6ca29e9438224626cafa50f121c22244f35575c0",
+  "title": "Scaling Long-Horizon LLM Agent via Context-Folding",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "980544498065af165ad7bb34c9a1a46cbdccce57",
+  "title": "Sample-Efficient Online Learning in LM Agents via Hindsight Trajectory Rewriting",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "d721b4b0d4400262c6e12a35e6ec7a3c962fd201",
+  "title": "Efficient numeracy in language models through single-token number embeddings",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "f967eed7e0954b401fd77817345cfaa48b298749",
+  "title": "h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "39b8c4010714619f74c1cf8ba67a2c93795a7209",
+  "title": "Artificial Intelligence in Education: Insights from Thematic Analysis on Personalization, Engagement, and Academic Performance",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "9ad7157cc1eccff7b8b7616e4ff3d8daf778fb9f",
+  "title": "Take Goodhart Seriously: Principled Limit on General-Purpose AI Optimization",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "43831f9cfde821ac18fc1a25f423b5f860422fcc",
+  "title": "Orchestrating Human-AI Teams: The Manager Agent as aUnifying Research Challenge",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "6988813892b9e1694c1f8e0bcd654ccc1533caf5",
+  "title": "Can LLMs Write Mathematics Papers? A Case Study in Reservoir Computing",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "9156782f402321ce35c2a6f3d6d2670601104131",
+  "title": "Leveraging LLM Agents for Automated Video Game Testing",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "9d77b4ecb0b1bd1f64ce27024aeb89d367bc55e2",
+  "title": "Regulating the Agency of LLM-based Agents",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "6906c9548473095d1571b897d498f20964029796",
+  "title": "AI-Driven Manufacturing: Surveying for Industry 4.0 and Beyond",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "cdf93362a41a5278c72966907043601491e6224d",
+  "title": "How ChatGPT and Gemini View the Elements of Communication Competence of Large Language Models: A Pilot Study",
+  "date": "2025-09-21"
+ },
+ {
+  "id": "a8c13c6403ddb0ce4b3b4aac56e1fbcf865c7171",
+  "title": "Incomplete Tasks Induce Shutdown Resistance in Some Frontier LLMs",
+  "date": "2025-09-13"
+ },
+ {
+  "id": "e8631dd8dc6499ee64abc625d368bd3ae812b2c5",
+  "title": "AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "3ffb459ab34a6e766edbbdad32fe2c132ce47580",
+  "title": "Reliable Weak-to-Strong Monitoring of LLM Agents",
+  "date": "2025-08-26"
+ },
+ {
+  "id": "16d6405aedbfee4ad62c45b47098666bf2e37d36",
+  "title": "Building and Measuring Trust between Large Language Models",
+  "date": "2025-08-20"
+ },
+ {
+  "id": "80f4f6ac3cd394f41a8a203ae1d90e7f95fc0293",
+  "title": "Position: The Current AI Conference Model is Unsustainable! Diagnosing the Crisis of Centralized AI Conference",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "d84245792aef29776723382526e7f7a88723e7a4",
+  "title": "Against racing to AGI: Cooperation, deterrence, and catastrophic risks",
+  "date": "2025-07-29"
+ },
+ {
+  "id": "b13ca9944c6deeae92419b64fcf9d0af431c32b2",
+  "title": "Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition",
+  "date": "2025-07-28"
+ },
+ {
+  "id": "6685f3657dcacf6dd136f435dfd21ad016941168",
+  "title": "Interaction as Intelligence: Deep Research With Human-AI Partnership",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "763f6f9ffb13a1c11d63096f3121c48da43b5a74",
+  "title": "Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "9008680aac5a92b3a089aa1487eea76b8565f0d3",
+  "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+  "date": "2025-07-12"
+ },
+ {
+  "id": "edf94625e408959ccfe8b9d104a08a7ab287f930",
+  "title": "Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "03c66241c8619a7e0c7ad7b712d2ca1371546075",
+  "title": "Probing and Steering Evaluation Awareness of Language Models",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "cd09ab0315169ce0037dd1cf601f3f24729453f2",
+  "title": "Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "1aa014ff9be0d23cc855a4b0b854cfefa5631533",
+  "title": "xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "62998cfe46364b7e140d4368f20aacef16741918",
+  "title": "Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "18267278d8c2c1e510f16538e964f4ca47810394",
+  "title": "Benchmarking Misuse Mitigation Against Covert Adversaries",
+  "date": "2025-06-06"
+ },
+ {
+  "id": "4cbbb13fcb1b5a907595b3c997a7c9c25a712dad",
+  "title": "Breakpoint: Scalable evaluation of system-level reasoning in LLM code agents",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "da7f572ce40ea55048805e817c9ba0b7621b23d8",
+  "title": "Risks of AI-driven product development and strategies for their mitigation",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "b241b1b8e3d59af45325e2a0b3b010851b47ae8d",
+  "title": "Evaluating AI cyber capabilities with crowdsourced elicitation",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "94bde82e8766bcfd5c76ac3c1bb507471ce074b5",
+  "title": "4Hammer: a board-game reinforcement learning environment for the hour long time frame",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "e8f120b3c2ca6d58bab29ba0242a6a5f97ef5496",
+  "title": "HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics",
+  "date": "2025-05-08"
+ },
+ {
+  "id": "5739446325682c209773501ef0cd17ce53be9797",
+  "title": "Characterizing AI Agents for Alignment and Governance",
+  "date": "2025-04-30"
+ },
+ {
+  "id": "85357f3d3ef4d23030f6d28e02826e97d5dc238f",
+  "title": "Bare Minimum Mitigations for Autonomous AI Development",
+  "date": "2025-04-21"
+ },
+ {
+  "id": "219ab0991d2aa626084887826d3f4468691da6c0",
+  "title": "Unraveling Human-AI Teaming: A Review and Outlook",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "5c1af74e92d1f1819bfc4186124b08a867e2d617",
+  "title": "How to evaluate control measures for LLM agents? A trajectory from today to superintelligence",
+  "date": "2025-04-07"
+ },
+ {
+  "id": "28d347f1fc2bfbbef068670e99cdf968856bebe4",
+  "title": "Research Superalignment Should Advance Now with Alternating Competence and Conformity Optimization",
+  "date": "2025-03-08"
+ },
+ {
+  "id": "de21a8377c8a1f2626c7d882f576404a3b667fb4",
+  "title": "Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey",
+  "date": "2024-10-21"
+ },
+ {
+  "id": "ad416524ff9ec736dde1c95b31a72b48c9cce5ab",
+  "title": "Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck",
+  "date": "2024-09-01"
+ }
+]

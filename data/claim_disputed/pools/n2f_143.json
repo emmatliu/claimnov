@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_d86dfdbb8eab91cf23b81c541b4f741f88b7d756",
+   "title": "Benchmarks for Deep Off-Policy Evaluation",
+   "is_B": true
+  },
+  {
+   "id": "a8bbcf5ea723b1f9b7d2257dd6fd492cd280f0af",
+   "title": "High-Confidence Off-Policy Evaluation",
+   "date": "2015-01-25"
+  },
+  {
+   "id": "923dcad6708bc40d01350eaa6ad1886f45430cf8",
+   "title": "Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning",
+   "date": "2019-11-15"
+  },
+  {
+   "id": "471e452dc02edcb9c8c0ec446cc2eb22188dd86b",
+   "title": "Offline policy evaluation across representations with applications to educational games",
+   "date": "2014-05-05"
+  },
+  {
+   "id": "31581b4cd0d65985d3d1bd79820427dd3a7c46e0",
+   "title": "Off-Policy Evaluation via Off-Policy Classification",
+   "date": "2019-06-04"
+  },
+  {
+   "id": "f9ac7836563f98919095e7c87775f4c4932261aa",
+   "title": "Offline A/B Testing for Recommender Systems",
+   "date": "2018-01-22"
+  },
+  {
+   "id": "4ed57d4c79afeef48c49817cf17082818ad84f44",
+   "title": "Statistical Bootstrapping for Uncertainty Estimation in Off-Policy Evaluation",
+   "date": "2020-07-27"
+  },
+  {
+   "id": "7e687699b6c2e075091cebe4b7b8dbd4dc3a7406",
+   "title": "Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization",
+   "date": "2021-04-28"
+  },
+  {
+   "id": "de46f4e4613364792bbd13f185c381ab656a27ef",
+   "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+   "date": "2020-06-24"
+  },
+  {
+   "id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+   "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "ec8a2f6cfe72309f5f1608d22ec28778d3ee976a",
+   "title": "Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning",
+   "date": "2016-04-04"
+  },
+  {
+   "id": "200d72f1fe0cb314d431c1396f4c133307fd6736",
+   "title": "Doubly Robust Policy Evaluation and Optimization",
+   "date": "2014-11-01"
+  },
+  {
+   "id": "91727b55133f77dafed05603da0d4752a7606019",
+   "title": "Off-Policy Evaluation and Learning from Logged Bandit Feedback: Error Reduction via Surrogate Policy",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "6b9244068973eedf4e79df1a1c48cb45a85a5aaf",
+   "title": "Enhancing Offline Model-Based RL via Active Model Selection: A Bayesian Optimization Perspective",
+   "date": "2025-02-17"
+  },
+  {
+   "id": "7acbdb961f67d50fef359066f2a1d7755cf16ee2",
+   "title": "Critic Regularized Regression",
+   "date": "2020-06-26"
+  },
+  {
+   "id": "9001698e033524864d4d45f051a5ba362d4afd9e",
+   "title": "When to Trust Your Model: Model-Based Policy Optimization",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "bf38b796a0f3da7c61b13846144c0961a5a40405",
+   "title": "Behaviour Policy Estimation in Off-Policy Policy Evaluation: Calibration Matters",
+   "date": "2018-07-03"
+  },
+  {
+   "id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+   "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+   "date": "2020-04-15"
+  },
+  {
+   "id": "3203be64597368d356b3ebca54a15699a3714e24",
+   "title": "Batch Policy Learning under Constraints",
+   "date": "2019-03-20"
+  },
+  {
+   "id": "2fdb536da39a014c598ea67b0db88431fcd852a8",
+   "title": "Doubly Robust Off-policy Value Evaluation for Reinforcement Learning",
+   "date": "2015-11-11"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.7071,
+  0.6649,
+  0.6388,
+  0.6297,
+  0.6202,
+  0.6169,
+  0.6081,
+  0.6059,
+  0.6045,
+  0.6031,
+  0.6015,
+  0.5837,
+  0.5831,
+  0.5804,
+  0.5744,
+  0.5706,
+  0.5704,
+  0.5664,
+  0.5609
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_fd8ac1cd7c9c07b26c89026dfe4124962faab3dd",
+   "title": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models",
+   "date": "2026-06-08",
+   "is_B": true
+  },
+  {
+   "id": "457c626d3556453df1ae7888d41bb6ef59715328",
+   "title": "The Superposition of Diffusion Models Using the It\u00f4 Density Estimator",
+   "date": "2024-12-23"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "3ff7153fd6bd47d08084c7f50f8fd70026c126e7",
+   "title": "Compositional Visual Generation with Composable Diffusion Models",
+   "date": "2022-06-03"
+  },
+  {
+   "id": "9ced6e814457eae83f5415364e266143defc81d1",
+   "title": "MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation",
+   "date": "2023-02-16"
+  },
+  {
+   "id": "3ac2d89388a816786234aa9f8ef2de9a635b0a69",
+   "title": "Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC",
+   "date": "2023-02-22"
+  },
+  {
+   "id": "b7e0ea06f096d4963d96739ce154ba6bfe5af7ee",
+   "title": "Compositional Sculpting of Iterative Generative Processes",
+   "date": "2023-09-28"
+  },
+  {
+   "id": "014576b866078524286802b1d0e18628520aa886",
+   "title": "Denoising Diffusion Implicit Models",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "a5c158d8c09d9b97a47bbbac917fd79c0215f42f",
+   "title": "SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models",
+   "date": "2024-05-01"
+  },
+  {
+   "id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+   "title": "Diffusion Models Beat GANs on Image Synthesis",
+   "date": "2021-05-11"
+  },
+  {
+   "id": "37d626720f5003373336098ce7c01a1a38e6b63d",
+   "title": "What the DAAM: Interpreting Stable Diffusion Using Cross Attention",
+   "date": "2022-10-10"
+  },
+  {
+   "id": "fbc91231aab3327f2ff271e84178e6ee4c38e48a",
+   "title": "Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget",
+   "date": "2024-07-22"
+  },
+  {
+   "id": "f5275c61736781d236abe6700b822f1ea62f982e",
+   "title": "Diffusion Model Alignment Using Direct Preference Optimization",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "c3c7464acb90049c5f520b0732dc7435ba3690bd",
+   "title": "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models",
+   "date": "2023-01-31"
+  },
+  {
+   "id": "945b471b9afd2b6c062552e9c2457eb04c89f186",
+   "title": "Diffusion Illusions: Hiding Images in Plain Sight",
+   "date": "2023-12-06"
+  },
+  {
+   "id": "7002ae048e4b8c9133a55428441e8066070995cb",
+   "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+   "title": "Classifier-Free Diffusion Guidance",
+   "date": "2022-07-26"
+  },
+  {
+   "id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+   "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+   "date": "2023-03-07"
+  },
+  {
+   "id": "9695824d7a01fad57ba9c01d7d76a519d78d65e7",
+   "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+   "date": "2022-05-23"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.6918,
+  0.6901,
+  0.6825,
+  0.6718,
+  0.6629,
+  0.6571,
+  0.6545,
+  0.6517,
+  0.6492,
+  0.6361,
+  0.6274,
+  0.6203,
+  0.6184,
+  0.5987,
+  0.586,
+  0.5792,
+  0.5651,
+  0.5484,
+  0.5476
+ ]
+}

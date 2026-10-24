@@ -1,0 +1,21 @@
+item_id,annotator,done_by_listed_paper,paper_number,contribution_established,contribution_text,contribution_paper_number,confidence,notes
+Q01,A3,yes,P2,,,,3,use RL after distillation
+Q07,A3,yes,P5,,,,3,sequence concatenation with LoRA to improve temporal consistency
+Q09,A3,no,,yes,cross-frame geometric consistency for scale-drift regularization,P5,3,
+Q12,A3,yes,P4,,,,3,lightweight token-level predictor to stop iteration
+Q17,A3,yes,P1,,,,3,encode observations into latent representations and then integrate into VLA backbone
+Q19,A3,no,,yes,tactile encoding followed by integration into a VLA backbone,P1,2,Q19's main contribution lies event-driven tokenization vs P1's force-aligned representation learning
+Q22,A3,no,,yes,compress memory semantic over time,P2,3,
+Q24,A3,yes,P1,,,,3,learn parent-child hierarchy with constraints
+Q26,A3,yes,P1,,,,3,encode observations into latent representations and then integrate into VLA backbone
+Q28,A3,yes,P3,,,,3,temporal alignment rewards in video reasoning
+Q33,A3,yes,P20,,,,3,dynamically prune and compress memory by LLM
+Q36,A3,no,,no,,,3,
+Q37,A3,yes,P3,,,,3,real-time interventions by a lightweight monitor when error detected in multi-agent task
+Q42,A3,no,,no,,,3,
+Q44,A3,no,,yes,token proposal and lossless verification in parallel,P2,3,
+Q48,A3,yes,P9,,,,3,LLM-based agentic memory management and consistency verification
+Q50,A3,yes,P4,,,,3,token-level adaptive recurrent computation
+Q56,A3,yes,P4,,,,3,filter by inter and intra frame uniqueness and diversity 
+Q58,A3,yes,P1,,,,3,confidence-based early stopping on sampling
+Q59,A3,no,,yes,token proposal and lossless verification in parallel,P2,3,

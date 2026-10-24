@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_26a3dea606c19e70a22691faf2e8e89c2de6ffaa",
+   "title": "SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models",
+   "date": "2026-08-03",
+   "is_B": true
+  },
+  {
+   "id": "a66055e694725605f36b0eca9c7daa9631761876",
+   "title": "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "a3ca77456142b78367dd5d53138b50dfac8086ca",
+   "title": "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities",
+   "date": "2024-01-22"
+  },
+  {
+   "id": "37cc48c8e1ebadd56ee6295f7afec9cc8f11b29d",
+   "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "5c93b01196374e36912c16cec0b3943ba4467559",
+   "title": "Visual Spatial Tuning",
+   "date": "2025-11-07"
+  },
+  {
+   "id": "9de83e51be23e0a2bf6d62dc8af6163df247332e",
+   "title": "Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas",
+   "date": "2025-03-03"
+  },
+  {
+   "id": "8a31a1db48f1776e245ee73666f327d00682fc5f",
+   "title": "SpatialBot: Precise Spatial Understanding with Vision Language Models",
+   "date": "2024-06-19"
+  },
+  {
+   "id": "69133f7e0d69b07a20dd01366ad59d5f82c267ab",
+   "title": "How Far are VLMs from Visual Spatial Intelligence? A Benchmark-Driven Perspective",
+   "date": "2025-09-23"
+  },
+  {
+   "id": "7ae0a3aab6889e9edd593eef063bb7e5dc410727",
+   "title": "DepthLM: Metric Depth From Vision Language Models",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "941dea94c02b3e670bab4261dac56cb5b0b2d2f4",
+   "title": "Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "a8b9ae79e58786f19d4fc4992fb3bf7ae1891f57",
+   "title": "SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning",
+   "date": "2025-05-18"
+  },
+  {
+   "id": "eef7bc6a35551889c9fa0a604ff3e64b7432c167",
+   "title": "DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning",
+   "date": "2025-10-15"
+  },
+  {
+   "id": "0072019b934df4a802c2f948ed090c7745b32dd5",
+   "title": "SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "376461a2c049f6fa51a4303853fdc672e4d07a0d",
+   "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "b3f25645b4325ef15ef9245584d414be490f84e3",
+   "title": "SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models",
+   "date": "2025-05-01"
+  },
+  {
+   "id": "10301766e5686bda76722ef2af1362213b934cc0",
+   "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model",
+   "date": "2025-01-27"
+  },
+  {
+   "id": "4fbd9ed8076f32b5eda3483005d7a2d05763fd57",
+   "title": "MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "7311bbaa4624d393e9c6f26e1878f475315a5b28",
+   "title": "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics",
+   "date": "2025-06-04"
+  },
+  {
+   "id": "690df0820f35a47e1ce44f90e6ddb4132aa09267",
+   "title": "Vision-Language Models for Vision Tasks: A Survey",
+   "date": "2023-04-03"
+  },
+  {
+   "id": "1c14b22e6852dd9e17062e697bfcb087753e1944",
+   "title": "Scaling Spatial Intelligence with Multimodal Foundation Models",
+   "date": "2025-11-17"
+  }
+ ],
+ "n_candidates": 67,
+ "sims": [
+  0.8164,
+  0.8066,
+  0.79,
+  0.7792,
+  0.7759,
+  0.7552,
+  0.7516,
+  0.7409,
+  0.7398,
+  0.7386,
+  0.7379,
+  0.7315,
+  0.7308,
+  0.7288,
+  0.7123,
+  0.7036,
+  0.6854,
+  0.6732,
+  0.6583
+ ]
+}

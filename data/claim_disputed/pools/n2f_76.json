@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_5b71c3d7d98372f4e83ecfac0d2148055b762a77",
+   "title": "Overparameterization of deep ResNet: zero loss and mean-field analysis",
+   "is_B": true
+  },
+  {
+   "id": "19e0fa37631c7588651ef8c335928a9a2d4b2e2c",
+   "title": "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth",
+   "date": "2020-03-11"
+  },
+  {
+   "id": "eb406ed925d0406a39761f73b320c84c53862700",
+   "title": "On the Convergence of Gradient Descent Training for Two-layer ReLU-networks in the Mean Field Regime",
+   "date": "2020-05-27"
+  },
+  {
+   "id": "d6f6d1504cfedde4efb23e7ec0f42f006062c6a0",
+   "title": "Gradient Descent Provably Optimizes Over-parameterized Neural Networks",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "dd0cbd365304eddec5ee961ced19291e1463bad1",
+   "title": "Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks",
+   "date": "2020-07-03"
+  },
+  {
+   "id": "42ec3db12a2e4628885451b13035c2e975220a25",
+   "title": "A Convergence Theory for Deep Learning via Over-Parameterization",
+   "date": "2018-09-01"
+  },
+  {
+   "id": "313b368457e54e6a7482b008d5eb4182eb1b4d1c",
+   "title": "Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks",
+   "date": "2018-11-21"
+  },
+  {
+   "id": "03e7e8663c69e691be6b6403b1eb1bbf593d31f2",
+   "title": "Gradient Descent Finds Global Minima of Deep Neural Networks",
+   "date": "2018-11-09"
+  },
+  {
+   "id": "13d2a545707741d6a7ac2679c5cf0a2a4821bab1",
+   "title": "Global Convergence of Three-layer Neural Networks in the Mean Field Regime",
+   "date": "2021-05-11"
+  },
+  {
+   "id": "9c7de616d16e5643e9e29dfdf2d7d6001c548132",
+   "title": "On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport",
+   "date": "2018-05-24"
+  },
+  {
+   "id": "f1d48ad5a04360bf65e793b84298d8e0570bf1cc",
+   "title": "A mean field view of the landscape of two-layer neural networks",
+   "date": "2018-04-18"
+  },
+  {
+   "id": "d8d48c484a654451dfbde8b2328503397168036a",
+   "title": "Algorithm-Dependent Generalization Bounds for Overparameterized Deep Residual Networks",
+   "date": "2019-10-07"
+  },
+  {
+   "id": "0f1afdbbc806e191af4d294cd3e84787bd8de376",
+   "title": "A Rigorous Framework for the Mean Field Limit of Multilayer Neural Networks",
+   "date": "2020-01-30"
+  },
+  {
+   "id": "e9d2e81db4e28eda8a42d55a30b6d374cf0daee0",
+   "title": "Mean Field Analysis of Deep Neural Networks",
+   "date": "2019-03-11"
+  },
+  {
+   "id": "05104e44493ce83f182827e4085db7caae413ff6",
+   "title": "The Effects of Mild Over-parameterization on the Optimization Landscape of Shallow ReLU Neural Networks",
+   "date": "2020-06-01"
+  },
+  {
+   "id": "9c985db0a4a255a06e0fbf2ce147ea741720f9f0",
+   "title": "Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel",
+   "date": "2018-10-12"
+  },
+  {
+   "id": "ae3a77e96c415f9910f124b5cbbf3c6d3e5a7c79",
+   "title": "When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?",
+   "date": "2021-02-09"
+  },
+  {
+   "id": "feb6e2d46ce707094b24f5ace9456aa0aff3119e",
+   "title": "The Loss Surface of Deep and Wide Neural Networks",
+   "date": "2017-04-26"
+  },
+  {
+   "id": "ccb1bafdae68c635cbd30d49fda7dbf88a3ce1b6",
+   "title": "Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data",
+   "date": "2018-08-03"
+  },
+  {
+   "id": "3d30cfa0a438cc156ffef5808ff9fae195ac93b6",
+   "title": "Mean-Field Neural ODEs via Relaxed Optimal Control",
+   "date": "2019-12-11"
+  }
+ ],
+ "n_candidates": 40,
+ "sims": [
+  0.7427,
+  0.742,
+  0.7267,
+  0.7105,
+  0.7037,
+  0.6895,
+  0.6889,
+  0.6774,
+  0.6738,
+  0.6448,
+  0.6327,
+  0.6235,
+  0.6219,
+  0.6193,
+  0.6126,
+  0.6096,
+  0.6045,
+  0.6027,
+  0.6015
+ ]
+}

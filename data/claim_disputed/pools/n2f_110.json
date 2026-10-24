@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4d766ae60fbbaea4f6c4ca8ad7f14569ec3189d1",
+   "title": "Critical Thinking for Language Models",
+   "is_B": true
+  },
+  {
+   "id": "5e0cffc51e8b64a8f11326f955fa4b4f1803e3be",
+   "title": "oLMpics-On What Language Model Pre-training Captures",
+   "date": "2019-12-31"
+  },
+  {
+   "id": "89cb62dc83c1b1895267bd28639fbf5bb7ed21a4",
+   "title": "Measuring Systematic Generalization in Neural Proof Generation with Transformers",
+   "date": "2020-09-30"
+  },
+  {
+   "id": "a7307ef5bb7b187ffcf7bb8ff5206138d66bfff0",
+   "title": "Probing Natural Language Inference Models through Semantic Fragments",
+   "date": "2019-09-16"
+  },
+  {
+   "id": "6f2b90ee5a0feea87264148c25a874f84bae20a0",
+   "title": "Are Pretrained Language Models Symbolic Reasoners over Knowledge?",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "a75649771901a4881b44c0ceafa469fcc6e6f968",
+   "title": "How Can We Know What Language Models Know?",
+   "date": "2019-11-28"
+  },
+  {
+   "id": "9e12539d92088001e08b1e903c490127c479de4c",
+   "title": "Transformers as Soft Reasoners over Language",
+   "date": "2020-02-14"
+  },
+  {
+   "id": "d0086b86103a620a86bc918746df0aa642e2a8a3",
+   "title": "Language Models as Knowledge Bases?",
+   "date": "2019-09-01"
+  },
+  {
+   "id": "abb33d75dc297993fcc3fb75e0f4498f413eb4f6",
+   "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "b4013141cceb937c46ea5f84f8c06f6bf1215106",
+   "title": "PRover: Proof Generation for Interpretable Reasoning over Rules",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "5e35895fc4731858f0b286cb5a1613a819cc2367",
+   "title": "CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text",
+   "date": "2019-08-01"
+  },
+  {
+   "id": "2db020e3398c06e3a22f12d8caffe76b0d9d1dda",
+   "title": "Knowledge-driven Self-supervision for Zero-shot Commonsense Question Answering",
+   "date": "2020-11-07"
+  },
+  {
+   "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "9808d59113029d96f48a0376b1578dbab5427bb4",
+   "title": "Unsupervised Commonsense Question Answering with Self-Talk",
+   "date": "2020-04-11"
+  },
+  {
+   "id": "ece56ab633f11d1592a3d4f9386412d3f48fcf95",
+   "title": "The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants",
+   "date": "2017-08-04"
+  },
+  {
+   "id": "2997b26ffb8c291ce478bd8a6e47979d5a55c466",
+   "title": "Annotation Artifacts in Natural Language Inference Data",
+   "date": "2018-03-06"
+  },
+  {
+   "id": "f3b89e9a2b8ce1b6058e6984c3556bc2dded0938",
+   "title": "Probing Neural Network Comprehension of Natural Language Arguments",
+   "date": "2019-07-17"
+  },
+  {
+   "id": "a942cc84412d6a52adab325909b52296c017df48",
+   "title": "Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",
+   "date": "2020-07-01"
+  },
+  {
+   "id": "68c1bf884f0fc0e86641466a1f1fa67e79f16a17",
+   "title": "Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",
+   "date": "2019-11-08"
+  },
+  {
+   "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "date": "2018-04-20"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.6949,
+  0.6593,
+  0.6304,
+  0.6272,
+  0.6189,
+  0.6169,
+  0.6095,
+  0.5853,
+  0.5784,
+  0.5654,
+  0.556,
+  0.5401,
+  0.5378,
+  0.5334,
+  0.5323,
+  0.5243,
+  0.5094,
+  0.5092,
+  0.5084
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_b61c6405f4de381758e8b52a20313554d68a9d85",
+   "title": "CamemBERT: a Tasty French Language Model",
+   "is_B": true
+  },
+  {
+   "id": "806f13809ea4293ff5505b5af66909cb2284ab48",
+   "title": "Neural Architectures for Nested NER through Linearization",
+   "date": "2019-08-19"
+  },
+  {
+   "id": "10f97f1fb4f5c2c8e6c44d4a33da46d331dd4aeb",
+   "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+   "date": "2003-05-31"
+  },
+  {
+   "id": "502858989368adae91e0f4a643ebc2aa6efd5738",
+   "title": "Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition",
+   "date": "2002-08-31"
+  },
+  {
+   "id": "2febb64b4f4db5fe7df527834a40e134d080852e",
+   "title": "Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing",
+   "date": "2019-08-20"
+  },
+  {
+   "id": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+   "title": "Deep Contextualized Word Representations",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "f5a7da72496e2ca8edcd9f9123773012c010cfc6",
+   "title": "Neural Architectures for Named Entity Recognition",
+   "date": "2016-03-04"
+  },
+  {
+   "id": "8cbef23c9ee2ae7c35cc691a0c1d713a6377c9f2",
+   "title": "Deep Biaffine Attention for Neural Dependency Parsing",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "97906df07855b029b7aae7c2a1c6c5e8df1d531c",
+   "title": "BERT Rediscovers the Classical NLP Pipeline",
+   "date": "2019-05-15"
+  },
+  {
+   "id": "a19f33f441040efade7e1ad096b911b116003bb9",
+   "title": "Universal Morpho-Syntactic Parsing and the Contribution of Lexica: Analyzing the ONLP Lab Submission to the CoNLL 2018 Shared Task",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "9fa8d73e572c3ca824a04a5f551b602a17831bc5",
+   "title": "Domain Adaptation with Structural Correspondence Learning",
+   "date": "2006-07-22"
+  },
+  {
+   "id": "9f1c5777a193b2c3bb2b25e248a156348e5ba56d",
+   "title": "Cloze-driven Pretraining of Self-attention Networks",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "6551f742b825561d26242ca8a646ba0e33fb109f",
+   "title": "What the [MASK]? Making Sense of Language-Specific BERT Models",
+   "date": "2020-03-05"
+  },
+  {
+   "id": "af88ce6116c2cd2927a4198745e99e5465173783",
+   "title": "Bidirectional LSTM-CRF Models for Sequence Tagging",
+   "date": "2015-08-09"
+  },
+  {
+   "id": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+   "title": "GloVe: Global Vectors for Word Representation",
+   "date": "2014-10-01"
+  },
+  {
+   "id": "31c872514c28a172f7f0221c8596aa5bfcdb9e98",
+   "title": "75 Languages, 1 Model: Parsing Universal Dependencies Universally",
+   "date": "2019-04-03"
+  },
+  {
+   "id": "1518039b5001f1836565215eb047526b3ac7f462",
+   "title": "Neural Machine Translation of Rare Words with Subword Units",
+   "date": "2015-08-31"
+  },
+  {
+   "id": "e0c6abdbdecf04ffac65c440da77fb9d66bb474c",
+   "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "2fa3f7ce620a1c7155daef6620dd6bb0e01934f3",
+   "title": "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT",
+   "date": "2019-04-19"
+  }
+ ],
+ "n_candidates": 54,
+ "sims": [
+  0.5582,
+  0.482,
+  0.4802,
+  0.4339,
+  0.4226,
+  0.4156,
+  0.4107,
+  0.398,
+  0.3807,
+  0.3797,
+  0.3732,
+  0.3724,
+  0.3722,
+  0.3673,
+  0.3671,
+  0.3663,
+  0.3646,
+  0.3591,
+  0.3589
+ ]
+}

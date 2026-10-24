@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_df2499f13dd98d4ce7a46888834084798c9930e4",
+   "title": "Guaranteed Discovery of Control-Endogenous Latent States with Multi-Step Inverse Models",
+   "is_B": true
+  },
+  {
+   "id": "9229fe9049677b0d00a38713bf1642a1955a1f18",
+   "title": "INFOrmation Prioritization through EmPOWERment in Visual Model-Based RL",
+   "date": "2022-04-18"
+  },
+  {
+   "id": "3a93355d067a15fad4feb4294320ce70058c84fd",
+   "title": "Sample-Efficient Reinforcement Learning in the Presence of Exogenous Information",
+   "date": "2022-06-09"
+  },
+  {
+   "id": "7c4356ec0dca6e6df0af7a882e2cd1571c8bf3dc",
+   "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+   "date": "2020-07-12"
+  },
+  {
+   "id": "27a7df880e9c4ccd87cb88cccb131e2b4687567f",
+   "title": "Deep Reinforcement and InfoMax Learning",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "0f1382cb004b4834cc3ca7824a61d0d6b86a5763",
+   "title": "Pretraining Representations for Data-Efficient Reinforcement Learning",
+   "date": "2021-06-09"
+  },
+  {
+   "id": "518b827e340c26582b5093401283a4f5cff605b9",
+   "title": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "743400b552f06a5275633c3f8fab1a36f39d789a",
+   "title": "Unsupervised Visuomotor Control through Distributional Planning Networks",
+   "date": "2019-02-14"
+  },
+  {
+   "id": "2134570d1771484276756ee3610e04d72f4d547b",
+   "title": "Denoised MDPs: Learning World Models Better Than the World Itself",
+   "date": "2022-06-30"
+  },
+  {
+   "id": "2728ef33147b97ec9c38f5863c569f5dd207c115",
+   "title": "From Pixels to Torques: Policy Learning with Deep Dynamical Models",
+   "date": "2015-02-08"
+  },
+  {
+   "id": "aee4c6aa5b726dfdc5a4c371e4a68700335d77c0",
+   "title": "Which Mutual-Information Representation Learning Objectives are Sufficient for Control?",
+   "date": "2021-06-14"
+  },
+  {
+   "id": "3b3d7adb9047d01af6dfa2975ad8addd69715e96",
+   "title": "Mastering Atari Games with Limited Data",
+   "date": "2021-10-30"
+  },
+  {
+   "id": "65fc1f1c567801fee3788974e753cdbf934f07e9",
+   "title": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
+   "date": "2022-06-23"
+  },
+  {
+   "id": "2319a491378867c7049b3da055c5df60e1671158",
+   "title": "Playing Atari with Deep Reinforcement Learning",
+   "date": "2013-12-19"
+  },
+  {
+   "id": "9d01ca964043a52b265534e94abc37210a50cc5a",
+   "title": "Kinematic State Abstraction and Provably Efficient Rich-Observation Reinforcement Learning",
+   "date": "2019-11-13"
+  },
+  {
+   "id": "8fac9e3a0eba8ea559a4e6006d9596c8ebe77bf4",
+   "title": "Learning Task Informed Abstractions",
+   "date": "2021-06-29"
+  },
+  {
+   "id": "2fd346e7edf0ec9de793c96acb0a1e3f2f8a2718",
+   "title": "BYOL-Explore: Exploration by Bootstrapped Prediction",
+   "date": "2022-06-16"
+  },
+  {
+   "id": "9b227449872783e7c8207bea3a8a7713ad52fdea",
+   "title": "Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning",
+   "date": "2018-06-05"
+  },
+  {
+   "id": "225ab689f41cef1dc18237ef5dab059a49950abf",
+   "title": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+   "date": "2017-05-15"
+  },
+  {
+   "id": "9651e1987a39d100dc0f6696a2077199e5075ea2",
+   "title": "Agent57: Outperforming the Atari Human Benchmark",
+   "date": "2020-03-30"
+  }
+ ],
+ "n_candidates": 42,
+ "sims": [
+  0.6674,
+  0.6516,
+  0.6366,
+  0.6205,
+  0.6152,
+  0.6142,
+  0.6119,
+  0.6114,
+  0.6065,
+  0.5882,
+  0.5844,
+  0.5743,
+  0.5592,
+  0.5484,
+  0.5469,
+  0.5415,
+  0.536,
+  0.536,
+  0.5312
+ ]
+}

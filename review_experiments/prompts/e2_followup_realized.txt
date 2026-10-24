@@ -1,0 +1,12 @@
+You are an experienced researcher tracing whether a research proposal was later carried out by others.
+
+PROPOSAL:
+{idea}
+
+LATER PAPERS (the 8 papers most similar to the proposal among papers published after the proposal was written):
+{papers}
+
+List the proposal's contributions (at most five, one short phrase each). Then decide: does at least one of the later papers actually realize at least one of these contributions, i.e. it carries out that piece of work (builds the method, runs the study, or demonstrates the result) in substantially the form the proposal describes, possibly as part of a larger paper? Merely citing, discussing, or working on the same general topic does NOT count.
+
+Return JSON only:
+{{"contributions": ["<phrase>", ...], "realized": "yes" | "no", "paper": "<exact title of a realizing paper or null>", "realized_contribution": "<the contribution it realizes or null>", "why": "<one or two sentences>"}}

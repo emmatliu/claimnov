@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_43a87867fe6bf4eb920f97fc753be4b727308923",
+   "title": "Towards a Unified View of Parameter-Efficient Transfer Learning",
+   "is_B": true
+  },
+  {
+   "id": "29ddc1f43f28af7c846515e32cc167bc66886d0c",
+   "title": "Parameter-Efficient Transfer Learning for NLP",
+   "date": "2019-02-02"
+  },
+  {
+   "id": "ffdbd7f0b03b85747b001b4734d5ee31b5229aa4",
+   "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+   "date": "2021-04-18"
+  },
+  {
+   "id": "d22e4cc3a501c17881b9478621f29760e429e76e",
+   "title": "Parameter-Efficient Transfer Learning with Diff Pruning",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "3bcb17559ce96eb20fa79af8194f4af0380d194a",
+   "title": "Pre-trained models for natural language processing: A survey",
+   "date": "2020-03-18"
+  },
+  {
+   "id": "656ed155c2d345c19d9bff4b50f2ae00db8407cc",
+   "title": "Compacter: Efficient Low-Rank Hypercomplex Adapter Layers",
+   "date": "2021-06-08"
+  },
+  {
+   "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "date": "2019-07-26"
+  },
+  {
+   "id": "28692beece311a90f5fa1ca2ec9d0c2ce293d069",
+   "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+   "date": "2021-07-28"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+   "date": "2021-06-17"
+  },
+  {
+   "id": "339b2b711fb5b228d097b03ebc3e62a521779235",
+   "title": "BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models",
+   "date": "2021-06-18"
+  },
+  {
+   "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+   "title": "Language Models are Few-Shot Learners",
+   "date": "2020-05-28"
+  },
+  {
+   "id": "98ef0db84e62aef969629264c9de1f4d0013f3b9",
+   "title": "AdapterFusion: Non-Destructive Task Composition for Transfer Learning",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+   "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+   "date": "2021-01-11"
+  },
+  {
+   "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "date": "2018-04-20"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "d9f6ada77448664b71128bb19df15765336974a6",
+   "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+   "date": "2019-05-02"
+  },
+  {
+   "id": "d6a083dad7114f3a39adc65c09bfbb6cf3fee9ea",
+   "title": "Energy and Policy Considerations for Deep Learning in NLP",
+   "date": "2019-06-05"
+  },
+  {
+   "id": "495da6f19baa09c6db3697d839e10432cdc25934",
+   "title": "Multilingual Denoising Pre-training for Neural Machine Translation",
+   "date": "2020-01-22"
+  },
+  {
+   "id": "4a54d58a4b20e4f3af25cea3c188a12082a95e02",
+   "title": "Transformer Feed-Forward Layers Are Key-Value Memories",
+   "date": "2020-12-29"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.656,
+  0.6104,
+  0.5745,
+  0.5717,
+  0.566,
+  0.5569,
+  0.5424,
+  0.5361,
+  0.517,
+  0.5161,
+  0.5142,
+  0.4898,
+  0.4846,
+  0.4748,
+  0.4718,
+  0.4559,
+  0.4558,
+  0.4317,
+  0.4244
+ ]
+}

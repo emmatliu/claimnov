@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ce52dc2fae7cbfb40e9bd8a5148a3fddccfc2dff",
+   "title": "TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention",
+   "date": "2026-06-05",
+   "is_B": true
+  },
+  {
+   "id": "6b238b17e419c7dd3912b9845449496bfb0a571a",
+   "title": "Accurate predictions on small data with a tabular foundation model",
+   "date": "2025-01-01"
+  },
+  {
+   "id": "9ddcc1a303157febc58b0d894ddd6c3e957aa70d",
+   "title": "TabPFN Unleashed: A Scalable and Effective Solution to Tabular Classification Problems",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "509a74284632b626dba08e5fb5f0b2112d17fb7b",
+   "title": "Retrieval & Fine-Tuning for In-Context Tabular Models",
+   "date": "2024-06-07"
+  },
+  {
+   "id": "00e90ef5fff477eed81a2b2742e9b96f57d58cf1",
+   "title": "A Closer Look at TabPFN v2: Understanding Its Strengths and Extending Its Capabilities",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "9fe69cf5c104b2205cdb7908df8cdb389256b4b5",
+   "title": "TabNet: Attentive Interpretable Tabular Learning",
+   "date": "2019-08-20"
+  },
+  {
+   "id": "4dcfa64ae74b93cd0cc98f816e1b24c16b9731e2",
+   "title": "TabICL: A Tabular Foundation Model for In-Context Learning on Large Data",
+   "date": "2025-02-08"
+  },
+  {
+   "id": "666cca690fa0ddf3b57291ad08fde8d266eb9cbb",
+   "title": "Early Stopping Tabular In-Context Learning",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "4c4f0fcf1ce04f12290d8c876abfbe57817de430",
+   "title": "TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second",
+   "date": "2022-07-05"
+  },
+  {
+   "id": "3e690b185da0da240d54787a6be3345738bf15d9",
+   "title": "TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models",
+   "date": "2025-11-11"
+  },
+  {
+   "id": "360ec57c46b7a6390996789c017990a7a6fd4865",
+   "title": "Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning",
+   "date": "2025-11-04"
+  },
+  {
+   "id": "e7f3d267606e4a76992f23ade0ba82f5377e1b70",
+   "title": "TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling",
+   "date": "2024-10-31"
+  },
+  {
+   "id": "7076a90eb73e8b5239e89f19159d19176fa36475",
+   "title": "A Closer Look at Deep Learning Methods on Tabular Datasets",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "cf69d81193ced740aec2fb9c01e1e6e94238f7b5",
+   "title": "TabArena: A Living Benchmark for Machine Learning on Tabular Data",
+   "date": "2025-06-20"
+  },
+  {
+   "id": "1e7d523a2803d2d745553b96fc2eeb66af4f936d",
+   "title": "Can a Deep Learning Model be a Sure Bet for Tabular Prediction?",
+   "date": "2024-08-24"
+  },
+  {
+   "id": "5fa06d856ba6ae9cd1366888f8134d7fd0db75b9",
+   "title": "Revisiting Deep Learning Models for Tabular Data",
+   "date": "2021-06-22"
+  },
+  {
+   "id": "4eafe649e704f307907ae0ec73307861c3336118",
+   "title": "Representation Learning for Tabular Data: A Comprehensive Survey",
+   "date": "2025-04-17"
+  },
+  {
+   "id": "1379664b8a735ed21a3a7614e28845f3289a808c",
+   "title": "TabFSBench: Tabular Benchmark for Feature Shifts in Open Environment",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "3acff13163f51765bb36147f6107967765509d9b",
+   "title": "Deep Neural Networks and Tabular Data: A Survey",
+   "date": "2021-10-05"
+  },
+  {
+   "id": "d4548766c1fc2f67d11b91e5e9d651226de1a0e3",
+   "title": "TALENT: A Tabular Analytics and Learning Toolbox",
+   "date": "2024-07-04"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7165,
+  0.7134,
+  0.7122,
+  0.706,
+  0.7035,
+  0.7001,
+  0.6988,
+  0.6757,
+  0.6673,
+  0.6668,
+  0.64,
+  0.6245,
+  0.6212,
+  0.6156,
+  0.5976,
+  0.593,
+  0.588,
+  0.5869,
+  0.5795
+ ]
+}

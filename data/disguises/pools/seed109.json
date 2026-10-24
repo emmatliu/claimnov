@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d615adca35ca45a02e2875953927dc4f359bb4b2",
+   "title": "Learning Structured Reasoning via Tractable Trajectory Control",
+   "date": "2026-03-02",
+   "is_B": true
+  },
+  {
+   "id": "ebe7209983d0c6c2eff2b5ee80915bd2189f3a01",
+   "title": "G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance",
+   "date": "2025-08-18"
+  },
+  {
+   "id": "502a9fe58f14fa1252648bcb434e7ad04913c525",
+   "title": "Adaptive Guidance Accelerates Reinforcement Learning of Reasoning Models",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "6f0f0d9f29586344ae6403fe906c24e4f16eaed8",
+   "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "432cf4506d1fa7773abfaceb35841d60e5685839",
+   "title": "Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs",
+   "date": "2025-03-03"
+  },
+  {
+   "id": "d6a29be03a0497602e89311ec38e5141335647c5",
+   "title": "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning",
+   "date": "2025-06-02"
+  },
+  {
+   "id": "c8b1206ef8e6fdebd3b9ad2165937256ab8b5652",
+   "title": "Chain-of-Thought Reasoning Without Prompting",
+   "date": "2024-02-15"
+  },
+  {
+   "id": "36e8de30708d91c2089a68c830335654ba59f262",
+   "title": "Adaptable Logical Control for Large Language Models",
+   "date": "2024-06-19"
+  },
+  {
+   "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+   "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "d2a01f9b2a565070ce64ff38eb7cdc26f3ed992a",
+   "title": "Self-Discover: Large Language Models Self-Compose Reasoning Structures",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "b115c1e1e9e51f8ad7d47b745bc04e29a654b84d",
+   "title": "Faithful Chain-of-Thought Reasoning",
+   "date": "2023-01-31"
+  },
+  {
+   "id": "dd951242ebc94bf633eecc4994c64f46146a1413",
+   "title": "Reward Shaping to Mitigate Reward Hacking in RLHF",
+   "date": "2025-02-26"
+  },
+  {
+   "id": "f9489f72e97ec0026f887f0a0f1e60bc2da96acb",
+   "title": "DeepEyes: Incentivizing \"Thinking with Images\" via Reinforcement Learning",
+   "date": "2025-05-20"
+  },
+  {
+   "id": "f2d0f3d47ae850f49a58f4977393bd0025af4bec",
+   "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+   "date": "2024-09-28"
+  },
+  {
+   "id": "7a6a298efb965ce9a351a3212f6f536e94dbbb03",
+   "title": "Symbolic Chain-of-Thought Distillation: Small Models Can Also \u201cThink\u201d Step-by-Step",
+   "date": "2023-06-24"
+  },
+  {
+   "id": "0744580e75a74357e466a57082c85cb42f548aa9",
+   "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning",
+   "date": "2023-05-23"
+  },
+  {
+   "id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+   "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "35b142ea69598e6241f0011312128031df55895c",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "c4fb74b5f69e5c0f3822b82e1bd082d5d95fc8d0",
+   "title": "Tractable Control for Autoregressive Language Generation",
+   "date": "2023-04-15"
+  },
+  {
+   "id": "23c3bf6a61ee9a1f03fa0f5e16ab286f7f040487",
+   "title": "Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark",
+   "date": "2025-01-09"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.6606,
+  0.6595,
+  0.6462,
+  0.637,
+  0.637,
+  0.631,
+  0.6163,
+  0.6032,
+  0.5973,
+  0.5838,
+  0.5768,
+  0.5615,
+  0.5598,
+  0.5437,
+  0.5241,
+  0.5235,
+  0.5222,
+  0.5155,
+  0.5139
+ ]
+}

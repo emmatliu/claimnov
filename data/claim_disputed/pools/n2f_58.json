@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_a13b1f7380980ecd79438ebf0528bfe5bae7bbe1",
+   "title": "Commutative Lie Group VAE for Disentanglement Learning",
+   "is_B": true
+  },
+  {
+   "id": "3ffcc28278b797850dde686a88bda2f4c8def214",
+   "title": "Linear Disentangled Representations and Unsupervised Action Estimation",
+   "date": "2020-08-18"
+  },
+  {
+   "id": "33e73f7efbc0f02d3665a71202d496789a8cb9f2",
+   "title": "Towards a Definition of Disentangled Representations",
+   "date": "2018-12-05"
+  },
+  {
+   "id": "f73b1a55e79271089dd2f5e3dcada577e48837bd",
+   "title": "Theory and Evaluation Metrics for Learning Disentangled Representations",
+   "date": "2019-08-26"
+  },
+  {
+   "id": "26690f2548c6dbf630de202b40dec417b20c9b6c",
+   "title": "Variational Inference of Disentangled Latent Concepts from Unlabeled Observations",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "04541599accc47d8174f63345ce9c987ef21685b",
+   "title": "Disentangling by Factorising",
+   "date": "2018-02-16"
+  },
+  {
+   "id": "21386c52e895805ac0c20d4755ac0193c6576c99",
+   "title": "Progressive Learning and Disentanglement of Hierarchical Representations",
+   "date": "2020-02-24"
+  },
+  {
+   "id": "148dea3afc132843254c46f05269c10f120e9a30",
+   "title": "Joint-VAE: Learning Disentangled Joint Continuous and Discrete Representations",
+   "date": "2018-03-31"
+  },
+  {
+   "id": "5ada2e3dc71f17b58b4d4b7be6dbb088a5357eb7",
+   "title": "Learning Disentangled Representations with Latent Variation Predictability",
+   "date": "2020-07-25"
+  },
+  {
+   "id": "af66fd525fbad5d9024e9fe424f8e6e717c9f947",
+   "title": "Where and What? Examining Interpretable Disentangled Representations",
+   "date": "2021-04-07"
+  },
+  {
+   "id": "06421ccbce4aa0065252a7ddeb085f74c606b1a6",
+   "title": "Symmetry-Based Disentangled Representation Learning requires Interaction with Environments",
+   "date": "2019-03-30"
+  },
+  {
+   "id": "081d2ae593cb23ef0100cda759a5a4e297211382",
+   "title": "Learning Group Structure and Disentangled Representations of Dynamical Environments",
+   "date": "2020-02-17"
+  },
+  {
+   "id": "3629360a1dd7a9acc2c9080e7b34ddb5008723d5",
+   "title": "Learning Discrete and Continuous Factors of Data via Alternating Disentanglement",
+   "date": "2019-05-23"
+  },
+  {
+   "id": "424c98c0e5b35c44eccb95ef0a18a79c75af16ee",
+   "title": "InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers",
+   "date": "2019-06-14"
+  },
+  {
+   "id": "061131b770f41acdd07ed36c7802a69bf1631195",
+   "title": "Learning the Irreducible Representations of Commutative Lie Groups",
+   "date": "2014-02-18"
+  },
+  {
+   "id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+   "title": "Representation Learning: A Review and New Perspectives",
+   "date": "2012-06-24"
+  },
+  {
+   "id": "14d4b0f77c59c40e1fef3233a37af687d5ecb748",
+   "title": "The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement",
+   "date": "2020-08-24"
+  },
+  {
+   "id": "eb7ee0bc355652654990bcf9f92f124688fde493",
+   "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets",
+   "date": "2016-06-12"
+  },
+  {
+   "id": "657fca895e9217a0306739f8f58332c224b8a82e",
+   "title": "Learning Hierarchical Features from Generative Models",
+   "date": "2017-02-27"
+  },
+  {
+   "id": "2d0363a3ebda56d91d704d5ff5458a527775b609",
+   "title": "Attribute2Image: Conditional Image Generation from Visual Attributes",
+   "date": "2015-12-02"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7723,
+  0.752,
+  0.7337,
+  0.7147,
+  0.6842,
+  0.6839,
+  0.674,
+  0.6658,
+  0.6457,
+  0.6411,
+  0.6348,
+  0.6253,
+  0.6028,
+  0.5889,
+  0.5545,
+  0.5402,
+  0.4985,
+  0.4898,
+  0.4628
+ ]
+}

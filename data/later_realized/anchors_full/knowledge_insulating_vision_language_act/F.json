@@ -1,0 +1,347 @@
+[
+ {
+  "id": "30270dd03290a8ae18623b8dcadb3a87bff0b87a",
+  "title": "LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "a4afd35627bb3674e79b4fc20240d3eb60fc9635",
+  "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "f70c7fe0a3fa027a2910d30ad8404daaacc2ff84",
+  "title": "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "ea7a13eb0260462063cde6e17b6e3dee195ec3d0",
+  "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "34f57dadfddbf7ae8643b28ac117a002232069a7",
+  "title": "CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "8acfc8211a503345f2862efb97b5700a0d3e1ec3",
+  "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "632b6c42df58f21f5fdc3db4dbe4d5455a53fa6d",
+  "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "ed8708bf8473d8889ce271a37a15e4aa883e4712",
+  "title": "$\\tau_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "f4fec9efceed34e8acfc925ef9d092e968fdc0fc",
+  "title": "Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "f13640e09939da6a2e8f2e12b3773838499e1afa",
+  "title": "Decoding Task Progress from VLA Representations",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "c3e390be2156a108b1c021cd5616d6c06af21da2",
+  "title": "G0.5: One Autoregressive Stream for Robot Reasoning and Action",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "18612c466b1f2b5d83f6dc1e86a14d95f7d917ca",
+  "title": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "ff9bbaab45c3a3e6b3aa1c09f68a5bff8c03c0b9",
+  "title": "TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "93183fc29efe169652c107d2024ea41408ad3a08",
+  "title": "CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "e86aec83ddcbba05425b01c27960bb8276b40559",
+  "title": "Unified Visuomotor Targets: Supervising VLAs Beyond Physical Actions",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "b219468b132af98fc082bbc6c81690da777b27ab",
+  "title": "Ordered Action Tokens for Visuomotor Policy Learning",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "43b6e6036d527bcb815ac9b2d8252cc2c71b0173",
+  "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "84d96afc6f5e50d21eaa186a111b35561a3d35a6",
+  "title": "Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models",
+  "date": "2026-07-12"
+ },
+ {
+  "id": "637b206bab5086525334ae77244bf35adf4aab30",
+  "title": "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "3c130cb394dc847c1946a2b7711091c12b1021b5",
+  "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "46166f062281284ac067787dc2e1239da68eed78",
+  "title": "GraspIT: A Dataset Bridging the Sim-to-Real gap and back for Validated Grasping SE(3) Pose Generation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "042d583001a66a771dbbffca2525e9484ba0054b",
+  "title": "Optimal Transport Q-Learning for Flow Policy Steering and Acceleration",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "1dd6d0797b832aba30a9e8fbee924fd6a6d5f2d4",
+  "title": "TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "7da0af3a8f352659ee5274b5e4713c08df95c795",
+  "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "657bb1e5626240695c237ad1774d1e4cb854ec45",
+  "title": "Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "ea90665d329504b488cff6f03f3c047aa93b46c9",
+  "title": "Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "f063ad0ced3448b9c78b906a0c3384be57f58ef8",
+  "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "18ec164b9df262023023b44214fbbca250cf535d",
+  "title": "Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "2669f4999eee612b682715af39b0c3109d214b0a",
+  "title": "Flatness Preserves Instruction Following in Vision-Language-Action Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "18ced3b9f25dc586ebab82d3c2ee18ed01deb54d",
+  "title": "Decoupling the Declarative from the Procedural in Vision-Language-Action Models",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "85d1da4bec3f9a4277924842761004f3e5a74e92",
+  "title": "Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "17c383a1dcf509a8a1ba2d137ef7d539d94b6dd7",
+  "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "996f843abe83a075ec19dd66c7f15fe8e073380e",
+  "title": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "31f6f273b8105080df56043cbafbb73167b23c62",
+  "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "a351c4f032a7febe926524cfe4b55016d851a5ed",
+  "title": "FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "07220a9b31d7bd13860e54b9b7ce862abbee720b",
+  "title": "Real-Time Execution with Autoregressive Policies",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "cd13d2dd7622e05df618f920d20e7bd156fed700",
+  "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "5a1506417af415180058f505b8521b171c4e900a",
+  "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "bb3b0212812c9faa534c49abae08d8d67f362b01",
+  "title": "TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "22bdfa15f0bce91b82a4d5bd593c3ff0c2ae3fca",
+  "title": "Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "6144f4956b52918d357978e4509366ef4e43815f",
+  "title": "VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "55fedf3b324670b0d4a7ad03ef7146ae6c00a003",
+  "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "4b9af18e8b225dd6bf92bd352c57f3fd4944e4ff",
+  "title": "WALL-WM: Carving World Action Modeling at the Event Joints",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "331b56eed9d0c5c7d5cb9d74e889e1a1c25230ca",
+  "title": "Wall-OSS-0.5 Technical Report",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "3df3a89a0c5fe14fe7fbb582ca081e11dc890bfc",
+  "title": "Completion at the Boundary (CaB): Deployable Switching with Completion-Aware Control under Limited Calibration",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "25f83284335b23113a51bc06da07628cbe3e3033",
+  "title": "Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "e910eb596e298025035d2d2478cbdc8218550012",
+  "title": "ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "55123c1f5262d21cf97b6f327fcf2433b20b595d",
+  "title": "Rethinking VLM Representation for VLA Initialization",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "ecb495a298638b15005a23de9ea2c66393d70470",
+  "title": "QuoVLA: Quotient Space for Vision-Language-Action Models",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "d4e4ef911e32de0e0bcd52bda041652175721588",
+  "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "2595c490d97d80ae32a792723f299b9ec0646c15",
+  "title": "UAM: A Dual-Stream Perspective on Forgetting in VLA Training",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "ee4856bfdc6822bec106f0a8f688bba04050dc82",
+  "title": "Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "d8481e58453681c9802f650797698684157cfdae",
+  "title": "PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "a4a94769b900718e6ae3fc0c7a929ac0ef744b55",
+  "title": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "2d7f3048690fc8a2c4d1b4ee4efb4a37989e9459",
+  "title": "Borrowed Geometry: Cross-Distribution Head-Importance Fingerprints of Frozen Pretrained Gemma 4 31B",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "107331d86262099334949e2f8eef05e2129064c5",
+  "title": "Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "6bbbbce195309697ddaedb5c35d0d18a66ad9a2b",
+  "title": "Cortex 2.0: Grounding World Models in Real-World Industrial Deployment",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "51b4a73d753dac4be63d07b3d933da8f9418e483",
+  "title": "\u03c00.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "6748e26cb1ca6257456c7e3821190c6c955f7269",
+  "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "0bbc95789a7933d0a32a3a091f8a150c96ce5f9f",
+  "title": "Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "cbbc45c76da26b517c73677ab096fa6f7219770d",
+  "title": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "5f4591d913de4752861b949bbbe4b9c4cdc133a8",
+  "title": "RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "2db63d61ac1ce5fae0ec95e3cd32609cb7eff4c5",
+  "title": "Understanding Behavior Cloning with Action Quantization",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "2e5d85d884573733c4c261c4be6c37eb3931d988",
+  "title": "Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "cfc9929866d0da75d40368a628423e227939b343",
+  "title": "Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "c45e063f4ecaa03bb603f30c03272af4963bcbae",
+  "title": "Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "71b4947a7d21a5412f87700a58fddbee685cee14",
+  "title": "FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "f64a3802f4874b8af5c6af24f4076f076e4112d5",
+  "title": "MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "3e1777263b10cc3771519cf2e404061bf68f1c2e",
+  "title": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models",
+  "date": "2026-03-04"
+ }
+]

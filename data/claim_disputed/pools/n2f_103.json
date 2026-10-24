@@ -1,0 +1,114 @@
+{
+ "pool": [
+  {
+   "id": "B_3c0695186a04d1ce16861938ec85a57b70d2e2b6",
+   "title": "PIPES: A Meta-dataset of Machine Learning Pipelines",
+   "is_B": true
+  },
+  {
+   "id": "31aab7132156e6f3eb40a82b7eaf568d0b885601",
+   "title": "A new data characterization for selecting clustering algorithms using meta-learning",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "d8475d3f7ec9c656547985dffd4384fcb5670275",
+   "title": "Meta-Scaler: A Meta-Learning Framework for the Selection of Scaling Techniques",
+   "date": "2024-02-26"
+  },
+  {
+   "id": "2499967ac636e110de8559e778efcff9b075e311",
+   "title": "Automatic Exploration of Machine Learning Experiments on OpenML",
+   "date": "2018-06-28"
+  },
+  {
+   "id": "5237ba48ab5b92908f15ebce7fbf8c0d25d5fba4",
+   "title": "A new classification algorithm recommendation method based on link prediction",
+   "date": "2018-11-01"
+  },
+  {
+   "id": "46d71d947231f86e1f9d4581e61212385debbe14",
+   "title": "OpenML: networked science in machine learning",
+   "date": "2014-06-16"
+  },
+  {
+   "id": "d03e451db07f764a0294d44aec13a5993d927790",
+   "title": "OpenML Benchmarking Suites",
+   "date": "2017-08-11"
+  },
+  {
+   "id": "05a4df33ffc7b2fdbf09b98d9585d80b35241425",
+   "title": "Study the Influence of Normalization/Transformation process on the Accuracy of Supervised Classification",
+   "date": "2020-08-01"
+  },
+  {
+   "id": "e7eb65cd2de00713fe7477490da529eaceaf9846",
+   "title": "A Multi-Label Learning Based Kernel Automatic Recommendation Method for Support Vector Machine",
+   "date": "2015-04-20"
+  },
+  {
+   "id": "3a288c63576fc385910cb5bc44eaea75b442e62e",
+   "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction",
+   "date": "2018-02-09"
+  },
+  {
+   "id": "0b136093f59c32a6cb5f8c8444d3b05f9809f4ef",
+   "title": "The Impact of Data Pre-Processing Techniques and Dimensionality Reduction on the Accuracy of Machine Learning",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "65e536448b7f3763f399841e65a6973cdb170239",
+   "title": "OpenML-Python: an extensible Python API for OpenML",
+   "date": "2019-11-06"
+  },
+  {
+   "id": "49500edd9425f89585d9997ca62f84488d454e7f",
+   "title": "The choice of scaling technique matters for classification performance",
+   "date": "2022-12-01"
+  },
+  {
+   "id": "f0ca0c9b42c69f7a983941806196e93ec5a711c0",
+   "title": "Kaggle forecasting competitions: An overlooked learning opportunity",
+   "date": "2020-09-02"
+  },
+  {
+   "id": "232ac2df264fd9d3a1c84e135ade3ba82386bc71",
+   "title": "Experiment databases",
+   "date": "2012-01-05"
+  },
+  {
+   "id": "1e20ad59528e0b438205d8c442b60b2b7c15e01c",
+   "title": "Resampling strategies for imbalanced regression: a survey and empirical analysis",
+   "date": "2024-03-04"
+  },
+  {
+   "id": "ad4fd2c149f220a62441576af92a8a669fe81246",
+   "title": "Scikit-learn: Machine Learning in Python",
+   "date": "2011-02-01"
+  },
+  {
+   "id": "6e4fd9b4b2b673c981cda528d8039a221ad35225",
+   "title": "NAS-Bench-101: Towards Reproducible Neural Architecture Search",
+   "date": "2019-02-25"
+  }
+ ],
+ "n_candidates": 17,
+ "sims": [
+  0.6373,
+  0.5325,
+  0.4823,
+  0.4755,
+  0.4584,
+  0.4385,
+  0.3958,
+  0.3895,
+  0.3696,
+  0.3603,
+  0.3517,
+  0.3489,
+  0.3429,
+  0.3368,
+  0.3258,
+  0.3185,
+  0.282
+ ]
+}

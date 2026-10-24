@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_5a6c7fc00d564757a812de10eb958478ed2888a6",
+   "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
+   "date": "2026-05-10",
+   "is_B": true
+  },
+  {
+   "id": "6fe9e6020825c72937b21f433a8e6acdb1397a3a",
+   "title": "RareFoldGPCR: Agonist Design Beyond Natural Amino Acids",
+   "date": "2025-10-03"
+  },
+  {
+   "id": "0af49347a865f9c98e50e55f33cb58cb93a7396a",
+   "title": "PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion",
+   "date": "2024-12-23"
+  },
+  {
+   "id": "eb8c0df75993c1c19c51cde9345e45fc260f661c",
+   "title": "De novo design of protein structure and function with RFdiffusion",
+   "date": "2023-07-11"
+  },
+  {
+   "id": "492fdeeb73eb0803ba2812e77bb875fb0c3232bd",
+   "title": "Allosteric Modulator Discovery: From Serendipity to Structure-Based Design.",
+   "date": "2019-02-28"
+  },
+  {
+   "id": "3635b7b3fd86a1a614b97be11639d34e22c24da5",
+   "title": "De novo design of allosterically switchable protein assemblies",
+   "date": "2023-11-02"
+  },
+  {
+   "id": "aea2ec1218b8788ad235d6c15c5045909b048d0e",
+   "title": "One-shot design of functional protein binders with BindCraft",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "af71db012d8d347e0c3c7c91f5f51f5a504786df",
+   "title": "BoltzGen: Toward Universal Binder Design",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "d1461167c9fef8fe3ba129c514acfd14bbe7a51e",
+   "title": "Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design",
+   "date": "2024-10-17"
+  },
+  {
+   "id": "ce59b4bd49299a3eba22a4fea500b86a5dc11e91",
+   "title": "Multi-Objective-Guided Discrete Flow Matching for Controllable Biological Sequence Design",
+   "date": "2025-05-11"
+  },
+  {
+   "id": "5ce5685a3d06b9334e004a15311847ded09e3e87",
+   "title": "ASD v3.0: unraveling allosteric regulation with structural mechanisms and biological networks",
+   "date": "2015-09-13"
+  },
+  {
+   "id": "4d628e6def9970b62096d564dba0c748fab653aa",
+   "title": "De Novo Design of Nurr1 Agonists via Fragment-Augmented Generative Deep Learning in Low-Data Regime",
+   "date": "2023-05-31"
+  },
+  {
+   "id": "7cc9da0f94923d60525beb785c6dee25e0ab44e9",
+   "title": "Identifying Allosteric Hotspots with Dynamics: Application to Inter- and Intra-species Conservation",
+   "date": "2016-04-07"
+  },
+  {
+   "id": "02067f8666f392fe0b0362a09dc17f9f1e5ac0e8",
+   "title": "Structural and functional characterization of G protein\u2013coupled receptors with deep mutational scanning",
+   "date": "2019-04-30"
+  },
+  {
+   "id": "bbdb1896ed83300a14d98a61852d10433c44dd54",
+   "title": "Two distinct domains of the glucagon-like peptide-1 receptor control peptide-mediated biased agonism",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "1ab41001234f6df2ab5338b5faffb68bc31c5ebb",
+   "title": "AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with Multi-Objective Guidance",
+   "date": "2025-09-30"
+  },
+  {
+   "id": "f6b80274adac521baa2150961edc80fffced9fae",
+   "title": "TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "630ba853b0eb607b2133974f22e100d68c79f901",
+   "title": "Allosteric cooperation in a de novo-designed two-domain protein",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "72557b461aff7146fa7f04547b7d2194ecc9ad62",
+   "title": "Allosteric modulators enhance agonist efficacy by increasing the residence time of a GPCR in the active state",
+   "date": "2021-01-05"
+  },
+  {
+   "id": "2042803af7ae25eaba8bfa45af72988c4a2aea28",
+   "title": "Conformational selection in protein binding and function",
+   "date": "2014-09-09"
+  }
+ ],
+ "n_candidates": 45,
+ "sims": [
+  0.6619,
+  0.6412,
+  0.6171,
+  0.615,
+  0.6124,
+  0.6066,
+  0.599,
+  0.5863,
+  0.5756,
+  0.5676,
+  0.5672,
+  0.5584,
+  0.5544,
+  0.5542,
+  0.5528,
+  0.5471,
+  0.5359,
+  0.5358,
+  0.5355
+ ]
+}

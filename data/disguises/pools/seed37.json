@@ -1,0 +1,73 @@
+{
+ "pool": [
+  {
+   "id": "B_aefea8be48ece576dfe90232af9ec1dccfc03fad",
+   "title": "Incremental BPE Tokenization",
+   "date": "2026-05-29",
+   "is_B": true
+  },
+  {
+   "id": "7d1d3cdcf59232ceb74e6235a59f18b487e66a86",
+   "title": "Formalizing BPE Tokenization",
+   "date": "2023-09-14"
+  },
+  {
+   "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
+   "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
+   "date": "2018-08-19"
+  },
+  {
+   "id": "1518039b5001f1836565215eb047526b3ac7f462",
+   "title": "Neural Machine Translation of Rare Words with Subword Units",
+   "date": "2015-08-31"
+  },
+  {
+   "id": "1dc2281d4df5bd34f66aeb10e5b4741a27e23a9a",
+   "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+   "date": "2025-12-02"
+  },
+  {
+   "id": "699182cd5d28248f8a01734a9991c6c147145aa0",
+   "title": "Scaling Latent Reasoning via Looped Language Models",
+   "date": "2025-10-29"
+  },
+  {
+   "id": "0b0debb710366cdff461938c80763eace1651af6",
+   "title": "Code Llama: Open Foundation Models for Code",
+   "date": "2023-08-24"
+  },
+  {
+   "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
+   "title": "Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates",
+   "date": "2018-04-29"
+  },
+  {
+   "id": "7afcad94b5810c6eae2fa35bd92decd26b3fc97a",
+   "title": "Engineering faster double\u2010array Aho\u2013Corasick automata",
+   "date": "2022-07-28"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "9da8ea6466d7142703d8771d8dcea44e19304abb",
+   "title": "The Llama 3 Herd of Models",
+   "date": "2024-07-31"
+  }
+ ],
+ "n_candidates": 10,
+ "sims": [
+  0.7142,
+  0.4247,
+  0.4022,
+  0.3866,
+  0.3839,
+  0.3667,
+  0.3614,
+  0.343,
+  0.32,
+  0.2862
+ ]
+}

@@ -1,0 +1,902 @@
+[
+ {
+  "id": "0fe47071226c8bf6b2ee2e7f0af57ffb4fb2a1f6",
+  "title": "Uncertainty-Guided Adverse Weather Restoration via Gated Transformer Network",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "711bf56969ef6ee0764ffe1550aff44c617a0338",
+  "title": "Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "6749f738a777047ffc61b14f5d541e034e397af4",
+  "title": "Instella-MoE Technical Report",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "fa03ee80b96693e088ef0cea7702a9a1b67fba47",
+  "title": "From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "932212d447db50b8c350e730c17281ffe0a287bb",
+  "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "c12b1e1dff744d5a3c432564c70dd6d91455ab68",
+  "title": "OUTLETS: Output-Length Prediction from Speculative Decoding Backbones",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "674e6e9fccbbb7525f0411b88c0cddfcdc20ca55",
+  "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "16b01dfba30a5282e6099da14f8f214c1ab56b85",
+  "title": "A.X K2 Technical Report",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "8f38affde080c4b41ef4540363e4eebfffa26253",
+  "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "6fa795fa227fe61dfb8c6cfcce5596ff0fda908e",
+  "title": "Foundational feature fusion for conditional flow matching in 6D pose estimation",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "7f652a50b2fdc52927b17eb4dc7e25732c03b9f1",
+  "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "ab4c8d1cbdc5fbcaf00f6c0c2ee4deb16a2285ad",
+  "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "965c814be88a635bddf46c331846963d510245c3",
+  "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "032abd5102a3cdea5898579dc8c6363de85ee032",
+  "title": "Squeezing More from Limited Data with Recursive Transformers",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "6d219934c116aeb160d4164ab9788824af05e05e",
+  "title": "Graph-Native Attention Acceleration for Attack Detection in Cyber-Physical Systems",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "6be4eeea4a7860b32ea4ba3ea631f0c332b89987",
+  "title": "From Attention Masks to Inert Zero-Vector Tokens: OAttention and O-Closure for Token Dynamics",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "844c0b8f1fdec6d38228a226de96655d7966401f",
+  "title": "Image tampering detection based on two-branch gating-augmented transformer encoder with attention-based feature fusion",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "55d35e5f19d4d7b1f851e41124b21ea997f820ff",
+  "title": "Into the ORBIT for Time Series: Training Regimes for Foundation Models",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "0d6934e34d867d6711c91b179abd042c84b7ae9c",
+  "title": "Hybrid Gated Attention",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "88edd6cd51db45da382effc76bef28d178e23779",
+  "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "fbb80fc8712633d9da936d851f0095a80cea6aa1",
+  "title": "Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "cfb87b26accca0057752d71e562adf5aadd69449",
+  "title": "Multimodal Item Parameter Estimation using Simulated Response Probabilitie",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "66881cab93493dfc6333d223f6b9e7d3e07faa50",
+  "title": "The Scaling Bottleneck of Human Mobility Modeling",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "7eb0a8360193b942efa79104bcaf2a58351d04bf",
+  "title": "Matrix Zonotopic Attention: A Context-Adaptive Value Projection for Set Transformers",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "3b57f994f4464ec6d519fce9187ce97aff5dd96e",
+  "title": "TPT: a compact CNN-transformer encoder for efficient microbial small protein modeling",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "0d327940b99f7e614601dc8d320303627080eb2f",
+  "title": "When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "a209805779b6e17b5ea93387cd901f7ff3ba0896",
+  "title": "SCNNnet: Self-Attention Enhancement and Cross-Correlation Nearest Neighbor Network for Few-Shot Fine-Grained Social Visual Recognition",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "8009e0138c252bd117f45b37e49d31eff0314467",
+  "title": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "4ba72bcb0510a905480e79e318cda842d2b0bff1",
+  "title": "Kimi K3: Open Frontier Intelligence",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "ad0f50782a37d0e4b365a8657a9a56a0d4673ed4",
+  "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "c1924c48a72cb283f0ee149bc5252796cb38e37f",
+  "title": "Solar Open 2 Technical Report",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "a8cc0073eeb4644c01e201db846a2c3073ac24a8",
+  "title": "UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "8f4b463a7641d4fb17f8fc4b1ab225b68a1f2b1d",
+  "title": "Multi-Head Attention Residuals",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "ad25b88d2eb9427de8b760f688ab73db2ac208f8",
+  "title": "A Controlled Study of Attention-Only Transformers",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "803eebac52c3cbf0cd2c6eccf1a4449041a7803b",
+  "title": "Kernelized Linear Attention: Breaking the Capacity Wall with Symmetric Cones",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "e085bd999c3463e21222c178c6671385e28e9341",
+  "title": "Regularize or Localize: When Training-Time KV-Cache Geometry Pays Under Quantization",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "edb497d43e207b0918fc2f8a7ba70298b1b5a75a",
+  "title": "Look Clearly Before Answering: Mitigating Hallucinations in LVLMs via Saliency-Driven Perceptual Realignment",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "aa0dd2e8fe15b0fd7b0efb4b4221e28f7ce66871",
+  "title": "TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "cae13aee2bf36b00b27bd2888e11e679dd6c6acc",
+  "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "88bc1b4cb258483884d0fcd96f599f01f88211cb",
+  "title": "Segregate, Refine, Integrate: Decomposing Multimodal Fusion for Sentiment Analysis",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "09bcf0168689d40ab88bc628044fcbf8ce299790",
+  "title": "Higher-Order Cell Tracking Transformer",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "b010a2f85e6ea0780a334374f2f04d581437e0c2",
+  "title": "CUST: Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "7d0c083db15cdf3aa7cabf13ad9320dc7debfbc4",
+  "title": "Dec-MARVEL: Decentralized Multi-Agent Exploration without Communication under Budget Constraints",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "e90a182248dd9027462777da975d4e985e9b2a59",
+  "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "e89bec5e65d961153d5564ed7828fc60f1986dd0",
+  "title": "Layer-Parallel Inference Reduces Encrypted Nonlinear Depth in Transformers",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "b7e753b717d052bd8c80af51eae246c55886edb7",
+  "title": "CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "3d9e232af59372b887776a5170bb32118a870d0d",
+  "title": "Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "84163ba6f9a9b817db7d2f0030dca469e0e77fba",
+  "title": "Information-Regularized Attention for Visual-Centric Reasoning",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "9682c22e88891a102861b4ddf09ed8b34db02bf5",
+  "title": "HCFNet: A SAM2-Based Hierarchical Cross-Branch Frequency-Aware Network for Industrial Surface Defect Segmentation",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "43dc74d932253edc6890124d822b92da6b91a866",
+  "title": "Hierarchical Gating Action Chunking Transformer for Joint Waist-Arm Humanoid Manipulation",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fd5774a0f3e27d88814ee28bcfb8eae64e89ac68",
+  "title": "NuSegFormer: Enhanced Cell Nuclei Segmentation Using a Hybrid UNet\u2013Vision Transformer with Gated Multi-Head Attention",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "5b957e0c71ee6b26e036775c31396ebc3e52836b",
+  "title": "SA-Unet: Enhanced Swin Transformer with Attention Gates for Medical Image Segmentation",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "7a2cacbd05be8ef803bc233762e5c458ee7f4a2e",
+  "title": "Scaling Storm-Resolving Atmospheric AI Simulation to the Entire Planet",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "c496d36a8f987b9240e6e3f00ec614a85bb22ca1",
+  "title": "Morphing into Hybrid Attention Models",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "748ac031b9f69235195c641c7315008c2b64d837",
+  "title": "Learning Spatio-Temporal Foundation Models from Pure Synthetic Data",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "9c7d8eb93ef915c9d6a92746be07336310d21103",
+  "title": "Erase-then-Delta Attention: Decoupling Erase and Write Addresses in Delta-Rule Linear Attention",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "42fa93f81084059a1453f95a1503f4633f5edd96",
+  "title": "WQ-Fusion: Dynamic Gated Attention for Cross-Domain Audio Representation",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "158b2fab69da13adf9e514b015c664edca527eb9",
+  "title": "MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "18ec164b9df262023023b44214fbbca250cf535d",
+  "title": "Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "585fee95a2c62aae3264f6179fc702bec1956cb5",
+  "title": "ZONOS2 Technical Report",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "5eb5bc78ec543a1a556cbf9d6df1dd7e353170e3",
+  "title": "Tapered Language Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "671c489bbe0d037c82f56ee88bc9f7baa0a6769a",
+  "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "342eb1cb7e00c3cf6072f754a1bc6c89d43cd05d",
+  "title": "Antibody\u2013Antigen Affinity Prediction with Chain-Aware Protein Language Modeling",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "e74a02eb8074e16fbec8638233001dd96bd04b93",
+  "title": "QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "060dba66bc0f5784d03bbfb27e9eefaa2fd36bbd",
+  "title": "Enhancing Multilingual Reasoning via Steerable Model Merging",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "1df9810a85de5cfde76dc25148c21809d6033ed6",
+  "title": "Small Initialization Matters for Large Language Models",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "8098aff597540f054a33f876782c4aeb0d349ebf",
+  "title": "Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "36c3ac7326133d984110dbe4a9b3f7583295f86b",
+  "title": "Scaling Adaptive Depth with Norm-Agnostic Residual Networks",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "12ac59b6db4ff99db4251aea46ce5f6941118d58",
+  "title": "STEP: Stable Gradient Projection for Continual Learning",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "fbfd3cbf0da4352a7f828dad05c6036d3aa31712",
+  "title": "GRAFT: Gain-Recalibrated Adapters for Transformer-Based Neural Population Activity Modeling",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "cab3e35726a95c1402faccb3ed5cb9e30e859604",
+  "title": "GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "fdf3f1f70dbe4832deb67f92df5c2b9c0044725b",
+  "title": "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "8cf5cef12b2f86bc037b989e54057d878d0e53cf",
+  "title": "A Unifying View of Attention Sinks: Two Algorithms, Two Solutions",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "ce52dc2fae7cbfb40e9bd8a5148a3fddccfc2dff",
+  "title": "TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "fedc1ecb1ecdade5e33f2e3a1a6d7f50dec23b39",
+  "title": "GRAMformer: Any-Order Modality Interactions via Volumetric Multimodal Cross-Attention",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "5f29d53bc7dfd59027aeee35153a87c5dd82b93e",
+  "title": "GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "2bac12f89d179717a75e21fb3e9da33e9819e77d",
+  "title": "Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "1230969a11b2f51995b11152f1bdce50b35dd7a3",
+  "title": "The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "5ef091812947637dd87cbe5a03f0bf34367e4d99",
+  "title": "MedSyn2: Flexible Control of 3D CT Generation via Text and Semantically-Defined Segmentation Prompts",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "b57e8ecc2d86474b5289e5a4b3e2052b887ea6e4",
+  "title": "A Circuit, Not The Circuit: Non-Unique Causal Localisation of the Mamba-2 State Sink",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "f5b5629617495b313df242c67adbfdf50923ec53",
+  "title": "Gated Graph Attention Networks with Learnable Temperature",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "10491e075407717e61081dace7a2e1d2417ebb7b",
+  "title": "DVSM: Decoder-only View Synthesis Model Done Right",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "b0d4a52ba0b3c0a20bfda81eae428091fbac1078",
+  "title": "MACReD: A Multi-Agent Collaborative Reasoning Framework for Reaction Diagram Parsing",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "e0efcdfe1019fcd5aff9a7278c17cc670aceadf5",
+  "title": "Meta-Attention: Bayesian Per-Token Routing for Efficient Transformer Inference",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "121eecbbad4114f91069f80613f5c34124e57aab",
+  "title": "Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "c1c92ae04a39645cd8f807957f52ccad05a1ca7f",
+  "title": "Laguna M.1/XS.2 Technical Report",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "a22a31d5ed0b0a15443c42ce3bd0906898364ca6",
+  "title": "Inference Time Optimization with Confidence Dynamics",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "5979771f16b6529824468fc8f586487e0be01cfc",
+  "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "36a691f2962339fbf1c4fdb6bebd94d05760631e",
+  "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "be1696a178884f92588be63656b8f387b18ce6e8",
+  "title": "The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "f487f3f8e1bfb6385b5d75078d0f9a7d9da0d46f",
+  "title": "Most Transformer Modifications Still Do Not Transfer at 1-3B: A 2020-2026 Update to Narang et al. (2021) with Downstream Evaluation and a Noise Floor",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "7dd2f8d8155c42f0a58316ee6f9c397962acd7e1",
+  "title": "HRM-Text: Efficient Pretraining Beyond Scaling",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "951b65a52b3d4bad22dc258aa8e55053301b9170",
+  "title": "Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "fd73df07e3c501c8e89ea1c2aa9a33f3d19a665a",
+  "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "275c0c1038333fd3250007ff1f5a4b7ace3cbab2",
+  "title": "RAVE: Re-Allocating Visual Attention in Large Multimodal Models",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "a8d0a173fd3b6e3d0546921af0145c16060b9b09",
+  "title": "DiffMamba: Gated Differential Spectral\u2010Spatial Mamba for\u00a0Few\u2010Shot Hyperspectral Image Classification",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "a8cba691d4127d77d3ab33d3d7064cd900de24c2",
+  "title": "Registers Matter for Pixel-Space Diffusion Transformers",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "bef9b8a6ceab891eaa372837c4a8be6b6fead28a",
+  "title": "HoloMotion-1 Technical Report",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "dc390b704a27cd2de47c74bd08216841e0a97731",
+  "title": "Precision Tracked Transformer via Kalman Filtering, Kriging and Process Noise",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "0ec53ce590a5daba3e32d05813005469efab33c0",
+  "title": "Mela: Test-Time Memory Consolidation based on Transformation Hypothesis",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "c8e8fd9169823e35396be156ab39d83ecffcf636",
+  "title": "Learning-Based Spectrum Cartography in Low Earth Orbit Satellite Networks: An Overview",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "9817e271f8d2a954825a4dc066343dc1f8dbbb21",
+  "title": "Attention Drift: What Autoregressive Speculative Decoding Models Learn",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "b66f370c4b562f0d1a4791a132b37fc2faedeb47",
+  "title": "SLASH the Sink: Sharpening Structural Attention Inside LLMs",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "9cccca31cccdcc20d721861d42a158ef1665eea3",
+  "title": "RigidFormer: Learning Rigid Dynamics using Transformers",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "f8916935a293a7bae7b4cc392b6232db17e08f2e",
+  "title": "SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "368d38236c951995476d746781dbb2ed18b3dfd4",
+  "title": "GEM: Generating LiDAR World Model via Deformable Mamba",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "ae1661259f11f757544fe3e70d3841d76a5ce131",
+  "title": "A Single Layer to Explain Them All:Understanding Massive Activations in Large Language Models",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "fe85c6da9803fb23308bf0a48a8e201a797caa3d",
+  "title": "Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "01486b273fe15308811b9cdee6373d4b65d93153",
+  "title": "Cubit: Token Mixer with Kernel Ridge Regression",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "af725fa31ff7ee06638ea4abbb684e49a81518b5",
+  "title": "The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "bdb6eefe2144969ecbba9fd96d7baed7e2b95e6d",
+  "title": "FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "8aa2a9dd80830e1582285a02f38f1a16e8529829",
+  "title": "ZAYA1-8B Technical Report",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "864e701f0658f19079b6e917f8659563d71eddd2",
+  "title": "HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "eaabec222ed890f6ecdb558fcbab58087132bc0e",
+  "title": "Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-Gated LLM",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "733ea13e27ba7b7d16d2b6cc4d14c33e78e3d40f",
+  "title": "Degradation-Aware Adaptive Context Gating for Unified Image Restoration",
+  "date": "2026-05-02"
+ },
+ {
+  "id": "13783b2432fe920f332c0b4c12e6ed3a5cead97e",
+  "title": "A Cellular Doctrine of Morality: Intrinsic Active Precision and the Mind-Reality Overload Dilemma",
+  "date": "2026-05-02"
+ },
+ {
+  "id": "df37b81e23373e7abe5ee3e221f1524eedf1959c",
+  "title": "Let ViT Speak: Generative Language-Image Pre-training",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "088c41782fd81eb156d7e77cb3e9e4c9ae17bc64",
+  "title": "A Unified Lightweight Attention Module for Road Classification and Crack Segmentation",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "4eb97a4aac9af988a1b272727c844cb2a1344ece",
+  "title": "GHA-DHNN: Achieving EEG Emotion Recognition by Integrating Gated Attention and Dynamic Hypergraph Neural Networks",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "a1d04e4989e77a8bc28b7c6761c75083d1ad1bee",
+  "title": "Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "ff89d6c87df3f7013d4b13b04672ad245930a50d",
+  "title": "Explainable Prototype Booster: Enhancing Latent Representations of Foundation Models for Gene Expression Prediction",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "c95bf21e359d9c4b17119c0d36cee8de848733fd",
+  "title": "Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "80e213ef44381fedccc01a4ae1a759cf6dbe1faf",
+  "title": "When Does Removing LayerNorm Help? Activation Bounding as a Regime-Dependent Implicit Regularizer",
+  "date": "2026-04-25"
+ },
+ {
+  "id": "d11ea8bff37c12f4310c10c59cfc49deba39935a",
+  "title": "A Hierarchical Network for Multi-Source Image Matching with Optical Flow",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "dad99e708d621cda1bf389d1dd6f6c7fd1b97b0c",
+  "title": "Illumination-Guided Multispectral Small Object Detection with Gated Attention",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "63646da8eeff97738608636aecde27498b61bb39",
+  "title": "LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "b6488e1b213140a06075aee53c0c0e6d380c2bba",
+  "title": "AtG-ContextNet: a temporal attention and hybrid gating architecture for facial blendshape coefficient regression",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "1a322e17cbf608264eb8d100f18da06a9f1b3bf5",
+  "title": "Gated Memory Policy",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "31979d6d59112f38023fd7c052b0ec176f8e73ee",
+  "title": "Capacity-Controlled Global Attention for Graph Transformers",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "e99ad65d65f858d662871da0bb12f83fe31ef4f9",
+  "title": "Enhancing Zero-shot Personalized Image Aesthetics Assessment with Profile-aware Multimodal LLM",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "42258f39e26c4f86512b1c11d4e8288e07bb90b4",
+  "title": "SinkRouter: Sink-Aware Routing for Efficient Long-Context Decoding in Large Language and Multimodal Models",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "5a12c1f5b7853f25213d68ee531428df9c55269b",
+  "title": "Gating Enables Curvature: A Geometric Expressivity Gap in Attention",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "2dc80ab90dedab6eca1afa985024fbab27249213",
+  "title": "A Mechanistic Account of Attention Sinks in GPT-2: One Circuit, Broader Implications for Mitigation",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "20fec215b44fc30c6acf92835b659f91f66dcd05",
+  "title": "LACE: Lattice Attention for Cross-thread Exploration",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "aa5fabbc5664f935dd5abfdcc1a31ee52a68f732",
+  "title": "TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "4a0c023bb9a9e242678ac9ee068780f6c465d234",
+  "title": "An Improved Spatial Gated Attention-aided Efficient ResNext for Multiple Disease Detection using Medical Image in IoMT Environment",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "5673c59aeb1290e05a788c865b611d20496ab95f",
+  "title": "Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "eb8b80d6902792c926ae56a25b0dddefeef79fb7",
+  "title": "GIANTS: Generative Insight Anticipation from Scientific Literature",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "95a699ddf4d5eaa984be2e36af87ad4f002e245c",
+  "title": "Adaptive Integration of Heterogeneous Foundation Models to Find Histologically Predictable Genes in Breast Cancer",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "c008912e095eb4f5369c591399e3dacffa0d829c",
+  "title": "Attention Editing: A Versatile Framework for Cross-Architecture Attention Conversion",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "392f1eb11c39b56d8ecdc31b88635c637d44a925",
+  "title": "Gated-SwinRMT: Unifying Swin Windowed Attention with Retentive Manhattan Decay via Input-Dependent Gating",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "80e8e35c6392eecff3d2ff91c568ed4cad08b642",
+  "title": "LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "c395f63a69f2d2690c15adae75ac10e1ed388d62",
+  "title": "Gradient Boosting within a Single Attention Layer",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "6b5c83cc4ba8d8eab713b7f207fab49027be1a4c",
+  "title": "A fault sample generation method for planetary gearbox based on GA-ICDM",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "0aa6700778100664bc3c8f052bc388da53901840",
+  "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "1b0ce347db427a016aa2ee81f56d7c582c7205e2",
+  "title": "Screening Is Enough",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "26c6bd2e6fb13ea758ab0d42124a04cc83f75db0",
+  "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "dcb2a3f85bf682722913d3c69bd9b38403b3cfd0",
+  "title": "FocusVLA: Focused Visual Utilization for Vision-Language-Action Models",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "606fa1aff96ea5c990c3bcf3c40ff4a680caf34e",
+  "title": "Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "13ec8f3b5e8989ce1c96da01869aa4f0820fbc8f",
+  "title": "AgenticRS-Architecture: System Design for Agentic Recommender Systems",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "243b5b0b2aecc3f71cb0fd88f676cd420d1b48c2",
+  "title": "How Open Must Language Models be to Enable Reliable Scientific Inference?",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "9e7521db8605d431eaafdea9d92b652c16a0d919",
+  "title": "OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "f297868d8a2560232b465cc8ef9c07be0a3969a5",
+  "title": "UniICL: Systematizing Unified Multimodal In-context Learning through a Capability-Oriented Taxonomy",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "46925325310fbafcb83332c89d623d90567b4f21",
+  "title": "UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "e1a4be19689f06b223575c6b75b89203b4289090",
+  "title": "Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "a13bb677105ff1002c07701ac9e62b0879cbf98e",
+  "title": "UGID: Unified Graph Isomorphism for Debiasing Large Language Models",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "9154e4e2e20044ca7501db015d6ecc71985c59d5",
+  "title": "Attention Sinks Induce Gradient Sinks: Massive Activations as Gradient Regulators in Transformers",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "60fc39b4fbfaff5964c1cd8c9dd23ee348eca9cf",
+  "title": "A Closer Look into LLMs for Table Understanding",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "9b80ee6b1ca0cf32eddd7df37633884aff458329",
+  "title": "On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "10f34414566a0ef83e40bd526e29f129ed728c6c",
+  "title": "Deformable Attention Multiscale Feature Fusion Network\u2010Dehaze: An Adaptive Image Dehazing Method Based on Deformable Attention Multiscale Fusion Network",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "68d021affca918f285c9fe5fb826ba959e4f8dcc",
+  "title": "SGR-OCC: Evolving Monocular Priors for Embodied 3D Occupancy Prediction via Soft-Gating Lifting and Semantic-Adaptive Geometric Refinement",
+  "date": "2026-03-14"
+ },
+ {
+  "id": "1136533f79b417ca86797a627b286f65f0f5a454",
+  "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "5939a8d7496ad2f6bf8bfd794c0211cefaae3a6c",
+  "title": "Beyond Linearity in Attention Projections: The Case for Nonlinear Queries",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "d8769e662c19c3ecd9f5a24cd5b59f3e19aec064",
+  "title": "More than the Sum: Panorama-Language Models for Adverse Omni-Scenes",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "e4f13c9c5a5cd20c5f9ff35a6ee3f1c40ca73ccb",
+  "title": "StarIR: Convolutional Image Restoration With Spatial-Frequency Fusion",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "a7c2f04881864db5bedd65f9aa2d7a4bdbca7c7f",
+  "title": "Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "3b109b53959524fe9af4902db0a7a29e5b673402",
+  "title": "A Gated Attention-Based Multi-Model Fusion Framework for Dynamic Topic Evolution and Complaint-Driven Latent Issue Mining in Online Tourism Reviews",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "bea61137590c766cea95f3c5679ff493135c9fc9",
+  "title": "Engineering Verifiable Modularity in Transformers via Per-Layer Supervision",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "d5cf714c9787baa857cab20475c09f7c27bac9be",
+  "title": "The Dual-Stream Transformer: Channelized Architecture for Interpretable Language Modeling",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "f759e0e8f6bd7908822d6bd6be3950b6e6a650ac",
+  "title": "Rank-Factorized Implicit Neural Bias: Scaling Super-Resolution Transformer with FlashAttention",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "41c8eabdffa31f7dab40ca653e1f78e05863ab6e",
+  "title": "Making Training-Free Diffusion Segmentors Scale with the Generative Power",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "109b450dd10dd09bcd13577efb80d1ca52f81d7e",
+  "title": "GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "eb73f6049610e0d147145fd1f4aa11788fa9783c",
+  "title": "Stem: Rethinking Causal Information Flow in Sparse Attention",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "9b65331305dfab8d4f48da6854ee7673c8c6eb99",
+  "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "98e4253a29e27ad67e55c180ff45be9f8e8a2d9d",
+  "title": "SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "1e409094e56c4f0ef8e55e098f4ecc78977153e4",
+  "title": "SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "755e4d75897cb930e4df0a9409a4746dd1635915",
+  "title": "Specialization of softmax attention heads: insights from the high-dimensional single-location model",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "3379ac3ef4f014e3eceb95ed7fd3d7b428be237b",
+  "title": "ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "d8cfed22e15b0f17a0ab9f1fe2e5a2189772cf3b",
+  "title": "Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "a1b9042defdecc4fcd3d2a8dcb597dee86a4de30",
+  "title": "Multi-Head Low-Rank Attention",
+  "date": "2026-03-02"
+ }
+]

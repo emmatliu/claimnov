@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_58de50cf6722a7b3738ba23ea4a3be4b45aca1ff",
+   "title": "Estimating Tail Risks in Language Model Output Distributions",
+   "date": "2026-04-24",
+   "is_B": true
+  },
+  {
+   "id": "153a2e565b0ae848a370098bcfcdf11bbbf1bf08",
+   "title": "Forecasting Rare Language Model Behaviors",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "9d1f1112a8bdb1ec30eef9483e6a2d8ae15ff199",
+   "title": "Sampling-aware Adversarial Attacks Against Large Language Models",
+   "date": "2025-07-06"
+  },
+  {
+   "id": "72a8ebb5049a0f35aa2728d16087dcc715f8cdda",
+   "title": "Estimating the Probabilities of Rare Outputs in Language Models",
+   "date": "2024-10-17"
+  },
+  {
+   "id": "9cbda957bbdf55e909f22d0f180f67d5f80a6144",
+   "title": "Rare Event Analysis of Large Language Models",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "d41add0f00ae0e34d4273d4efc0d31a3ab096e86",
+   "title": "A Probabilistic Perspective on Unlearning and Alignment for Large Language Models",
+   "date": "2024-10-04"
+  },
+  {
+   "id": "10ab44c08b143739abd91879b00eaafbc0a781ec",
+   "title": "Steering Language Model Refusal with Sparse Autoencoders",
+   "date": "2024-11-18"
+  },
+  {
+   "id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+   "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+   "date": "2023-07-27"
+  },
+  {
+   "id": "96cc6ec2253d86e282f5142c02467e61787ada7c",
+   "title": "Eliciting Language Model Behaviors with Investigator Agents",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "ac27dd71af3ee93e1129482ceececbae7dd0d0e8",
+   "title": "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation",
+   "date": "2023-10-11"
+  },
+  {
+   "id": "b82ccc66c14f531a444c74d2a9a9d86a86a8be99",
+   "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "f29cd5cab35c06518b9fab95168c11ab55ae2170",
+   "title": "Natural Emergent Misalignment from Reward Hacking in Production RL",
+   "date": "2025-11-23"
+  },
+  {
+   "id": "88f9af8b0a28e14c42d4f70ce2d911b51a06cd16",
+   "title": "Refusal in Language Models Is Mediated by a Single Direction",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "06d8f9989a66ff1b636168f89e0b38f40429e399",
+   "title": "Estimating Worst-Case Frontier Risks of Open-Weight LLMs",
+   "date": "2025-08-05"
+  },
+  {
+   "id": "4637f79ddfaf923ce569996ffa5b6cda1996faa1",
+   "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+   "date": "2023-10-12"
+  },
+  {
+   "id": "a0a9bf86c00b6ff2756053d01ab7e3a8aac804f7",
+   "title": "Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "edb548fe7574d99454b352ffdb61bca93c3072ba",
+   "title": "Sparse Autoencoders Find Highly Interpretable Features in Language Models",
+   "date": "2023-09-15"
+  },
+  {
+   "id": "de7d334a543d077f4162ebcd8da7eee843b7b10a",
+   "title": "Predictive Querying for Autoregressive Neural Sequence Models",
+   "date": "2022-10-12"
+  },
+  {
+   "id": "64167f74cc2fa05a9e01ed15fdbd52c9be0d258c",
+   "title": "Probabilistic Querying of Continuous-Time Event Sequences",
+   "date": "2022-11-15"
+  },
+  {
+   "id": "88d5634a52645f6b05a03536be1f26a2b9bba232",
+   "title": "Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks",
+   "date": "2024-04-02"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.7457,
+  0.7267,
+  0.7245,
+  0.6582,
+  0.6123,
+  0.596,
+  0.5921,
+  0.5691,
+  0.5614,
+  0.5591,
+  0.5545,
+  0.5507,
+  0.5143,
+  0.5075,
+  0.491,
+  0.4693,
+  0.4675,
+  0.4611,
+  0.4602
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8425717e0bff9497498bc34931928cf8ee01f555",
+   "title": "SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings",
+   "is_B": true
+  },
+  {
+   "id": "3645b1b0302be888a02ce8bb79337fe05db0cfe0",
+   "title": "A Supervised Word Alignment Method Based on Cross-Language Span Prediction Using Multilingual BERT",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "72d5274b1889b1aec2f9c6c7bcadd1bbe929f5c9",
+   "title": "A Discriminative Neural Model for Cross-Lingual Word Alignment",
+   "date": "2019-09-01"
+  },
+  {
+   "id": "a7fb2cf3d5a0b30458e74d316a1ce3d6ab6f40b1",
+   "title": "Recurrent Neural Networks for Word Alignment Model",
+   "date": "2014-06-01"
+  },
+  {
+   "id": "e1db20c99bd128701282791d455d170438d18f73",
+   "title": "Neural Baselines for Word Alignment",
+   "date": "2020-09-28"
+  },
+  {
+   "id": "2eee73090484b836de98b1e6cc8f6eba5ec8248f",
+   "title": "End-to-End Neural Word Alignment Outperforms GIZA++",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "562c09c112df56c5696c010d90a815d6018a86c8",
+   "title": "Word Translation Without Parallel Data",
+   "date": "2017-10-11"
+  },
+  {
+   "id": "8b3b5d1138fa9ff20e9b12c0f53c22838039efff",
+   "title": "Adding Interpretable Attention to Neural Translation Models Improves Word Alignment",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "584d95a20a16d32d93ae4471384cdf54d48c99ac",
+   "title": "An Evaluation Exercise for Word Alignment",
+   "date": "2003-05-31"
+  },
+  {
+   "id": "186ffc38f5e12cca19b3bc3f2ddf469fe012de22",
+   "title": "On The Alignment Problem In Multi-Head Attention-Based Neural Machine Translation",
+   "date": "2018-09-11"
+  },
+  {
+   "id": "b262ed10230b4292fb55b453ef93254156c56a32",
+   "title": "Jointly Learning to Align and Translate with Transformer Models",
+   "date": "2019-09-01"
+  },
+  {
+   "id": "afd528af8df5e371a1282f0a05bdf68b4cb80fc2",
+   "title": "Guided Alignment Training for Topic-Aware Neural Machine Translation",
+   "date": "2016-07-06"
+  },
+  {
+   "id": "dda2cee72ffa3e5c70db302a87595ba9e5e72910",
+   "title": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
+   "date": "2018-05-16"
+  },
+  {
+   "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+   "title": "Unsupervised Cross-lingual Representation Learning at Scale",
+   "date": "2019-11-05"
+  },
+  {
+   "id": "8f4bf65a6b62cecc6f7b0ab2489a831d9a44a86d",
+   "title": "Using Word Vectors to Improve Word Alignments for Low Resource Machine Translation",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "942ab13277b7f9f3dc7fc00419537c7bfb039f3f",
+   "title": "NeurAlign: Combining Word Alignments Using Neural Networks",
+   "date": "2005-10-06"
+  },
+  {
+   "id": "d4a887499773ff32aae898711e595654f3f65199",
+   "title": "Supervised Attentions for Neural Machine Translation",
+   "date": "2016-07-30"
+  },
+  {
+   "id": "23652f6c7c906b8f7c52ec1849a49ee447a217ea",
+   "title": "Generating Alignments Using Target Foresight in Attention-Based Neural Machine Translation",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "242fd8725ec6d30a3c8648a4f9ffe9f2cf67ae3f",
+   "title": "Saliency-driven Word Alignment Interpretation for Neural Machine Translation",
+   "date": "2019-06-25"
+  },
+  {
+   "id": "de2df29b0a0312de7270c3f5a0af6af5645cf91a",
+   "title": "A Systematic Comparison of Various Statistical Alignment Models",
+   "date": "2003-03-01"
+  }
+ ],
+ "n_candidates": 51,
+ "sims": [
+  0.689,
+  0.6217,
+  0.6133,
+  0.6092,
+  0.6057,
+  0.6041,
+  0.6014,
+  0.5968,
+  0.5939,
+  0.5874,
+  0.5856,
+  0.5777,
+  0.5719,
+  0.5718,
+  0.555,
+  0.5536,
+  0.5481,
+  0.5453,
+  0.5413
+ ]
+}

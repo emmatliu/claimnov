@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_7cf3d3a4a027be71d840717843a5934b164ab76d",
+   "title": "Earlier Isn\u2019t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization",
+   "is_B": true
+  },
+  {
+   "id": "7af89df3691d8c33aaf1858f7cc51da1bc9549a9",
+   "title": "Bottom-Up Abstractive Summarization",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "cca42b7e53a2d5e5c0f995735043e84a3b1cc89c",
+   "title": "Studying Summarization Evaluation Metrics in the Appropriate Scoring Range",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "507d6e09f51b2fc93f756ab748f6eadd11b7b86e",
+   "title": "Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints",
+   "date": "2016-03-29"
+  },
+  {
+   "id": "fff100f13441b922c32b43f5628cdca285ec72a1",
+   "title": "Content Selection in Deep Learning Models of Summarization",
+   "date": "2018-10-29"
+  },
+  {
+   "id": "14c371d359aed214b87b7a40bdbe7bfeb2968973",
+   "title": "A Simple Theoretical Model of Importance for Summarization",
+   "date": "2018-01-26"
+  },
+  {
+   "id": "b631b2cad1771418c2c71251bd608277c2797a1e",
+   "title": "Extractive Summarization by Maximizing Semantic Volume",
+   "date": "2015-09-01"
+  },
+  {
+   "id": "1ac30af5522c7a50ec4d1ee43fd2bd8652a9bd52",
+   "title": "A Neural Attention Model for Abstractive Sentence Summarization",
+   "date": "2015-09-02"
+  },
+  {
+   "id": "b207a7c0cb56cc8955d212abf04a3c2c6d917c55",
+   "title": "Multi-Document Abstractive Summarization Using ILP Based Multi-Sentence Compression",
+   "date": "2015-07-25"
+  },
+  {
+   "id": "305b2cf37e5dece81e95c92883d5a6e28ac93b22",
+   "title": "Don\u2019t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization",
+   "date": "2018-08-27"
+  },
+  {
+   "id": "59562be2cf8e01e8b7bb7560cef56158ea171227",
+   "title": "Ranking Sentences for Extractive Summarization with Reinforcement Learning",
+   "date": "2018-02-23"
+  },
+  {
+   "id": "29a294eaec7b485245aa21d994f7300f6b5da8fc",
+   "title": "Neural Summarization by Extracting Sentences and Words",
+   "date": "2016-03-23"
+  },
+  {
+   "id": "4e346eb1628df6a12c1a121f862fb3a16c6fec60",
+   "title": "Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies",
+   "date": "2018-04-30"
+  },
+  {
+   "id": "f6bc340af859e8a9ec2d97d77042eb14084c0446",
+   "title": "Improving the Estimation of Word Importance for News Multi-Document Summarization",
+   "date": "2014-04-01"
+  },
+  {
+   "id": "032274e57f7d8b456bd255fe76b909b2c1d7458e",
+   "title": "A Deep Reinforced Model for Abstractive Summarization",
+   "date": "2017-05-11"
+  },
+  {
+   "id": "8e2cd5369db9242574740e0d2739c755f8f61c92",
+   "title": "A Scalable Global Model for Summarization",
+   "date": "2009-06-04"
+  },
+  {
+   "id": "cec852f9c844972cd2805e2196fb248136b8a32e",
+   "title": "The Automated Acquisition of Topic Signatures for Text Summarization",
+   "date": "2000-07-31"
+  },
+  {
+   "id": "1c37654db8b6a86795b9c83d214d994fe46f6a37",
+   "title": "Toward Abstractive Summarization Using Semantic Representations",
+   "date": "2018-05-25"
+  },
+  {
+   "id": "668db48c6a79826456341680ee1175dfc4cced71",
+   "title": "Get To The Point: Summarization with Pointer-Generator Networks",
+   "date": "2017-04-01"
+  },
+  {
+   "id": "42ea1cb9439ef724ae9a0e71477fd3851aea0a8b",
+   "title": "Crowd-Sourced Iterative Annotation for Narrative Summarization Corpora",
+   "date": "2017-04-01"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.6084,
+  0.6004,
+  0.5811,
+  0.5801,
+  0.57,
+  0.5665,
+  0.5504,
+  0.5434,
+  0.5414,
+  0.5394,
+  0.5371,
+  0.5333,
+  0.5252,
+  0.525,
+  0.5239,
+  0.5205,
+  0.5204,
+  0.5141,
+  0.5116
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "pool": [
+  {
+   "id": "B_bf6336df420c9aa6d39a22fbe0335b9f2de93f37",
+   "title": "Multi-objective Contextual Bandit Problem with Similarity Information",
+   "is_B": true
+  },
+  {
+   "id": "5433d9e89bbc8ab05b8a083c545e150f3d29a8b6",
+   "title": "Efficient Optimal Learning for Contextual Bandits",
+   "date": "2011-06-13"
+  },
+  {
+   "id": "30b39d54c17ab7330aa7ec9814b1e2097932f80e",
+   "title": "Knowledge Gradient for Multi-objective Multi-armed Bandit Algorithms",
+   "date": "2014-03-06"
+  },
+  {
+   "id": "fda3fa07f3f4fc5e922352b6efa2e026cd847643",
+   "title": "X-Armed Bandits",
+   "date": "2010-01-25"
+  },
+  {
+   "id": "39cdc614bb4b5e1a650c288d9d2f7496edaaf904",
+   "title": "Adaptive Ensemble Learning With Confidence Bounds",
+   "date": "2015-12-23"
+  },
+  {
+   "id": "28cf1bd6110e734e20fc63f727d0d5bba612b921",
+   "title": "Learning to Optimize via Posterior Sampling",
+   "date": "2013-01-11"
+  },
+  {
+   "id": "89c2cbdf1a5049a4068ca9215aa8859a1a97b1a3",
+   "title": "Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits",
+   "date": "2014-02-03"
+  },
+  {
+   "id": "524916b08079b1bdbcad5f5b36e71b7ad8f5f09a",
+   "title": "Finite-Time Analysis of Kernelised Contextual Bandits",
+   "date": "2013-08-11"
+  },
+  {
+   "id": "253254f518631ab21cad201f3448b48e385eff28",
+   "title": "Online Clustering of Bandits",
+   "date": "2014-01-31"
+  },
+  {
+   "id": "b0e77bc644268c1c8f5833d3ae6f9b4b9fc6fb71",
+   "title": "Contextual Bandits with Similarity Information",
+   "date": "2009-07-22"
+  },
+  {
+   "id": "343955e4fc655b4373d9926bca92ded2b27f4b23",
+   "title": "Learning Multiuser Channel Allocations in Cognitive Radio Networks: A Combinatorial Multi-Armed Bandit Formulation",
+   "date": "2010-04-01"
+  },
+  {
+   "id": "ec0072bc37f83f1a81459df43289613e04cc61e1",
+   "title": "A contextual-bandit approach to personalized news article recommendation",
+   "date": "2010-02-27"
+  }
+ ],
+ "n_candidates": 11,
+ "sims": [
+  0.6089,
+  0.5589,
+  0.551,
+  0.5068,
+  0.5044,
+  0.4991,
+  0.4828,
+  0.4579,
+  0.4562,
+  0.4559,
+  0.3858
+ ]
+}

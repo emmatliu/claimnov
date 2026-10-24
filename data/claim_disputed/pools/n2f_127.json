@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3b3d7adb9047d01af6dfa2975ad8addd69715e96",
+   "title": "Mastering Atari Games with Limited Data",
+   "is_B": true
+  },
+  {
+   "id": "7c4356ec0dca6e6df0af7a882e2cd1571c8bf3dc",
+   "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+   "date": "2020-07-12"
+  },
+  {
+   "id": "744139d65c3bf6da6a6acd384a32d94a06f44f62",
+   "title": "Reinforcement Learning with Augmented Data",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "2a78e2a8635d24326e69d772ec1473b7e002e082",
+   "title": "Learning and Planning in Complex Action Spaces",
+   "date": "2021-04-13"
+  },
+  {
+   "id": "7e19924fb57c8b7a9882e3d17ddd41cedcfdf355",
+   "title": "Improving Sample Efficiency in Multi-Agent Reinforcement Learning for Simulated Football Games via Exploration",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "1fd4694e7c2d9c872a427d50e81b5475056de6bc",
+   "title": "Model-Based Reinforcement Learning for Atari",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "f82e4ff4f003581330338aaae71f60316e58dd26",
+   "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+   "date": "2012-07-19"
+  },
+  {
+   "id": "270b95262f2100c279c4c65ef2521473841ca8ad",
+   "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+   "date": "2019-12-03"
+  },
+  {
+   "id": "b44bb1762640ed72091fd5f5fdc20719a6dc24af",
+   "title": "Mastering Atari with Discrete World Models",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "6568423cfaca7e24c88ea208cb0e67129e43aa9b",
+   "title": "Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels",
+   "date": "2020-04-28"
+  },
+  {
+   "id": "88dd6594c9ddd4c4bb7f9b407b162e283907f4f3",
+   "title": "Improving Sample Efficiency in Model-Free Reinforcement Learning from Images",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "56136aa0b2c347cbcf3d50821f310c4253155026",
+   "title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "da8a4416db1da4887572ed47240a72b6f177a472",
+   "title": "Online and Offline Reinforcement Learning by Planning with a Learned Model",
+   "date": "2021-04-13"
+  },
+  {
+   "id": "3b9732bb07dc99bde5e1f9f75251c6ea5039373e",
+   "title": "Deep Reinforcement Learning with Double Q-Learning",
+   "date": "2015-09-22"
+  },
+  {
+   "id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+   "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+   "title": "Learning Latent Dynamics for Planning from Pixels",
+   "date": "2018-11-12"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "4c05d7caa357148f0bbd61720bdd35f0bc05eb81",
+   "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "069d18aefd5cc0eef1b3f0403ebcec188b1d2c1f",
+   "title": "Combating the Compounding-Error Problem with a Multi-step Model",
+   "date": "2019-05-30"
+  },
+  {
+   "id": "c6170fa90d3b2efede5a2e1660cb23e1c824f2ca",
+   "title": "Prioritized Experience Replay",
+   "date": "2015-11-18"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.5842,
+  0.583,
+  0.5681,
+  0.5544,
+  0.5543,
+  0.5374,
+  0.5364,
+  0.5329,
+  0.5308,
+  0.5283,
+  0.5216,
+  0.5209,
+  0.5208,
+  0.5089,
+  0.5071,
+  0.5059,
+  0.5057,
+  0.5024,
+  0.5019
+ ]
+}

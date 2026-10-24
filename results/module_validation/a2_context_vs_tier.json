@@ -1,0 +1,23 @@
+{
+ "caption": "Calibration cells (30 gold/distractor pairs): prompt context vs judge tier",
+ "data": {
+  "separation": {
+   "v2_noabstract_4o-mini": 0.57,
+   "v3_context_4o-mini": 0.93,
+   "v3_haiku-4.5": 0.97,
+   "v3_sonnet-4.6": 1.03,
+   "v3_opus-4.6": 1.07,
+   "v3_gpt-5-nano": 0.87,
+   "v3_gpt-5-mini": 0.67
+  },
+  "gold_mean": {
+   "v2_noabstract_4o-mini": 2.43,
+   "v3_context_4o-mini": 2.7,
+   "v3_haiku-4.5": 2.7,
+   "v3_sonnet-4.6": 2.87,
+   "v3_opus-4.6": 3.07,
+   "v3_gpt-5-nano": 2.97,
+   "v3_gpt-5-mini": 2.8
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "pool": [
+  {
+   "id": "B_7e0df840ebf1f0e5f43eb7c77af378a85b05b1ec",
+   "title": "CausalGame: Benchmarking Causal Thinking of LLM Agents in Games",
+   "date": "2026-07-05",
+   "is_B": true
+  }
+ ],
+ "n_candidates": 0,
+ "sims": []
+}

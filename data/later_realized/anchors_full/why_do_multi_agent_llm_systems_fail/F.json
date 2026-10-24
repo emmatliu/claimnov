@@ -1,0 +1,1547 @@
+[
+ {
+  "id": "7066cdf6b3dc0bdb0c554f97bfec7cd4d91c27a9",
+  "title": "SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Correctness",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "2c0891739e8ca63e58207d19e00ffc136dbcc295",
+  "title": "What if LLMs Ate Their Words: Causal History Effects in Multi-Turn Interaction",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "f0c62911de15df285b7ded33abfdc7230c468bb5",
+  "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "6d94a5f710ac3d79fac872b771bff3ab3da77390",
+  "title": "MABPD: Multi-Agent Bias Probing&Detection via Structured Argument Debate",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "879ec3cbf8d465799d00e3c252db2ebaffa1233b",
+  "title": "Testing Interchangeability in LLM Agent Teams",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "a9cc675c71d86dc9647fa6b1c8eeba59fcf619d0",
+  "title": "CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "788db91808e937886e1746c033a08dbf27a960cb",
+  "title": "WolfSociety: Understanding Collective Risk from Harmful-Agent Scaling in Financial Agent Societies",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "8ccc2d8e6f44ef878ea468423b54e16313d0f305",
+  "title": "Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "b81444131d4d703af5347b63243c29d52874750d",
+  "title": "Codebook Agent: Amortized Topology Design for LLM Multi-Agent Systems",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "d3e347f7ce7ac08674fb4c4cd4f67580d294de61",
+  "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "9862f4f9665334aed56dc2e696d4b712b9b20d0a",
+  "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "b37f0d2489179880dab06bccf294d624b8cfdf46",
+  "title": "Where Reliability Lives: Experimental Localisation of Behavioural Properties in an Agent System",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "87797c635db9cf42d26d2ecf4bf5d470cf6709cd",
+  "title": "Parsing the Stream: A Live Trace Model for Long-Horizon Agents and Their Observers",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "a9ab4e525273a023e745b93f099e97a3e98132db",
+  "title": "ChatDev 2.0: A No-Code Multi-Agent Platform for Developing Everything",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "45eb5e8443da4ae531eb5fd718c28ee8f4519680",
+  "title": "Reveree: Diagnosing LLM Reverse-Engineering Agents",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "24fcce32312975bb461d5a5852c2f57d2af1d410",
+  "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "cffd95e0b09cb52aafdf865991a5a7f1d205f875",
+  "title": "How Fast Do Agents Rot? An Empirical Study of Long-Horizon Degradation in LLM Agents for Production Decision-Making",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "ca9874d087d8df198b302c54402b0df91d19bbbc",
+  "title": "Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "ea22577169d51a68d0db4f69e327563c6e7299d2",
+  "title": "Localizing Emergent Failures in Agentic AI: Recovering Minimal Repair Families via Counterfactual Replay",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "a16090db41bc380bbd23dd04c41f0ce5338fecd4",
+  "title": "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "9234f40bc202e0df31dea82b55ff7c4941f14ba2",
+  "title": "ClaimPilot: An Open Multi-Agent Pipeline for Veterinary Insurance Claims Adjudication",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "f00621d8fb23ac3cbd47e26f520e3b516cb7fbd9",
+  "title": "Resource Constraints and Performance in Agentic AI Systems",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "86fd9906c30db9a7f0ce0085e1dacaf464d1b63d",
+  "title": "Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "5a39e506e8d5936e921b68f3997eca42af25cc95",
+  "title": "Candidate supply and answer selection shape the value of LLM judging in multi-agent systems",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "4cfcb253db8f2959bc7b40b0304c5450c3fc29db",
+  "title": "Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "ee0208511f61b1076cc328451b4ef8228dc8f4e2",
+  "title": "Cost-Utility Alignment in LLM Agent Trajectories:Profiling,Attribution,Diagnosis,Adaptation,and Evaluation",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "c059298217405b2b3e6a4c4e514c780bb6d9eeae",
+  "title": "CatchBench: When Can an Agent Failure Be Caught?",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "4fcbe3ae1fa7abd84de93314f6ac30c721a877ad",
+  "title": "Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "39b29e08ab303e14eca504e1fd989d7201dbbb1e",
+  "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "7f6ef1fffbbde46dbffd032d034301f5a02f3888",
+  "title": "AUDITA: certified auditing and causal attribution of adverse outcomes in autonomous multi-agent systems",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "e86eff4c7e974a4eabdcd5679c02b2550f3bef57",
+  "title": "From Diagnosis to Redesign: Using Quantitative Ethnography to Improve Multi-Agent LLM Reasoning",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "b6b2521b3cdb7bd68e97df5cacbb9fa3edeac3c7",
+  "title": "Are Agents Listening to Each Other? Measuring What Drives Agent Actions in\n LLM\n \u2010Based Multi\u2010Agent Systems",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "4cffb40585a02197f80fdf75053f7793153e3bbb",
+  "title": "Intelligent Agents for Smart Agriculture: Architectures, Applications, and Future Challenges",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "c95bf692f707a6384175ccfdf18208ad59ad6f64",
+  "title": "PropUQ-MAS: Propagation-Aware Uncertainty Quantification for LLM Multi-Agent Systems",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "87ac7a05676cb403159ba296c2629d0cfb948b7b",
+  "title": "Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "d056e095de8cbb8b0bca8407fbaf97deb7470573",
+  "title": "A Formal Trustworthiness Construct for Large Language Model-Based Test Generation: A Multidimensional Index Empirically Evaluated Through a Multi-Agent Study",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "ea81cb804cfdbdd11fb65835aa815ec22fcdb2a1",
+  "title": "Towards Risk-free AI Agent Deployment",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "0a8c12ef9f9cf63b69d43b5bc4351d99944d7c7b",
+  "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "ed5feab229cb8916fabe16cff1897598350a52ef",
+  "title": "MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "418d8b9e33312965b9d3f3bb227de13e5b9318c9",
+  "title": "Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "9259e73446b25c691516724d5b1f392cf447d894",
+  "title": "When the Observer Acts: Threat Modeling Agentic AI in Observability Pipelines",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "34a383e9c4df7e9560c864dcf30ce9f9178ba2c3",
+  "title": "LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "3706cb7bdda2e1f86d55229de9a58fcbcb26403f",
+  "title": "Emergent Misaligned Communication in Long-Horizon Multi-Agent LLM Commerce",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "09a1d759e57eaf0402205fa1a6c0d9e38a19e2fd",
+  "title": "StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "bb976753437d3c61061859ad243856cd344084cf",
+  "title": "Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "488e0df4c61f7f3f7e016fc3f7ed81298c1f6e4f",
+  "title": "ASCon: A Direction-Aware Reciprocal Agent--Step Contextualization Model for Failure Attribution in Multi-Agent Systems",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "061ebefef21b94785bfadd20242ebbe06fb8826b",
+  "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "ee4312a209e3a41d396ec2038cb25417e464141c",
+  "title": "Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "703874e76318566e21586ddef845e35fc405b92b",
+  "title": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "02ecd49e43a43b1433a738342fec0234fed08f84",
+  "title": "ForestBench: A Unified Graph Framework for Evaluating Multi-Agent Collaboration",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "56f7f0c9bf14b8f3ad439ab170ee536997031f1c",
+  "title": "Fluid Structure, Rigid Record: A Layered Organizational Design Framework for Agent-Native Organizations",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "a9019c0e927eb84f11a7317b941ff456994ddd85",
+  "title": "Trustworthy LLM-Based Agents for Data-Centric AI",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "8ccc1d0d254b6b14bc0ea3f5408249f55d262e6b",
+  "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "bc21621e6cce850fed2defe538e66776732c99ca",
+  "title": "AgentChaos: Chaos Engineering for Agent Systems via Programmatic Fault Injection",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "14be571c287014de2d194532aff3bec016e03c35",
+  "title": "Is Language Social Action? A Commentary on Language Agents",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "3c6daf14dfd74f04c8f48e6c6fb478adb90aec6f",
+  "title": "RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity Is Not Enough",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "6aa5edd0b2f1bf27db0126533063ff5de4006cd4",
+  "title": "Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "f7bb9ed7366e519657e4dda8f198deb1da664270",
+  "title": "An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "12ee9654cd5677de7f8cd2ecff7ad773b3f779a8",
+  "title": "When Agentic Executions Fail: Detecting and Localizing Runtime Faults from Telemetry",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "3a1562c8ef796d0b70036fc015c58ecee74583c6",
+  "title": "Global Optimization and Inference-Time Region Grafting for Agentic Workflows",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "15cc06f00d301b8d9d37bd54d51584637a51f025",
+  "title": "HPFA: Hypergraph-Based Paired Failure Attribution for LLM Reasoning",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "65cf79fb681d21486b8d27036ef2157af4510786",
+  "title": "Real-Time Detection and Repair of LLM Agent Failures",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "880a95cb5e15cf51cf0dd5586a111c3bafe080ae",
+  "title": "Comparative Analysis and Unified Evaluation Framework of User Simulators for Realistic Behaviour Modelling",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "c80717e81b411ce740315ab8945cd0657f6ae404",
+  "title": "When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "72267e6842780734a60f3cba58b1712168405612",
+  "title": "TERMINET: A Decision-Theoretic Framework for Autonomous Termination in LLM-Based Network Management Agents",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "4ba924c9b39ad140b2a4bed7f8dd48976b1ba45d",
+  "title": "CUADebug: Diagnosing and Repairing Computer-Use Agent Failures",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "108f7bcbb4d72d9e9e58f00db87c0fe0c6e5f70c",
+  "title": "\u03a3-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "c36d9e774a46d5f85657c91c7fe0f0a1ed9b094f",
+  "title": "Scaling LLM-Driven Multi-Agent Systems: Design Principles and Architectural Scalability Analysis",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "7de3e445e8c5bfce7718d3e223dce79b29ba51ac",
+  "title": "OrchBench: Evaluating Multi-Agent Orchestration Plans in Isolation via Deterministic Simulation",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "417ba4ec1b219448c03a163e5e571637380f4e8e",
+  "title": "Grading the Narrators: An Isnad-Rijal Framework for Claim-Level Provenance in Multi-Agent Knowledge Systems",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "52689c803662c3e97a26489a5578081608b8c603",
+  "title": "Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "cda94ba40eb7443959003d2549317277a9698c03",
+  "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "2da1ef109aab0f05819bfe11dd71254c15a7aab0",
+  "title": "Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "59edb16817f94980b8490c81e6f00da938b98a62",
+  "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "1f454da8937e780387234da72d1a02755ad3557d",
+  "title": "MigBench: An Execution Certified Benchmark for Large Language Model Review and Repair of MongoDB Data Migrations",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "e1a9dd1be26e52ed036c8e7caf59c34696125eef",
+  "title": "Oracle Gap and Signal Fidelity: A Fixed-Pool Diagnostic for Test-Time Collaboration",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "d127a1d3ebb6a727ad577ffcf953e5c71b026f76",
+  "title": "REMICA: Reflective Memory and Interventional Context Alignment with Multi-Agent LLMs for Inappropriate Utterance Detection",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "8e6cba75545105171e7a54aa64a6260c817e5976",
+  "title": "Fantastic Adaptive Taxonomies and How to Use Them",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "bb189ed19a19a783190a59aac5d6eb9ed6b97775",
+  "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "9d4009e5d054eb0be9ebee3f1e29e919c7b91465",
+  "title": "DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "1a009012f9b5853665d4e42b5d8831f87ed52ad9",
+  "title": "Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "de43466b61f1dd5c071c8cecd27c5422bc0507e3",
+  "title": "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "499bede9cabf821c3737906cc67089f3968b662d",
+  "title": "Tracing Agentic Failure from the Flow of Success",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "f0d72b259264adb81b5f7e99dc0197f6e85a6a76",
+  "title": "Width, Memory, and Delay: A Resource Accounting for the Limits of Flat Multi-Agent Systems",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "bb70694b92dd34bd37aa08f4fea51041931be5b3",
+  "title": "AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "ae9e6ec749494805f6b9ec4fe7d189097005e7aa",
+  "title": "RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "aaa621993f86bae0df5d35a32a139e68ad249cec",
+  "title": "SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "f5d1dbbb494a5250f2234c4bd53b0efced1ca050",
+  "title": "Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]",
+  "date": "2026-07-11"
+ },
+ {
+  "id": "0a90c80224ff3d46c69bac6794622713cd2e7ec5",
+  "title": "Failure as a Process: An Anatomy of CLI Coding Agent Trajectories",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "1ce252ed4e7bbb6482cacaa1270bb777069bddec",
+  "title": "Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "ca45188ba9f898f480bf382889a5de4e97f502ff",
+  "title": "Mosaic: Runtime-Efficient Multi-Agent Embodied Planning",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "279e4d4fdb168820476c0a19348e5af93ff90291",
+  "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "eafe5396b3cff91737e49a9264dbe913e5ded998",
+  "title": "Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "9a091b34d5633a2458dfa9656d6c74919e2e4cff",
+  "title": "Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "452891cc25a448609c1c548f61b25b15b674d26f",
+  "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "2fef15f6da6617a3de1e532e8183dee476bed2b4",
+  "title": "What Resolve Rate Hides: Trajectory Structure Diagnostics for Coding Agents",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "b703f91ca7c77b2723e4a4f23afb6ad814f0332d",
+  "title": "AgentTether: Graph-Guided Diagnosis and Runtime Intervention for Reliable LLM Agent Operation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "d50db6ee9306934e72c402a46893ba97aa6bcadf",
+  "title": "Security and Privacy in Agentic AI: Grand Challenges and Future Directions",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "7d61639cec8e3227e01252c6e39e6961087a00fa",
+  "title": "A Comprehensive Study of Implementation Bugs in Multi-modal Agents",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "092062ba650afa57645bd767595fafdee61ce7d1",
+  "title": "AgentTelemetry: A Fault Detection Benchmark and Toolkit for LLM Agent Observability",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "ce0a5a455a535b40e9d16008f1df493bc8b8ff69",
+  "title": "Bugs in Modern LLM Agent Frameworks: An Empirical Study",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "e6366ef34665abd7e69d35fc3324b816d7a95c3a",
+  "title": "Complexity-Ranked Iterative Refactoring from Microservices to LLM-based Multi-Agent Systems",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "49b1595e55dd2cdb23b2c78b2f5543b32a1eb584",
+  "title": "RocketMQ-A2A: Reliable Session-Level Replayable Event Streams for Large-Scale Multi-Agent Collaboration",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "c7daa63f475292346cc7d42ae1f1b1840b0f7479",
+  "title": "Diagnosis-Driven Automatic Repair for Agentic Workflow via Symbolic Inference",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "41fde0d75792e97f24c728f9a25c0e28abf630d3",
+  "title": "How Reflection Enhances Task Factuality in the Use of Large Language Models",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "c886ce3cff0c4e33ee47b8957dd7d1cc141a58fe",
+  "title": "Where Knowledge and Authority Sit Changes What an Agent Benchmark Can Resolve",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "ac7318e7bb9564e46d6414d9d476803c8554a7b3",
+  "title": "Capable language models can outgrow the benefits of collaboration",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "bbfb0429443c24d1795a84ecf45e20dfdffb1e2b",
+  "title": "Towards an Agent Operating System - Lessons from Classical and Cloud OS",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "0bd41403c861f926d73348df5474ded898f0ea7a",
+  "title": "Agentic AI: An Emerging Paradigm of Computing? Panel Discussion at IEEE CISOSE 2026",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "64cfe07699bc55175e8731c0db93da62135d4276",
+  "title": "Formal Trajectory Analysis for Testing Agentic AI in Stateful Environments",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "463a60073c7586e4d1b94fdcb3095db8e9439582",
+  "title": "Understanding Engineering Challenges in AI Agent Frameworks for Software Development: An Empirical Study of GitHub Issues",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "47ac31b1c59fa3b20db5364388da6f380b3b38a2",
+  "title": "Metamorphic Testing of Multi-Agent LLM Systems: A Trace-Based Behavioral Oracle Framework",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "875dbd1d02392bed5d69b180eaaeb61b90cf9da8",
+  "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "715b2b29341d5992fb15c77ef4c6c2b39440e1da",
+  "title": "Spectrum-Based Failure Attribution for Multi-agent Systems",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "65f0ad12bf4e29ac881d2de523470caae77e6678",
+  "title": "When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "12191bec3ec7738ee12154a1e3d08f79a9833a9a",
+  "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "85d512098c3d3fe610bbc6347f8dfc0a3bead45d",
+  "title": "SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "1aed800fa5a44c0c8ead3f6753522711a4d1eb70",
+  "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "f3528febdea6f6752297123b8e20ccdf762abb11",
+  "title": "Automated Semantic Fault Localization in SysML v2: A Human-in-the-Loop Framework Using Knowledge-Graph Augmented LLMs",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "dcbc9eb5794e34b9cca7356eb490d92a71b32ab7",
+  "title": "GRADE: Graph Representation of LLM Agent Dependency and Execution",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "98c568415a3ffd35237ab7e9d8bb36d78cc21999",
+  "title": "Multi-Agent-based Failure Recovery Planning for a Connected Vehicle Platform",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "3e3ba0820ac286451d7d8727e1f6645e097fb661",
+  "title": "BioBrain: A Multi-Agent Framework for Natural Language Driven Quantitative Microscopy Data Analysis",
+  "date": "2026-06-21"
+ },
+ {
+  "id": "64dc8ca935753a7b91a89debd9cb929be2b1829e",
+  "title": "AutoRAS: Learning Robust Agentic Systems with Primitive Representations",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "573886f093438f485e10616ff78d84758bb6e056",
+  "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "25577091a6f8bb5285ca31ee339e333afd0d644a",
+  "title": "Hallucination as Context Drift: Synchronization Protocols for Multi-Agent LLM Systems",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "740d99af1124a0b6d9e06b3aaf85e556f78e8cfa",
+  "title": "EARS: Explanatory Abstention for Reliable Sub-Agent Modeling in Large-scale Multi-Agent Systems",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "dd37ccf89de5951cf8ec11aaeccd9ee8d73b9aa7",
+  "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "690338b08cd66ab32d4ec201c242b2573d4206e3",
+  "title": "Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "0524ff1d515a02fc6f251655bd5d21b8c3d6b01e",
+  "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "c5bfc7f8526b4d7caf817042ce79064c87608c9b",
+  "title": "GeoDisaster: Benchmarking Orchestrated Agents for Operational Disaster Geo-Intelligence",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "2c88e19c8f21b8f9876c57e643ad3d5b492add27",
+  "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "2341244b8187eb7c9ca3112599fe50c861a4ddbf",
+  "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "de1fd72feb3db8ab846646afaf33f88cf23334fe",
+  "title": "How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "9efbf2acb974342145797cb766c63de8b7746591",
+  "title": "Smarter Saboteurs, Better Fixers: Scaling & Security in Linear Multi-Agent Workflows",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "6891c0cd69454f2cd4aa4afeaa7712d68f712cad",
+  "title": "VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "d0e4db8cbda7b725c550c4692550f36310f189c2",
+  "title": "How It Continues: LEGO\u00ae Serious Play\u00ae, Specification, and Agentic AI",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "9c934d96ca077248dcc6dd057becaee72470371f",
+  "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "ba9d6607e3323a5b012dba6cca4c11daface7a26",
+  "title": "Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "41ba51ecb96057e7b032d04ec99e269213e42d79",
+  "title": "PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "9ca49232252c26a5063eea46adbcf6d215744291",
+  "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "6224839b525c24e9746cf87c9f6dac0b559aed09",
+  "title": "Silent Failure in LLM Agent Systems: The Entropy Principle and the Inevitable Disorder of Autonomous Agents",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "a847ab0537e30010588fd086e9d56c5fc99819d9",
+  "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "0f8222bdf261c2b35fe8d4308a1ca3dd851f3de7",
+  "title": "Organizational Control Layer: Governance Infrastructure at the Execution Boundary of LLM Agent Systems",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "18e80604111abf5cdcb57862f589fcbab2f0f328",
+  "title": "Human oversight of agentic systems in practice: Examining the oversight work, challenges, and heuristics of developers using software agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "cc60b6722889fd6b8fde28b45044a6eb872bed88",
+  "title": "StepFinder: A Temporal Semantic Framework for Failure Attribution in Multi-Agent Systems",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "f464808e0f764da45b9335d4c54a54b0a86a684a",
+  "title": "Agent System Operations: Categorization, Challenges, and Future Directions",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "156fdbe275388ebf46ab2cd783d845db8000141a",
+  "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "e9bc309d925a3197422886c4a97485c892fedce6",
+  "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "f36fe759a843677b187e09b6d954675e9e82f383",
+  "title": "Adaptive artificial intelligence agents for dynamic conservation planning under climate uncertainty: A multi-agent reinforcement learning approach",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "29fa9044137b4220f5d66263b1b69c335c60041b",
+  "title": "ErrorChain: Error Cascade Detection and Early Truncation in Multi-Step Agents",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "972a73c366a648ec029b2c10ce9e347cc7d6c8b9",
+  "title": "When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "5b36d9881d8f529dff96f99cfb8f93f2b28082b2",
+  "title": "Large Language Models in Transportation Systems Management and Operations: From Text Reasoning to Multi-modal Decision Support",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "22710fdbc5b0189979200c3360ec4f96a4d149ef",
+  "title": "Scaling Behavior of Single LLM-Driven Multi-Agent Systems",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "7e036202afaf97c46f35221882798784b1a9c073",
+  "title": "Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "a35f0f3916ea50fa3d261ff4cb98f2a751ddd754",
+  "title": "How Generation Architecture Shapes Code Complexity in Multi-Agent LLM Systems: A Paired Study on HumanEval",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "4289dd1bd4ff7951b2e97bcb128a58e62c30668e",
+  "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "5d319a604d3ba308dacce7e2f22397993c073d93",
+  "title": "PatchBoard: Schema-Grounded State Mutation for Reliable and Auditable LLM Multi-Agent Collaboration",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "fc43c089279f893eb56a48308f65a17097f784cd",
+  "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "28eb59cd5d1043063371af07bf6b14d5d839b5b9",
+  "title": "Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "b20c504314e19817cd6a465b0ce59af979ac4a2a",
+  "title": "Enhancing Multi-Agent Communication through Attention Steering with Context Relevance",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "60a22547f079a491bc37a8a4f17fc094e0f6ad76",
+  "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "94e687be5a6564c6532facf31b953da8ce300185",
+  "title": "From Code to Rubrics: A Multimodal Evaluation of LLM Systems for Automated Feedback Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "c058c0b6b3044e68196a94fbcc709380a18f5cb8",
+  "title": "Decoupled Intelligence: A Multi-Agent LLM Framework for Controllable Traffic Scenario Generation in SUMO",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "5f077838030da4a75a7d5f7606055ded5d4dfb98",
+  "title": "Arena: Benchmarking AI Agent Frameworks Under Fixed-Model Conditions",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "eac0f08fbf89ae8dcc8fb743072c92d9048d1282",
+  "title": "ViBench: A Benchmark on Vibe Coding",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "ae6e893d1f1ff1e2ef69d13ba6fa5483a638b47d",
+  "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "8b8c0269647543552dff3e95dcc9ecd8d64f09d3",
+  "title": "CausalFlow: Causal Attribution and Counterfactual Repair for LLM Agent Failures",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "f73a035d772a47daf007fdb6d634bbc93267e0fb",
+  "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "1a4a31e4be6bde13718482ef8b84f2d94854c548",
+  "title": "KiMO: Knowledge-infused Multi-agent Orchestrator",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "f5999ced77781adc66739db9a8efb2a7084f8c73",
+  "title": "Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "a5efdd34d0db07f1a689e296bbe59c2501b20866",
+  "title": "When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "e2f3eec6af8ee1b5b9d3158f959e283da43efde3",
+  "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "f9c4e323dd7c8a4a6b987d0b11ba2e331dd3fe80",
+  "title": "A Sober Look at Agentic Misalignment in Automated Workflows",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "333cab7ca893cd996e31a40210131394c42a7382",
+  "title": "Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "0d126994fe8f2c64e3ce31ce86562137c5c9f76b",
+  "title": "Self-Evolving Multi-Agent Systems via Decentralized Memory",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "ba48b533086f2c1c99240de1dd2024572c81dcba",
+  "title": "Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "bad9d87e44b7d3c9cdab5fa4f1730c611eb5ebd9",
+  "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "74f834e9f4d4cc11fd5cebd779bc224915bc92db",
+  "title": "Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "06ad78a6c68a225062d485cc1e8e27768cdbbc67",
+  "title": "Declarative Data Services: Structured Agentic Discovery for Composing Data Systems",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "8d4fcfb872c0322dff0bec621e5a1189a7e19a04",
+  "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "6c9773f508d8e78128ea49a5e905a873fb3c8a6b",
+  "title": "PARA: A Production Agentic Readiness Assessment Framework for Closing the Enterprise AI Deployment Gap",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "f82f23a8d3a17fd060643fc14702a60c5ba15553",
+  "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "e5f850f1eae27410f9b6e09fa8c1b124496f7515",
+  "title": "Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent Networks",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "1570c5606d9c5b59f2923428c049346a44acde37",
+  "title": "What Do Evolutionary Coding Agents Evolve?",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "104a3dadda57c6e755162d41d008542e714f085d",
+  "title": "Stage-Audit: Auditable Source-Frontier Discovery for Cross-Wiki Tables",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "474aaa063bf0a31b4d0646ff18eaeb33778c6e5f",
+  "title": "Agentic AI in Healthcare: Opportunities, Challenges, and Future Directions",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "c9ae48d51d2d761b53c85622245fd5950bd2e8a2",
+  "title": "Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "f9fe58ed9aca9691595867e1ac4d7ec6497e4e79",
+  "title": "Position: A Three-Layer Probabilistic Assume-Guarantee Architecture Is Structurally Required for Safe LLM Agent Deployment",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "d38dafe4ea6cfe7bc4d28186b75068d08421696a",
+  "title": "Interactive Evaluation Requires a Design Science",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "863d969b6f3df1d4f298544edc5fe01ab782e17a",
+  "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "308863bbd7c2039856e325cc999a6c6c96b5f5ba",
+  "title": "ProcCtrlBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "7b8163656aaa714bf5b7f9040a0a8596b56fcee5",
+  "title": "VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "2d50458941be9d6ac9be529c8830fddf082570c6",
+  "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "95c5aa3986bd0e7fe3fd38c8d6953fa27142ae1c",
+  "title": "Holistic Evaluation and Failure Diagnosis of AI Agents",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "782b3f851219d634bb3825fc06aef4e7387bbac6",
+  "title": "A data and knowledge cross-level fusion-driven learning framework for detecting missing diagnosis",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "8b1015240d6d9ba58571a1e55f0315d03b77db75",
+  "title": "How to Interpret Agent Behavior",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "16bbb3289088d61f8e2c7e72e526dc33aeb5044c",
+  "title": "Not Just RLHF: Why Alignment Alone Won't Fix Multi-Agent Sycophancy",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "b18257e277222dc66b336a62950e9cf4411b05e0",
+  "title": "SWE-Cycle: Benchmarking Code Agents across the Complete Issue Resolution Cycle",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "41b59d4ef37317f3f7b43350eefba3443ac51fac",
+  "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "011b9a333cedf0e1dc107a793ae9258020505a85",
+  "title": "RoMa: A Credibility-Aware Fault-Tolerance Framework for LLM Multi-Agent Systems",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "53474ad9b3ad338d65547872ffa469330de6ff74",
+  "title": "An Integrated RAG and Agent-Based Architecture for Automated Assessment in Moodle",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "0668166f7d33e2aea883b7695da0e5fe4078f0b8",
+  "title": "Rollout Cards: A Reproducibility Standard for Agent Research",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "8c332fa4fcf18b19c0ae750b71570b28a173109d",
+  "title": "Iterative Audit Convergence in LLM-Managed Multi-Agent Systems: A Case Study in Prompt Engineering Quality Assurance",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "010557cf4bd9dd9b5f8f3a5a59d8d3d9056b54f0",
+  "title": "Attributing Emergence in Million-Agent Systems",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "f61c62de81334cb5fac51f54452d083096780e39",
+  "title": "Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "659c4308a12edb2f8c7db3d6386401c5e7a6467e",
+  "title": "Revealing Interpretable Failure Modes of VLMs",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "1031b38bc422b516fb9cd3163bb3d07afd0bf866",
+  "title": "The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "6956699fcb7159b769cbe393c7e9c385386ae96c",
+  "title": "Semantic Register Compression in Multi-Agent LLM Cascades",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "4f11a316c14098dde04d10b703c9683b5f0c1028",
+  "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "7bab0c7ae5cbfa538b7b4bfdec6b2fe277f3c98d",
+  "title": "AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "f031f6f30b14411cb6a68d1736d15c474cad91b4",
+  "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "d83f22c52fdc762b71a5859aa3d509f912751d68",
+  "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "ee482ae9ecd8cef502f605a6957d56bc5b403ff9",
+  "title": "GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "8ad7a34ad0ed6571210e3d76df6dcafceea45c75",
+  "title": "AgentCollabBench: Diagnosing When Good Agents Make Bad Collaborators",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "25cfd7b1e887fcc4f9728e43c3f6faf5d4a1b48f",
+  "title": "A System-Level Taxonomy of Failure Modes in Large Language Model Applications",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "32924e204831f18f613f8312ba24fba73f677ee5",
+  "title": "TraceFix: Repairing Agent Coordination Protocols with TLA+ Counterexamples",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "81b752f6111f75911b3a13eff62d5f4f85638fa2",
+  "title": "MASPrism: Lightweight Failure Attribution for Multi-Agent Systems Using Prefill-Stage Signals",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "86cd31679aa65b4a15836450531c287528928ed2",
+  "title": "Why Retrying Fails: Context Contamination in LLM Agent Pipelines",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "7be96d35faaca16d4eb2ec2376dd225ad438b396",
+  "title": "Social Theory Should Be a Structural Prior for Agentic AI: A Formal Framework for Multi-Agent Social Systems",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "d8744fbf6c997268c1114cd553a931888e1d09e5",
+  "title": "Results and Retrospective Analysis of the CODS 2025 AssetOpsBench Challenge",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "953769c7037ae68fb967edf1d59042e96096922b",
+  "title": "TeamBench: Evaluating Agent Coordination under Enforced Role Separation",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "3e09844a8e2cc52c260f404071efe7367c831572",
+  "title": "Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "f0960ea9fc62b63f644c8e4a4dd5790698aded71",
+  "title": "Beyond Task Success: Measuring Workflow Fidelity in LLM-Based Agentic Payment Systems",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "777932c9236042a59bb9bca68bebb7efbc976da8",
+  "title": "Conformal Agent Error Attribution",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "abba4ffe2ac8d76b64ca4f8bd6442f80cb8a18d4",
+  "title": "Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "e4d1b5f6deccb690be057fba70eeb8752e2d933c",
+  "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "3e1879a8583db2dc65d2c58ba115722ef0a5ea2f",
+  "title": "EngiAgent: Fully Connected Coordination of LLM Agents for Solving Open-ended Engineering Problems with Feasible Solutions",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "f4bd0fdf8c20bf32137aa96cecda10b7dde68ff8",
+  "title": "Unsupervised Cycle Detection in Agentic Applications (Work In Progress Paper)",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "8a8fb6e0312b44dcd2be7fa6be3653a941d5c4d3",
+  "title": "Detecting Silent Failures in Multi-Agentic AI Trajectories (Work In Progress Paper)",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "a70eedec17c03ad3f2ac91c09f19a50310340534",
+  "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "8d3c759f38a0bfc7f61933e1f08ced075800c79b",
+  "title": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fe7a12a04071053dae5ee1844c5cacce5de54b45",
+  "title": "Coarse-to-Fine Failure Attribution for Long-Horizon LLM Multi-Agent Systems",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "1ba2ab7adac739229e952eb77e95e29a2a65ef5e",
+  "title": "Agentic Ecosystem for Question Answering using Multi-Persona Agents",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "db1ce3b336be7462d6f60b82e40a4ab65b5983a0",
+  "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "9c0b2895fdc627bd4ac387d72d8c5083ef4a686e",
+  "title": "CL-bench Life: Can Language Models Learn from Real-Life Context?",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "03ab5f045d3e979c74ce62ded4ec30a7ddcbb2dc",
+  "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "319a5bdf0f0acd068295fe814c7d2a41f05018ec",
+  "title": "EPM-RL: Reinforcement Learning for On-Premise Product Mapping in E-Commerce",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "2934c3cc349f877cea4b4474764ceab37492945b",
+  "title": "Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "26715542340b0cac4586458ac51ab0a2a14ebdec",
+  "title": "AgentEval: DAG-Structured Step-Level Evaluation for Agentic Workflows with Error Propagation Tracking",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "14774dbf52c5a5700bd2d4c3217adb869fa74849",
+  "title": "Architecture Matters for Multi-Agent Security",
+  "date": "2026-04-25"
+ },
+ {
+  "id": "79863c6947ba6aa171fec090a2f77afc139d416d",
+  "title": "Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "862e60cbeff5abea96697c9b2273acb5c4dbcf2e",
+  "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "f03915e5a8e9ea621d4031df34edc083422dcf50",
+  "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "a6db6898c6454aa8829914da1cd0e67327ec22ea",
+  "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "4fd17fbf2bd73ac01930dbf5332d3548212e6fd1",
+  "title": "Explicit Trait Inference for Multi-Agent Coordination",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "020ca236e21ff4e9d57cff04136c1791d5ab7760",
+  "title": "More Is Different: Toward a Theory of Emergence in AI-Native Software Ecosystems",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "44f5d6413027d56f6165eae457d7f63a220790d6",
+  "title": "Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "b2ecc447b24bb3e6636467e5948d3fe7e401b018",
+  "title": "Special Day\u2014A Design Blueprint for Scalable Multi-Agent Architectures in Complex EDA Workflows",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "86f7e1901fa080a1a03f330b47773eb0ce827a3b",
+  "title": "Towards Self-Improving Error Diagnosis in Multi-Agent Systems",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "b0dba2e61c4ffa3e9bbcd12d21639b27ae2c42e8",
+  "title": "Agentic Microphysics: A Manifesto for Generative AI Safety",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "3c15f8a29778eed61e14c04b0cc0ed441aa1e592",
+  "title": "Don't Let AI Agents YOLO Your Files: Information and Control in Agent-Native Filesystems",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "9215c2e5a155aa24ee6051c218d196531f7307ec",
+  "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "cb5357aaa71a993f2966b71a002ab55631d4a034",
+  "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "8d6f5f94e36de0c6b1626fa4bcf09f002884ce17",
+  "title": "Interaction as Intelligence: A Transparent, Fine-Grained Multi-Agent Deep Research System for Human-Agent Collaboration",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "4b8a17cc5282a23dd5802142276b689407040f5e",
+  "title": "Mosaic: A Multi-Level Framework for Observing and Evaluating Performance of Multi-Agent Systems",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "e2f3d24644e25257fc0fa07a5f7adbc4ef52566f",
+  "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "d3b12ff50610425d588fa404d59640b97a1c3954",
+  "title": "Agentic Audio Moderator vs Human Moderator in Think-Aloud Usability Testing: Results from a Randomized Controlled Trial: Results from a Randomized Controlled Trial",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "5c5760afe0be87b377557b310030b2bac5444020",
+  "title": "Optimizing Multi-Turn Interactive Recommendation Agents via Generative Intrinsic Motivation",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "fa1384aaa68806c35fb208ff1bb36285fbc5b07d",
+  "title": "AI Organizations are More Effective but Less Aligned than Individual Agents",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "4ff4362e426b693262adbd1c2d931612ed4ed5d2",
+  "title": "Conversations Risk Detection LLMs in Financial Agents via Multi-Stage Generative Rollout",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "d1ab75c3b6d9b63b7e541968efe046254e3ca276",
+  "title": "Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "17a26c9738a1951eebd6aa6329456785f09a2107",
+  "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "51254c83dfd8ac2551591180bf01950830967ca4",
+  "title": "Learning to Interrupt in Language-based Multi-agent Communication",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "ff733aa86c441370a7cc0db04e2aa3eabfb9ab65",
+  "title": "Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "366284b60a7dc28600e2ebd1e965e3e96c05e069",
+  "title": "Bounded Autonomy: Controlling LLM Characters in Live Multiplayer Games",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "68fd397e23948822863e597cb47d66ec743c4497",
+  "title": "Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "a591b3b60631dc3a8c3ed7f5d45e5e8d35b973be",
+  "title": "Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "cf45b78beabe4103a84f9d8ad9d29e7e98d0fd0c",
+  "title": "High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "a9bba78d6a7441ed43d05a0343518eeac3ac0c7e",
+  "title": "Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "5e99dc492a86cc1df499e9b8ca62cc9e3af16c1e",
+  "title": "RIFT: A RubrIc Failure Mode Taxonomy and Automated Diagnostics",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "2e8f65e3df9a50b735fa1692b86da7bef1b6303c",
+  "title": "Meta-reasoning in autonomous agents: performance gains across benchmarks and models",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "2826bf2e70027da75da3b869234a776708dd4321",
+  "title": "CoE: Collaborative Entropy for Uncertainty Quantification in Agentic Multi-LLM Systems",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "eb37ae6ba53239daffbd44d966eaba1cd2d1fe28",
+  "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+  "date": "2026-03-28"
+ },
+ {
+  "id": "c7e66be0745ba9a56f453d132a48d2e4da70500d",
+  "title": "On the Reliability Limits of LLM-Based Multi-Agent Planning",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "84eb6aecb65f192e9a3d72eb7f7747a79410772f",
+  "title": "Agent Evolution: Capability-Mechanism Co-evolution",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "27214036e6762ed4d402cb8ea69059aec3db73df",
+  "title": "Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "0c7e241d7e09c2467e73634fc6e8154b604be2bb",
+  "title": "Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "c36c089d0f43d83fc98df9d3c28a495745e9d4c2",
+  "title": "ABSTRAL: Automatic Design of Multi-Agent Systems Through Iterative Refinement and Topology Optimization",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "7c2c068a242ad41bf51df39f4f5fd80c5652e3a3",
+  "title": "Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "48fcb1e947434c1d0fbe4fbe003bd7933ec329b4",
+  "title": "Effective Strategies for Asynchronous Software Engineering Agents",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "e016fb1f0ed9d4bff161cd618b5dc9cd499b7c8e",
+  "title": "Context Cartography: Toward Structured Governance of Contextual Space in Large Language Model Systems",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "21e2855510b09e9f548010b7dfba81dd579e87d4",
+  "title": "DiscoUQ: Structured Disagreement Analysis for Uncertainty Quantification in LLM Agent Ensembles",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "69ddb757f0bd296a99c4cb121780873a174a5377",
+  "title": "Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents",
+  "date": "2026-03-21"
+ },
+ {
+  "id": "5a27d00a27964d299975fe48f6406630781ff985",
+  "title": "Herding CATs: ALARA for Agent Harness Engineering in Portable Composable Multi-Agent Teams",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "3f5d1a26d717b57b8a64611db437fc3dba9729ba",
+  "title": "Memory Non-Sharing and Context Fragmentation in Multi-Agent Systems: Problems and Solutions",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "50c89ae2d4c1fda4b1b425055b9617ebf4feab87",
+  "title": "The Y-Combinator for LLMs: Solving Long-Context Rot with \u03bb-Calculus",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "df3187bd215a1ae6523e95eb6664adc8405841ec",
+  "title": "Deadlock Prevention in Multi-Agentic Systems for Regulated Content Authoring",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "cf5b9b07fbc886a62a7d2cdbe3f824a4aa56ef57",
+  "title": "Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "e7eee295a7aba7ce0aef3b83a1b964e6bd10169d",
+  "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "8857b24ec9a6d4c8d03cfd7f8f02296509c473a3",
+  "title": "Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "8fdb9eedea960eb06ad4947394fd8d97e568eeff",
+  "title": "Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "c241f70475530af4a73f6c024b0c75b3b29299ce",
+  "title": "When Only the Final Text Survives: Implicit Execution Tracing for Multi-Agent Auditing",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "81470989d4427ed771fa79e92fb21026c7dbe2f7",
+  "title": "Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "977523847c3593f4abb7fddbf524db4e3a53615c",
+  "title": "Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "f5ad8d7c437c5759fc2b7aa8b69068578b07c8a1",
+  "title": "Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "bf2c49fee5d8306797cebb02f99b515ab1a3d6e7",
+  "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "5eb532ea18518b23cb4f24930f56fa9d05b3a9a5",
+  "title": "Language Model Teams as Distributed Systems",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "c3e39545964f17a1c0c8299b9373a3354f41a5bc",
+  "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "310cc57e018fec7b41ac9ffa95ef04fe7bea432b",
+  "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "21d62118f0d14bd2fe6797fd6691bffd25aabec8",
+  "title": "Resolving Java Code Repository Issues with iSWE Agent",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "67301655b343925f660ad972ca15826bd10fb7da",
+  "title": "Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "3b778cfbf9d8a3b551922ad29fcf58252c965de0",
+  "title": "The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "245d4d3631a31289e11fed0f0e0b0f63b853e2e8",
+  "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "aa4b4a13b9d3af6ebf3ca790bac5af631d17559f",
+  "title": "From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "a6a985a7b49993ec4131add628a26ab67aa96bd7",
+  "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "a82a683a61862e69ac7f3b14924d631a6fbd5165",
+  "title": "Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "045adff0c7ca3738616bc8bb7f0e59bc2ca4a8b2",
+  "title": "Cross-Layer Semantic Flow Reconstruction for Attack Detection in Agentic Systems",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "9d6d4223b68748fe570f21ef8f3e174d2e6b4684",
+  "title": "OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "d7cce91098d8acce5d0f0f806117c8341caaf9f0",
+  "title": "Can AI Agents Agree?",
+  "date": "2026-03-01"
+ }
+]

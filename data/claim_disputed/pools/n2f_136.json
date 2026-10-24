@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_540b5b4919d345e4da3cc4f3e8a7862329bf41a2",
+   "title": "What makes ImageNet good for transfer learning?",
+   "is_B": true
+  },
+  {
+   "id": "7d0effebfa4bed19b6ba41f3af5b7e5b6890de87",
+   "title": "Context Encoders: Feature Learning by Inpainting",
+   "date": "2016-04-25"
+  },
+  {
+   "id": "2f4df08d9072fc2ac181b7fced6a245315ce05c8",
+   "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+   "date": "2013-11-11"
+  },
+  {
+   "id": "c426ba865e9158a0f7962a86a50575aa943051b1",
+   "title": "Learning Image Representations Tied to Ego-Motion",
+   "date": "2015-05-08"
+  },
+  {
+   "id": "8201e6e687f2de477258e9be53ba7b73ee30d7de",
+   "title": "Colorful Image Colorization",
+   "date": "2016-03-28"
+  },
+  {
+   "id": "394cbf2d589eadcfbdbdaaed65c77532b9c856af",
+   "title": "Unsupervised Feature Learning from Temporal Data",
+   "date": "2015-04-09"
+  },
+  {
+   "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+   "title": "Auto-Encoding Variational Bayes",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "8e63784bd5a24d5e3035e2a11753e65e6e56625d",
+   "title": "Learning Representations for Automatic Colorization",
+   "date": "2016-03-22"
+  },
+  {
+   "id": "1109b663453e78a59e4f66446d71720ac58cec25",
+   "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+   "date": "2013-12-21"
+  },
+  {
+   "id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+   "title": "Intriguing properties of neural networks",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "532fe2f30b0a3d6a5c8e95a4488b6d5eaeac5751",
+   "title": "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding",
+   "date": "2015-11-21"
+  },
+  {
+   "id": "2ec8f7e0257a07d3914322b36072d1bbcd58a1e0",
+   "title": "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles",
+   "date": "2016-03-30"
+  },
+  {
+   "id": "e15cf50aa89fee8535703b9f9512fca5bfc43327",
+   "title": "Going deeper with convolutions",
+   "date": "2014-09-16"
+  },
+  {
+   "id": "6270baedeba28001cd1b563a199335720d6e0fe0",
+   "title": "CNN Features Off-the-Shelf: An Astounding Baseline for Recognition",
+   "date": "2014-03-23"
+  },
+  {
+   "id": "fc1b1c9364c58ec406f494dd944b609a6a038ba6",
+   "title": "Unsupervised Visual Representation Learning by Context Prediction",
+   "date": "2015-05-19"
+  },
+  {
+   "id": "66d4475f0eee4b65983e06b1fbafad533eb81b2a",
+   "title": "Human Pose Estimation with Iterative Error Feedback",
+   "date": "2015-07-23"
+  },
+  {
+   "id": "dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71",
+   "title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "1e9b1f6061ef779e3ad0819c2832a29168eaeb9d",
+   "title": "Instance-Aware Semantic Segmentation via Multi-task Network Cascades",
+   "date": "2015-12-14"
+  },
+  {
+   "id": "fdf25ecea3c687163b8e14d4b94a84beee7e7fd1",
+   "title": "Understanding Intra-Class Knowledge Inside CNN",
+   "date": "2015-07-09"
+  }
+ ],
+ "n_candidates": 41,
+ "sims": [
+  0.3682,
+  0.3647,
+  0.3645,
+  0.3637,
+  0.3635,
+  0.3628,
+  0.3616,
+  0.3615,
+  0.3567,
+  0.3555,
+  0.3518,
+  0.3502,
+  0.3483,
+  0.3448,
+  0.339,
+  0.3375,
+  0.3357,
+  0.3352,
+  0.3308
+ ]
+}

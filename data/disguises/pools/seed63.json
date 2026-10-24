@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_737fdfa27501872221c840516d1b5db085d488fd",
+   "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+   "date": "2026-03-27",
+   "is_B": true
+  },
+  {
+   "id": "f22f1c02bab0719056c3ad399a336f3c32883249",
+   "title": "Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering",
+   "date": "2024-03-05"
+  },
+  {
+   "id": "19261c6ad20c6c1e5585a8afcb88196173cbc8a6",
+   "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+   "date": "2024-01-25"
+  },
+  {
+   "id": "f48b6e503ab68a50a77af89c9d6d4d22422a2a3d",
+   "title": "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
+   "date": "2025-05-06"
+  },
+  {
+   "id": "13811c0afa6388653e8504fe4e136a9dc4d68f96",
+   "title": "WebCode2M: A Real-World Dataset for Code Generation from Webpage Designs",
+   "date": "2024-04-09"
+  },
+  {
+   "id": "29af66d6eefbb0117c0bdfbe1eef84727b70d3b6",
+   "title": "Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset",
+   "date": "2024-03-14"
+  },
+  {
+   "id": "1d59c7a29723aa56271ff0252b79fb378655cf21",
+   "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+   "date": "2024-10-04"
+  },
+  {
+   "id": "afe0998d191f3ea8490c7df100a3ffc5dcc62c5e",
+   "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "94a5f96308729e31c1ffbc0f0618db87795092fe",
+   "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "15538df854dd33351dfb5cefd7e8f3340c8936c3",
+   "title": "Qwen3-VL Technical Report",
+   "date": "2025-11-26"
+  },
+  {
+   "id": "3793a5f435fef59a901f5ba0d8ef43df88d97161",
+   "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+   "date": "2024-01-14"
+  },
+  {
+   "id": "e24424283c02fbe7f641e5b3490d7bb059f8355a",
+   "title": "A Survey on LLM-as-a-Judge",
+   "date": "2024-11-23"
+  },
+  {
+   "id": "e61c7d1d89c5c696a3c80112caae210ea9169854",
+   "title": "A Survey on Code Generation with LLM-based Agents",
+   "date": "2025-07-31"
+  },
+  {
+   "id": "a38e0f993e4805ba8a9beae4c275c91ffcec01df",
+   "title": "Program Synthesis with Large Language Models",
+   "date": "2021-08-16"
+  },
+  {
+   "id": "1d07e5b6f978cf69c0186f3d5f434fa92d471e46",
+   "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+   "date": "2024-07-23"
+  },
+  {
+   "id": "63d1b0175eadfd0021e0391f120e606505587777",
+   "title": "CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules",
+   "date": "2023-10-13"
+  },
+  {
+   "id": "47c3b8dd2c8a9326249ac98900b2c3fc71f46ab1",
+   "title": "Self-Planning Code Generation with Large Language Models",
+   "date": "2023-03-12"
+  },
+  {
+   "id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+   "title": "Evaluating Large Language Models Trained on Code",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "78fbb6e7a1c568a04e8c935aa9909d0c942ea5f6",
+   "title": "Executable Code Actions Elicit Better LLM Agents",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "c125e647e2584c96b3ef0154cb4b00d185dae8ed",
+   "title": "ToolCoder: Teach Code Generation Models to use API search tools",
+   "date": "2023-05-06"
+  }
+ ],
+ "n_candidates": 20,
+ "sims": [
+  0.7104,
+  0.7031,
+  0.6803,
+  0.6757,
+  0.6454,
+  0.6128,
+  0.6081,
+  0.5575,
+  0.5511,
+  0.5248,
+  0.5131,
+  0.4943,
+  0.4907,
+  0.4773,
+  0.4672,
+  0.4663,
+  0.4384,
+  0.4246,
+  0.4173
+ ]
+}

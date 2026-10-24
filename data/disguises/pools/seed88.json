@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_326899ef5fc78ba2833a44df759a59be84b944c8",
+   "title": "Orthogonal Concept Erasure for Diffusion Models",
+   "date": "2026-05-27",
+   "is_B": true
+  },
+  {
+   "id": "e9ec56a63de15fa6c9e59c2a67f18ee822887e66",
+   "title": "SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models",
+   "date": "2025-03-10"
+  },
+  {
+   "id": "71e248d2a56d64ea60d467db12d44843aed48f95",
+   "title": "CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models",
+   "date": "2025-05-19"
+  },
+  {
+   "id": "e74b997e990e5d0eaff9bb68237ed89dbd98dc3b",
+   "title": "Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters",
+   "date": "2024-12-09"
+  },
+  {
+   "id": "1a907cda901dc8039e1d04838ff217fdbcacd2e6",
+   "title": "Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "0ee18e29f406ebbbd83c1d3493a7d9db5884a473",
+   "title": "Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models",
+   "date": "2024-07-17"
+  },
+  {
+   "id": "8e4c49262a4e3c60e3ce0c5555f9b2bd132b775e",
+   "title": "STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models",
+   "date": "2024-08-29"
+  },
+  {
+   "id": "20fd94f3d477a48ec6e010e8fa118822ce8302d2",
+   "title": "Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "9b9530803880610a8f97d35810dedb0a37cb51cf",
+   "title": "Mass Concept Erasure in Diffusion Models with Concept Hierarchy",
+   "date": "2026-01-06"
+  },
+  {
+   "id": "0ac60ef347eddc1ace9b66e40099ab2b73de5918",
+   "title": "Minimalist Concept Erasure in Generative Models",
+   "date": "2025-07-16"
+  },
+  {
+   "id": "f7d06f44a15cb1e7f3bb7c50864a231e4f4982f1",
+   "title": "One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications",
+   "date": "2023-12-26"
+  },
+  {
+   "id": "e2c4d24aa47535857ab791f270b1506a8009cc12",
+   "title": "ICE: Intercede Concept Erasure in Text-to-Image Diffusion Models",
+   "date": "2025-10-27"
+  },
+  {
+   "id": "273132e38242477861513b586ef5ee6d5262524e",
+   "title": "EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers",
+   "date": "2024-12-29"
+  },
+  {
+   "id": "29c925174f0b72503b5d1c20d086ad9cbdaf43a4",
+   "title": "RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining",
+   "date": "2024-10-11"
+  },
+  {
+   "id": "9ddc2c98a0fc2f4b8b2647990ea7f2fbf9a2d061",
+   "title": "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "13c15ba00c55e1e00580ea68c55c69e32a32a137",
+   "title": "SuMa: A Subspace Mapping Approach for Robust and Effective Concept Erasure in Text-to-Image Diffusion Models",
+   "date": "2025-09-06"
+  },
+  {
+   "id": "e367992ca8deed39d18717a3ef08aa05a94128c0",
+   "title": "Unified Concept Editing in Diffusion Models",
+   "date": "2023-08-25"
+  },
+  {
+   "id": "808b6f529e9463f1606b0b1c16d68ab1103201aa",
+   "title": "EraseFlow: Learning Concept Erasure Policies via GFlowNet-Driven Alignment",
+   "date": "2025-11-02"
+  },
+  {
+   "id": "7a106b9e32a40b523e80ef1ef262f39213aeed81",
+   "title": "Erasing Concepts from Diffusion Models",
+   "date": "2023-03-13"
+  },
+  {
+   "id": "39aac6ce0c7861b561f0029d54567fa0c283c96c",
+   "title": "Set You Straight: Auto-Steering Denoising Trajectories to Sidestep Unwanted Concepts",
+   "date": "2025-04-17"
+  }
+ ],
+ "n_candidates": 51,
+ "sims": [
+  0.7927,
+  0.7809,
+  0.779,
+  0.7755,
+  0.7515,
+  0.7506,
+  0.7362,
+  0.732,
+  0.7272,
+  0.724,
+  0.7165,
+  0.6998,
+  0.6985,
+  0.687,
+  0.6746,
+  0.6708,
+  0.6626,
+  0.6571,
+  0.6526
+ ]
+}

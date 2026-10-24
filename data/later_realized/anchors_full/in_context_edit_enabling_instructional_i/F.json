@@ -1,0 +1,377 @@
+[
+ {
+  "id": "896ced93fea57a00324d293f33c685b59ade53a7",
+  "title": "WeAgent-MMGenEdit: A Full-Stack Recipe for Multimodal Agentic Image Generation and Editing",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "3b9ee0a4d52f464c7b3a1328f2ac4b48f5561057",
+  "title": "CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "d7924b09bea6d048ffab75b2bae7508ccea1f34c",
+  "title": "OrnaStyler: Ornament-Aware Latent Editing for Content-Preserving 3D Stylization",
+  "date": "2026-08-30"
+ },
+ {
+  "id": "bb3137a98a2d061919d32278e157b75dee7375d1",
+  "title": "EditaLive! Unified Character Video Editing for Live Streaming",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "aca691c528235551cda1b852c0650388f015a9bd",
+  "title": "TransPhy: Visual In-Context Learning for Physically Grounded Image Editing",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "12724a3d7c3b0cae1202914cef55fc7d09cb6aca",
+  "title": "ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "cd6ab07044362beb8878922dcb147e0beb9460c0",
+  "title": "MaskFlow: Precise, Consistent and Seamless Regional Image Editing",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "ba4ed149203f1153ac60c423310708439561ec96",
+  "title": "InsertFuse: A Unified Framework for Multi-Category Reference-Guided Image Insertion",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "1167e80c16ace730bafcb0641e73dc898a48f1c1",
+  "title": "InnoText: A Unified Model for Visual Text Generation and Editing",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "414ddf0f4f647f9ed3a05cc4f10ca54f1120269b",
+  "title": "MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "6af08724d03e6a28cfaa5563fae881830729c186",
+  "title": "FabricTryOn: Taming Image Editing Models for Garment Re-Texturing",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "e511615b2625482859cefa1831233bcd4d0ee233",
+  "title": "DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "7c5cc10af1f57a91724d765bf99565986d05a775",
+  "title": "EditVerse3D: High-Quality 3D Object Editing with Region-Aware Learning",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "4e6a0a38183c7a3b536407f5cf60ebb31eb05010",
+  "title": "XPlainVerse: A Million-Scale Benchmark for Explainable Deepfake Detection",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "01e7fe9a2e6bc424fdc9049720793c235bd1b245",
+  "title": "DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "37ab20a3e95eafe4b76b2d88f62a01c049add084",
+  "title": "DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "98681212b635bf8a5e05fed0b7f8f5bf3c47a843",
+  "title": "GMO-E2DIT: Grounded Multi-Operation Editing for E-Commerce Images",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "e909a908a17647b7403703f6ba483514ecd817e7",
+  "title": "PiGIE: Proximal policy optimization guided diffusion for fine-grained image editing.",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "95aefafefac56fc8e86483503af7daa22d90923e",
+  "title": "SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "6f4b1ab7d3d648b2125c1883edd6a26fdc0885aa",
+  "title": "Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "7c226175118af4c463af54986f32686768fe55a5",
+  "title": "Seeing Without Exposing: Adaptive Privacy Control for Open-World, Context-Hungry MLLMs",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "7ad50c68f40305627c0c754a2f70c0ef99e42227",
+  "title": "Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "761537ac248e21e3c57be1011f074b5d7f5ae2af",
+  "title": "Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "7142a5ca440e893893ac1cae06c36da58d510c9a",
+  "title": "InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "723252e6c15d07e714af3de14cfbb1ad6fdc5ec4",
+  "title": "MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "fa218f67cbf4248590555b72594b7fd88f41b05e",
+  "title": "VICR: Visual In-Context Restoration for Real-World Image Super-Resolution",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "621840b0722ecb5ae23fda266c19513e13ca67d8",
+  "title": "CV-Arena: An Open Benchmark for Instructional Computer Vision Problem Solving with Human-AI Collaborative Preferences",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "5ffaab0c5d9aec32f7972451e35a0a33dcb38df4",
+  "title": "Vision-Language Binding in In-Context Image Generation",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "b131fbb9c3114fd6eae3d71a739f93765b2c1d5f",
+  "title": "VINS-120K: Ultra High-Resolution Image Editing with A Large-Scale Dataset",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "e4821251c55d48fa38b458721340d1d217eef2b3",
+  "title": "AesFormer: Transform Everyday Photos into Beautiful Memories",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "060ffcf2b68d54fd77b21292aaf630125fc073b4",
+  "title": "Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "50099ec0de2043e989a186a2c4b605ffa7fdc3ea",
+  "title": "GeoR-Bench: Evaluating Geoscience Visual Reasoning",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "3899c1309f95f332eddf4b43fa305848214cd732",
+  "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "3f8596d9075121c02b48e9a5aa6b4ff2053be009",
+  "title": "HiDream-O1-Image: A Natively Unified Image Generative Foundation Model with Pixel-level Unified Transformer",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "bca600b8611dd2056598ab5617a1dc3bc3d3892e",
+  "title": "EditTransfer++: Toward Faithful and Efficient Visual-Prompt-Guided Image Editing",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "1798153c6d12e6c8710584982f298d814bf77eab",
+  "title": "JoyAI-Image: Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "b6f416db6773802e499df51b1a4fc4ee3755c275",
+  "title": "Semantic-Structural Alignment for Generative Pictorial Charts",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "17b4b638611234a0f1839af4c9df059521bb7ae1",
+  "title": "Meta-CoT: Enhancing Granularity and Generalization in Image Editing",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "ac4e6dec65b5a1d61d74ed359464829bc2b41676",
+  "title": "UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "0e311df7d18367e4b3286d3e5f4a5abb5c66482a",
+  "title": "FluSplat: Sparse-View 3D Editing without Test-Time Optimization",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "11e720a2615f243e9a6a9cfab4162335a9d90317",
+  "title": "UniGeo: Unifying Geometric Guidance for Camera-Controllable Image Editing via Video Models",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "1d06e873291f65ae73a0980b5f0de23d182432ee",
+  "title": "Towards In-Context Tone Style Transfer with A Large-Scale Triplet Dataset",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "361c6a15e2978796436234db4d93605a9d793744",
+  "title": "Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "2fabac0690e81e248847e5b43c8913a96ee5b572",
+  "title": "FineEdit: Fine-Grained Image Edit with Bounding Box Guidance",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "698cfdbcf13abdb871182d4669902e919a6e5ab7",
+  "title": "RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "1497de33767615048613981e98c32098d2cab3fa",
+  "title": "MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "7b73edd43f73c44d018119dd4fea1ec95c525a79",
+  "title": "Reflection Generation for Composite Image Using Diffusion Model",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "2a3f308def6246f7b869c91167fcfc2bad585d22",
+  "title": "TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "dbbc7e97b2afda34543bb369d29b41fe8d1f5bf4",
+  "title": "FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "80d723b952ed2278b0700147d6c20e2553337b0a",
+  "title": "OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "4b0d464df00c4aa78ce5db6be2827a5eb6c15def",
+  "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "030150ee8e14f004acf9ce4e068a5f31d7618bb9",
+  "title": "CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "198e671a3627c972ee69aa9962f6d8e23be53a3c",
+  "title": "Live Interactive Training for Video Segmentation",
+  "date": "2026-03-27"
+ },
+ {
+  "id": "b91038570e53a7cf1e70e51c57a8c551463c07cb",
+  "title": "Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "556e79f2f93d4a04ba00707d4a514334ec524c97",
+  "title": "Language-Free Generative Editing from One Visual Example",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "a15ec28296867e70e5a216eae885b9b80345965c",
+  "title": "Towards Training-Free Scene Text Editing",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "4ed0b30bd71c5a0e6f53a46e5e5cce78f3e88757",
+  "title": "FontCrafter: High-Fidelity Element-Driven Artistic Font Creation with Visual In-Context Generation",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "40f3439b4a1719440f8d1dd692a5540e651842e0",
+  "title": "GIDE: Unlocking Diffusion LLMs for Precise Training-Free Image Editing",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "921f12d6d3169fda0a238c52f80a4f0ee7c1059a",
+  "title": "Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "c110ddef4061f8bda9bc73b8801b09433a70c7eb",
+  "title": "Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "a883f479d5f5651a048b08aefaa21738e7187aa4",
+  "title": "Mixture of Style Experts for Diverse Image Stylization",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "216500601d5978b15f8f4784a0723236b9462be7",
+  "title": "Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "0a8f9f03877521d468576a3cbaa513d8eae5f1b3",
+  "title": "Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "2303f66ee43afb4eef1dc6d519509c9c2dc9a8c7",
+  "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "b93c1d3ea2603ecbc92340d58a98683befeee636",
+  "title": "Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "02a6f8bb63d133ac71edb5ca305f0d7ceb7c8c46",
+  "title": "WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "070532f94401be82263dabba0726775156bda977",
+  "title": "A2-Edit: Precise Reference-Guided Image Editing of Arbitrary Objects and Ambiguous Masks",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "4af2aec95eade8606b714a6a7c09c1a9d1105b6a",
+  "title": "CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "f75aef5a0d6906fbf232643097d758a7f7b2f133",
+  "title": "ImageEdit-R1: Boosting Multi-Agent Image Editing via Reinforcement Learning",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "1ab47deb2691d45fcd6db8405a3ca2f8508f0f0d",
+  "title": "InnoAds-Composer: Efficient Condition Composition for E-Commerce Poster Generation",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "cd55f1f1737baf1594791ec82cafb886c3dc081a",
+  "title": "Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "231d592e31b148e2e99dee1afec4fde90603c800",
+  "title": "InterCoG: Towards Spatially Precise Image Editing with Interleaved Chain-of-Grounding Reasoning",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "deb171c5d0949e6a103ae7d77909db25c7d5560e",
+  "title": "Generative Visual Chain-of-Thought for Image Editing",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "678c5ae3fc245b17c14753b349fba03605d48f9c",
+  "title": "Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "af1418c79957a053c0e171d95e8346883104e472",
+  "title": "BeautyGRPO: Aesthetic Alignment for Face Retouching via Dynamic Path Guidance and Fine-Grained Preference Modeling",
+  "date": "2026-03-01"
+ }
+]

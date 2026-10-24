@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_c4c0cfc77796131e012ecf267cad13eecdf85572",
+   "title": "Guess What Moves: Unsupervised Video and Image Segmentation by Anticipating Motion",
+   "is_B": true
+  },
+  {
+   "id": "46bd741c6a49a097d2893a7442a40feb9e31d502",
+   "title": "Self-supervised Video Object Segmentation by Motion Grouping",
+   "date": "2021-04-15"
+  },
+  {
+   "id": "bd484035307a97c673c2dce9a201eb93c2c21e7d",
+   "title": "Learning to Segment Moving Objects",
+   "date": "2017-12-01"
+  },
+  {
+   "id": "122df510c779e0f3efa29794dfe689673243fd7b",
+   "title": "Self-Supervision By Prediction For Object Discovery In Videos",
+   "date": "2021-03-09"
+  },
+  {
+   "id": "4e1fb957d851f58b0b5ddedd6e4b7ad8c7848204",
+   "title": "Segmenting Moving Objects via an Object-Centric Layered Representation",
+   "date": "2022-07-05"
+  },
+  {
+   "id": "95805eb7ab0edcd05128cf0256feaea8e2497de9",
+   "title": "Conditional Object-Centric Learning from Video",
+   "date": "2021-11-24"
+  },
+  {
+   "id": "03dc0e226da9cee801ade2886cdde42bbe54065a",
+   "title": "EM-Driven Unsupervised Learning for Efficient Motion Segmentation",
+   "date": "2022-01-06"
+  },
+  {
+   "id": "d5e61fb0c41580a52d9e5cebdf36652012c7fc46",
+   "title": "DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping*",
+   "date": "2021-06-01"
+  },
+  {
+   "id": "805b0b01a6a2c0346b1edb4ebd9226fb56987588",
+   "title": "Discovering Objects that Can Move",
+   "date": "2022-03-18"
+  },
+  {
+   "id": "113a2eb4c92c05b3d9f5d13c2ece694da10c1a29",
+   "title": "It's Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos",
+   "date": "2016-04-01"
+  },
+  {
+   "id": "6419160675cfb2999a9a7cb5ca226383f3b21db0",
+   "title": "The Emergence of Objectness: Learning Zero-Shot Segmentation from Videos",
+   "date": "2021-11-11"
+  },
+  {
+   "id": "9792f38e108f5bd25a31ff39bc73956eec0aa32a",
+   "title": "Object Concepts Emerge from Motion",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "90034490abbbeaff8b9e1d602a64d69215600244",
+   "title": "FusionSeg: Learning to Combine Motion and Appearance for Fully Automatic Segmentation of Generic Objects in Videos",
+   "date": "2017-01-19"
+  },
+  {
+   "id": "1c3bcf6a760cb787f9beab00a07111cddae76596",
+   "title": "Betrayed by Motion: Camouflaged Object Discovery via Motion Segmentation",
+   "date": "2020-11-23"
+  },
+  {
+   "id": "6de213be7dd45672852ae946440d639cc3d8ddb7",
+   "title": "Unsupervised Video Decomposition using Spatio-temporal Iterative Inference",
+   "date": "2020-06-25"
+  },
+  {
+   "id": "cb1c0d6be4c22c1f18b0ba20dddd93890f17add6",
+   "title": "One-Shot Video Object Segmentation",
+   "date": "2016-11-16"
+  },
+  {
+   "id": "3db3adb88532c9b8f3de0046a16753e7230c01b0",
+   "title": "Instance Embedding Transfer to Unsupervised Video Object Segmentation",
+   "date": "2018-01-03"
+  },
+  {
+   "id": "26c1f4b14eb830f5595b74115578f00b1c27844e",
+   "title": "Unsupervised Moving Object Detection via Contextual Information Separation",
+   "date": "2019-01-10"
+  },
+  {
+   "id": "6888dd6746553c6cb9b7ae44f56cb1351043c53e",
+   "title": "Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation",
+   "date": "2020-03-29"
+  },
+  {
+   "id": "c764e2232b4fb9ddcb09c25185c28e0d6ba76e25",
+   "title": "Exploiting Spatial Invariance for Scalable Unsupervised Object Tracking",
+   "date": "2019-11-20"
+  }
+ ],
+ "n_candidates": 76,
+ "sims": [
+  0.8198,
+  0.7655,
+  0.7463,
+  0.7412,
+  0.7405,
+  0.7343,
+  0.7226,
+  0.7217,
+  0.7193,
+  0.7008,
+  0.6954,
+  0.6829,
+  0.6822,
+  0.675,
+  0.6557,
+  0.6467,
+  0.6433,
+  0.6419,
+  0.6386
+ ]
+}

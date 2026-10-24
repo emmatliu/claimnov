@@ -1,0 +1,397 @@
+[
+ {
+  "id": "df2538a97f836544b3f6fcf8838c88bcc3e6ae15",
+  "title": "CR-VLA-Force: Learning Control-aware Compliance VLA Model for Robust Contact-rich Robotic Manipulation",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "99144a8ac0261639c298c5b4b50e6627ec1a7706",
+  "title": "TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation",
+  "date": "2026-09-04"
+ },
+ {
+  "id": "6041db9d1d39adbaba0c16dd37ccabbe84270d78",
+  "title": "FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "ea7a13eb0260462063cde6e17b6e3dee195ec3d0",
+  "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "a01f9ac4e122996a8e5d78580656a6236bee70a7",
+  "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+  "date": "2026-08-26"
+ },
+ {
+  "id": "d8942be6f33bb880ed17bb0d51c5380278d1ef79",
+  "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "adafaae689f2f36b6b0b4a84d8b9fc89249908fa",
+  "title": "UniReflex: Plug-and-Play Force Control for Pretrained Generative Policies via Fast-Slow Reflex",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "9372d4c05efab9110eed13fc9aeaa2f7ab4ffc90",
+  "title": "PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "7c5916bb7eb6cc6bd25a0310429c9f64aa259c6d",
+  "title": "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "122203ccf3e724533b3fb7ae3dd62662f7c3d1a0",
+  "title": "Systematic Literature Review of Vision-Language-Action Models for Generalist Robots",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "fde316b17639eed471e7c63dbf56b1350f9e9e97",
+  "title": "PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "3503906f19906a2ccbf548476f6427d56e98cd3c",
+  "title": "ForceU-VLA: A Force-Aware Vision-Language-Action Model for Embodied Ultrasound Scanning",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "e8bd9b871dee5231b01a8b9baff46fda60083365",
+  "title": "Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "3880d3e43f4a79921987ecd9e0009ed58ab7d965",
+  "title": "Robust and Adaptive Compliant Deep Reinforcement Learning With Vision-Force Integration for Embodied Multiple Peg-in-Hole Assembly",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "748736326bfc17fcec77c541da824cc8e8215902",
+  "title": "FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "5fb1c6b3fb13d821345279e22bdf015c70fbeed5",
+  "title": "Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "6a7449731ae28371d3245d9eb0ab94ad93f2c70f",
+  "title": "\u03c4: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "987ed9ba296a6eca0e2cfa54265b540f506da8a4",
+  "title": "N0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "3647864e1caf0177b71c41353430c637f3c328a3",
+  "title": "N0-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "bc5dcc09909ec01d898399a7db2709056aca1c81",
+  "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "3e055708cbf1067c9e369eefed34d65bce42df40",
+  "title": "FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "7ba7ebff85b9968a64d26f2d7391ad8c30cdd562",
+  "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "16f188bea65392a113be6ae754a9b223bdb10ec6",
+  "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "a70c6877517a18742552de14a6ac1d63d27c68c0",
+  "title": "Asynchronous Multimodal Diffusion Policy Composition via Latency-Aware Guidance Fusion",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "d7fed4b1aec500c684991e9e0da82d8aa01ba39b",
+  "title": "Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "19d93250c788e00830872a8e8981b589419c04ac",
+  "title": "Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "ce57d678ab254b8ed895e0ef7cd0e43871dbd468",
+  "title": "Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "b672a1841bc65916211ba7d5aa977ae9be02b5c8",
+  "title": "From Foundation to Application: Improving VLA Models in Practice",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "a7822adde9cb77f2505c035dfc97683653d63bea",
+  "title": "CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts",
+  "date": "2026-07-04"
+ },
+ {
+  "id": "1dd6d0797b832aba30a9e8fbee924fd6a6d5f2d4",
+  "title": "TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "ebe3693047a73e1febb06b6bba5cb2433f550fdd",
+  "title": "Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "d60a090176a20ef55dc01c69361a7300d133b94d",
+  "title": "VLA-Touch: Enhancing Vision-Language-Action Model With Dual-Level Tactile Feedback",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "de2db7779c991d9a4ee5d7e4c5b42793f8b9da71",
+  "title": "UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "6e777c6ac64afdfc5dd3332c271ca2da018000f1",
+  "title": "Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "223272c29062ac2b0d4f5d3ed0201e2d828aa619",
+  "title": "TAP-VLA: Tactile Annotation Prompting for Vision Language Action Models",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "75e8793d736c3808f5ec4a20bbf836a2cf107420",
+  "title": "CoRDE: Concept-Prior Routed Diffusion Experts for Structural Generalization in Robot Manipulation",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "624d10c2d29f97126555aba765a4c77436034f20",
+  "title": "Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "4ee9156c361cb52849893399744bd241703b8f25",
+  "title": "MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "cbdde509cef580ac93bb741ff0b8da89888d0174",
+  "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "41593529a8cf461b1ca41ffc93ed1ee7de0fd0c2",
+  "title": "Spatially Conditioned Diffusion Policy: Learning Precise and Robust Manipulation with a Single RGB Camera",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "a2bcd9da93550e44c31c1ccb4c596b71a0c6adde",
+  "title": "TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "b7ee709a487cd6b20f54c7768552ede0a7498690",
+  "title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "a351c4f032a7febe926524cfe4b55016d851a5ed",
+  "title": "FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "663308bca7dc9fd9a6b42cb7382a9c4af703bfe7",
+  "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "740c54ba17cc5d5933488961e5920d6503995226",
+  "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "bb3b0212812c9faa534c49abae08d8d67f362b01",
+  "title": "TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "40d63feec5b965bed9bfb983616dd10ba2fe17bc",
+  "title": "Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "207de93ed93ab0df5935066de0b942b16a751fa0",
+  "title": "A staged vision-force collaborative framework for precision robotic insertion of metallic valve components",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "0732a69cc2f7f0652276c28b243b43b589eeea0d",
+  "title": "HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "d4e4ef911e32de0e0bcd52bda041652175721588",
+  "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "da56859375e84b44e8555fd7d1e0b40f3f0201f2",
+  "title": "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "693ec993dd0737462feaeb5016cd8a86190e19c2",
+  "title": "ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "ad3936a877b1c4b3800939fcf70a4404b3d07719",
+  "title": "PROWL: Prioritized Regret-Driven Optimization for World Model Learning",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "9be60b5b6ec073a7cdb3ec4abacf08baec677ff9",
+  "title": "AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "9a72496f6ba6623dce0a1816600f90ede84d2991",
+  "title": "CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "69879622fca8a5ac846f457406a5ca67759b0b64",
+  "title": "An Empirical Study of Action and Observation Spaces for Imitation Learning in Contact-Rich Pushing",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "1e3bfbf78a85e0018f75fda7deee06830e516b18",
+  "title": "Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models",
+  "date": "2026-04-25"
+ },
+ {
+  "id": "13a2551df9abb084b5597e3a5dd3fa8aa1f6c2ad",
+  "title": "ActionX: pre-training action experts with reinforcement learning for vision-language action models",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "dc49380779772961119e508ea29e90a216687e62",
+  "title": "OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "3c5ca39e9e54f4684b9b34b912426c8ed7423914",
+  "title": "MoRI: Mixture of RL and IL Experts for Long-Horizon Manipulation Tasks",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "e9c03c3a3da64703583673c0f189e0a2b3b4c196",
+  "title": "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models",
+  "date": "2026-04-05"
+ },
+ {
+  "id": "191d5c929d1601f4d55a66f1f941d0df8598f192",
+  "title": "Redefining End-of-Life: Intelligent Automation for Electronics Remanufacturing Systems",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "4355f9f141ba27dd95115d11e2fcec79b98a05e4",
+  "title": "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "df5faf4f7e058a66de844ce2452738daa4e61a38",
+  "title": "ThermoAct: Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "bbf1b6fa80a126b35a654f2abebdbc472522eb8b",
+  "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "aba29793e59397d0d8119af1fdadffe2fba631a4",
+  "title": "KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "aebc2bcbedea71482322f8ce5fa69a558a71d1e6",
+  "title": "HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "ddc0b9883c50339479ec55cf3d8dd7088f66b024",
+  "title": "ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "d75eea84ecaa73e6c06cb9510c664b494d4d07a1",
+  "title": "Master Micro Residual Correction with Adaptive Tactile Fusion and Force-Mixed Control for Contact-Rich Manipulation",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "6633340eaac4cf6e5140a7862aae0100e8880d80",
+  "title": "Tactile Modality Fusion for Vision-Language-Action Models",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "9bef022cfa5744e22fe02a02252e4651e0aa6fad",
+  "title": "TacVLA: Contact-Aware Tactile Fusion for Robust Vision-Language-Action Manipulation",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "8bec1bb5a4ff53f811bfb9f67acdd2d1a94480dc",
+  "title": "CORAL: Scalable Multi-Task Robot Learning via LoRA Experts",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "7a9c74ddfe23647265fa528aecf448da63232460",
+  "title": "Cross-Hand Latent Representation for Vision-Language-Action Models",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "a360a116c8ea7e8a368ec911c1c904c254895cb3",
+  "title": "TATIC: Task-Aware Temporal Learning for Human Intent Inference from Physical Corrections in Human-Robot Collaboration",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "74be506a47a1da8624f971b826c79997a7cf49d2",
+  "title": "Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "0a0e41ffa6f9a47c6e51aecd27225d1e1ee0346f",
+  "title": "PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "f64a3802f4874b8af5c6af24f4076f076e4112d5",
+  "title": "MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "a5f3a7b776edce9cae0fe0ff86e6130f840610d4",
+  "title": "AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "fd8df150dd4752a126160a9107812c8f88f4e126",
+  "title": "SkillVLA: Tackling Combinatorial Diversity in Dual-Arm Manipulation via Skill Reuse",
+  "date": "2026-03-04"
+ }
+]

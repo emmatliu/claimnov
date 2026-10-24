@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_c8754ab478e2413dfdac514656633018ba296a32",
+   "title": "A Dirac-Frenkel-Onsager principle: Instantaneous residual minimization with gauge momentum for nonlinear parametrizations of PDE solutions",
+   "date": "2026-04-30",
+   "is_B": true
+  },
+  {
+   "id": "eaaa15bc371b4c04547e827dde853ec21ba49f78",
+   "title": "Randomized time stepping of nonlinearly parametrized solutions of evolution problems",
+   "date": "2025-12-22"
+  },
+  {
+   "id": "cf4d1a09ab706c58f59e4885953f1932527722b7",
+   "title": "Regularized dynamical parametric approximation",
+   "date": "2024-03-28"
+  },
+  {
+   "id": "7dce1324481f9ddb4b797e53f040bfea246faf6b",
+   "title": "Coupling parameter and particle dynamics for adaptive sampling in Neural Galerkin schemes",
+   "date": "2023-06-27"
+  },
+  {
+   "id": "ab54aab98b268d8cd8839aee03c4012354a36e8a",
+   "title": "Variationally Correct Neural Residual Regression for Parametric PDEs: On the Viability of Controlled Accuracy",
+   "date": "2024-05-30"
+  },
+  {
+   "id": "7c44fc1baf1f47d80235b28c7398387bb4d76a36",
+   "title": "Evolution of Nonlinear Reduced-Order Solutions for PDEs with Conserved Quantities",
+   "date": "2021-04-28"
+  },
+  {
+   "id": "d99de93bf2840cc46f345bc79ece190229de9b97",
+   "title": "Sequential-in-time training of nonlinear parametrizations for solving time-dependent partial differential equations",
+   "date": "2024-04-01"
+  },
+  {
+   "id": "8371f8ca8ef8620cc72267763f5af2dd1b7c460b",
+   "title": "A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks",
+   "date": "2023-04-28"
+  },
+  {
+   "id": "c05c72e0f180e7c13809138550205578eb084cfb",
+   "title": "Randomized Sparse Neural Galerkin Schemes for Solving Evolution Equations with Deep Networks",
+   "date": "2023-10-07"
+  },
+  {
+   "id": "4e6f3e8ed64625366fcf1ee14b5da38a824f0b4c",
+   "title": "A review of low-rank methods for time-dependent kinetic simulations",
+   "date": "2024-12-08"
+  },
+  {
+   "id": "a4ef99ef077b9e9fe5159070265bd7e6f360ff9b",
+   "title": "No need for a grid: Adaptive fully-flexible gaussians for the time-dependent Schr\\\"odinger equation",
+   "date": "2022-07-01"
+  },
+  {
+   "id": "f38c5a1909b51d83f343dcd8f5f14a51fc30f2da",
+   "title": "Neural Galerkin schemes with active learning for high-dimensional evolution equations",
+   "date": "2022-03-02"
+  },
+  {
+   "id": "1243a54adbaadc28e972789e3484baf805f5c6fd",
+   "title": "Solving high-dimensional partial differential equations using deep learning",
+   "date": "2017-07-09"
+  },
+  {
+   "id": "d86084808994ac54ef4840ae65295f3c0ec4decd",
+   "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+   "date": "2019-02-01"
+  },
+  {
+   "id": "108c1821046c36b1272e1b9cb09e7b0e877db2d7",
+   "title": "Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization",
+   "date": "2025-05-17"
+  },
+  {
+   "id": "76672efed5db4c61e00dfb5b886ef9efdf78635a",
+   "title": "Implicit Neural Spatial Representations for Time-dependent PDEs",
+   "date": "2022-09-30"
+  },
+  {
+   "id": "b4f0a02c1f5dd1f0d9847d9c26b1114d666d1b50",
+   "title": "Evolutional Deep Neural Network",
+   "date": "2021-03-18"
+  },
+  {
+   "id": "595da6e11bb315673d489b15ca9487c16f2545cc",
+   "title": "Model Reduction on Manifolds: A differential geometric framework",
+   "date": "2023-12-04"
+  },
+  {
+   "id": "0a5ad498569089f44ae4a5641440d29ea9bad439",
+   "title": "Particle-based energetic variational inference",
+   "date": "2020-04-14"
+  },
+  {
+   "id": "b381e85e962cfb572eafa001de3d4b41221ebf36",
+   "title": "A Kaczmarz-inspired approach to accelerate the optimization of neural network wavefunctions",
+   "date": "2024-01-18"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.6768,
+  0.6592,
+  0.6258,
+  0.617,
+  0.6138,
+  0.6008,
+  0.5844,
+  0.5753,
+  0.5734,
+  0.5722,
+  0.5659,
+  0.5655,
+  0.5518,
+  0.5504,
+  0.5453,
+  0.5208,
+  0.5167,
+  0.4687,
+  0.4627
+ ]
+}

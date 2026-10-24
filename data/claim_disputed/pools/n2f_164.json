@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3bfa808ce20b2736708c3fc0b9443635e3f133a7",
+   "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
+   "is_B": true
+  },
+  {
+   "id": "94194703e83b5447f519fd8bcbb903916e05aaf9",
+   "title": "Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View",
+   "date": "2019-09-07"
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network with Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "3a5af4545ee3ac3f413841c10c7605a1cefeb9e5",
+   "title": "Generalization and Representational Limits of Graph Neural Networks",
+   "date": "2020-02-14"
+  },
+  {
+   "id": "0a6a9e6d4e3efd7c69357769305b70097281655f",
+   "title": "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification",
+   "date": "2019-07-25"
+  },
+  {
+   "id": "edbad7d5a000a12a7829b6a9b2c5566910be3f08",
+   "title": "k-hop Graph Neural Networks",
+   "date": "2019-07-13"
+  },
+  {
+   "id": "38293873cce681b857b3c1d73f5590f641f3dc42",
+   "title": "PairNorm: Tackling Oversmoothing in GNNs",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "36652428740cd30d245d55889f01a7fb04a91c93",
+   "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+   "date": "2018-01-22"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  },
+  {
+   "id": "c2d40522eaa5523d67a0de5e4098e7031fdccb3d",
+   "title": "Pitfalls of Graph Neural Network Evaluation",
+   "date": "2018-11-14"
+  },
+  {
+   "id": "057b594c9e6ed45fc445a4dc45384117bdd15a3e",
+   "title": "Provably Powerful Graph Networks",
+   "date": "2019-05-27"
+  },
+  {
+   "id": "6ea57a2aea08ce0628c93f77bdc24c2f3e9cc6da",
+   "title": "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "3db5fcb595492dcd64663c00d56f004dfafa689c",
+   "title": "A Fair Comparison of Graph Neural Networks for Graph Classification",
+   "date": "2019-12-20"
+  },
+  {
+   "id": "f80be25edf309ab595fc76fddd8cefe8eb2e5a54",
+   "title": "GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation",
+   "date": "2019-06-28"
+  },
+  {
+   "id": "cd8a9914d50b0ac63315872530274d158d6aff09",
+   "title": "Modeling Relational Data with Graph Convolutional Networks",
+   "date": "2017-03-17"
+  },
+  {
+   "id": "5d1bfeed240709725c78bc72ea40e55410b373dc",
+   "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints",
+   "date": "2015-09-30"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "5f1d429ba574581ac14effe3ebab654a57dc0e39",
+   "title": "Learning to Represent Programs with Graphs",
+   "date": "2017-11-01"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.6878,
+  0.678,
+  0.6625,
+  0.6425,
+  0.6061,
+  0.5975,
+  0.586,
+  0.577,
+  0.5597,
+  0.558,
+  0.552,
+  0.5505,
+  0.5297,
+  0.5225,
+  0.5169,
+  0.5147,
+  0.5008,
+  0.4742,
+  0.4588
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_23b62b54c3a72e858341a9c3f38e7b89a9bf1744",
+   "title": "Variational Learning for Insertion-based Generation",
+   "date": "2026-06-01",
+   "is_B": true
+  },
+  {
+   "id": "063eee315e864f0842d3074629dccc4bb36d19e7",
+   "title": "Discovering Non-monotonic Autoregressive Orderings with Variational Inference",
+   "date": "2021-10-27"
+  },
+  {
+   "id": "ba2e1d81c03ae0b2b493517c60cd40edfab37989",
+   "title": "Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions",
+   "date": "2025-05-09"
+  },
+  {
+   "id": "58d34a4fb936ffe95917d8fb4016ff5e3520429a",
+   "title": "Insertion Transformer: Flexible Sequence Generation via Insertion Operations",
+   "date": "2019-02-08"
+  },
+  {
+   "id": "132b07740db20df2c36d6f939d296a7e941feac7",
+   "title": "Insertion-based Decoding with Automatically Inferred Generation Order",
+   "date": "2019-02-04"
+  },
+  {
+   "id": "130277ff64c7171c90d98d7e73f4bda8a0b0c1f9",
+   "title": "KERMIT: Generative Insertion-Based Modeling for Sequences",
+   "date": "2019-06-04"
+  },
+  {
+   "id": "753f2ba88fb4e50dd91c30db5264497f60c3f0e0",
+   "title": "The Insertion Encoding of Permutations",
+   "date": "2005-09-19"
+  },
+  {
+   "id": "ef10a451a1aaaf51aeeef0802fcc4d35d3d51927",
+   "title": "Learning-Order Autoregressive Models with Application to Molecular Graph Generation",
+   "date": "2025-03-07"
+  },
+  {
+   "id": "bc419a73a07e0416013fe136a283d556fb6d467e",
+   "title": "DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-size Canvas",
+   "date": "2026-02-01"
+  },
+  {
+   "id": "1bed8c7541381b1f79027c240b64c9276573fc3c",
+   "title": "Simplified and Generalized Masked Diffusion for Discrete Data",
+   "date": "2024-06-06"
+  },
+  {
+   "id": "ce806f8d32f6fb1eaa821248a1bc4fa2cd949fbb",
+   "title": "Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution",
+   "date": "2023-10-25"
+  },
+  {
+   "id": "a9ac6c4b165d8c4bf1a949d0931e7ca7a21fc55b",
+   "title": "Discrete Flow Matching",
+   "date": "2024-07-22"
+  },
+  {
+   "id": "0bce17fdfd4872b16c97a89516a24a092cdc3616",
+   "title": "Blank Language Models",
+   "date": "2020-02-08"
+  },
+  {
+   "id": "7a73cc4bc0ce80661b5acbb51bbde30ea5167280",
+   "title": "Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data",
+   "date": "2024-06-06"
+  },
+  {
+   "id": "91b32fc0a23f0af53229fceaae9cce43a0406d2e",
+   "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "f8d357d38bbcdd93889fe71762eb57842b2ab063",
+   "title": "Simple and Effective Masked Diffusion Language Models",
+   "date": "2024-06-11"
+  },
+  {
+   "id": "a3fdb2e08bd0a632184918ea9b177144f478c18d",
+   "title": "Screening of multi deep learning-based de novo molecular generation models and their application for specific target molecular generation",
+   "date": "2025-02-05"
+  },
+  {
+   "id": "3736aaf67f88bad4a7fe7b4ac386c454393e2c47",
+   "title": "Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement",
+   "date": "2019-03-14"
+  },
+  {
+   "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+   "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+   "date": "2014-09-01"
+  },
+  {
+   "id": "705fd4febe2fff810d2f72f48dcda20826eca77a",
+   "title": "A Deep and Tractable Density Estimator",
+   "date": "2013-10-07"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.7353,
+  0.7015,
+  0.6595,
+  0.6307,
+  0.6243,
+  0.5748,
+  0.5743,
+  0.5378,
+  0.4914,
+  0.4853,
+  0.4825,
+  0.475,
+  0.4501,
+  0.4488,
+  0.4473,
+  0.4431,
+  0.4141,
+  0.4092,
+  0.4074
+ ]
+}

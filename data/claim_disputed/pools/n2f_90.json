@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4a73a1840945e87583d89ca0216a2c449d50a4a3",
+   "title": "Deformable Convolutional Networks",
+   "is_B": true
+  },
+  {
+   "id": "6f34b9a4a0e2ee90e86ed720dc26cc6ba9da8df0",
+   "title": "Dilated Residual Networks",
+   "date": "2017-05-28"
+  },
+  {
+   "id": "6befc9fac6846df9f27e91ffbad5de58b77ffef1",
+   "title": "Structured Receptive Fields in CNNs",
+   "date": "2016-05-10"
+  },
+  {
+   "id": "b9bc7f799ad6198ca085077710f31b77bd3ce77b",
+   "title": "Locally Scale-Invariant Convolutional Neural Networks",
+   "date": "2014-12-16"
+  },
+  {
+   "id": "cbb19236820a96038d000dc629225d36e0b6294a",
+   "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+   "date": "2014-06-18"
+  },
+  {
+   "id": "7f5fc84819c0cf94b771fe15141f65b123f7b8ec",
+   "title": "Multi-Scale Context Aggregation by Dilated Convolutions",
+   "date": "2015-11-23"
+  },
+  {
+   "id": "e58a2289b13fe48044aa606644305b811614c355",
+   "title": "Active Convolution: Learning the Shape of Convolution for Image Classification",
+   "date": "2017-03-27"
+  },
+  {
+   "id": "39ad6c911f3351a3b390130a6e4265355b4d593b",
+   "title": "Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "dbb6ded623159c867fbeca0772db7b2eb9489523",
+   "title": "Spatial Transformer Networks",
+   "date": "2015-06-05"
+  },
+  {
+   "id": "cab372bc3824780cce20d9dd1c22d4df39ed081a",
+   "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+   "date": "2016-06-02"
+  },
+  {
+   "id": "01a4f33da8ad94ced3cf58548b28dbbb44148571",
+   "title": "Understanding the Effective Receptive Field in Deep Convolutional Neural Networks",
+   "date": "2016-12-05"
+  },
+  {
+   "id": "6fc6803df5f9ae505cae5b2f178ade4062c768d0",
+   "title": "Fully convolutional networks for semantic segmentation",
+   "date": "2014-11-14"
+  },
+  {
+   "id": "b5c26ab8767d046cb6e32d959fdf726aee89bb62",
+   "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
+   "date": "2016-02-23"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "aba48504f4f9563eafa44e0cfb22e1345d767c80",
+   "title": "Dynamic Filter Networks",
+   "date": "2016-05-31"
+  },
+  {
+   "id": "c705e85be5922d7ffa60418d49e75aeedf065a75",
+   "title": "DeepID-Net: Deformable deep convolutional neural networks for object detection",
+   "date": "2014-12-17"
+  },
+  {
+   "id": "049a5a81bd664c27a6f5c973f253c7664463d13b",
+   "title": "TI-POOLING: Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks",
+   "date": "2016-04-21"
+  },
+  {
+   "id": "b724c3f7ff395235b62537203ddeb710f0eb27bb",
+   "title": "R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+   "date": "2016-05-20"
+  },
+  {
+   "id": "b2e8f988e4c4ef0b38f6c8766aca7f2e5a2575db",
+   "title": "Exploiting Cyclic Symmetry in Convolutional Neural Networks",
+   "date": "2016-02-08"
+  },
+  {
+   "id": "244bae85fda807361a51d4b26a14ecb2b2f8776b",
+   "title": "Deformable part models are convolutional neural networks",
+   "date": "2014-09-18"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.6536,
+  0.6139,
+  0.609,
+  0.5962,
+  0.596,
+  0.5946,
+  0.5609,
+  0.5594,
+  0.5556,
+  0.5547,
+  0.5409,
+  0.5379,
+  0.5345,
+  0.5301,
+  0.5214,
+  0.52,
+  0.517,
+  0.5029,
+  0.5
+ ]
+}

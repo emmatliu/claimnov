@@ -1,0 +1,822 @@
+[
+ {
+  "id": "bfaadb53521fdb320ee9ba8ed3faf403b7145384",
+  "title": "RecurTrace: Adaptive Latent Reasoning with Loop-Time Memory",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "e7982db9f4aa251eb00982ee5dd964b05cefbe63",
+  "title": "Recommender System as Slow and Fast Thinkers",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "711bf56969ef6ee0764ffe1550aff44c617a0338",
+  "title": "Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "932212d447db50b8c350e730c17281ffe0a287bb",
+  "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "7c86817676a39c9817a8388e9db5b4e31920e417",
+  "title": "Looped Transformers under the Jacobian Lens: Does the Global Workspace Survive Recurrence?",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "ef286fb802b64af690330db35c8116c30a276675",
+  "title": "Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "f88beba5c0c9a12062fd586b148a46093626551b",
+  "title": "Latent Recurrent Thoughts: Recurrent Refinement of Proposed Latents for Reasoning with Frozen LLMs",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "c6fce04a38c98674967232de9d56cd1bc8acc17f",
+  "title": "Can Video World Models Track Unobserved World States?",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "efb310450c65fe352af25ae2ed8fb55218cedf1f",
+  "title": "Evaluating Tiny Recursive Models Across Training for Code Generation",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "e07b884456ba6f8b9e40f9a7b07cd9556231a13f",
+  "title": "Elastic Token Compression for Pixel-Space Diffusion Transformers",
+  "date": "2026-08-29"
+ },
+ {
+  "id": "032abd5102a3cdea5898579dc8c6363de85ee032",
+  "title": "Squeezing More from Limited Data with Recursive Transformers",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "6ef37229207bb66e833f785711aede8f4564bf0e",
+  "title": "Steering Recurrent Reasoners at Inference Time with Readout Feedback",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "da61fa32609b9939857b1da2aba6441271ad221b",
+  "title": "Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "ea60ff627ba51e702bbc7cb701a30b086ed21c29",
+  "title": "TANGO: Token-Aggregated Nonlinear Gating Operators for Natural and Formal Language Modeling",
+  "date": "2026-08-22"
+ },
+ {
+  "id": "dc2f20f9cacc775e23e5fd8add92362623fe2be0",
+  "title": "WhiteMatter: All-to-All Cross-Layer Connections via KV Mixing",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "e92b1a65d03dec8221b784eff49b3e13eff5faa4",
+  "title": "Recirculation",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "e8b97fe5e9f5988f3e8e7a43bcde4ecf9ec05037",
+  "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "17c3b959197af6e9c20c10febe11b279156fc1e5",
+  "title": "Allocating Recurrent Compute in Looped Language Models",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "401d4a881e06ec302ef490fa419ac157bae11700",
+  "title": "Think Shallow, Solve Deep: Controlling Recurrent Dynamics for Reliable Test-Time Depth",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "a3a00beb025b2525552294a9878335cb65065969",
+  "title": "Behaviour Is an Incomplete Measure of Reasoning Development: Cross-surface pre-arrival accessibility and the limits of developmental inference in a recurrent-depth reasoner",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "40b759468a6d3dd67fd18d92f64a92f934be88c0",
+  "title": "Looped Language Models Improve Compositional Tool Calling",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "c03a778e0990fb4d29374f667023896b97a03cde",
+  "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "70bbabcab5f8f6cd7d8d9ea3c2bfe5f1d2d85da0",
+  "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "d2583ba90f41cf3b8efc8ab7008eb81fba3639b9",
+  "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "e02ff1ae61669248c3ec959a4de7e2e1deaa9d47",
+  "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "715bebe44705b9bd340ea7dbcd8358ce1dac1feb",
+  "title": "Full-bandwidth transformer",
+  "date": "2026-08-09"
+ },
+ {
+  "id": "a9251dfcccd4720ede4363b0e9dcb023ce06d385",
+  "title": "Think Deep, Speak Once: Relit, A Recursive Latent Implicit Transformer Framework",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "4960b31077cd43c7d39a805f918dada573d482ce",
+  "title": "MACRO: Markov Chain Routing of Transformer Layers",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "3a1c270fe6ec1bcc3ecdd98a8ed77262014b54fe",
+  "title": "Iterate or Widen? When Test-Time Refinement Helps LiDAR Scene Completion: A Controlled Study of Evidence Geometry, Training Coverage, and Compute",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "aefde23f5fb3b0b6a28a0c465f015ffcb70b402b",
+  "title": "Does Out-of-Sight Equal Out-of-Mind in CoT Monitorability?",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "1b9c72b70048f679e2e29000b4efa64361ddeced",
+  "title": "The Ignition Is Real, and It Lives at the Readout: Latent composition, difficulty-clocked ignition, and the interface-constituted commit in a recurrent-depth reasoner",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "5431dc061ff6d63678903efe12dc3c423fed7b88",
+  "title": "Latent Thought Credit: Multi-Answer Credit Assignment for Latent Reasoning",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "607838d5b021ac960563ea866e4e77162b6b94b2",
+  "title": "TextNCA: Neural Cellular Automata for Language Modeling via Hierarchical Local Attention",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "0668899c8671ad8b4cf50eba5d70da665efe18dd",
+  "title": "Maglev: Sliding Recurrent Memory",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "a070a54f48186c4250d6fedc434ddf4be5609b7e",
+  "title": "Recursive Vision Language Models for General Symbolic Reasoning",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "e5e6972d158d9a5b2541818154f2f8474d0c93c4",
+  "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "fc08d55fa2e9a82e703f04186ee1e65db6bfa00a",
+  "title": "Looped Transformers with Source-Centered State Evolution",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "94a88ce8fa49f4830c268eba0eeca6b395e0c2b5",
+  "title": "ReLoop-UME: Recurrent Depth with Learnable Retrieval Registers for Universal Multimodal Embedding",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "ed22c19edb1dc77bd416c150f46731a6ca804288",
+  "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "694a6166907ec2fd6eec21acb01f40666d616532",
+  "title": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "b2f8364cd32a15f0f38ed196973114a89ee24fbc",
+  "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought",
+  "date": "2026-07-24"
+ },
+ {
+  "id": "65d991b5cb438b2bd5507508b0e77020ab9f50cd",
+  "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "a2cbd8da06e37487019e0070dd39f72fbeeaf176",
+  "title": "Memoir: Should a Model Write to Its Memory While It Thinks?",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "cc2660496f42cd06e388a91e4a28cfec2f6c9526",
+  "title": "Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "b969ad796dd4a5efbb3408525741a7ea7e53bb59",
+  "title": "Mobius Learning: Cyclic Depth Folding in Transformers",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "b52efbd66184c017ab28233e83109e45a241f574",
+  "title": "Hybrid self-supervised EEG emotion representation: masked reconstruction joint with mutual information bounds",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "cdbbce1a082e654debe5cdb646751331ed022b6c",
+  "title": "Mining Informative Interests via Latent Cross Reasoning for Search Enhanced Recommendation",
+  "date": "2026-07-19"
+ },
+ {
+  "id": "bd45a729fb11d103b474255cee0f17dee3779e21",
+  "title": "Training Continuous Chain of Thought Models: A Tale of Two Regimes",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "ae15fb17715ea90d600c0875e7e3df7cfec8208d",
+  "title": "Loop the Loopies!",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "273ff98365654bf4ca6364b7174479ad62589cd5",
+  "title": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "0b07dc2cc215712df4c4a6f743ceb754b4aafbec",
+  "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "42a101d26544828fa5657cd8a1f1b334dbb1f916",
+  "title": "Per-Token Fixed-Point Convergence in Depth-Recurrent Transformers",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "a2ee529627fdc36e33f89cbd156e1b356f33a35b",
+  "title": "DeepLoop: Depth Scaling for Looped Transformers",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "fd2d2b2a56af76826832a691ab72bc8b548f7435",
+  "title": "RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "cee636a6cac2680b7717ec76beffd3b943cb13db",
+  "title": "The Equilibrium Is the Initialization: Lazy Identity Collapse in Physics-Structured Deep Equilibrium Reasoning",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "0cc04f50445ea21348e1560cf0006c0a1a4a5d55",
+  "title": "LayerNorm as Implicit Gain Control in Looped Transformers",
+  "date": "2026-07-12"
+ },
+ {
+  "id": "92251edf5fc2e6e7a14cae445df043f926604cdd",
+  "title": "Energy-guided Recursive Model",
+  "date": "2026-07-11"
+ },
+ {
+  "id": "40eed0245235e6637f951a82618d33ef8c26424b",
+  "title": "Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "4d0bf6fbd6e699f1ee06113b3ab6b04fa99481c3",
+  "title": "MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "4beea7573b2d30a2c7d6d16ea8a337cdb1b3b6d6",
+  "title": "Adaptive Depth in Looped Transformers: Diagnosing Learned Halting Gates and Trajectory Readouts",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "c5165b7fc92a62150264457aff44d095d9744aef",
+  "title": "Final Checkpoints Are Not Enough: Analyzing Latent Reasoning Faithfulness Along Training Trajectories",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "1917f78ce884a5e4bbf29f79d132571090740292",
+  "title": "Don't Commit Alone: Joint Token Commitment in Diffusion Language Models",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "1ddb1ab9ef2697d35a83ff148e037a612d8c963d",
+  "title": "Introducing HALC: a general pipeline for the systematic and reliable construction of prompts for automated coding with LLMs in the computational social sciences",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "d547527ac9a386cb37dc6762319f5ff4f2df4871",
+  "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "679b8d3a9178c98a8d4ef2a10767af8a8f1d118b",
+  "title": "Latent Visual Cache for Video Reasoning",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "3cf8b47caffa97077438fbb0722389a2304b7b42",
+  "title": "Think in Latent, Explain in Language: Self-Explainable Latent Reasoning",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "b566953a944b91226fa19622493ae6368dfb6c34",
+  "title": "Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "6001593b17998092eaf9b132b70612e30fd66717",
+  "title": "CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "2200c4f5c5e02e3f344bfd23ae8c297c0cd227b4",
+  "title": "Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "75bf8c33b00eefa67c5f9abfa3ce612f39d0f807",
+  "title": "What Survives When You Compress a Recursive Reasoner for the Edge?",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "f6f1e04116d19068ed558077ea56ade481818dce",
+  "title": "The Context-Ready Transformer",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "37f9114b85ff79f1b4ccc33d9e0ba984d27e36f4",
+  "title": "Reward-Informed Sparse Autoencoders and the Solution-Completeness Confound",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "eb4abb1541328e489d86d34aead0b8a383fcb7df",
+  "title": "What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "0696622bb8b71de99f343d588b361a68fa198527",
+  "title": "Repeated Shared Access Enables Grokking, but Edit Propagation Depends on an Addressable Memory",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "528e2600d23506b97c2819f04a20b1a363683992",
+  "title": "Looped World Models",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "dba991dd06be04f19fac52356c6a9d56836e1cc5",
+  "title": "Recursive Scaling in Masked Diffusion Models",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "55b7d88561f426a54fa39ab4c2538070c7d9cd4e",
+  "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "fb1543b8ba8562c735a568af4af4cb42df052ea7",
+  "title": "MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "d482220bbbad2c2519216964d82867cad7ef1540",
+  "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "65c64546f6a23d8d93275e636aecf94ab1cafa21",
+  "title": "Learning to Refine Hidden States for Reliable LLM Reasoning",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "a0c74570a4cf010b5f08e1ce68d79e5519efa912",
+  "title": "Tying the Loop - Tied Expert Layers in Mixture-of-Experts Language Models",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "36c3ac7326133d984110dbe4a9b3f7583295f86b",
+  "title": "Scaling Adaptive Depth with Norm-Agnostic Residual Networks",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "804b689c0230960c2c678401fac828e37734d306",
+  "title": "Attention is Just Another Name for Coupling?: A Fast-Slow ODE Perspective on Hierarchical Pretraining",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "0d829322f241abac5d724f66f00b9a9458bb3264",
+  "title": "Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "00582e80c3862ffa94b4ffa26c8851d44ded60ef",
+  "title": "Slots, Transitions, Loops: Learning Composable World Models for ARC",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "04c7b4739b3081387cf1d8aa664a76fc647b2dc0",
+  "title": "Rethinking Depth: A study of the Recursive-Transformer for Speech Recognition",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "c7f3b185aef2dac5df1d27bf4f8c910dfb436c9b",
+  "title": "Forward-Free Diffusion Language Models with BPTT-Free Looped Refinement",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "19ce2437e3e3dea847158f697d7442bd5388df7b",
+  "title": "Latent Reasoning with Normalizing Flows",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "10bf8157dde2dce2d220df90c265dac077b4f696",
+  "title": "TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "2727b309dd77a1768890e75d1d7aeae8f6393bdf",
+  "title": "Pretraining Recurrent Networks without Recurrence",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "5e6a650e8ccff682d083511026a8b10966e01538",
+  "title": "LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "e6693645b50d4c67ca32a01d7fcbc128031697f8",
+  "title": "An Asymptotic Theory of Chain-of-Thought in In-Context Learning",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "562a888e737ccf78a56492a2e3a34c0d287e6dcb",
+  "title": "When Does Latent Reasoning Help? MeRa: Metric-Space Bias for Spatial Prediction",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "9a0b8b52d2c36f617ba507e23994f1f5acad645b",
+  "title": "CART: Context-Anchored Recurrent Transformer - A Parameter-Efficient Architecture with Learned Stability",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "09cc5cf85d26860ade9c2e15983cf3a96fb6053c",
+  "title": "Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "072e20fd4fc8869751acfe53d95f298717d2ea11",
+  "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "59e2754023c0c9529fd789ea2a4498d61d6b6d09",
+  "title": "Anti Mode-Collapse in Mean-Field Transformer via Auxiliary Variables",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "8d4fd961bd54248f552ba1513c5e8ecc3d150cf5",
+  "title": "A Dual-Path Architecture for Scaling Compute and Capacity in LLMs",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "9751cd8aa035eede59e05018d64bf208e4661923",
+  "title": "Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don't",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "b7ebdbb14c186853ba18dd801436506d4e46d9eb",
+  "title": "D\u00e9j\u00e0 View: Looping Transformers for Multi-View 3D Reconstruction",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "62293ff7e09f0551f9ffe6143f1916c46fb6d98d",
+  "title": "Do Agents Think Deeper? A Mechanistic Investigation of Layer-Wise Dynamics in Sequential Planning",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "4ee4ecabfc8e0530495d5c0c490b11e7d89907d8",
+  "title": "Integrated and Cross-Architecture Interpretation of LLM Reasoning",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "88228f63d670a787a580841a7ea12468ba7ec69d",
+  "title": "Unified Synthesis of Compositional Speech and Sound from Free-Form Text Prompts",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "cd58131f935a25d1c5091af50ee6e9d19cc13b8c",
+  "title": "Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "121eecbbad4114f91069f80613f5c34124e57aab",
+  "title": "Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "c144d840d5a6e0f421f72691a410396a710947fb",
+  "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "75d437ccd0a48a607a2c311fa1c97f235a6ca352",
+  "title": "Looped Diffusion Language Models",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "9a8f9ea656c4eda9671daed0059ed2f1fc490963",
+  "title": "Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "de3c40629f74f138a7fa8ba95ce018e4dab9079f",
+  "title": "Training-Free Looped Transformers",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "07ea9834bfa721bf1ec9ac8b60f866530d39ed25",
+  "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "dcd36b655d918d24c5b4b426a813a97d22a1f1a9",
+  "title": "On the Cost and Benefit of Chain of Thought: A Learning-Theoretic Perspective",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "7dd2f8d8155c42f0a58316ee6f9c397962acd7e1",
+  "title": "HRM-Text: Efficient Pretraining Beyond Scaling",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "36d86668af96ba43f5dd4944afdb09fd23bbe6e0",
+  "title": "Generative Recursive Reasoning",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "767351320e68f4eb61957e767daad9ca4175ef0d",
+  "title": "SNLP: Layer-Parallel Inference via Structured Newton Corrections",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "43ed2781df51cff1290569b26be947207c35316c",
+  "title": "Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "397ad1275e2587ddc88a5510ac4202fc07b7e70a",
+  "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "c724cdb607adb2077b4ac3349938e7a5cdb2c0ea",
+  "title": "Solve the Loop: Attractor Models for Language and Reasoning",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "51dcf1969c9a707d7381aa7c18e4617d87dc37d4",
+  "title": "Self-Consistent Latent Reasoning: Long Latent Sequence Reasoning for Vision-Language Model",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "65809ff729e08e476c6e08cb36044488ae701779",
+  "title": "Simply Stabilizing the Loop via Fully Looped Transformer",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "f803590c64fc30e767059008c2a19d0ffd099d5a",
+  "title": "Continuous Latent Contexts Enable Efficient Online Learning in Transformers",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "d01acf0d4fa42840730e656f7194145280c0c276",
+  "title": "LASAR: Latent Adaptive Semantic Aligned Reasoning for Generative Recommendation",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "d1c69903adcd0719e4824a39a9ce9ddbc7ae1c79",
+  "title": "Latent Chain-of-Thought Improves Structured-Data Transformers",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "3373a4b7eab1c01f7dfd81bbe18882e72b6e84c9",
+  "title": "Block-Based Double Decoders",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
+  "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "2414b79adc32c9c454497f8c9611c758bb7249b4",
+  "title": "LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "3bf9f70e1fd91edbbedf97f5a9fb1599c48d9239",
+  "title": "Sparse Layers are Critical to Scaling Looped Language Models",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "2f1d71b9d6a842d8482d5a1d045207345d603cc1",
+  "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "f587d99c9e2ae924107d3b56d7f26f93f1bc1bb7",
+  "title": "Bifurcation Models: Learning Set-Valued Solution Maps with Weight-Tied Dynamics",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "99335cebb17aa2d17b7c60a20d456613bb3262a6",
+  "title": "SMolLM: Small Language Models Learn Small Molecular Grammar",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "88d22508c65c8844c235502e117997ba72e7e8da",
+  "title": "HALO: Hybrid Adaptive Latent Reasoning for Language Models",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "ad480a44bf1f0939ce0edf7acf04ceb472a39761",
+  "title": "State Stream Transformer (SST) V2: Parallel Training of Nonlinear Recurrence for Latent Space Reasoning",
+  "date": "2026-04-30"
+ },
+ {
+  "id": "96d0716dcfd020ba1b2680d6eb77e99466ea2de7",
+  "title": "MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution",
+  "date": "2026-04-29"
+ },
+ {
+  "id": "ba5d99390eb409419b79b084d9c543540b02d85a",
+  "title": "The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "797777f63417da747628cc3891f88ef7360d7b6f",
+  "title": "Recursive Multi-Agent Systems",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "7f797f401f253d09227fe57d7197301de36894f9",
+  "title": "Ulterior Motives: Detecting Misaligned Reasoning in Continuous Thought Models",
+  "date": "2026-04-25"
+ },
+ {
+  "id": "3a7396244192bc285f4479a93f0a86a4c9bcff80",
+  "title": "Hyperloop Transformers",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "03c397084f37d92d449511635d3f8bd46922837d",
+  "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "2430b359b79ba443580558bc2190130afa5a7136",
+  "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "901f1745460e4a94e70ed102d48242357754c45c",
+  "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "35708c32ba8030da6331c48f09e1a69e822acc8d",
+  "title": "LEPO: Latent Reasoning Policy Optimization for Large Language Models",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "b433acdd80aed14800400721a2e9edcaf1dc8928",
+  "title": "One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "44e348505c95908b8bd8fbc32e0e2bb536c9789b",
+  "title": "The Topological Trouble With Transformers",
+  "date": "2026-04-18"
+ },
+ {
+  "id": "c6e99bf9997e3db59e2a60468ad61513ddfacf7a",
+  "title": "Stability and Generalization in Looped Transformers",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "fc9d1783b6f88261ad4041ce9c405acaa05022ac",
+  "title": "C-voting: Confidence-Based Test-Time Voting without Explicit Energy Functions",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "ac53b4ca75527e889130719ac9a7d534fad461ea",
+  "title": "Parcae: Scaling Laws For Stable Looped Language Models",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "7708daacd7400da37b0aa01b12f5dd008f5077bc",
+  "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "4556732e2fc4be065889188d9483939485d6259d",
+  "title": "ELT: Elastic Looped Transformers for Visual Generation",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "6760b7ebbb1d13aaf8ae7c7beb616b74856af645",
+  "title": "MedLVR: Latent Visual Reasoning for Reliable Medical Visual Question Answering",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "e1cf9fadef9be5d27401a50e7b66b3ed05066af9",
+  "title": "Loop, Think, & Generalize: Implicit Reasoning in Recurrent-Depth Transformers",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "fac334601b2ae362603b2ec5edf6c746134adec9",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "f2cdfe61c8f923a88178b57ad2e3c9a9441382d8",
+  "title": "Representational Collapse in Multi-Agent LLM Committees: Measurement and Diversity-Aware Consensus",
+  "date": "2026-04-04"
+ },
+ {
+  "id": "7ea9cd9be58aedd48498635e580019ee5dfda6db",
+  "title": "Ouroboros: Dynamic Weight Generation for Recursive Transformers via Input-Conditioned LoRA Modulation",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "34df759f8a33c85a0f321766e433f4b04087c2af",
+  "title": "Exploration of Fast-Slow Latent Recurrence for Train-Short, Test-Long Generalization",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "5bb29672175cd48ff75645372f296f2fdf3ff93e",
+  "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "3cea3326ac257783fc14cf170ce49d1849250b3a",
+  "title": "LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "90b9f5c9637a3a2c5a88ea69dced672c9c08f043",
+  "title": "Sparse Growing Transformer: Training-Time Sparse Depth Allocation via Progressive Attention Looping",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "26e6d7ba4f57750f52db68402a0be928ebcb1e92",
+  "title": "CanViT: Toward Active-Vision Foundation Models",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "418a69fc3ca55723210f9f9f3a88fdd6c8463a8c",
+  "title": "Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "f2d3b65e21aa393dbc9bd785b0c37955dc1bf3b9",
+  "title": "COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "913d63b01d822a4316379b46a9ee24613b3436d2",
+  "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "e17b66813b26385d64524f032aa2175df6accc06",
+  "title": "DisenReason: Behavior Disentanglement and Latent Reasoning for Shared-Account Sequential Recommendation",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "f8b4b2bdb79d49ffe27d1338c19130ac0c109f19",
+  "title": "Thinking into the Future: Latent Lookahead Training for Transformers",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "b06d315cdd596550f6196b356a90b57c2c267b9a",
+  "title": "PonderLM-3: Adaptive Token-Wise Pondering with Differentiable Masking",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "308d00289984f1d5f6f1e527d24af445315c5c59",
+  "title": "AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth",
+  "date": "2026-03-02"
+ }
+]

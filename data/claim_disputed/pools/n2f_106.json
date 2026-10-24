@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_04f3203f1214063436d81ce0c2ad7623204da488",
+   "title": "Geom-GCN: Geometric Graph Convolutional Networks",
+   "is_B": true
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network with Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "2503dff90685857ce7295e37d0045e2eef41c8b8",
+   "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling",
+   "date": "2018-01-30"
+  },
+  {
+   "id": "7e71eedb078181873a56f2adcfef9dddaeb95602",
+   "title": "Simplifying Graph Convolutional Networks",
+   "date": "2019-02-19"
+  },
+  {
+   "id": "f09f7888aa5aeaf88a2a44aea768d9a8747e97d2",
+   "title": "Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs",
+   "date": "2016-11-25"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "3a58efcc4558727cc5c131c44923635da4524f33",
+   "title": "Relational inductive biases, deep learning, and graph networks",
+   "date": "2018-06-04"
+  },
+  {
+   "id": "afd76be183d34af3bf944debd73db1c77987a8c6",
+   "title": "Covariant Compositional Networks For Learning Graphs",
+   "date": "2018-01-07"
+  },
+  {
+   "id": "5aea95e1ae78a66474051a330ded374e199b658c",
+   "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+   "date": "2018-06-09"
+  },
+  {
+   "id": "0e779fd59353a7f1f5b559b9d65fa4bfe367890c",
+   "title": "Geometric Deep Learning: Going beyond Euclidean data",
+   "date": "2016-11-24"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  },
+  {
+   "id": "c41eb895616e453dcba1a70c9b942c5063cc656c",
+   "title": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering",
+   "date": "2016-06-30"
+  },
+  {
+   "id": "d5aefe86b1ba8c773a6bd0e84812ace161b8c0db",
+   "title": "Large-Scale Learnable Graph Convolutional Networks",
+   "date": "2018-07-19"
+  },
+  {
+   "id": "e02f59cf876cb40233573ff78a1609f969d301cc",
+   "title": "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs",
+   "date": "2016-06-29"
+  },
+  {
+   "id": "3cdbab32d462c7d7b57bc836d916d61a4975afd3",
+   "title": "MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network",
+   "date": "2019-05-27"
+  },
+  {
+   "id": "97a587a6853a27c73ca901e4f41349e25179f79b",
+   "title": "Robustness of shallow graph embedding methods for community detection",
+   "date": "2024-05-01"
+  },
+  {
+   "id": "7da2e99bc25892b8d987d92e13513ac4f46818c9",
+   "title": "A United Approach to Learning Sparse Attributed Network Embedding",
+   "date": "2018-11-01"
+  },
+  {
+   "id": "135334ea7fdef8eef0367e862797cac7dcd232a4",
+   "title": "Multi-scale Attributed Node Embedding",
+   "date": "2019-09-25"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.6733,
+  0.5892,
+  0.5677,
+  0.5615,
+  0.5501,
+  0.5414,
+  0.5389,
+  0.5323,
+  0.5277,
+  0.5242,
+  0.5208,
+  0.5158,
+  0.5124,
+  0.5012,
+  0.487,
+  0.4688,
+  0.4687,
+  0.4411,
+  0.4308
+ ]
+}

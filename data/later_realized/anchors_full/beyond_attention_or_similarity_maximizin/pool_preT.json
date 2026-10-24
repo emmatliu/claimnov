@@ -1,0 +1,482 @@
+[
+ {
+  "id": "f738d30b1a8d9fe67d63b0e2b06cb605d83c92d7",
+  "title": "MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "b6fddabaad41912f01c015268427fafe19aef00f",
+  "title": "FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "cddf14e5b97090111d3fa814c9aec60e2bf24b8a",
+  "title": "InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models",
+  "date": "2025-04-14"
+ },
+ {
+  "id": "e74bd35a38342d746a0a9b8506f49abd6e23b8a3",
+  "title": "TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model",
+  "date": "2025-03-24"
+ },
+ {
+  "id": "3b18518924b1bdaac5855d9d8554316d938907f8",
+  "title": "Similarity-Aware Token Pruning: Your VLM but Faster",
+  "date": "2025-03-14"
+ },
+ {
+  "id": "4465715eeaee19283aaf96a557ac6682fdd09217",
+  "title": "DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models",
+  "date": "2025-03-04"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "6567c0e4f7bfb009e05b29bdc4e5b4ef94b40469",
+  "title": "Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "89b9cab0d5c1c206be80b6a0b6181fc79394f0b6",
+  "title": "Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "8839700fe75a6e78f12cd73bcafed4c54cfcd19b",
+  "title": "LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token",
+  "date": "2025-01-07"
+ },
+ {
+  "id": "9998f9e73db1e6471abf8492f946676825943a55",
+  "title": "Mdp3: a Training-Free Approach for List-Wise Frame Selection in Video-Llms",
+  "date": "2025-01-06"
+ },
+ {
+  "id": "88aa6b1f37d1fd8e0a40499ce9bb87873f03aaa8",
+  "title": "Qwen2.5 Technical Report",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "5f49ec9560ca9e03eff32a607f6caabc08f98926",
+  "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+  "date": "2024-12-06"
+ },
+ {
+  "id": "ba7ae5960415eb6312f41443db2e336db216f509",
+  "title": "VisionZip: Longer is Better but Not Necessary in Vision Language Models",
+  "date": "2024-12-05"
+ },
+ {
+  "id": "f4966e4fb7cabf892cfa2f19fe547a223ba6ee6a",
+  "title": "Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs",
+  "date": "2024-12-02"
+ },
+ {
+  "id": "9ee42e0ddabf3a80d737b164e35f639cfff39bce",
+  "title": "Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model",
+  "date": "2024-11-16"
+ },
+ {
+  "id": "d82d0e216a09f1cbf5ef928f2c230f06230076c8",
+  "title": "Segment Anything with Precise Interaction",
+  "date": "2024-10-28"
+ },
+ {
+  "id": "260f54bc42934cb85c71318863b5f3b2c042d92f",
+  "title": "PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction",
+  "date": "2024-10-22"
+ },
+ {
+  "id": "c02f40125836c64d4f720b5b4d431dd463e26670",
+  "title": "On Evaluation Metrics for Diversity-enhanced Recommendations",
+  "date": "2024-10-21"
+ },
+ {
+  "id": "a05c0dd5a8bc70814517fb424cf55e94b4208e67",
+  "title": "SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference",
+  "date": "2024-10-06"
+ },
+ {
+  "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "925008328870faab8f371012da7277c658b166d4",
+  "title": "Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models",
+  "date": "2024-09-16"
+ },
+ {
+  "id": "3f03876b23b491bdc161816024044e13b02b46e5",
+  "title": "LongVILA: Scaling Long-Context Visual Language Models for Long Videos",
+  "date": "2024-08-19"
+ },
+ {
+  "id": "1a71f7b216b710b936da666027014adb83af8e7a",
+  "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+  "date": "2024-08-06"
+ },
+ {
+  "id": "2f9bcfe03ed3c5827036e7a7e672f952e2d1a382",
+  "title": "LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding",
+  "date": "2024-07-22"
+ },
+ {
+  "id": "d081584960c42f7793502bb496e46f682e3e43b3",
+  "title": "Long Context Transfer from Language to Vision",
+  "date": "2024-06-24"
+ },
+ {
+  "id": "ea891d2c15a185a503fa15a36ee80f981148d221",
+  "title": "MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs",
+  "date": "2024-06-17"
+ },
+ {
+  "id": "22552dd0e7789f175a302055f06444a12e22b652",
+  "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+  "date": "2024-05-31"
+ },
+ {
+  "id": "5c6abccb4692c3eba5f13a2871a0f8ab272a24c0",
+  "title": "Matryoshka Query Transformer for Large Vision-Language Models",
+  "date": "2024-05-29"
+ },
+ {
+  "id": "31660b3c751f9d965d4a1eba97870672baa2221e",
+  "title": "Matryoshka Multimodal Models",
+  "date": "2024-05-27"
+ },
+ {
+  "id": "49873ee415619efd9e1e4c16f73ee066ff008c1f",
+  "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+  "date": "2024-04-09"
+ },
+ {
+  "id": "75b2ae5ee35611ecfbd3dc2c3d0799cfb4fd98e4",
+  "title": "InternLM2 Technical Report",
+  "date": "2024-03-26"
+ },
+ {
+  "id": "c0ef72d02b93065e77c506e23ce9acbbcd945893",
+  "title": "LLaVA-Prumerge: Adaptive Token Reduction for Efficient Large Multimodal Models",
+  "date": "2024-03-22"
+ },
+ {
+  "id": "b6648235f437c5be722db822f1f29a6a05984cd2",
+  "title": "LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images",
+  "date": "2024-03-18"
+ },
+ {
+  "id": "b842b83a7ff5dff8e3b83915d8c15423b6085728",
+  "title": "Gemma: Open Models Based on Gemini Research and Technology",
+  "date": "2024-03-13"
+ },
+ {
+  "id": "3421d12d98956c36c5d39c0ef023b378b6922068",
+  "title": "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models",
+  "date": "2024-03-11"
+ },
+ {
+  "id": "a379d387a48b079286bd0bf0264166a6cc254ef5",
+  "title": "Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models",
+  "date": "2024-03-05"
+ },
+ {
+  "id": "6a33e58ef961a3a0a5657518b2be86395eb7c8d0",
+  "title": "Intern VL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks",
+  "date": "2023-12-21"
+ },
+ {
+  "id": "486c2df78cbb770a90a55f7fa3fe19102fba2c24",
+  "title": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models",
+  "date": "2023-11-28"
+ },
+ {
+  "id": "ea3448eb86a233189631d914721e587d45931b64",
+  "title": "MVBench: A Comprehensive Multi-modal Video Understanding Benchmark",
+  "date": "2023-11-28"
+ },
+ {
+  "id": "107fb6eec2febbae12db29bf3e311aaf5680027c",
+  "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+  "date": "2023-11-16"
+ },
+ {
+  "id": "0b395ed1c8b284e551172b728e83cf257e33729a",
+  "title": "Hallusionbench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models",
+  "date": "2023-10-23"
+ },
+ {
+  "id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
+  "title": "Mistral 7B",
+  "date": "2023-10-10"
+ },
+ {
+  "id": "124d4d374fbef2016fa9880489871a58a7450644",
+  "title": "Improved Baselines with Visual Instruction Tuning",
+  "date": "2023-10-05"
+ },
+ {
+  "id": "5fc1a3a49e8f1d106118b69d1d6be3b6caa23da0",
+  "title": "Qwen Technical Report",
+  "date": "2023-09-28"
+ },
+ {
+  "id": "94972e30504017156ef5b5debc419bf6edc67384",
+  "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities",
+  "date": "2023-08-04"
+ },
+ {
+  "id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+  "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+  "date": "2023-07-18"
+ },
+ {
+  "id": "b37b1dc72b1882858f5120f2cd6883134089a6ed",
+  "title": "MMBench: Is Your Multi-modal Model an All-around Player?",
+  "date": "2023-07-12"
+ },
+ {
+  "id": "697e0add95e880bd42e00bef838181e105f91981",
+  "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models",
+  "date": "2023-06-23"
+ },
+ {
+  "id": "5d321194696f1f75cf9da045e6022b2f20ba5b9c",
+  "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+  "date": "2023-06-05"
+ },
+ {
+  "id": "206400aba5f12f734cdd2e4ab48ef6014ea60773",
+  "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+  "date": "2023-05-17"
+ },
+ {
+  "id": "180710a102ed95a6f9d0ee4e8bca30fc3e67b7ac",
+  "title": "OCRBench: on the hidden mystery of OCR in large multimodal models",
+  "date": "2023-05-13"
+ },
+ {
+  "id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+  "title": "Visual Instruction Tuning",
+  "date": "2023-04-17"
+ },
+ {
+  "id": "35aba190f28b5c39df333c06ca21f46bd4845eba",
+  "title": "Sigmoid Loss for Language Image Pre-Training",
+  "date": "2023-03-27"
+ },
+ {
+  "id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+  "title": "LLaMA: Open and Efficient Foundation Language Models",
+  "date": "2023-02-27"
+ },
+ {
+  "id": "d3135733aa39dec20ce72aa138589dda27c8406d",
+  "title": "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+  "date": "2022-09-20"
+ },
+ {
+  "id": "87c5b281fa43e6f27191b20a8dd694eda1126336",
+  "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+  "date": "2022-05-27"
+ },
+ {
+  "id": "b611c501269224702d1a9942c8600a31ec66ab28",
+  "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning",
+  "date": "2022-03-19"
+ },
+ {
+  "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "date": "2021-02-26"
+ },
+ {
+  "id": "af1f7739283bdbd2b7a94903041f6d6afd991907",
+  "title": "Towards VQA Models That Can Read",
+  "date": "2019-04-18"
+ },
+ {
+  "id": "a7ac99d7cf3f568ab1a741392144b646b856ae0c",
+  "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering",
+  "date": "2019-02-25"
+ },
+ {
+  "id": "a9e19e8ab24071a085d1273b9f9d49aa0e4ba48c",
+  "title": "VizWiz Grand Challenge: Answering Visual Questions from Blind People",
+  "date": "2018-02-22"
+ },
+ {
+  "id": "f014cd65428b6b7889ba28fa9d99d456de0b7fed",
+  "title": "Fair and Diverse DPP-based Data Summarization",
+  "date": "2018-02-12"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+  "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "date": "2016-12-02"
+ },
+ {
+  "id": "e18ec2c9f0b4a817b8cf0435822bbc879d7db698",
+  "title": "A Diagram is Worth a Dozen Images",
+  "date": "2016-03-24"
+ },
+ {
+  "id": "afcf4dbd2ef300e5c4b35043d4fbe516807cdf7d",
+  "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+  "date": "2016-02-23"
+ },
+ {
+  "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+  "title": "VQA: Visual Question Answering",
+  "date": "2015-05-03"
+ },
+ {
+  "id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+  "title": "Microsoft COCO: Common Objects in Context",
+  "date": "2014-05-01"
+ },
+ {
+  "id": "48a17d25d76f9bdf90fdd86d2b3e2739e5bb8016",
+  "title": "Determinantal Point Processes for Machine Learning",
+  "date": "2012-07-25"
+ },
+ {
+  "id": "de664df8980c8c8dc44bb48af275dda81292e082",
+  "title": "Stateful Token Reduction for Long-Video Hybrid VLMs",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "0c6d7d9988fb241dd45d60a34581bd4c37d42c69",
+  "title": "EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal Large Language Models",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "bc588c30b2f66c257f452b9bfb088eaeebbc15b1",
+  "title": "IDPruner: Harmonizing Importance and Diversity in Visual Token Pruning for MLLMs",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "a4225f9edf3fc718efab91f7a3ac93bbadbbace5",
+  "title": "ViCA: Efficient Multimodal LLMs with Vision-Only Cross-Attention",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "16fbb7c8d722ba1e542ec8ba8b3c9955c4c5f1d8",
+  "title": "AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "a1047da25d280a53cc064ab3877b280a707f78b0",
+  "title": "Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "b62be3a5920fdad5734559424904f78825e35ab8",
+  "title": "A Robust Two-Stage Retrieval-Augmented Vision-Language Framework for Knowledge-Intensive Multimodal Reasoning and Alignment",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "5f399aebef93c21f15c4dda6705480e22eb41851",
+  "title": "Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "fdd94cda7d3b5a3fccd33598326a0b9c34fdd74f",
+  "title": "TrimTokenator-LC: Towards Adaptive Visual Token Pruning for Large Multimodal Models with Long Contexts",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "5f33dab5228aa69da9e2a78ca363de06e81b5dc3",
+  "title": "When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "31b2ace1b3c7ea66db054dadf79c67947f937e68",
+  "title": "VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "ec15df72e35546f96a54f56c616f76d7b6697294",
+  "title": "RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "d7fab55747f876aaddf6a832b9f6ca9fab338eb7",
+  "title": "TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "60da8f843e5e9ea27f070419172c9029f1a58692",
+  "title": "MathSticks: A Benchmark for Visual Symbolic Compositional Reasoning with Matchstick Puzzles",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "6163650edbfba0a837b0722c9c49ed49040ba70d",
+  "title": "The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "84aaf4182617f96434d102ceb22cdb4dcb229493",
+  "title": "TrimTokenator: Towards Adaptive Visual Token Pruning for Large Multimodal Models",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "225bbb60ff185360093e6c72c17e65a97096c519",
+  "title": "Attention Debiasing for Token Pruning in Vision Language Models",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "645f5fa6afa59d455503559e3ea33ed88fb2146a",
+  "title": "CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "8a37094080af2fd6f3d38c3ff9b19a278a488857",
+  "title": "A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models",
+  "date": "2025-08-03"
+ },
+ {
+  "id": "6d6c350190878171c233cfa3ecba674dee27f9f3",
+  "title": "HiPrune: Hierarchical Attention for Efficient Token Pruning in Vision-Language Models",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "23be95d998d9b9a5da3a3859cae9a8b195adb152",
+  "title": "TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model",
+  "date": "2025-07-28"
+ },
+ {
+  "id": "9624478c3bf239b9eda9f31507809c2619a0cd07",
+  "title": "EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "70836cbd5b38ff92466ae32dbdc744170f137047",
+  "title": "Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "6bd66b02188145b471dc43a53cd1ccb78357f618",
+  "title": "Fine-grained Token Allocation Via Operation Pruning for Efficient MLLMs",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "399b9877c80802f3bc942163973b03d8a9c321bf",
+  "title": "Token Reduction Should Go Beyond Efficiency in Generative Models - From Vision, Language to Multimodality",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "df7293c62f0445d1545808b15b5cc7d1caa825ac",
+  "title": "ZoomV: Temporal Zoom-in for Efficient Long Video Understanding",
+  "date": "2025-04-02"
+ }
+]

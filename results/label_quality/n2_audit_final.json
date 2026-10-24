@@ -1,0 +1,38 @@
+{
+ "caption": "N2 label audit: 100 pairs, 2 annotators",
+ "agreement": {
+  "q1_genuine_dispute": {
+   "raw": "81/100",
+   "kappa": 0.616
+  },
+  "q2_B_correct": {
+   "raw": "73/100",
+   "kappa": 0.466
+  },
+  "q3_dispute_type": {
+   "raw": "52/100",
+   "kappa": 0.397
+  }
+ },
+ "consensus_n98": {
+  "q1_both_yes": 45,
+  "q1_both_no": 34,
+  "q2_both_yes": 55,
+  "q2_either_no": 23
+ },
+ "majority": {
+  "n_rows": 100,
+  "n_papers": 98,
+  "q1_genuine": {
+   "yes": 59,
+   "no": 41
+  },
+  "q2_B_correct": {
+   "yes": 67,
+   "no": 9,
+   "no_majority": 10,
+   "cannot_assess": 14
+  },
+  "label_clean": "40 pairs (genuine + correct B), 36 map to usable pools"
+ }
+}

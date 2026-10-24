@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8ea9cb53779a8c1bb0e53764f88669bd7edf38f0",
+   "title": "E(n) Equivariant Graph Neural Networks",
+   "is_B": true
+  },
+  {
+   "id": "99f319ab72ae43f0ac94fe7ff1891be524611483",
+   "title": "Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties",
+   "date": "2020-08-19"
+  },
+  {
+   "id": "48d5588afd24c7a12ae54d6ef13008ee3b7a0e8c",
+   "title": "General E(2)-Equivariant Steerable CNNs",
+   "date": "2019-11-19"
+  },
+  {
+   "id": "db1207440d20104854464d51da4cf5f79c5de240",
+   "title": "Steerable CNNs",
+   "date": "2016-12-27"
+  },
+  {
+   "id": "6075091294a0fe0fe5c6c7b7a0df9029b6a965cb",
+   "title": "SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "49c0ebbd20630a5811513217f9be1d210c742ae8",
+   "title": "Isometric Transformation Invariant and Equivariant Graph Convolutional Networks",
+   "date": "2020-05-13"
+  },
+  {
+   "id": "563ca4cda06665f4b90f8fce9bcb28c02e6872b9",
+   "title": "Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data",
+   "date": "2020-02-25"
+  },
+  {
+   "id": "6bc4004347cdf76d84597210796f38fcf7a01a80",
+   "title": "Directional Message Passing for Molecular Graphs",
+   "date": "2020-03-06"
+  },
+  {
+   "id": "c46961b89e222a0cb1347cd9ea0f2edc2abf67e7",
+   "title": "Learning Chern Numbers of Topological Insulators with Gauge Equivariant Neural Networks",
+   "date": "2025-02-21"
+  },
+  {
+   "id": "6f3370fcf266fc10842b6d3e77c6cadd842a3580",
+   "title": "Tensor Field Networks: Rotation- and Translation-Equivariant Neural Networks for 3D Point Clouds",
+   "date": "2018-02-22"
+  },
+  {
+   "id": "afd76be183d34af3bf944debd73db1c77987a8c6",
+   "title": "Covariant Compositional Networks For Learning Graphs",
+   "date": "2018-01-07"
+  },
+  {
+   "id": "f06abcbd4e7e714e5736d813920db92cef4ab0e1",
+   "title": "Equivariant Hamiltonian Flows",
+   "date": "2019-09-30"
+  },
+  {
+   "id": "e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+   "title": "Neural Message Passing for Quantum Chemistry",
+   "date": "2017-04-04"
+  },
+  {
+   "id": "7a5d1a7646ce1884ad76a0e177f956ae4d77c722",
+   "title": "Group Equivariant Stand-Alone Self-Attention For Vision",
+   "date": "2020-10-02"
+  },
+  {
+   "id": "296e32a86e1711269289004b140f6d3e0f250348",
+   "title": "Equivariant Flows: exact likelihood generative learning for symmetric densities",
+   "date": "2020-06-03"
+  },
+  {
+   "id": "fafcaf5ca3fab8dc4fad15c2391c0fdb4a7dc005",
+   "title": "Group Equivariant Convolutional Networks",
+   "date": "2016-02-24"
+  },
+  {
+   "id": "0dd7ecc3937c631da0f032bc853b18df9823e88d",
+   "title": "Equivariant Flows: sampling configurations for multi-body systems with symmetric energies",
+   "date": "2019-10-02"
+  },
+  {
+   "id": "b3af16485c5028ebae8819e387a6cbdff352d9c7",
+   "title": "Cormorant: Covariant Molecular Neural Networks",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "eaf5b3a28606da5014d5c3d106b2fc4306933808",
+   "title": "Graphite: Iterative Generative Modeling of Graphs",
+   "date": "2018-03-28"
+  },
+  {
+   "id": "750fbba3e7545ee8eb73c549a6f4d92ea0521386",
+   "title": "Set2Graph: Learning Graphs From Sets",
+   "date": "2020-02-20"
+  }
+ ],
+ "n_candidates": 37,
+ "sims": [
+  0.6712,
+  0.6661,
+  0.6346,
+  0.6117,
+  0.6105,
+  0.6049,
+  0.5912,
+  0.582,
+  0.5689,
+  0.5642,
+  0.5573,
+  0.5294,
+  0.5267,
+  0.5219,
+  0.5179,
+  0.5111,
+  0.4955,
+  0.4925,
+  0.4896
+ ]
+}

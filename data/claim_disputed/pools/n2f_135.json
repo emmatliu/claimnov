@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_d2196723bfc17837337f75aede2fb35a025349b9",
+   "title": "Well-tuned Simple Nets Excel on Tabular Datasets",
+   "is_B": true
+  },
+  {
+   "id": "0b22dbd48ce4e13bdbf0c9d5e86a9cefdaf6d40a",
+   "title": "Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data",
+   "date": "2019-09-13"
+  },
+  {
+   "id": "9fe69cf5c104b2205cdb7908df8cdb389256b4b5",
+   "title": "TabNet: Attentive Interpretable Tabular Learning",
+   "date": "2019-08-20"
+  },
+  {
+   "id": "9407daf4aaee929f6b193b97b13a1411c3dd803d",
+   "title": "AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data",
+   "date": "2020-03-13"
+  },
+  {
+   "id": "eb35fdc11a325f21a8ce0ca65058f7480a2fc91f",
+   "title": "Improved Regularization of Convolutional Neural Networks with Cutout",
+   "date": "2017-08-15"
+  },
+  {
+   "id": "217a85f667778567d7ffc8b56060783caf5803b0",
+   "title": "Implicit Regularization in Deep Matrix Factorization",
+   "date": "2019-05-31"
+  },
+  {
+   "id": "424a6e62084d919bfc2e39a507c263e5991ebdad",
+   "title": "Self-Normalizing Neural Networks",
+   "date": "2017-06-08"
+  },
+  {
+   "id": "222b9a7b8038120671a1610e857d3edbc7ac5550",
+   "title": "Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+   "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+   "date": "2015-02-10"
+  },
+  {
+   "id": "1a3c14689e2a827e84c32853c4c0e5d3d10f69f0",
+   "title": "Auto-PyTorch Tabular: Multi-Fidelity MetaLearning for Efficient and Robust AutoDL",
+   "date": "2020-06-24"
+  },
+  {
+   "id": "4443e2e5bfd112562ecef578f772cee3c692f19f",
+   "title": "Variational Dropout and the Local Reparameterization Trick",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "ed17929e66da7f8fbc3666bf5eb613d302ddde0c",
+   "title": "CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features",
+   "date": "2019-05-13"
+  },
+  {
+   "id": "4feef0fd284feb1233399b400eb897f59ec92755",
+   "title": "mixup: Beyond Empirical Risk Minimization",
+   "date": "2017-10-25"
+  },
+  {
+   "id": "b8989afff14fb630ca58b6afa917fb42574228ee",
+   "title": "Averaging Weights Leads to Wider Optima and Better Generalization",
+   "date": "2018-03-14"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "2397ce306e5d7f3d0492276e357fb1833536b5d8",
+   "title": "On the State of the Art of Evaluation in Neural Language Models",
+   "date": "2017-07-18"
+  },
+  {
+   "id": "87f6a7c014ce206ac5b57299c07e10667d194b39",
+   "title": "Randaugment: Practical automated data augmentation with a reduced search space",
+   "date": "2019-09-30"
+  },
+  {
+   "id": "52bac2108400df6abbd729b1477b5e1d5aacf019",
+   "title": "Hyperparameter Ensembles for Robustness and Uncertainty Quantification",
+   "date": "2020-06-24"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "93436a26d744e0417e21df10abdfce2cc74b1e58",
+   "title": "BOHB: Robust and Efficient Hyperparameter Optimization at Scale",
+   "date": "2018-07-03"
+  }
+ ],
+ "n_candidates": 40,
+ "sims": [
+  0.6158,
+  0.5899,
+  0.5508,
+  0.5328,
+  0.5082,
+  0.4933,
+  0.4914,
+  0.4913,
+  0.4857,
+  0.4619,
+  0.4469,
+  0.4442,
+  0.4421,
+  0.4402,
+  0.4155,
+  0.4069,
+  0.4065,
+  0.4045,
+  0.4
+ ]
+}

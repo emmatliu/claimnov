@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_c60af06611f4ec9c5239acefe140371486f0ad13",
+   "title": "Modular Pretraining Enables Access Control",
+   "date": "2026-07-09",
+   "is_B": true
+  },
+  {
+   "id": "4a542d3c85f6453b4c13ec352448e6fbd9dc26ac",
+   "title": "Beyond Data Filtering: Knowledge Localization for Capability Removal in LLMs",
+   "date": "2025-12-05"
+  },
+  {
+   "id": "e33c517c2ea2535455f002d9fc58427c5a631dff",
+   "title": "Gradient Routing: Masking Gradients to Localize Computation in Neural Networks",
+   "date": "2024-10-06"
+  },
+  {
+   "id": "5b771651510c3c7ad88f0b2ae759608d580cb700",
+   "title": "Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs",
+   "date": "2025-08-08"
+  },
+  {
+   "id": "9091b96e64065281f60dc2684618a583c05ad8f5",
+   "title": "Access Controls Will Solve the Dual-Use Dilemma",
+   "date": "2025-05-14"
+  },
+  {
+   "id": "1f346f74e8eabececa4896d734ab9b261f30830d",
+   "title": "Modular Deep Learning",
+   "date": "2023-02-22"
+  },
+  {
+   "id": "492f432fbfefe7ac0458c842b17acf1bd4675cb5",
+   "title": "An Adversarial Perspective on Machine Unlearning for AI Safety",
+   "date": "2024-09-26"
+  },
+  {
+   "id": "82d49ba73ffdc760e9a98147fe19290166d2e06c",
+   "title": "Safety Pretraining: Toward the Next Generation of Safe AI",
+   "date": "2025-04-23"
+  },
+  {
+   "id": "929305892d4ddae575a0fc23227a8139f7681632",
+   "title": "Jailbroken: How Does LLM Safety Training Fail?",
+   "date": "2023-07-05"
+  },
+  {
+   "id": "c08c2fd7b269bd9d6c1162adc3b059cdf21d40a6",
+   "title": "Lifting the Curse of Multilinguality by Pre-training Modular Transformers",
+   "date": "2022-05-12"
+  },
+  {
+   "id": "a0a9bf86c00b6ff2756053d01ab7e3a8aac804f7",
+   "title": "Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+   "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+   "date": "2023-07-27"
+  },
+  {
+   "id": "565cc9746ce49ed03897c3c680a35346e02e70dc",
+   "title": "Do Unlearning Methods Remove Information from Language Model Weights?",
+   "date": "2024-10-11"
+  },
+  {
+   "id": "7f1a473834eea608980e4e04cce21be18d65b9b6",
+   "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+   "date": "2023-06-26"
+  },
+  {
+   "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+   "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+   "date": "2017-01-23"
+  },
+  {
+   "id": "06b9ad0b52d23231f650be0aeb0b17cc52c8a74b",
+   "title": "The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning",
+   "date": "2024-03-05"
+  },
+  {
+   "id": "dbfb19e77e3dffba988f68727fd43b826c1629d8",
+   "title": "Distillation Robustifies Unlearning",
+   "date": "2025-06-06"
+  },
+  {
+   "id": "bbd0d4901fbed0fd72778ded9d42e29853799560",
+   "title": "The Elicitation Game: Evaluating Capability Elicitation Techniques",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "76ded171690200805c3bb417827f6b9749df2585",
+   "title": "On Hate Scaling Laws For Data-Swamps",
+   "date": "2023-06-22"
+  },
+  {
+   "id": "fbbc7c8ea413e30c1fe352c866f6e7d0f5f10010",
+   "title": "When Bad Data Leads to Good Models",
+   "date": "2025-05-07"
+  }
+ ],
+ "n_candidates": 51,
+ "sims": [
+  0.6755,
+  0.6337,
+  0.6112,
+  0.5872,
+  0.5725,
+  0.5613,
+  0.5476,
+  0.5347,
+  0.5221,
+  0.5192,
+  0.5182,
+  0.511,
+  0.5102,
+  0.5094,
+  0.5067,
+  0.4956,
+  0.4944,
+  0.4916,
+  0.4899
+ ]
+}

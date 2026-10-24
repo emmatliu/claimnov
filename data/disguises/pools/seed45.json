@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_acb55fe1efec3f07fabbcfc0955c61447547adca",
+   "title": "Uncovering the Latent Potential of Deep Intermediate Representations",
+   "date": "2026-05-21",
+   "is_B": true
+  },
+  {
+   "id": "ae22db103c2954a56787a6c91373ea161841f250",
+   "title": "Layer by Layer: Uncovering Hidden Representations in Language Models",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "d66d93fafe61e878b8da5a8d0ecee442d44b5be0",
+   "title": "OLE: Orthogonal Low-rank Embedding, A Plug and Play Geometric Loss for Deep Learning",
+   "date": "2017-12-05"
+  },
+  {
+   "id": "b0b668b142d232d102b4cf105965651b7e1fea7c",
+   "title": "Tracing the Representation Geometry of Language Models from Pretraining to Post-training",
+   "date": "2025-09-27"
+  },
+  {
+   "id": "67cf77e563571ff05fcbd6b15845c6fd3a75fa78",
+   "title": "Low Anisotropy Sense Retrofitting (LASeR) : Towards Isotropic and Sense Enriched Representations",
+   "date": "2021-04-22"
+  },
+  {
+   "id": "5e23a28063b395bdaf784dc548a046885cb90cf2",
+   "title": "Understanding intermediate layers using linear classifier probes",
+   "date": "2016-10-05"
+  },
+  {
+   "id": "a1533f64b88ba6b9bd5629aaf26256413157aede",
+   "title": "The Remarkable Robustness of LLMs: Stages of Inference?",
+   "date": "2024-06-27"
+  },
+  {
+   "id": "47fdfd32aa71cdc993e29d0a4858180f653c4882",
+   "title": "Learnable Layer Selection and Model Fusion for Speech Self-Supervised Learning Models",
+   "date": "2024-09-01"
+  },
+  {
+   "id": "7aac95570dccd2f674ba74481184c50a7d8a6bf6",
+   "title": "The Shape of Learning: Anisotropy and Intrinsic Dimensions in Transformer-Based Models",
+   "date": "2023-11-10"
+  },
+  {
+   "id": "988ef01812555a4e2a5810bd245a71f31896b36c",
+   "title": "LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics",
+   "date": "2025-11-11"
+  },
+  {
+   "id": "0d0cf5f64c052aa7edc5bb638203616a620557f6",
+   "title": "VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning",
+   "date": "2021-05-11"
+  },
+  {
+   "id": "e958e9a8ccc0f285f59b0a9a0aa7ae896396985d",
+   "title": "Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin",
+   "date": "2025-10-07"
+  },
+  {
+   "id": "9ea340b113ff0681eb9bbaa2c002f86c54c7b85e",
+   "title": "Perception Encoder: The best visual embeddings are not at the output of the network",
+   "date": "2025-04-17"
+  },
+  {
+   "id": "087fa49d28506726c337ea3862275462149fc1f9",
+   "title": "The Geometry of Categorical and Hierarchical Concepts in Large Language Models",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "be0c0dbe570ea7f4f3470e7579ac765c63beaf16",
+   "title": "The Low-Rank Simplicity Bias in Deep Networks",
+   "date": "2021-03-18"
+  },
+  {
+   "id": "143224cc71d29805bf792a4576cdbfe1f60bd52b",
+   "title": "Emergence of a High-Dimensional Abstraction Phase in Language Transformers",
+   "date": "2024-05-24"
+  },
+  {
+   "id": "073a9c04460461c67de1f3a0744cbb8c5e347b76",
+   "title": "Task-Driven Kernel Flows: Label Rank Compression and Laplacian Spectral Filtering",
+   "date": "2026-01-01"
+  },
+  {
+   "id": "b49c1adc847c8e2cb9f1b97358366e4887e532ce",
+   "title": "DINOv3",
+   "date": "2025-08-13"
+  },
+  {
+   "id": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891",
+   "title": "DINOv2: Learning Robust Visual Features without Supervision",
+   "date": "2023-04-14"
+  },
+  {
+   "id": "874f1242b0ad04fb8757064dc0a5dd8de38913ff",
+   "title": "Not all Layers of LLMs are Necessary during Inference",
+   "date": "2024-03-04"
+  }
+ ],
+ "n_candidates": 55,
+ "sims": [
+  0.6632,
+  0.6434,
+  0.6398,
+  0.574,
+  0.5618,
+  0.5607,
+  0.5351,
+  0.5306,
+  0.5272,
+  0.5266,
+  0.5251,
+  0.5185,
+  0.5171,
+  0.5159,
+  0.5081,
+  0.5077,
+  0.501,
+  0.4933,
+  0.4871
+ ]
+}

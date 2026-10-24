@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_17a65e7751948ffc67bf527a483cf6e19379ce92",
+   "title": "Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification",
+   "is_B": true
+  },
+  {
+   "id": "7bd5fb10ac570a7ad21c33050f38acb97f1c0cb5",
+   "title": "Imputing Missing Events in Continuous-Time Event Streams",
+   "date": "2019-05-14"
+  },
+  {
+   "id": "22f95fb555278ebe0ad2e5e18aaaf8be3e4e53fe",
+   "title": "Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs",
+   "date": "2017-05-16"
+  },
+  {
+   "id": "154e87fa11ff8ea7836357546f6ab9d325465734",
+   "title": "Online Continuous-Time Tensor Factorization Based on Pairwise Interactive Point Processes",
+   "date": "2018-07-01"
+  },
+  {
+   "id": "668087f0ae7ce1de6e0bd0965dbb480c08103260",
+   "title": "Finding Structure in Time",
+   "date": "1990-03-01"
+  },
+  {
+   "id": "010df54445ab5f47582eb668dc3488a3e46b55d3",
+   "title": "Unsupervised Neural Hidden Markov Models",
+   "date": "2016-09-28"
+  },
+  {
+   "id": "1f58e8d4c827037d4c2a1afc695a88704e088beb",
+   "title": "Inductive Representation Learning on Temporal Graphs",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "42dc0252bc18c2d2a0ddeb6d24e7e6942ea2efdf",
+   "title": "Neural Particle Smoothing for Sampling from Conditional Sequence Models",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "6a5f817fd8be2d89b492a3592b9f4e69d818b537",
+   "title": "Deep Factors for Forecasting",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "7345843e87c81e24e42264859b214d26042f8d51",
+   "title": "Recurrent Neural Network Grammars",
+   "date": "2016-02-01"
+  },
+  {
+   "id": "740182c3aa9a3045fcd9370269d446455ae9f623",
+   "title": "Neural Finite-State Transducers: Beyond Rational Relations",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "452059171226626718eb677358836328f884298e",
+   "title": "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing",
+   "date": "2015-06-24"
+  },
+  {
+   "id": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+   "title": "Memory Networks",
+   "date": "2014-10-14"
+  },
+  {
+   "id": "32de44f01a96d4473d21099d15e25bc2b9f08e2f",
+   "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks",
+   "date": "2015-02-27"
+  },
+  {
+   "id": "6b7d6e6416343b2a122f8416e69059ce919026ef",
+   "title": "Inductive Representation Learning on Large Graphs",
+   "date": "2017-06-07"
+  },
+  {
+   "id": "bf442ab269074665a68e4dbbe19e4efc97862541",
+   "title": "Large Memory Layers with Product Keys",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "e5f0762b9cfd07f88608f5502ed4467a8b5546cb",
+   "title": "Top-down Tree Long Short-Term Memory Networks",
+   "date": "2015-10-31"
+  },
+  {
+   "id": "3a0a3fbae91d98597d3d7bf5c33ff3eb818dc0a9",
+   "title": "Globally Coherent Text Generation with Neural Checklist Models",
+   "date": "2016-11-01"
+  },
+  {
+   "id": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+   "title": "Neural Turing Machines",
+   "date": "2014-10-20"
+  },
+  {
+   "id": "363a24a96423227ed6b03fc71a169ad0f80e6fac",
+   "title": "Grammatical Sequence Prediction for Real-Time Neural Semantic Parsing",
+   "date": "2019-07-25"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.5704,
+  0.5403,
+  0.5256,
+  0.5219,
+  0.5168,
+  0.5122,
+  0.4967,
+  0.4889,
+  0.4668,
+  0.4659,
+  0.4567,
+  0.453,
+  0.4474,
+  0.4458,
+  0.4378,
+  0.4369,
+  0.4334,
+  0.4299,
+  0.4258
+ ]
+}

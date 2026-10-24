@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_b9eeafecd3c3786aa3254eff683a1df45ade66e8",
+   "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+   "date": "2026-05-05",
+   "is_B": true
+  },
+  {
+   "id": "970297a1860c904eaf39f77cb4324ecfad67fcfb",
+   "title": "Improved Representation Steering for Language Models",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "49bec7476cc5e2598ec2dd86f7596ee75a7ff422",
+   "title": "HyperSteer: Activation Steering at Scale with Hypernetworks",
+   "date": "2025-06-03"
+  },
+  {
+   "id": "a05c63c52f4cde0d334178e81372e8c6f3fb566f",
+   "title": "Improving Instruction-Following in Language Models through Activation Steering",
+   "date": "2024-10-15"
+  },
+  {
+   "id": "d3713bac8f1802e9cbe338a3a2ecc646ab78b2d5",
+   "title": "Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering",
+   "date": "2025-11-01"
+  },
+  {
+   "id": "606596032976f39b1b207c2a25d9ecd12e940373",
+   "title": "In-Distribution Steering: Balancing Control and Coherence in Language Model Generation",
+   "date": "2025-10-15"
+  },
+  {
+   "id": "fd576581854bad8e91c83c4019de82ee5e44637c",
+   "title": "Multi-Attribute Steering of Language Models via Targeted Intervention",
+   "date": "2025-02-18"
+  },
+  {
+   "id": "fe2cd6dcfb6d8ce811cbbf6fa5684603f1dfd067",
+   "title": "Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors",
+   "date": "2024-10-16"
+  },
+  {
+   "id": "c3a6bed41c7f8de688e497f6e6188253b42d61c4",
+   "title": "Beyond Linear Steering: Unified Multi-Attribute Control for Language Models",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "bb94ea8f2e600a2729d11c359c3787bcff2d4f6a",
+   "title": "AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders",
+   "date": "2025-01-28"
+  },
+  {
+   "id": "edd1dc1e8d7989f36c0e54f69f4aeb5e597edc8b",
+   "title": "Steering Llama 2 via Contrastive Activation Addition",
+   "date": "2023-12-09"
+  },
+  {
+   "id": "01b59fcf417b8b2546e897e71ddb059438209e73",
+   "title": "To Steer or Not to Steer? Mechanistic Error Reduction with Abstention for Language Models",
+   "date": "2025-10-15"
+  },
+  {
+   "id": "42b6b7ae57b2b784be7fa78bf98b1c61d2b62751",
+   "title": "Extracting Latent Steering Vectors from Pretrained Language Models",
+   "date": "2022-05-10"
+  },
+  {
+   "id": "4610ffb1b016acaa82a2065ffd1a3adbae1ce722",
+   "title": "Large Language Models Are Human-Level Prompt Engineers",
+   "date": "2022-11-03"
+  },
+  {
+   "id": "fbb3f21dd2e7f9eaf7d622b73330df57ebec2d65",
+   "title": "Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks",
+   "date": "2024-11-23"
+  },
+  {
+   "id": "267ef391ebaa4fc3c8ec62cb92107e8efe82a5db",
+   "title": "In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering",
+   "date": "2023-11-11"
+  },
+  {
+   "id": "2df2c5f11c1cf8eb012fcf65c7092eed3d22c7a4",
+   "title": "Persona Vectors: Monitoring and Controlling Character Traits in Language Models",
+   "date": "2025-07-29"
+  },
+  {
+   "id": "1a9b8c545ba9a6779f202e04639c2d67e6d34f63",
+   "title": "Instruction-Following Evaluation for Large Language Models",
+   "date": "2023-11-14"
+  },
+  {
+   "id": "e04a80263d252a3d8a382ba37a249b9345620570",
+   "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "58fdf550600fc3873729d466601c5d08a51ba8a0",
+   "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+   "date": "2023-10-02"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.7552,
+  0.7231,
+  0.7069,
+  0.6773,
+  0.6756,
+  0.6749,
+  0.6605,
+  0.6604,
+  0.651,
+  0.6476,
+  0.639,
+  0.63,
+  0.6105,
+  0.5443,
+  0.4865,
+  0.4799,
+  0.4597,
+  0.4577,
+  0.44
+ ]
+}

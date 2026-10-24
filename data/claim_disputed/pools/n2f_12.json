@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2112.10482",
+   "title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+   "is_B": true
+  },
+  {
+   "id": "cc5ac1d3083b6663482ba6830dfa3bf65343286c",
+   "title": "Embodied Question Answering",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "a7ac99d7cf3f568ab1a741392144b646b856ae0c",
+   "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering",
+   "date": "2019-02-25"
+  },
+  {
+   "id": "b0cd469a06fb2eae3a5cc0c860aa592f71b13f6d",
+   "title": "IQA: Visual Question Answering in Interactive Environments",
+   "date": "2017-12-09"
+  },
+  {
+   "id": "68a2eb5890eb67989df5fb42b929d10e5e8e5a47",
+   "title": "Multi-Target Embodied Question Answering",
+   "date": "2019-04-09"
+  },
+  {
+   "id": "8d27640ce75557156de13fb827b64446ef9cc0e4",
+   "title": "Visual Question Answering on 360\u00b0 Images",
+   "date": "2020-01-10"
+  },
+  {
+   "id": "d2d3580faaa56be0eb7243fa119e6a7191924927",
+   "title": "Embodied Question Answering in Photorealistic Environments With Point Cloud Perception",
+   "date": "2019-04-06"
+  },
+  {
+   "id": "ac64fb7e6d2ddf236332ec9f371fe85d308c114d",
+   "title": "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input",
+   "date": "2014-10-01"
+  },
+  {
+   "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+   "title": "VQA: Visual Question Answering",
+   "date": "2015-05-03"
+  },
+  {
+   "id": "4adfa52793b0f6f70915383bf12114f4824897e1",
+   "title": "Building Generalizable Agents with a Realistic and Rich 3D Environment",
+   "date": "2018-01-07"
+  },
+  {
+   "id": "05dd7254b632376973f3a1b4d39485da17814df5",
+   "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+   "date": "2016-06-16"
+  },
+  {
+   "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+   "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "b3383f4ec36e024f7dda3f1c708f076b8465e307",
+   "title": "Just Ask: Learning to Answer Questions from Millions of Narrated Videos",
+   "date": "2020-12-01"
+  },
+  {
+   "id": "f75f0750a00f6f85107985c70eca9c275b5e0962",
+   "title": "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments",
+   "date": "2018-11-29"
+  },
+  {
+   "id": "7a4ba78d377eea9650e5e399a0878e30bd22f648",
+   "title": "Scan2Cap: Context-aware Dense Captioning in RGB-D Scans",
+   "date": "2020-12-03"
+  },
+  {
+   "id": "c37c23b12e00168833eccff8025a830ce27c5abc",
+   "title": "Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments",
+   "date": "2017-11-20"
+  },
+  {
+   "id": "e52e37cd91366f07df1f98e88f87010f494dd16e",
+   "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+   "date": "2017-02-14"
+  },
+  {
+   "id": "8eb11d7e23cebe93ea58ddf25c8229e9f3a5a909",
+   "title": "Synthetic QA Corpora Generation with Roundtrip Consistency",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "6c161841cdb547f77930942e4ab46f4369751676",
+   "title": "ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
+   "date": "2019-12-18"
+  },
+  {
+   "id": "fafe7c7aa0a19d40bbbf08b9e87d650438b01b67",
+   "title": "3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation",
+   "date": "2018-03-28"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.7145,
+  0.6704,
+  0.6647,
+  0.6443,
+  0.635,
+  0.6309,
+  0.6272,
+  0.6227,
+  0.5957,
+  0.5742,
+  0.5588,
+  0.5582,
+  0.5536,
+  0.5534,
+  0.5533,
+  0.5491,
+  0.5352,
+  0.5217,
+  0.5212
+ ]
+}

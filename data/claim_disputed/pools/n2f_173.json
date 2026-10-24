@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_dfb6250ae1c8f4d0ec3e28ed84596f77704485ab",
+   "title": "How benign is benign overfitting?",
+   "is_B": true
+  },
+  {
+   "id": "75d63250ee64f373708a343e07029d9783055ddd",
+   "title": "Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate",
+   "date": "2018-06-13"
+  },
+  {
+   "id": "bd949f2a0c23742427d8886e43c1d8c98c1865ea",
+   "title": "Harmless interpolation of noisy data in regression",
+   "date": "2019-03-21"
+  },
+  {
+   "id": "29090beb90c184a9aaf7aa610bfed5ee1631d2f2",
+   "title": "Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks",
+   "date": "2019-03-27"
+  },
+  {
+   "id": "c3d846a3c51dc6423381257b95a4b821e778dce0",
+   "title": "Adversarial Training Can Hurt Generalization",
+   "date": "2019-05-28"
+  },
+  {
+   "id": "804fb9542f4f56e264dd2df57c255a9a2011c00f",
+   "title": "Adversarially Robust Generalization Requires More Data",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "c1e3932c9edb9f6f27b2de7ce76b3dd8e58847af",
+   "title": "Adversarial Robustness Through Local Lipschitzness",
+   "date": "2020-03-05"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "67b72e427187b1113c787f9265926322e3d123e8",
+   "title": "Excessive Invariance Causes Adversarial Vulnerability",
+   "date": "2018-11-01"
+  },
+  {
+   "id": "e2a85a6766b982ff7c8980e57ca6342d22493827",
+   "title": "Adversarial Machine Learning at Scale",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "7bc43b9f701823c04c7ee3ed780a34b041ee4b07",
+   "title": "Adversarial Robustness May Be at Odds With Simplicity",
+   "date": "2019-01-02"
+  },
+  {
+   "id": "78aa018ee7d52360e15d103390ea1cdb3a0beb41",
+   "title": "Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples",
+   "date": "2016-05-24"
+  },
+  {
+   "id": "1438fab07a94351eaabcbe92983fbefaa208b2f3",
+   "title": "Rademacher Complexity for Adversarially Robust Generalization",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "351d449fcc85b41caedf52b0a2af5cc0ca779eb2",
+   "title": "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime",
+   "date": "2020-04-25"
+  },
+  {
+   "id": "136dee73f203df2f4831994bf4f0c0a4ad2e764e",
+   "title": "Ensemble Adversarial Training: Attacks and Defenses",
+   "date": "2017-05-19"
+  },
+  {
+   "id": "b544ca32b66b4c9c69bcfa00d63ee4b799d8ab6b",
+   "title": "Adversarial examples in the physical world",
+   "date": "2016-07-08"
+  },
+  {
+   "id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+   "title": "Towards Evaluating the Robustness of Neural Networks",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "c563c0e06684f42bc5d76dfc7304581c11312393",
+   "title": "Benign overfitting in linear regression",
+   "date": "2019-06-26"
+  },
+  {
+   "id": "0ada4f23141e774dcac63cb8569730ddacda75c4",
+   "title": "Does learning require memorization? a short tale about a long tail",
+   "date": "2019-06-12"
+  },
+  {
+   "id": "1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "date": "2018-05-30"
+  }
+ ],
+ "n_candidates": 58,
+ "sims": [
+  0.612,
+  0.5952,
+  0.5878,
+  0.584,
+  0.5468,
+  0.5459,
+  0.5445,
+  0.5398,
+  0.5388,
+  0.5368,
+  0.5357,
+  0.5309,
+  0.5248,
+  0.5218,
+  0.5187,
+  0.5097,
+  0.5068,
+  0.5031,
+  0.5022
+ ]
+}

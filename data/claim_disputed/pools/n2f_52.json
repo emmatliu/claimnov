@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_77dcb003fe36cbfc4847ef86f685f425c4c1dbfd",
+   "title": "Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings",
+   "is_B": true
+  },
+  {
+   "id": "37acbbbcfe9d8eb89e5b01da28dac6d44c3903ee",
+   "title": "Data Programming: Creating Large Training Sets, Quickly",
+   "date": "2016-05-25"
+  },
+  {
+   "id": "1bb6cef23ff70892bb805f1303357716efd7b14e",
+   "title": "Learning Dependency Structures for Weak Supervision Models",
+   "date": "2019-03-14"
+  },
+  {
+   "id": "e35d25f3a8272ada560e9445e1152a2190b68ded",
+   "title": "Pairwise Feedback for Data Programming",
+   "date": "2019-12-16"
+  },
+  {
+   "id": "9d6e0827b1364bf9ec7c128b450fa76820b2ba0c",
+   "title": "Training Complex Models with Multi-Task Weak Supervision",
+   "date": "2018-10-05"
+  },
+  {
+   "id": "f2effb581419f8eb6701e88c8cd8bad15f57b9fa",
+   "title": "Multi-Resolution Weak Supervision for Sequential Data",
+   "date": "2019-10-21"
+  },
+  {
+   "id": "c5027ff2a8b026f00d2c81ec94b0e270667589be",
+   "title": "Learning to Learn from Weak Supervision by Full Supervision",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "18bc1d4271abe8dd6e16179cdb06524a4f396e16",
+   "title": "Snorkel: Rapid Training Data Creation with Weak Supervision",
+   "date": "2017-11-01"
+  },
+  {
+   "id": "a4a8e91995ae8c8b203dd857bdc0915facddeebe",
+   "title": "Learning From Noisy Singly-labeled Data",
+   "date": "2017-12-13"
+  },
+  {
+   "id": "cafcdab811c7834c9c09960e09f9feb045efc945",
+   "title": "Label Propagation for Deep Semi-Supervised Learning",
+   "date": "2019-04-09"
+  },
+  {
+   "id": "fa24f72d8d0b9bfc308b30aa56aa237eaddcf993",
+   "title": "Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale",
+   "date": "2018-12-02"
+  },
+  {
+   "id": "14898d3fad28202dd4330165bf6ccef4f3b01d45",
+   "title": "Who Said What: Modeling Individual Labelers Improves Classification",
+   "date": "2017-03-26"
+  },
+  {
+   "id": "5c9c0ba883c9d05bec79afb0c2a57dda53c5d93e",
+   "title": "Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods",
+   "date": "2020-02-27"
+  },
+  {
+   "id": "b8e4aae65675a6f138c63a9150f2fce29aed502e",
+   "title": "Snorkel: rapid training data creation with weak supervision",
+   "date": "2019-07-15"
+  },
+  {
+   "id": "daf6b28e0bbf4716143d8b8adf58849548a3ac68",
+   "title": "Weakly supervised classification of aortic valve malformations using unlabeled cardiac MRI sequences",
+   "date": "2019-07-15"
+  },
+  {
+   "id": "2481ff1aff06340a7b997d765cf883b07e5ab7cb",
+   "title": "Learning with Weak Supervision for Email Intent Detection",
+   "date": "2020-05-26"
+  },
+  {
+   "id": "e53584d8a7fd4aebd19bd8343c9b2bec278379b9",
+   "title": "Weakly Supervised Sequence Tagging from Noisy Rules",
+   "date": "2020-04-03"
+  },
+  {
+   "id": "c7a59fc69aee480e53cd1f869bad4c83170d1328",
+   "title": "Neural Ranking Models with Weak Supervision",
+   "date": "2017-04-28"
+  },
+  {
+   "id": "354fb2f2607040fb461095cf3b2c90fbc66bd852",
+   "title": "Learning the Structure of Generative Models without Labeled Data",
+   "date": "2017-03-02"
+  },
+  {
+   "id": "c11cd9df23e6809a0824b7f95641976988acb8ec",
+   "title": "Constrained Deep Weak Supervision for Histopathology Image Segmentation",
+   "date": "2017-01-03"
+  }
+ ],
+ "n_candidates": 50,
+ "sims": [
+  0.6906,
+  0.653,
+  0.6492,
+  0.6299,
+  0.6261,
+  0.5943,
+  0.5793,
+  0.5763,
+  0.5621,
+  0.5533,
+  0.5532,
+  0.5458,
+  0.5454,
+  0.5309,
+  0.5294,
+  0.5216,
+  0.5163,
+  0.5131,
+  0.4965
+ ]
+}

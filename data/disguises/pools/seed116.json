@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ae69db2cee03655c48b8a874669132709036269c",
+   "title": "WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems",
+   "date": "2026-03-15",
+   "is_B": true
+  },
+  {
+   "id": "1c35e2d08c749bea8029a4802270c10c1acbddc0",
+   "title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
+   "date": "2025-10-11"
+  },
+  {
+   "id": "157ae9fe598f1f5c0ae60d286bae2712bf360d93",
+   "title": "Trajectory World Models for Heterogeneous Environments",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "e9809d8eb473d5dc20479c815faa6f149f9497b0",
+   "title": "WoW: Towards a World omniscient World model Through Embodied Interaction",
+   "date": "2025-09-26"
+  },
+  {
+   "id": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+   "title": "World Models",
+   "date": "2018-03-27"
+  },
+  {
+   "id": "25bc06b508b2c63b9faf77881e528530b147b988",
+   "title": "DayDreamer: World Models for Physical Robot Learning",
+   "date": "2022-06-28"
+  },
+  {
+   "id": "106ca4d9d031bdbfc6fbd83e46b903a4b4aeb3d9",
+   "title": "Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control",
+   "date": "2024-09-16"
+  },
+  {
+   "id": "8eeccf1033fd759c868b29ccb6aa70f5ffd1887c",
+   "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+   "date": "2023-10-25"
+  },
+  {
+   "id": "e898bb88dc7c1b6eb108f381b80f02588c24cf32",
+   "title": "Closing the Train-Test Gap in World Models for Gradient-Based Planning",
+   "date": "2025-12-10"
+  },
+  {
+   "id": "7ff60ef8ad135fb591664f6e12a75b4bf3bf6876",
+   "title": "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models",
+   "date": "2025-07-01"
+  },
+  {
+   "id": "54cd5a5ddd286442fa94da7ec344a7e76b9a6ccd",
+   "title": "Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control",
+   "date": "2018-12-03"
+  },
+  {
+   "id": "b95baf93d1cfb406b50aa370ce5ba18788b5891d",
+   "title": "Cosmos World Foundation Model Platform for Physical AI",
+   "date": "2025-01-06"
+  },
+  {
+   "id": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+   "title": "Recurrent World Models Facilitate Policy Evolution",
+   "date": "2018-09-04"
+  },
+  {
+   "id": "3cd1041ff41a4d27ee26358a3eaf4a09a30083c6",
+   "title": "One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control",
+   "date": "2020-07-09"
+  },
+  {
+   "id": "280f2ea5ac05cab2d5a85c74f0a23257c7947690",
+   "title": "IRASim: A Fine-Grained World Model for Robot Manipulation",
+   "date": "2024-06-20"
+  },
+  {
+   "id": "8fede60010c6883c14a8d97c1f677181c2c82cc6",
+   "title": "RobotMover: Learning to Move Large Objects From Human Demonstrations",
+   "date": "2025-02-07"
+  },
+  {
+   "id": "3a71c306eb6232658c9e5fd48aed1ef3befe5fbe",
+   "title": "Planning to Explore via Self-Supervised World Models",
+   "date": "2020-05-12"
+  },
+  {
+   "id": "6df7acca91b492876534d9c485f80aa7d3449bba",
+   "title": "Beyond Topology: A Morphological Symmetry Graph Representation for Locomotion Policy Learning",
+   "date": "2025-11-30"
+  },
+  {
+   "id": "0bc9585faf634bf98124a3c69b1f171e1ab85cca",
+   "title": "Robot learning on the job: Human-in-the-loop autonomy and learning during deployment",
+   "date": "2022-11-15"
+  },
+  {
+   "id": "e8e7b0b23e70624fbc3bc5ab74ae01e39c6750a5",
+   "title": "Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks",
+   "date": "2018-10-24"
+  }
+ ],
+ "n_candidates": 42,
+ "sims": [
+  0.7151,
+  0.6548,
+  0.623,
+  0.5887,
+  0.588,
+  0.5874,
+  0.5741,
+  0.5735,
+  0.5441,
+  0.542,
+  0.5364,
+  0.5342,
+  0.5324,
+  0.5244,
+  0.5237,
+  0.5209,
+  0.5088,
+  0.5084,
+  0.5081
+ ]
+}

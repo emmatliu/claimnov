@@ -1,0 +1,60 @@
+{
+ "v1": {
+  "n": 100,
+  "pass": 18,
+  "named": 23,
+  "both": 0,
+  "named_rej": 23
+ },
+ "coi": {
+  "n": 100,
+  "pass": 76,
+  "named": 11,
+  "both": 0,
+  "named_rej": 11
+ },
+ "si": {
+  "n": 100,
+  "pass": 0,
+  "named": 63,
+  "both": 0,
+  "named_rej": 63
+ },
+ "arc": {
+  "n": 100,
+  "pass": 100,
+  "named": 0,
+  "both": 0,
+  "named_rej": 0
+ },
+ "ra": {
+  "n": 100,
+  "pass": 2,
+  "named": 0,
+  "both": 0,
+  "named_rej": 0
+ },
+ "scholareval": {
+  "n": 100,
+  "pass": 100,
+  "named": 0,
+  "both": 0,
+  "named_rej": 0
+ },
+ "v2_reflection": {
+  "n": 100,
+  "pass": 29,
+  "named": 0,
+  "both": 0,
+  "named_rej": 0
+ },
+ "claimnov": {
+  "n": 100,
+  "pass": 91,
+  "named": 45,
+  "both": 37,
+  "named_rej": 8,
+  "right": 30,
+  "verdict_names": 8
+ }
+}

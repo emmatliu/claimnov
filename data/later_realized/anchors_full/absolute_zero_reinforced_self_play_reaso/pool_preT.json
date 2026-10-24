@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "0708d2761c22419a77f54873b7bb7800b43d31ad",
+  "title": "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "f1f31064ccac840a33ae2a6b9e5a0873d97b3abe",
+  "title": "DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition",
+  "date": "2025-04-30"
+ },
+ {
+  "id": "1122b654f8b47c1aa9c04ff6bbe7561c798e2ad0",
+  "title": "Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
+  "date": "2025-04-29"
+ },
+ {
+  "id": "143e18bfd7c356592e7c1439738a3525d3e16279",
+  "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+  "date": "2025-04-18"
+ },
+ {
+  "id": "1738bfdda961ddc9d31b39f3dd38b1f425199e94",
+  "title": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "d85788857fd230169e17638631b96335368043ed",
+  "title": "VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks",
+  "date": "2025-04-07"
+ },
+ {
+  "id": "1ceaea84e3c2aa7b330c5be56fdae737d212d5a1",
+  "title": "Self-Referencing Agents for Unsupervised Reinforcement Learning",
+  "date": "2025-04-05"
+ },
+ {
+  "id": "d981ce332586e6a29f595cbdfa9347cf425e5cd0",
+  "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "de23d38bc2604dcf334dcc46aff217eb6bcd1fe1",
+  "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+  "date": "2025-03-26"
+ },
+ {
+  "id": "16db56b5a57f2e675e5c4f60ca0fbd5764915a5e",
+  "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+  "date": "2025-03-24"
+ },
+ {
+  "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+  "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+  "date": "2025-03-18"
+ },
+ {
+  "id": "446c3356b95a29dca4b908533c088ce63f2275cb",
+  "title": "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "77904afcad72c97335e9d95a585a2f73c744ce01",
+  "title": "CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "e23379a9752f57732d311f7a97af2c69af6fae7b",
+  "title": "Process Reinforcement through Implicit Rewards",
+  "date": "2025-02-03"
+ },
+ {
+  "id": "98bdf937d7eb831ff9a2a9b363a4e682638ee366",
+  "title": "ACECODER: Acing Coder RL via Automated Test-Case Synthesis",
+  "date": "2025-02-03"
+ },
+ {
+  "id": "74db34190939e065dea20f7aedf64b101e2ae588",
+  "title": "Boundless Socratic Learning with Language Games",
+  "date": "2024-11-25"
+ },
+ {
+  "id": "6a7c29829227bfd65ae0ffec294a874bb9ea0871",
+  "title": "T\u00dcLU 3: Pushing Frontiers in Open Language Model Post-Training",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "762c34d5cc561b7ad09a2157e5f4969dfd0c7aca",
+  "title": "DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution",
+  "date": "2024-11-04"
+ },
+ {
+  "id": "0e1a3c83fa7184211ee331a5fece022424bbe65d",
+  "title": "Scalable Reinforcement Post-Training Beyond Static Human Prompts: Evolving Alignment via Asymmetric Self-Play",
+  "date": "2024-10-31"
+ },
+ {
+  "id": "f2d0f3d47ae850f49a58f4977393bd0025af4bec",
+  "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+  "date": "2024-09-28"
+ },
+ {
+  "id": "11dd2fc88747d20629f5aafab72ba649d93e969c",
+  "title": "Qwen2.5-Coder Technical Report",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "9fb201282f53a4ce89f28cbe5026af78912aa8c1",
+  "title": "Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "4cae2af5b09b746f6616bd5152c05b77e66316f4",
+  "title": "To Code, or Not To Code? Exploring Impact of Code in Pre-training",
+  "date": "2024-08-20"
+ },
+ {
+  "id": "0cbe018c7456e6708e456fc744c6a4a6a7efdb38",
+  "title": "Prover-Verifier Games improve legibility of LLM outputs",
+  "date": "2024-07-18"
+ },
+ {
+  "id": "75f314a98e30c8eb93618ecbb0a488a9a766bcd2",
+  "title": "Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing",
+  "date": "2024-07-11"
+ },
+ {
+  "id": "91b417ae72ad1ffc6dc6f84e09839e9fc4cef420",
+  "title": "Learning Formal Mathematics From Intrinsic Motivation",
+  "date": "2024-06-30"
+ },
+ {
+  "id": "e76b4e3dcd69220ee11e40ebcb6357e5088f04a8",
+  "title": "Open-Endedness is Essential for Artificial Superhuman Intelligence",
+  "date": "2024-06-06"
+ },
+ {
+  "id": "1195f307503da0a8997d17c5544252a31a8e905a",
+  "title": "DiveR-CT: Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints",
+  "date": "2024-05-29"
+ },
+ {
+  "id": "6bd8f3d617fa0c6e38eb0f042d20bc571dbcea96",
+  "title": "Self-playing Adversarial Language Game Enhances LLM Reasoning",
+  "date": "2024-04-16"
+ },
+ {
+  "id": "b8cc74d8c2a009cc99a8b285503d86be80d840d9",
+  "title": "StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows",
+  "date": "2024-03-17"
+ },
+ {
+  "id": "afe0998d191f3ea8490c7df100a3ffc5dcc62c5e",
+  "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+  "date": "2024-03-12"
+ },
+ {
+  "id": "bcf2c7e3f4ed64c8294c35a59220a26dd4f40060",
+  "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+  "date": "2024-02-21"
+ },
+ {
+  "id": "35b142ea69598e6241f0011312128031df55895c",
+  "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+  "date": "2024-02-05"
+ },
+ {
+  "id": "04d64be16fb402f28348faffef484bd419c8bd8f",
+  "title": "Self-Rewarding Language Models",
+  "date": "2024-01-18"
+ },
+ {
+  "id": "4701914bc77dedef9e0a001687277103fb3ddfc6",
+  "title": "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+  "date": "2024-01-05"
+ },
+ {
+  "id": "ef9e058d22d190fdd38ddee367cf6aa8d1a14bd5",
+  "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+  "date": "2024-01-02"
+ },
+ {
+  "id": "8f5592d26a30ceda756e730198686bc5bece7a78",
+  "title": "TACO: Topics in Algorithmic COde generation dataset",
+  "date": "2023-12-22"
+ },
+ {
+  "id": "6b97aa78bcdb88548c44e7e1671c0ed37ed37976",
+  "title": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+  "date": "2023-12-14"
+ },
+ {
+  "id": "403f009aa5047e88df0b2c0d497ec12aad3547a9",
+  "title": "Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning",
+  "date": "2023-10-27"
+ },
+ {
+  "id": "9f923edcb6b8281d178c398b72f22190ba8247bf",
+  "title": "Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL",
+  "date": "2023-10-06"
+ },
+ {
+  "id": "5e4597eb21a393b23e473cf66cb5ae8b27cab03e",
+  "title": "ExpeL: LLM Agents Are Experiential Learners",
+  "date": "2023-08-20"
+ },
+ {
+  "id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+  "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+  "date": "2023-07-28"
+ },
+ {
+  "id": "b45ec1cb2ba6b2d1ac24723fa836aee06a3db97a",
+  "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+  "date": "2023-05-02"
+ },
+ {
+  "id": "475c83ef687067b108e2a23a1af0e95262d048ab",
+  "title": "A Mixture of Surprises for Unsupervised Reinforcement Learning",
+  "date": "2022-10-13"
+ },
+ {
+  "id": "99832586d55f540f603637e458a292406a0ed75d",
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "23dd78e424d32f6a48660dcd67ce994b8a7db8be",
+  "title": "STaR: Bootstrapping Reasoning With Reasoning",
+  "date": "2022-03-28"
+ },
+ {
+  "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+  "title": "Training language models to follow instructions with human feedback",
+  "date": "2022-03-04"
+ },
+ {
+  "id": "da1e404ae194dcbcce198f5335f49f090403bbd7",
+  "title": "Exploration in Deep Reinforcement Learning: A Survey",
+  "date": "2022-03-01"
+ },
+ {
+  "id": "9317736e9bb1b25c9d8e7325b7b364b7fbae0f3f",
+  "title": "URLB: Unsupervised Reinforcement Learning Benchmark",
+  "date": "2021-10-28"
+ },
+ {
+  "id": "6296aa7cab06eaf058f7291040b320b5a83c0091",
+  "title": "Generative Adversarial Networks",
+  "date": "2021-08-31"
+ },
+ {
+  "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+  "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+  "date": "2021-03-05"
+ },
+ {
+  "id": "12ce3a14da5a7e22bcb3b14452dd9d3bb8f5cf36",
+  "title": "Asymmetric self-play for automatic goal discovery in robotic manipulation",
+  "date": "2021-01-13"
+ },
+ {
+  "id": "93b2788fb1f2aed0e545d9f9d7dca1c05a63208a",
+  "title": "Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design",
+  "date": "2020-12-03"
+ },
+ {
+  "id": "cbf595e704fb332bd321d34e7f293fefcd64176e",
+  "title": "Regularizing Deep Multi-Task Networks using Orthogonal Gradients",
+  "date": "2019-09-25"
+ },
+ {
+  "id": "7ee12d3bf8e0ce20d281b4550e39a1ee53839452",
+  "title": "Risks from Learned Optimization in Advanced Machine Learning Systems",
+  "date": "2019-06-05"
+ },
+ {
+  "id": "fa8cc007f4169f0ccabebf38267560a475b54950",
+  "title": "Embedded Agency",
+  "date": "2019-02-25"
+ },
+ {
+  "id": "c48ca266c1e16f9adc5fb7770afd95a0feec8753",
+  "title": "Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions",
+  "date": "2019-01-07"
+ },
+ {
+  "id": "38fb1902c6a2ab4f767d4532b28a92473ea737aa",
+  "title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+  "date": "2017-12-05"
+ },
+ {
+  "id": "7ad66cba3b7e3abae7ef33122588512a146f7f77",
+  "title": "A Survey on Multi-Task Learning",
+  "date": "2017-07-25"
+ },
+ {
+  "id": "471f9742b4e32d8ee68f9ee493768ff0466a231d",
+  "title": "Automatic Goal Generation for Reinforcement Learning Agents",
+  "date": "2017-05-17"
+ },
+ {
+  "id": "8499a250422a3c66357367c8d5fa504de5424c59",
+  "title": "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play",
+  "date": "2017-03-15"
+ },
+ {
+  "id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+  "title": "Distilling the Knowledge in a Neural Network",
+  "date": "2015-03-09"
+ },
+ {
+  "id": "acc552c96fcb49d81e4d38aeb343b8096d96990a",
+  "title": "PowerPlay: Training an Increasingly General Problem Solver by Continually Searching for the Simplest Still Unsolvable Problem",
+  "date": "2011-12-22"
+ },
+ {
+  "id": "4fe6ee338373b796ed3b26cf6908c7db2ca56798",
+  "title": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "8c0d7740204bbfcbb75d4b9d9f43f24a6f4b09b4",
+  "title": "Steerable Instruction Following Coding Data Synthesis with Actor-Parametric Schema Co-Evolution",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "84746060eaa629bd427d317f1e778fe78d8badc1",
+  "title": "GATES: Self-Distillation under Privileged Context with Consensus Gating",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "4a6575dfe4b6fcff9dbd1b90fa8b2466f75bf891",
+  "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "5df3d4e8ffd38a417da455aff5eb36783c0ac22d",
+  "title": "LAD: Learning Advantage Distribution for Reasoning",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "3ab8286b0d07447bfb9a87980a8f8656f535da1a",
+  "title": "Adaptive Time Series Reasoning via Segment Selection",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "e689f327a77aecb63bd026a2c4fcd28007f0fb9d",
+  "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "cc7beb519526fa857dda8dc7a160346e6ae01fe6",
+  "title": "Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "bb6fbb0a576185ee72b81b1f2591f385ee0e5e66",
+  "title": "R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "b44d7d96a3453ad6867e5237805fdd0e7a2dd200",
+  "title": "Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "3116efdaac25146fc60ffa201e4817e61392e624",
+  "title": "Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "46394a0a99dac378eb96d27ee927a4d4923489cd",
+  "title": "When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "4ff7b902a44a3f02076baa73396adeb31f7eadd7",
+  "title": "Active Zero: Self-Evolving Vision-Language Models through Active Environment Exploration",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "245b2fc211f7713a6694e045a48a746be73c19dd",
+  "title": "Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "d89779fe83cab26e639e4df7bb95529a8e61eb56",
+  "title": "Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "b0a23842259d23bfcffd99dd8c0c690fd951c53f",
+  "title": "AceGRPO: Adaptive Curriculum Enhanced Group Relative Policy Optimization for Autonomous Machine Learning Engineering",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "d0e8d25df7503fb1dd7d3080a7c7b733abc074fc",
+  "title": "Estimating Exam Item Difficulty with LLMs: A Benchmark on Brazil's ENEM Corpus",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "aa3482b669f412fca13087a86194d3d69d3f4725",
+  "title": "B-GRPO: Unsupervised Speech Emotion Recognition Based on Batched-Group Relative Policy Optimization",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "e2a2608772f176c5c2f2ef3de8734a0cdf269aa1",
+  "title": "TTSR: Test-Time Self-Evolving via Reflection",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "e3989b294e72da70936dd831df8743b3fc8cd791",
+  "title": "Automatic Cognitive Task Generation for In-Situ Evaluation of Embodied Agents",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "05640cd5b20f1b1003395e096617ccfa2efd3664",
+  "title": "Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "36ab4ede5b7b4c659bdf860a8b2da36e8ec578e6",
+  "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "49c88e6af8f8ad83ca8b7908e10fc254cbae7975",
+  "title": "SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "90aa98a9445d4c5a6278487d1e47cb932b215296",
+  "title": "AERO: Autonomous Evolutionary Reasoning Optimization via Endogenous Dual-Loop Feedback",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "f3bdca5339966db7009e5441c6a239247a68b66a",
+  "title": "SEAD: Self-Evolving Agent for Multi-Turn Service Dialogue",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "49c639bc66eb56e98e7b7b07e294c9334e089047",
+  "title": "Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "a9e484f08cd429f481dc6443d7299b9960bde553",
+  "title": "Socratic-Geo: Synthetic Data Generation and Geometric Reasoning via Multi-Agent Interaction",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "a6eb774b263cb7a56412502361430071ca3d3e86",
+  "title": "One Model, All Roles: Multi-Turn, Multi-Agent Self-Play Reinforcement Learning for Conversational Social Intelligence",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "fb4d58bb06a31f639511a50c3cb4e038a317908a",
+  "title": "CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "3e63ce648f66f935c958a69364af65ee9734cd37",
+  "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "ed6aef5852a676603d8c64cb81b90c809636b848",
+  "title": "TTCS: Test-Time Curriculum Synthesis for Self-Evolving",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "663306db31a9b9be5dd4d504994b6eef9936dd2b",
+  "title": "Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "89e83ee3eb95843292b1f75f0e50b89e7667b828",
+  "title": "Reinforcement Learning via Self-Distillation",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "9d317102e82a43db4c461976c4ec914a1e423e90",
+  "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "f72dc7824ee7217b83b5a095eb33a039818fb220",
+  "title": "Dynamic Adversarial Reinforcement Learning for Robust Multimodal Large Language Models",
+  "date": "2026-01-24"
+ },
+ {
+  "id": "c88d3eaab139ce5e64185bfee5b2412445968184",
+  "title": "Endless Terminals: Scaling RL Environments for Terminal Agents",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "220d80cee5c240a113042c62ba9f80820b6a3efd",
+  "title": "DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "0c97059256c1101dc379df292b8f62279185059c",
+  "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "4b54e25b71d6f3b4f3e1836a3c048571a3601e40",
+  "title": "Towards AGI A Pragmatic Approach Towards Self Evolving Agent",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "c0fd2ebf94745a455a25dd0f4f0eee70f0b20111",
+  "title": "V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "d3de5dfb972a3d67f02355674b642e08af915353",
+  "title": "Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "6caa4069887098d40bb38009c6c94d3188e2256e",
+  "title": "Dr. Zero: Self-Evolving Search Agents without Training Data",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "80dcb8b83b089fb53c4f1061ec723c3ef907e3c0",
+  "title": "GIFT: Games as Informal Training for Generalizable LLMs",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "87358083607e1fadb2cf36bf89251d2f45983ffd",
+  "title": "SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "8dab126dee9301bc96f2f0215c08bdaea40c6f38",
+  "title": "UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "b4910bff1be7c06b0519b061cd8972c4be778bb4",
+  "title": "One Sample to Rule Them All: Extreme Data Efficiency in Multidiscipline Reasoning with Reinforcement Learning",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "c4b1591b7a8a1fc572afa152b366c1c716bf1127",
+  "title": "Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "7f1adac591b6e3025e1423196893fbba74b9b2db",
+  "title": "CME-CAD: Heterogeneous Collaborative Multi-Expert Reinforcement Learning for CAD Code Generation",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "ed50b4bd3515c70174927bfb55cfbfcc68a7962c",
+  "title": "TongSIM: A General Platform for Simulating Intelligent Machines",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "4a22843dd17a4f9a5ad8862a1d4924430ba8ef2b",
+  "title": "Safety Alignment of LMs via Non-cooperative Games",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "c0d4447020c422b99f230336c242d4a6e4af0f50",
+  "title": "Propose, Solve, Verify: Self-Play Through Formal Verification",
+  "date": "2025-12-20"
+ },
+ {
+  "id": "d665ceae8016fb2f2ba369be2c9b28ffc75f1664",
+  "title": "Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "8d79a41d4c05affdeac43922e5ee1cfbe1ca6104",
+  "title": "Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "43e3b82bb3f6d4b6b6dedce5901743ef7cf14790",
+  "title": "FrontierCS: Evolving Challenges for Evolving Intelligence",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "46e9762e0a20338b2aaa7ad673be89993dc9f246",
+  "title": "MOA: Multi-Objective Alignment for Role-Playing Agents",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "0643271176970348d7567e1bf941a3df4f220bc7",
+  "title": "AI & Human Co-Improvement for Safer Co-Superintelligence",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "8f1f628cdeb7bc7ab6be70b7843063323592e0ac",
+  "title": "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "47bada7675891f0296f8fc3a0658f01a984ad935",
+  "title": "Guided Self-Evolving LLMs with Minimal Human Supervision",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "b96e2e7a81e8a74ac4cb6305e0f65c6aaf76c5ba",
+  "title": "Artificial intelligence-driven discovery of bioactive peptides: Computational approaches and future perspectives",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ccba0b7bcf3048686055598b574a8778ebafcb61",
+  "title": "JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "214d40d6d60fd84cf26eaff3b901152583032487",
+  "title": "Syn-GRPO: Self-Evolving Data Synthesis for MLLM Perception Reasoning",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "a647788b47b1bac9c137ab192316f72de52471d4",
+  "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "092fee5a7a9a55a2b60d68c6129923a3fd03d99a",
+  "title": "VisPlay: Self-Evolving Vision-Language Models from Images",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "fe5cb377d78bde554d44a4cf6832e4376fcf5779",
+  "title": "GPS: General Per-Sample Prompter",
+  "date": "2025-11-18"
+ },
+ {
+  "id": "92611ef75317d980a4575d3fb492d5f0b6999413",
+  "title": "P1: Mastering Physics Olympiads with Reinforcement Learning",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "2f1d43b4ea9872dd28070098770819f59bc1fe5b",
+  "title": "Better LLM Reasoning via Dual-Play",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "f4584d5b2b79508e523324e6af7bf8307a945500",
+  "title": "Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models",
+  "date": "2025-11-13"
+ },
+ {
+  "id": "a6e63335ddcd1c8d616eac428549004218b52d53",
+  "title": "Environment Scaling for Interactive Agentic Experience Collection: A Survey",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "104fb706844b2592d2930c364af2055128e8b0bf",
+  "title": "RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "406fe6eb1fe26be46dba5f0279c65d3ce3a76759",
+  "title": "SynthAgent: Adapting Web Agents with Synthetic Supervision",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "279fc43a3962bacf02750fa3c846f9b2e96420f3",
+  "title": "Linear Differential Vision Transformer: Learning Visual Contrasts via Pairwise Differentials",
+  "date": "2025-11-02"
+ },
+ {
+  "id": "748b77a6825a091ae16290e3bf910ad1da963576",
+  "title": "OpenSIR: Open-Ended Self-Improving Reasoner",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "3f28e24ee4a2fd2ab8252c1cc92e9233f6087a4c",
+  "title": "Towards Understanding Self-play for LLM Reasoning",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "07f6465d240235fe3d68ca465a9124f1174d275a",
+  "title": "Sharpness-Guided Group Relative Policy Optimization via Probability Shaping",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "f85be68b8fa7ea2e317b0c2a83990d2c23977025",
+  "title": "SPICE: Self-Play In Corpus Environments Improves Reasoning",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "94c37b23cd55ea3ac152c22bc9c6e973f5e96135",
+  "title": "Multi-Agent Evolve: LLM Self-Improve through Co-evolution",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "7e231b33fc1a6c2938a9e50264710733772c3202",
+  "title": "Search Self-play: Pushing the Frontier of Agent Capability without Supervision",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "7215c7382de7800c038787235fa4305e2e6af4ad",
+  "title": "Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "39b7f8a947ce75c683c11032c40c04181778761d",
+  "title": "EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable Learning",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "e011a66f765d5ccba3c8a1c85e1f0ac97f954de2",
+  "title": "Rewarding the Journey, Not Just the Destination: A Composite Path and Answer Self-Scoring Reward Mechanism for Test-Time Reinforcement Learning",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "0685db379c603bf69e6c13938de821a3262ecb34",
+  "title": "Are My Optimized Prompts Compromised? Exploring Vulnerabilities of LLM-based Optimizers",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "fb3c9f98fd0ad9ab79e3a06a1548d3224b691bd0",
+  "title": "Towards Agentic Self-Learning LLMs in Search Environment",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "18b770a0ab161dd1193e0ff6dcee86446e27e21b",
+  "title": "UniCode: Augmenting Evaluation for Code Reasoning",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "134fde5291ceb00da3869db8040fe8ce136bf5b0",
+  "title": "Spotlight on Token Perception for Multimodal Reinforcement Learning",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "59cf3b36f8b64352d0ca73ff2b43bcb02ca7b446",
+  "title": "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "229db65b100f4a54d95d9b5e67411ce1b68f950b",
+  "title": "Learning on the Job: Test-Time Curricula for Targeted Reinforcement Learning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "33b9dcf22df87faf3f3ff8ee764a37170a6f4787",
+  "title": "The Path of Self-Evolving Large Language Models: Achieving Data-Efficient Learning via Intrinsic Feedback",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "02dd49f4ce3d311b214c5bf307f14a7f2cf8251b",
+  "title": "RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "c50c3be47d24af9110b4e821b71c06d718b03707",
+  "title": "AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "08d60a8f1169eb65c120b67a1b6b8a8c448f9913",
+  "title": "Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "edf31ba3b76379997f19e1be24fe9ad7e8828559",
+  "title": "LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "b5eeff55c73861fec39e6b02019dd76a32bb698c",
+  "title": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "1a0fed22c7bee7df5556555293505e7e6f92a0a9",
+  "title": "PIPer: On-Device Environment Setup via Online Reinforcement Learning",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "cb6e9ca7604fb2f4e0dac118ab50adc9844e6f1a",
+  "title": "AutoCode: LLMs as Problem Setters for Competitive Programming",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "662f19ab6c3dcb1dc81bc1b536c32ac41c15a017",
+  "title": "LLM Agents for Search via Reinforcement Learning with Trajectory-Level Self-Evaluation",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "60c1a310b9be66b9319ba33fbba2f2ed02b02e1c",
+  "title": "Correct Reasoning Paths Visit Shared Decision Pivots",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "9c1a8741e12b446eea3a3a9d23372c88147c6d47",
+  "title": "Learning to Reason with Mixture of Tokens",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "a81c481189ec4719b80ceec31f7c0277ba782d4a",
+  "title": "PromptCoT 2.0: Scaling Prompt Synthesis for Large Language Model Reasoning",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "aa9c674d4e0cb1ea53a1677a2cf8376a6cab5cae",
+  "title": "Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning",
+  "date": "2025-09-22"
+ },
+ {
+  "id": "439dfba3da8026559ab8ba5d088c2e601c11de74",
+  "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "10f479757f9db5edc486cde16e272fe3c6ecabd2",
+  "title": "Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "7ceb4e11592bc5616e9d4ecaa4d0acf9c27a0048",
+  "title": "Language Self-Play For Data-Free Training",
+  "date": "2025-09-09"
+ },
+ {
+  "id": "3457f70650138d2d75bb18f4ce8ae6055ce75ca0",
+  "title": "Bootstrapping Task Spaces for Self-Improvement",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "d012770866b46856d24fba0e930bc87a069522c8",
+  "title": "Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents",
+  "date": "2025-09-03"
+ },
+ {
+  "id": "4a8e6bbe2e23e1901675e1de57f14449075f894e",
+  "title": "Learning to Generate Unit Test via Adversarial Reinforcement Learning",
+  "date": "2025-08-28"
+ },
+ {
+  "id": "ac8df778d73ae85751cbebf6ad79bd9b231efc6a",
+  "title": "Trust but Verify! A Survey on Verification Design for Test-time Scaling",
+  "date": "2025-08-20"
+ },
+ {
+  "id": "ea974e5365960629edc0588b9f039b91c49cf012",
+  "title": "Wisdom of the Crowd: Reinforcement Learning from Coevolutionary Collective Feedback",
+  "date": "2025-08-17"
+ },
+ {
+  "id": "0a409e79d98f47dff34a77624792d6e9e71edc78",
+  "title": "Sample-efficient LLM Optimization with Reset Replay",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "1385ac414416374b63acfd82ccd6d91ed62fe101",
+  "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "26bde5ebc6609218ad565cd6ba04f3c3d586e3a9",
+  "title": "Self-Questioning Language Models",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "52b6d5416af1208e2c75dc86c7d82c3b255b2088",
+  "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "0477104d1dafc56537b8dd0348f76db8d026f570",
+  "title": "Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "92342a489ca41fe8315881263e81824621a87979",
+  "title": "CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "ccb43b438c6b1b1cd096cbf4b14ee18bdc006940",
+  "title": "Maximizing Prefix-Confidence at Test-Time Efficiently Improves Mathematical Reasoning",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "24a35803e943a1b70a7620e9493949c5016a1e21",
+  "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "b966a64ba56f00fec011be30131333d848e38d91",
+  "title": "ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "fb0e61daa06faa107811a8fa43cf62ed2a9cd32a",
+  "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "7da361cbbf5e0c10e6eec89f8e8e1618a6778b84",
+  "title": "RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "341428444a2bf015cb728abd61a9e531c01ac1e2",
+  "title": "Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "6ac8d8bfc7cf6dd6ad6cbc764cedffe673aef346",
+  "title": "SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning",
+  "date": "2025-06-30"
+ },
+ {
+  "id": "32b997aadc7db590555f22e853c86f57fe3842cd",
+  "title": "Direct Reasoning Optimization: Token-Level Reasoning Reflectivity Meets Rubric Gates for Unverifiable Tasks",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "2804f5e90879ed0bb3af30a612138e6381775abf",
+  "title": "From Emergence to Control: Probing and Modulating Self-Reflection in Language Models",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "f3ec0ee1538796c8d5e5633958106fbe394a32ad",
+  "title": "Spurious Rewards: Rethinking Training Signals in RLVR",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "2780ac7088bfbc4e2e681f0053f4f014065147a4",
+  "title": "RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "21251d14f97926bf4c19b8cfaab8a3d101f7fa71",
+  "title": "Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "b6eb66bd0652c55040913158dd8fce3ad0cfa130",
+  "title": "Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models",
+  "date": "2025-06-05"
+ },
+ {
+  "id": "70d4cbf10e8843d492635f6110876f029f8bd8ed",
+  "title": "SAGE:Specification-Aware Grammar Extraction for Automated Test Case Generation with LLMs",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "d6a29be03a0497602e89311ec38e5141335647c5",
+  "title": "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "f04229adec1cf2cd780d680f8f97e57be08d28b0",
+  "title": "Self-Challenging Language Model Agents",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "9feb0460f23ea2cbd9ad68843256c9a6d828fa18",
+  "title": "REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "583b0075055d4857336347e8c5c1888f54ef0928",
+  "title": "Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "b12998ee8a2d2feba5e17eec7c437b4243b4aeee",
+  "title": "Can Large Reasoning Models Self-Train?",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "89e3017e1ffdf5f7cedd3b5bb08fcc0ab48200ba",
+  "title": "Learning to Reason without External Rewards",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "760389d05f01f9acc7258b8ba00797d835f25044",
+  "title": "DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "8520bc0e31cb875ffe7defe0154e6f65a7923c79",
+  "title": "Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "390c85a27878efb0cce801b64c26873b4b50bea4",
+  "title": "Get Experience from Practice: LLM Agents with Record & Replay",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "ed7ec380bd9e6227bc29de5f7ce048f2934dc67a",
+  "title": "Outcome-based Reinforcement Learning to Predict the Future",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "d74bb35aeac36ee99b9b22444b8a03b9e183d973",
+  "title": "Self-Training Large Language Models with Confident Reasoning",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "31a6c72454be0430fde9c66a3476d62a3fae94b4",
+  "title": "Dynamic Risk Assessments for Offensive Cybersecurity Agents",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "6a24e1eba8b61e4c2a70b5c491773c81b949f869",
+  "title": "SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "06c81c193d6dc430c9aef6464492dcd16b58dbf8",
+  "title": "Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "846e9ca039d4b9fadbc15e1c462785078b5f19ba",
+  "title": "Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "d12f653de99f3f6a21a624e15915876a0de9e06a",
+  "title": "Scaling Physical Reasoning with the PHYSICS Dataset",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "7ba5352946b2df1032a50c1a299ca4b3143d576e",
+  "title": "The Hallucination Tax of Reinforcement Finetuning",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "0576c5be53db2c04d644637308763a4fc2db3a36",
+  "title": "Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "e98e1f50c1892c08ecb19d27df4f9c7d97fd9353",
+  "title": "Synthetic Data RL: Task Definition Is All You Need",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "986e813f4c4f36786c3642cb9c8718586e47bdcf",
+  "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+  "date": "2025-05-15"
+ },
+ {
+  "id": "7974dc93e95a7e0135eff5a0a75c9bec5562abce",
+  "title": "Measuring General Intelligence with Generated Games",
+  "date": "2025-05-12"
+ },
+ {
+  "id": "51e6ad31deea6ed7131c6953f8290c10a65f07ac",
+  "title": "Program Semantic Inequivalence Game with Large Language Models",
+  "date": "2025-05-02"
+ },
+ {
+  "id": "70cb3adf46d64c685ef1a2673183e5c7b3ae2f83",
+  "title": "TTRL: Test-Time Reinforcement Learning",
+  "date": "2025-04-22"
+ },
+ {
+  "id": "847d63914c51e3855ed7f13e74157daaa4a37d94",
+  "title": "Learning to Reason under Off-Policy Guidance",
+  "date": "2025-04-21"
+ },
+ {
+  "id": "a7381c3a8184d6c259eda7a2412edad50f2d50de",
+  "title": "Efficient Reinforcement Finetuning via Adaptive Curriculum Learning",
+  "date": "2025-04-07"
+ },
+ {
+  "id": "3aa8969c7c5cdbd3f13724807a5f560cfb7defac",
+  "title": "Machine-generated text detection prevents language model collapse",
+  "date": "2025-02-21"
+ },
+ {
+  "id": "8137cebccf27d8f22f8099b5a5eb8858675cb2c9",
+  "title": "Learning to Reason at the Frontier of Learnability",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "de21a8377c8a1f2626c7d882f576404a3b667fb4",
+  "title": "Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey",
+  "date": "2024-10-21"
+ }
+]

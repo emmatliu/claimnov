@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1802.05335",
+   "title": "Multimodal Generative Models for Scalable Weakly-Supervised Learning",
+   "is_B": true
+  },
+  {
+   "id": "19db8f6acb84546930c6ba22b6fde1c73cfcc4ba",
+   "title": "Joint Multimodal Learning with Deep Generative Models",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "ec0f974adddc06abe876a339fc3baa8681d6a751",
+   "title": "Variational methods for conditional multimodal deep learning",
+   "date": "2016-03-06"
+  },
+  {
+   "id": "a78273144520d57e150744cf75206e881e11cc5b",
+   "title": "Multimodal Deep Learning",
+   "date": "2011-06-28"
+  },
+  {
+   "id": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f",
+   "title": "Decision-Making with Auto-Encoding Variational Bayes",
+   "date": "2020-02-17"
+  },
+  {
+   "id": "226f08bb8fd049fdca2f6a8a41ffe485a0ee6ebc",
+   "title": "Generative Models of Visually Grounded Imagination",
+   "date": "2017-05-30"
+  },
+  {
+   "id": "5532c52fffb8b446e3d4fc47d4d9a9b29091bdff",
+   "title": "Towards Deeper Understanding of Variational Autoencoding Models",
+   "date": "2017-02-28"
+  },
+  {
+   "id": "fa3e6f9361d75b9ccbad9baeec1e9025c2b0f6db",
+   "title": "Deep Variational Canonical Correlation Analysis",
+   "date": "2016-10-11"
+  },
+  {
+   "id": "3e47c4c2dd98c49b7771c7228812d5fd9eee56a3",
+   "title": "Importance Weighted Autoencoders",
+   "date": "2015-09-01"
+  },
+  {
+   "id": "d82b55c35c8673774a708353838918346f6c006f",
+   "title": "Generating Sentences from a Continuous Space",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "f4c5d13a8e9e80edcd4f69f0eab0b4434364c6dd",
+   "title": "Variational Autoencoder for Deep Learning of Images, Labels and Captions",
+   "date": "2016-09-28"
+  },
+  {
+   "id": "2b5f51588f1c4cdca0865de20c1e2e1ff3570fd1",
+   "title": "Attend, Infer, Repeat: Fast Scene Understanding with Generative Models",
+   "date": "2016-03-28"
+  },
+  {
+   "id": "66ad2fbc8b73242a889699868611fcf239e3435d",
+   "title": "Semi-supervised Learning with Deep Generative Models",
+   "date": "2014-06-20"
+  },
+  {
+   "id": "c2a7afbb5609a723f8eea91bfde4b02579b048d6",
+   "title": "Unsupervised Neural Machine Translation",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "e3d772986d176057aca2f5e3eb783da53b559134",
+   "title": "Unsupervised Machine Translation Using Monolingual Corpora Only",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "4d8f2d14af5991d4f0d050d22216825cac3157bd",
+   "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+   "date": "2015-02-10"
+  },
+  {
+   "id": "8388f1be26329fa45e5807e968a641ce170ea078",
+   "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "12982be9bea3f456caa9b7b1d258bfc6285b7a5b",
+   "title": "Generalized Product of Experts for Automatic and Principled Fusion of Gaussian Process Predictions",
+   "date": "2014-10-28"
+  },
+  {
+   "id": "d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0",
+   "title": "Show and tell: A neural image caption generator",
+   "date": "2014-11-17"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.741,
+  0.6845,
+  0.665,
+  0.5671,
+  0.5643,
+  0.5561,
+  0.5198,
+  0.5174,
+  0.5063,
+  0.4973,
+  0.491,
+  0.4891,
+  0.4687,
+  0.456,
+  0.4523,
+  0.4488,
+  0.4116,
+  0.4091,
+  0.4008
+ ]
+}

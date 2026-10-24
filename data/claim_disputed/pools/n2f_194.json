@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3aa673abd49f0837ed2fbf5cffcada9ba6f48693",
+   "title": "Overcoming catastrophic forgetting with hard attention to the task",
+   "is_B": true
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "ac7ea1a3050fe81a565b22b4bafdd5baa465be07",
+   "title": "A Strategy for an Uncompromising Incremental Learner",
+   "date": "2017-05-02"
+  },
+  {
+   "id": "b3078aac6d5ee5e9edaab58b180360b45f22f436",
+   "title": "The MegaFace Benchmark: 1 Million Faces for Recognition at Scale",
+   "date": "2015-12-02"
+  },
+  {
+   "id": "0a9a3380090d994e867026388f64a85481cdb700",
+   "title": "Overcoming Catastrophic Forgetting by Incremental Moment Matching",
+   "date": "2017-03-24"
+  },
+  {
+   "id": "e1557dd77472b5704c3ed2314afef93f4d06cd43",
+   "title": "Overcoming Catastrophic Interference by Conceptors",
+   "date": "2017-07-16"
+  },
+  {
+   "id": "290153e1a5f7062b7a1227beb31405da6dd00bba",
+   "title": "Slowing Down Forgetting in Continual Learning: Evidence from Manufacturing",
+   "date": "2024-11-11"
+  },
+  {
+   "id": "a43d7b8e5e1bcb7c3fbf82164cfc9d12737176e8",
+   "title": "Task Clustering and Gating for Bayesian Multitask Learning",
+   "date": "2003-12-01"
+  },
+  {
+   "id": "5cb76f738721f255be0dfa93e0d37b330b0b9f4c",
+   "title": "Partitioned Memory Storage Inspired Few-Shot Class-Incremental Learning",
+   "date": "2025-04-29"
+  },
+  {
+   "id": "0407b605b8f55db72e2545586bfe8e946b691b70",
+   "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "df1769afbbf3904877629dd7e785f195361ec531",
+   "title": "Lifelong Learning with Dynamically Expandable Networks",
+   "date": "2017-08-04"
+  },
+  {
+   "id": "d475f695dedd94e96771fdaa1e5c075fd01d11cf",
+   "title": "Variational Continual Learning",
+   "date": "2017-10-29"
+  },
+  {
+   "id": "53c9443e4e667170acc60ca1b31a0ec7151fe753",
+   "title": "Progressive Neural Networks",
+   "date": "2016-06-15"
+  },
+  {
+   "id": "0be49527df4869a0132f5cbc8d4cfa3304ab5843",
+   "title": "Memory-based Parameter Adaptation",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "47bc048efb90e7b8bae5c1fcc979a78b65763fe9",
+   "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+   "date": "2017-11-15"
+  },
+  {
+   "id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+   "title": "Overcoming catastrophic forgetting in neural networks",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "ea160ca21b2a8c4402b077d6338e6a679aa9d7b9",
+   "title": "Less-forgetting Learning in Deep Neural Networks",
+   "date": "2016-07-01"
+  },
+  {
+   "id": "321f1877bc570ff9b318e909cefb7c27138458df",
+   "title": "PathNet: Evolution Channels Gradient Descent in Super Neural Networks",
+   "date": "2017-01-30"
+  },
+  {
+   "id": "f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
+   "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms",
+   "date": "2017-08-25"
+  },
+  {
+   "id": "8f3b80ddc0dd62e6c3369fabb1715990c29e9b9a",
+   "title": "Learning without Forgetting",
+   "date": "2016-06-29"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.3963,
+  0.3735,
+  0.3534,
+  0.351,
+  0.3456,
+  0.3401,
+  0.339,
+  0.3256,
+  0.3104,
+  0.3099,
+  0.3085,
+  0.3029,
+  0.2993,
+  0.2987,
+  0.2867,
+  0.2862,
+  0.2861,
+  0.2802,
+  0.2755
+ ]
+}

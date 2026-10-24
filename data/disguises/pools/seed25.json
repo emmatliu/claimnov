@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_88ff568e1b663d2cdd438ac5c4a6616b8562786f",
+   "title": "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights",
+   "date": "2026-03-12",
+   "is_B": true
+  },
+  {
+   "id": "af10f3c1c0859aa620623f760c8a29e78f177f7f",
+   "title": "Population Based Training of Neural Networks",
+   "date": "2017-11-27"
+  },
+  {
+   "id": "c83a3448491e14e4f22ef895700ec34331437e2c",
+   "title": "PEP: Parameter Ensembling by Perturbation",
+   "date": "2020-10-24"
+  },
+  {
+   "id": "e54ffc76d805c48660bb0fd20019ca82ac94ba0d",
+   "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+   "date": "2020-12-22"
+  },
+  {
+   "id": "175a55422a303363cb238754e0785f4831449f5f",
+   "title": "The Blessing of Dimensionality in LLM Fine-tuning: A Variance-Curvature Perspective",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "77e71aed1d8827ea65367933503ce24d6fbfb4ae",
+   "title": "Efficient Continuous Pareto Exploration in Multi-Task Learning",
+   "date": "2020-06-29"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+   "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+   "date": "2018-03-09"
+  },
+  {
+   "id": "b134d0911e2e13ac169ffa5f478a39e6ef77869a",
+   "title": "Snapshot Ensembles: Train 1, get M for free",
+   "date": "2017-04-01"
+  },
+  {
+   "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "date": "2017-03-09"
+  },
+  {
+   "id": "21b81883c1f4c789fec33d239ef173ea51b73918",
+   "title": "Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "8ec5896b4490c6e127d1718ffc36a3439d84cb81",
+   "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+   "date": "2016-09-15"
+  },
+  {
+   "id": "c19a8ab4f61288ff63ffb61ee68583dc998dc84d",
+   "title": "Analyzing Reinforcement Learning Benchmarks with Random Weight Guessing",
+   "date": "2020-04-16"
+  },
+  {
+   "id": "abc8415a73e9056fdd8a7bf529b2c86898f29501",
+   "title": "Simple random search provides a competitive approach to reinforcement learning",
+   "date": "2018-03-19"
+  },
+  {
+   "id": "2bdebf2fb0f5c21907fcaae6d87c7ba5811e778a",
+   "title": "Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "29d0ed9caf811212341f67617d8cbd8c1fa2cc25",
+   "title": "A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce",
+   "date": "2025-04-15"
+  },
+  {
+   "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+   "title": "Training language models to follow instructions with human feedback",
+   "date": "2022-03-04"
+  },
+  {
+   "id": "9e2084eda22a62be53f9d70ab6628fae7b400e1b",
+   "title": "Linear Mode Connectivity in Multitask and Continual Learning",
+   "date": "2020-10-09"
+  },
+  {
+   "id": "45373921f06a6efebefa6189d2dd80362ab0836e",
+   "title": "Illuminating search spaces by mapping elites",
+   "date": "2015-04-19"
+  }
+ ],
+ "n_candidates": 44,
+ "sims": [
+  0.5985,
+  0.5935,
+  0.5569,
+  0.5424,
+  0.5402,
+  0.5215,
+  0.5133,
+  0.5059,
+  0.4928,
+  0.4864,
+  0.4864,
+  0.4832,
+  0.4641,
+  0.4617,
+  0.459,
+  0.45,
+  0.4483,
+  0.4474,
+  0.441
+ ]
+}

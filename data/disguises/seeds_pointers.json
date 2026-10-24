@@ -1,0 +1,1085 @@
+{
+ "seeds": [
+  {
+   "title": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control",
+   "arxiv": "2606.08382",
+   "pub_date": "2026-06-07",
+   "s2_id": "bd1cc3992c59e80a2e6acf2d8babe5fc73af34ad",
+   "openreview": "https://openreview.net/forum?id=lJjH1q6RwY",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+   "arxiv": "2604.12887",
+   "pub_date": "2026-04-14",
+   "s2_id": "557477d2dd93a0f1ead6b6904b5cb5b0ed6bfe6d",
+   "openreview": "https://openreview.net/forum?id=KyVlaw4BxE",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+   "arxiv": "2606.28153",
+   "pub_date": "2026-06-26",
+   "s2_id": "99e167cad2c7181023297901be4745f76a18398f",
+   "openreview": "https://openreview.net/forum?id=LTF6LtBo0E",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Towards Efficient LLMs Annealing with Principled Sample Selection",
+   "arxiv": "2605.31175",
+   "pub_date": "2026-05-29",
+   "s2_id": "e4f98826aeffb73eed2a547ead80ad09d82614ef",
+   "openreview": "https://openreview.net/forum?id=2UH01A9Za0",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Harnessing non-adversarial robustness in large language models",
+   "arxiv": "2605.29816",
+   "pub_date": "2026-05-28",
+   "s2_id": "22fb8894ac94ff40d30b031ace52bfd9d93e4f80",
+   "openreview": "https://openreview.net/forum?id=7SKS1u6vP1",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Towards Optimal Robustness in Learning-Augmented Paging",
+   "arxiv": "2606.01342",
+   "pub_date": "2026-05-31",
+   "s2_id": "9e3111d9f363a1b30c16c3a0935bd6e5682fade4",
+   "openreview": "https://openreview.net/forum?id=ESa07RwpVr",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Matroid Algorithms Under Size-Sensitive Independence Oracles",
+   "arxiv": "2605.00201",
+   "pub_date": "2026-04-30",
+   "s2_id": "73de7df8e81a533993b59c138fe12c7b23975a0f",
+   "openreview": "https://openreview.net/forum?id=80Job2F5eb",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models",
+   "arxiv": "2606.14756",
+   "pub_date": "2026-06-08",
+   "s2_id": "fd8ac1cd7c9c07b26c89026dfe4124962faab3dd",
+   "openreview": "https://openreview.net/forum?id=9voQUicsc2",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Ratio-Variance Regularized Policy Optimization",
+   "arxiv": "2605.26784",
+   "pub_date": "2026-05-26",
+   "s2_id": "deed7f967346071426fbfba9f97b399c680735f1",
+   "openreview": "https://openreview.net/forum?id=NT4Cz09S4w",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity",
+   "arxiv": "2605.03782",
+   "pub_date": "2026-05-05",
+   "s2_id": "1e4c1dd2e48ebabc5933aeb2be901258e41192bb",
+   "openreview": "https://openreview.net/forum?id=zWStW3hrfW",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning",
+   "arxiv": "2605.14054",
+   "pub_date": "2026-05-13",
+   "s2_id": "b777513f7da53feefb9abf1beb4ae37ed8e0ebd3",
+   "openreview": "https://openreview.net/forum?id=duzdftKtUA",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Conformal Policy Control",
+   "arxiv": "2603.02196",
+   "pub_date": "2026-03-02",
+   "s2_id": "3afaa41fd98b438610865ad23562184a5e95d183",
+   "openreview": "https://openreview.net/forum?id=rbwy4E0Kyz",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "MIRA: A Score for Conditional Distribution Accuracy and Model Comparison",
+   "arxiv": "2605.02014",
+   "pub_date": "2026-05-03",
+   "s2_id": "fdf1fc12873639d101657a8e2962f09a18ed5eef",
+   "openreview": "https://openreview.net/forum?id=ra2t1V4nml",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Variational Learning for Insertion-based Generation",
+   "arxiv": "2606.02133",
+   "pub_date": "2026-06-01",
+   "s2_id": "23b62b54c3a72e858341a9c3f38e7b89a9bf1744",
+   "openreview": "https://openreview.net/forum?id=thVeEXPaSg",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Non-Euclidean Gradient Descent Operates at the Edge of Stability",
+   "arxiv": "2603.05002",
+   "pub_date": "2026-03-05",
+   "s2_id": "c95d6086aa2f4c9862649846f62679b063890b78",
+   "openreview": "https://openreview.net/forum?id=piWlEHb4Db",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+   "arxiv": "2605.20834",
+   "pub_date": "2026-05-20",
+   "s2_id": "ef0a48d13022ee56065ce90effca75a5d623aa5a",
+   "openreview": "https://openreview.net/forum?id=7UEBX1KU1y",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models",
+   "arxiv": "2605.04678",
+   "pub_date": "2026-05-06",
+   "s2_id": "7f7c6573424ec49b986a8f5a4d5f87d896edd364",
+   "openreview": "https://openreview.net/forum?id=VMsumctGvg",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
+   "arxiv": "2607.03509",
+   "pub_date": "2026-07-03",
+   "s2_id": "2f89445cffbeb5780e21f4d6c546034bf9ab24e8",
+   "openreview": "https://openreview.net/forum?id=COGc3MSR7n",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning",
+   "arxiv": "2603.29038",
+   "pub_date": "2026-03-30",
+   "s2_id": "97dad0cd24d00035e5ae90c101de5072c2d1174d",
+   "openreview": "https://openreview.net/forum?id=5Aydbj0wYI",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Suppress and Diversify: Refining Robust Pathways for Corruption Robustness",
+   "arxiv": "2608.06712",
+   "pub_date": "2026-08-07",
+   "s2_id": "cbe3886c383b97dd3435070c4a401924e3de4b4b",
+   "openreview": "https://openreview.net/forum?id=Tam54Owz7G",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance",
+   "arxiv": "2606.00467",
+   "pub_date": "2026-05-30",
+   "s2_id": "e97b3f37ab5b1446bfda3b39be45eb6a272f9e75",
+   "openreview": "https://openreview.net/forum?id=oTv2bKG5Qg",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding",
+   "arxiv": "2606.00564",
+   "pub_date": "2026-05-30",
+   "s2_id": "9a253ab8485f4edc69047dfedcff184f846cb3f5",
+   "openreview": "https://openreview.net/forum?id=Jb1YBPqyb7",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off",
+   "arxiv": "2606.28097",
+   "pub_date": "2026-06-26",
+   "s2_id": "ed46843660ba48b88f70f0440ab76311853b1de4",
+   "openreview": "https://openreview.net/forum?id=lyN8OMVyMt",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Dirac-Frenkel-Onsager principle: Instantaneous residual minimization with gauge momentum for nonlinear parametrizations of PDE solutions",
+   "arxiv": "2605.00284",
+   "pub_date": "2026-04-30",
+   "s2_id": "c8754ab478e2413dfdac514656633018ba296a32",
+   "openreview": "https://openreview.net/forum?id=aDPbUSUCwh",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models",
+   "arxiv": "2608.01899",
+   "pub_date": "2026-08-03",
+   "s2_id": "26a3dea606c19e70a22691faf2e8e89c2de6ffaa",
+   "openreview": "https://openreview.net/forum?id=CHavqrN1X9",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights",
+   "arxiv": "2603.12228",
+   "pub_date": "2026-03-12",
+   "s2_id": "88ff568e1b663d2cdd438ac5c4a6616b8562786f",
+   "openreview": "https://openreview.net/forum?id=92oF5bU4cU",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees",
+   "arxiv": "2606.16610",
+   "pub_date": "2026-06-15",
+   "s2_id": "dfd075b9eb9b9cc2550d4716b6f0a1e385a75478",
+   "openreview": "https://openreview.net/forum?id=zl3akehFBq",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Accelerating Q-learning through Efficient Value-Sharing across Actions",
+   "arxiv": "2606.29806",
+   "pub_date": "2026-06-29",
+   "s2_id": "d37511c4895e64fa1906c750d32fb022217c70b9",
+   "openreview": "https://openreview.net/forum?id=bQXQa5NDpH",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning",
+   "arxiv": "2603.03480",
+   "pub_date": "2026-03-03",
+   "s2_id": "d959e01d46a07117d4f8e390b4dc6260e44a2204",
+   "openreview": "https://openreview.net/forum?id=fFupHW7Jqx",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs",
+   "arxiv": "2607.13566",
+   "pub_date": "2026-07-15",
+   "s2_id": "ff3ffbc9ea7a6918911198feb8a80f8dea43bf9c",
+   "openreview": "https://openreview.net/forum?id=KAHCMPsPeI",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Automated Formal Proofs of Combinatorial Identities via Wilf-Zeilberger Guidance and LLMs",
+   "arxiv": "2605.04472",
+   "pub_date": "2026-05-06",
+   "s2_id": "ce79eec8eba5be8a2a0e8d381075adbe2132f560",
+   "openreview": "https://openreview.net/forum?id=Xxq7fcQUNR",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Towards Understanding Adam Convergence on Highly Degenerate Polynomials",
+   "arxiv": "2603.09581",
+   "pub_date": "2026-03-10",
+   "s2_id": "51b74f3ff4085a7c3b4c7c29b3ff538c68db4c0e",
+   "openreview": "https://openreview.net/forum?id=uYWVGk1Qt0",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization",
+   "arxiv": "2607.13432",
+   "pub_date": "2026-07-15",
+   "s2_id": "42320db2fdf5413f81ffea9e4214227571dedff8",
+   "openreview": "https://openreview.net/forum?id=ucbH88BgIk",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications",
+   "arxiv": "2605.11855",
+   "pub_date": "2026-05-12",
+   "s2_id": "c4331a21e307b71bdbf1d4d811fa3f813edac5f4",
+   "openreview": "https://openreview.net/forum?id=t2bQt6M7Qh",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Prototype-guided Bilateral Alignment Multimodal Federated Learning",
+   "arxiv": "2609.38925",
+   "pub_date": "2026-09-30",
+   "s2_id": "7ddfbd89240cf90a2bfc545837f8f62011718d94",
+   "openreview": "https://openreview.net/forum?id=aNgkaEagBG",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA",
+   "arxiv": "2606.00944",
+   "pub_date": "2026-05-31",
+   "s2_id": "561b6fbde5d19f295d3efd05f3d6022af49849e2",
+   "openreview": "https://openreview.net/forum?id=SiCjKmArjQ",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
+   "arxiv": "2604.18518",
+   "pub_date": "2026-04-20",
+   "s2_id": "7b39f0a1b5880eb1bf53de64c0072795aaf71bcc",
+   "openreview": "https://openreview.net/forum?id=WJcFtJriqv",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Incremental BPE Tokenization",
+   "arxiv": "2605.30813",
+   "pub_date": "2026-05-29",
+   "s2_id": "aefea8be48ece576dfe90232af9ec1dccfc03fad",
+   "openreview": "https://openreview.net/forum?id=ZbWgrDzCQo",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch",
+   "arxiv": "2605.03346",
+   "pub_date": "2026-05-05",
+   "s2_id": "7f7061c71fd64b430780a936dfe8f10a29535377",
+   "openreview": "https://openreview.net/forum?id=ubzXPEfa4R",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Quantifying Frontier LLM Capabilities for Container Sandbox Escape",
+   "arxiv": "2603.02277",
+   "pub_date": "2026-03-01",
+   "s2_id": "f0b042d54ccc16c51a193a5a81c7cc8768235f5a",
+   "openreview": "https://openreview.net/forum?id=19AbP986bv",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Riemannian Metric Matching for Scalable Geometric Modeling of Distributions",
+   "arxiv": "2606.14334",
+   "pub_date": "2026-06-12",
+   "s2_id": "e631b8333d998c70f78f40d74d535f755885af7c",
+   "openreview": "https://openreview.net/forum?id=KVzXnWPLgX",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding",
+   "arxiv": "2603.11831",
+   "pub_date": "2026-03-12",
+   "s2_id": "54a0295ae21dbdb37e17f57337b120f6be264b7c",
+   "openreview": "https://openreview.net/forum?id=jfOhTGs5G5",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models",
+   "arxiv": "2603.08859",
+   "pub_date": "2026-03-09",
+   "s2_id": "df957e9cafc59bac982b15f585558b5801bf1aa3",
+   "openreview": "https://openreview.net/forum?id=82EJxJzG6r",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+   "arxiv": "2605.03907",
+   "pub_date": "2026-05-05",
+   "s2_id": "b9eeafecd3c3786aa3254eff683a1df45ade66e8",
+   "openreview": "https://openreview.net/forum?id=06Nk3dJDMq",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Estimating Tail Risks in Language Model Output Distributions",
+   "arxiv": "2604.22167",
+   "pub_date": "2026-04-24",
+   "s2_id": "58de50cf6722a7b3738ba23ea4a3be4b45aca1ff",
+   "openreview": "https://openreview.net/forum?id=Joka19sTny",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Uncovering the Latent Potential of Deep Intermediate Representations",
+   "arxiv": "2605.23033",
+   "pub_date": "2026-05-21",
+   "s2_id": "acb55fe1efec3f07fabbcfc0955c61447547adca",
+   "openreview": "https://openreview.net/forum?id=6up1qGJwYZ",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning",
+   "arxiv": "2606.16856",
+   "pub_date": "2026-06-15",
+   "s2_id": "092cda72f57378162fbcc3b9645922a356312e6d",
+   "openreview": "https://openreview.net/forum?id=G8LVO5easu",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression",
+   "arxiv": "2606.18304",
+   "pub_date": "2026-06-16",
+   "s2_id": "3cb4615ca43e656ced002a054902bd2de871a5ea",
+   "openreview": "https://openreview.net/forum?id=oreET6Wz52",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots",
+   "arxiv": "2605.08550",
+   "pub_date": "2026-05-08",
+   "s2_id": "f1f745a514b2a6cb69ba7faf1379e6f735214ebc",
+   "openreview": "https://openreview.net/forum?id=MjPv4kRu3H",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Protein Fold Classification at Scale: Benchmarking and Pretraining",
+   "arxiv": "2605.18552",
+   "pub_date": "2026-05-18",
+   "s2_id": "bebac60e7eadf9e89b824f57b62b2e7351fbfa37",
+   "openreview": "https://openreview.net/forum?id=jPKqiaPTEd",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures",
+   "arxiv": "2606.29759",
+   "pub_date": "2026-06-29",
+   "s2_id": "e4d20cebb58793703b4d4794e510d9f2bc9a8046",
+   "openreview": "https://openreview.net/forum?id=wkV9jSqwa9",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models",
+   "arxiv": "2603.17896",
+   "pub_date": "2026-03-18",
+   "s2_id": "32f43ca1acf77827437e94bfca1e938863cd98de",
+   "openreview": "https://openreview.net/forum?id=KHhO311xZ2",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Training Diffusion Language Models for Black-Box Optimization",
+   "arxiv": "2603.17919",
+   "pub_date": "2026-03-18",
+   "s2_id": "869417f752b7b348e1bc71e9858ea08f6c0ab55e",
+   "openreview": "https://openreview.net/forum?id=Z7wI0sor6i",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+   "arxiv": "2603.03818",
+   "pub_date": "2026-03-04",
+   "s2_id": "afcbde839d4d84f51f3c8371c473642bc7976855",
+   "openreview": "https://openreview.net/forum?id=VzdSHEab4G",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+   "arxiv": "2605.29447",
+   "pub_date": "2026-05-28",
+   "s2_id": "8c14656b643ca5293f7308fea89d61738a91bc3b",
+   "openreview": "https://openreview.net/forum?id=iJwDylm93H",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence",
+   "arxiv": "2603.07660",
+   "pub_date": "2026-03-08",
+   "s2_id": "92dd23025dab88d9922047f84a21b40b9f12a596",
+   "openreview": "https://openreview.net/forum?id=UGAP2F6FfV",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space",
+   "arxiv": "2603.12664",
+   "pub_date": "2026-03-13",
+   "s2_id": "dd5eac3b9961a1ffc4c164795616edf882abedb5",
+   "openreview": "https://openreview.net/forum?id=S2Fd1GEyv6",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "LASER: Learning Active Sensing for Continuum Field Reconstruction",
+   "arxiv": "2604.19355",
+   "pub_date": "2026-04-21",
+   "s2_id": "8d36ea821bacf5dcbc99513c15de13021f1795eb",
+   "openreview": "https://openreview.net/forum?id=hnoSRifw1F",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Training-Free Bayesian Filtering with Generative Emulators",
+   "arxiv": "2605.20028",
+   "pub_date": "2026-05-19",
+   "s2_id": "b8f669bc6fbd0d60020f90b164e74d8a463a3c75",
+   "openreview": "https://openreview.net/forum?id=ibcZNZwKfZ",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables",
+   "arxiv": "2605.10651",
+   "pub_date": "2026-05-11",
+   "s2_id": "46d47096518c8b03f1fa0ea7b9910b73d0b3b377",
+   "openreview": "https://openreview.net/forum?id=jdbQzlnYll",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "CausalGame: Benchmarking Causal Thinking of LLM Agents in Games",
+   "arxiv": "2607.04293",
+   "pub_date": "2026-07-05",
+   "s2_id": "7e0df840ebf1f0e5f43eb7c77af378a85b05b1ec",
+   "openreview": "https://openreview.net/forum?id=WNqIX3IFZU",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Exact Functional ANOVA Decomposition for Categorical Inputs Models",
+   "arxiv": "2603.02673",
+   "pub_date": "2026-03-03",
+   "s2_id": "44fc9b32d6b8bc133851000f2c6c78b037211d11",
+   "openreview": "https://openreview.net/forum?id=qC9FEfYjai",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention",
+   "arxiv": "2606.07345",
+   "pub_date": "2026-06-05",
+   "s2_id": "ce52dc2fae7cbfb40e9bd8a5148a3fddccfc2dff",
+   "openreview": "https://openreview.net/forum?id=ottLtChHp2",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+   "arxiv": "2603.26648",
+   "pub_date": "2026-03-27",
+   "s2_id": "737fdfa27501872221c840516d1b5db085d488fd",
+   "openreview": "https://openreview.net/forum?id=lJpXXwhRRF",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Learning to Theorize the World from Observation",
+   "arxiv": "2605.03413",
+   "pub_date": "2026-05-05",
+   "s2_id": "d32e3701cc6556d50084b2fa4cd85a737f2c10d9",
+   "openreview": "https://openreview.net/forum?id=wsA8LgHU5U",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks",
+   "arxiv": "2603.02630",
+   "pub_date": "2026-03-03",
+   "s2_id": "0613b7ad7302f722f5d4c25fbb5ebe146b78c5d4",
+   "openreview": "https://openreview.net/forum?id=A5venxSvpw",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Learning Biophysical Models of Large-Scale Multineuronal Data to Enable Precise Neurostimulation",
+   "arxiv": "2607.04063",
+   "pub_date": "2026-07-05",
+   "s2_id": "dc708f49ccadce46583ee6eb855ab8d028b92725",
+   "openreview": "https://openreview.net/forum?id=4hoiRJsmpp",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation",
+   "arxiv": "2606.08414",
+   "pub_date": "2026-06-07",
+   "s2_id": "ad3d2ee1c5bb9afa00a577dcdb55f029ef494648",
+   "openreview": "https://openreview.net/forum?id=ePFvXPdvhM",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios",
+   "arxiv": "2604.09603",
+   "pub_date": "2026-03-10",
+   "s2_id": "fca86e0e1c5a95295e7c8253c5de4ad2cad63ab7",
+   "openreview": "https://openreview.net/forum?id=L31hKCWRsN",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models",
+   "arxiv": "2605.24550",
+   "pub_date": "2026-05-23",
+   "s2_id": "284cb91da412b899ada87a44cbe30d5f64da882f",
+   "openreview": "https://openreview.net/forum?id=O0JXgBBo3k",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Causal Modeling of Selection in Evolution",
+   "arxiv": "2606.05689",
+   "pub_date": "2026-06-04",
+   "s2_id": "f1e59aa43c0eb4a63ec6dcf5b09d1a2ba3cfe00d",
+   "openreview": "https://openreview.net/forum?id=mOcTXKawFY",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "MetaphorVU: Towards Metaphorical Video Understanding",
+   "arxiv": "2605.25461",
+   "pub_date": "2026-05-25",
+   "s2_id": "597ca966d6979582032b8a9de3dfc9b5319bff5a",
+   "openreview": "https://openreview.net/forum?id=yKcBAJMPXZ",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
+   "arxiv": "2606.06574",
+   "pub_date": "2026-06-04",
+   "s2_id": "89d20514985e9b5eaf5353a844d7e87db0f53734",
+   "openreview": "https://openreview.net/forum?id=pl10b6EQAN",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning",
+   "arxiv": "2606.14415",
+   "pub_date": "2026-06-12",
+   "s2_id": "5589700e4601bd7e78ba75b1d3480cc809387f78",
+   "openreview": "https://openreview.net/forum?id=3ySR3TCMRP",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "LIMSSR: LLM-Driven Sequence-to-Score Reasoning under Training-Time Incomplete Multimodal Observations",
+   "arxiv": "2605.00434",
+   "pub_date": "2026-05-01",
+   "s2_id": "aeec55f714e5d961e1df8d6c2724ed6769cf9e02",
+   "openreview": "https://openreview.net/forum?id=0RLF7Sj2Fg",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "FOCUS&RePAIR: Mitigating Text Degeneration via Token-Level Guidance for Pruned Large Language Models",
+   "arxiv": "2608.26676",
+   "pub_date": "2026-08-27",
+   "s2_id": "d5b2ee09dff3eab3392dc6cadf5b04e9d2e04b56",
+   "openreview": "https://openreview.net/forum?id=3SgRoBn3XM",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Welfare-Optimal Classification with Accuracy Auctions",
+   "arxiv": "2606.02435",
+   "pub_date": "2026-06-01",
+   "s2_id": "7edeef56129e481429f97b86bdaf9e26c6f4447a",
+   "openreview": "https://openreview.net/forum?id=MA1LUDNA3s",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Correcting Split Selection in Online Decision Trees via Anytime-Valid Inference",
+   "arxiv": "2605.31239",
+   "pub_date": "2026-05-29",
+   "s2_id": "39e82ea016dd2338c8f8f527965020a4e0cd3389",
+   "openreview": "https://openreview.net/forum?id=fZvEZQWJrR",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+   "arxiv": "2605.29591",
+   "pub_date": "2026-05-28",
+   "s2_id": "aff0ffab532bc8ffa639034ae1b451bcf345bb8e",
+   "openreview": "https://openreview.net/forum?id=3gCdh3u2GK",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search",
+   "arxiv": "2605.00751",
+   "pub_date": "2026-05-01",
+   "s2_id": "b8979f41917c109cc525d9596700e3185a12017b",
+   "openreview": "https://openreview.net/forum?id=Jh6gq9QsFa",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation",
+   "arxiv": "2605.02278",
+   "pub_date": "2026-05-04",
+   "s2_id": "864e701f0658f19079b6e917f8659563d71eddd2",
+   "openreview": "https://openreview.net/forum?id=FN20iuPnEU",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation",
+   "arxiv": "2605.24041",
+   "pub_date": "2026-05-21",
+   "s2_id": "82ff27faefe5c1e81e81cbebf2ce1c640a0b56fd",
+   "openreview": "https://openreview.net/forum?id=4lAS8tI23u",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Beyond First-order Asymptotics in Sequential Mean Testing",
+   "arxiv": "2606.04520",
+   "pub_date": "2026-06-03",
+   "s2_id": "6dec956d3b120ac49d6e48a5a69413b55314e6cb",
+   "openreview": "https://openreview.net/forum?id=HMyCBL2yMV",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts",
+   "arxiv": "2606.19036",
+   "pub_date": "2026-06-17",
+   "s2_id": "2b130052f213f880afcf556f9b82c2e5acd0dc99",
+   "openreview": "https://openreview.net/forum?id=AyrNR1ExN5",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal",
+   "arxiv": "2603.21901",
+   "pub_date": "2026-03-23",
+   "s2_id": "4049b03a607d156416c80b143789713d5e43d6ad",
+   "openreview": "https://openreview.net/forum?id=HszNb2xE7P",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models",
+   "arxiv": "2605.30038",
+   "pub_date": "2026-05-28",
+   "s2_id": "f8fa8373004088be96af2f9fc8b7548da7aa0921",
+   "openreview": "https://openreview.net/forum?id=vKWxArobP3",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "What preferences can - and cannot - predict in multi-agent online learning",
+   "arxiv": "2608.13810",
+   "pub_date": "2026-08-13",
+   "s2_id": "38827879f3e836e29de0f0fcbcd7045272346b15",
+   "openreview": "https://openreview.net/forum?id=5W30WwL8wt",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Real-Time Visual Attribution Streaming in Thinking Model",
+   "arxiv": "2604.16587",
+   "pub_date": "2026-04-17",
+   "s2_id": "092b3b7b9a41f4dee26e697456f22213de8bcfe7",
+   "openreview": "https://openreview.net/forum?id=eVr10aZZIw",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Orthogonal Concept Erasure for Diffusion Models",
+   "arxiv": "2605.28902",
+   "pub_date": "2026-05-27",
+   "s2_id": "326899ef5fc78ba2833a44df759a59be84b944c8",
+   "openreview": "https://openreview.net/forum?id=VE2aKpTWrK",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion",
+   "arxiv": "2605.01466",
+   "pub_date": "2026-05-02",
+   "s2_id": "d67ac9c11d71f2e13eb4ba693dd37b71a77a16b6",
+   "openreview": "https://openreview.net/forum?id=vTp9JToZl9",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Modular Pretraining Enables Access Control",
+   "arxiv": "2607.08077",
+   "pub_date": "2026-07-09",
+   "s2_id": "c60af06611f4ec9c5239acefe140371486f0ad13",
+   "openreview": "https://openreview.net/forum?id=yIubI9l3IT",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video",
+   "arxiv": "2606.09243",
+   "pub_date": "2026-06-08",
+   "s2_id": "565e4d66f6db0cb91232a410934ab08813de6d7d",
+   "openreview": "https://openreview.net/forum?id=xBkLTpOu2V",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification",
+   "arxiv": "2604.11613",
+   "pub_date": "2026-04-13",
+   "s2_id": "cadb4e40426bc68abca79cf7783d0e20535065a6",
+   "openreview": "https://openreview.net/forum?id=fDMizWsNoG",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Focus and Dilution: The Multi-stage Learning Process of Attention",
+   "arxiv": "2605.01199",
+   "pub_date": "2026-05-02",
+   "s2_id": "b727a99f09ff3087402e2748ae21736588bc5d1a",
+   "openreview": "https://openreview.net/forum?id=LF4YsCYfrf",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance",
+   "arxiv": "2603.11509",
+   "pub_date": "2026-03-12",
+   "s2_id": "651292fcbbb880c07d89761babfeda6b5fd97211",
+   "openreview": "https://openreview.net/forum?id=eSxGdQ0zwG",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "On Efficient Scaling of GNNs via IO-Aware Layers Implementations",
+   "arxiv": "2605.31500",
+   "pub_date": "2026-05-29",
+   "s2_id": "ab994d05a29516a3ea3171ac37517a5543b5d6e0",
+   "openreview": "https://openreview.net/forum?id=w6JVbu7VFo",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle",
+   "arxiv": "2605.17504",
+   "pub_date": "2026-05-17",
+   "s2_id": "193beadf6062ac9c498f2da3dc4d013a76083330",
+   "openreview": "https://openreview.net/forum?id=TZvHUmClPP",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+   "arxiv": "2606.14997",
+   "pub_date": "2026-06-12",
+   "s2_id": "55322346660ec69dc27d263d77174e5cb7fbe322",
+   "openreview": "https://openreview.net/forum?id=QZO3oby12w",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Latent Laplace Diffusion for Irregular Multivariate Time Series",
+   "arxiv": "2605.19805",
+   "pub_date": "2026-05-19",
+   "s2_id": "174eb000ab1b0187b37558abc7456f06ebb44233",
+   "openreview": "https://openreview.net/forum?id=t73XUJvyQr",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "WaterSIC: information-theoretically (near) optimal linear layer quantization",
+   "arxiv": "2603.04956",
+   "pub_date": "2026-03-05",
+   "s2_id": "cac68b3517190983448f5f2da1e4b9423f687b1b",
+   "openreview": "https://openreview.net/forum?id=fCPgAHIciE",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection",
+   "arxiv": "2605.08651",
+   "pub_date": "2026-05-09",
+   "s2_id": "c074adebbe6e8008dae646d3e1db4010c67e0ad6",
+   "openreview": "https://openreview.net/forum?id=fjUUmUCy9m",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Dual-Latent Memory Routing for Vision-Language Reasoning",
+   "arxiv": "2609.05539",
+   "pub_date": "2026-09-02",
+   "s2_id": "19170460ff4204727ac0a739e688778e82ba9a5b",
+   "openreview": "https://openreview.net/forum?id=SFWWUr9V7c",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing",
+   "arxiv": "2609.06484",
+   "pub_date": "2026-09-06",
+   "s2_id": "f6d9cd309367f7393c3b42548f03ba56b3bd691d",
+   "openreview": "https://openreview.net/forum?id=LrNH0O3s45",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Regret Minimization Framework on Preference Learning in Large Language Models",
+   "arxiv": "2606.09124",
+   "pub_date": "2026-06-08",
+   "s2_id": "49dd47a4f9094c4f42faa92f7783dabd024acf05",
+   "openreview": "https://openreview.net/forum?id=genVnYBAV7",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+   "arxiv": "2604.22951",
+   "pub_date": "2026-04-24",
+   "s2_id": "f6e1e0506bc0907b6e8b9d697377dbce8762335a",
+   "openreview": "https://openreview.net/forum?id=K83orsg2X9",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy",
+   "arxiv": "2606.08681",
+   "pub_date": "2026-06-07",
+   "s2_id": "1a8aff8fbd424f6a434158014858573afb989246",
+   "openreview": "https://openreview.net/forum?id=82Wosp2Iu1",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "3ViewSense: Spatial and Mental Perspective Reasoning from Orthographic Views in Vision-Language Models",
+   "arxiv": "2603.07751",
+   "pub_date": "2026-03-08",
+   "s2_id": "e2d5706107c60a47fabcaeffb73b1259629f6660",
+   "openreview": "https://openreview.net/forum?id=Hm8OEDKpiO",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+   "arxiv": "2605.00503",
+   "pub_date": "2026-05-01",
+   "s2_id": "27629afbb45b201f730ba4407400e7448f3336e5",
+   "openreview": "https://openreview.net/forum?id=fSnxuRhWoC",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "RelaxFlow: Text-Driven Amodal 3D Generation",
+   "arxiv": "2603.05425",
+   "pub_date": "2026-03-05",
+   "s2_id": "a7fc93336d227bdb5d75966cc4555c62b501f26d",
+   "openreview": "https://openreview.net/forum?id=UamxHbDR3p",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Learning Structured Reasoning via Tractable Trajectory Control",
+   "arxiv": "2603.01641",
+   "pub_date": "2026-03-02",
+   "s2_id": "d615adca35ca45a02e2875953927dc4f359bb4b2",
+   "openreview": "https://openreview.net/forum?id=x6J7va4BYz",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection",
+   "arxiv": "2606.04050",
+   "pub_date": "2026-06-02",
+   "s2_id": "6bbe74cfd8af549e8a1e011609126dbdeab1b679",
+   "openreview": "https://openreview.net/forum?id=1GvXUhLIMP",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Securing Multimodal AI through Internal Information Decomposition",
+   "arxiv": "2607.21600",
+   "pub_date": "2026-05-03",
+   "s2_id": "7c79e44303248fa15e3e4c61ea7027fccd1900f2",
+   "openreview": "https://openreview.net/forum?id=GEzZIUmEqE",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Exact Unlearning in Reinforcement Learning",
+   "arxiv": "2606.04182",
+   "pub_date": "2026-06-02",
+   "s2_id": "d8d11c2a6805dfb6286cbe8c0b0dcef4d577baee",
+   "openreview": "https://openreview.net/forum?id=oLmwqIhzqj",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "A Unifying Relational Perspective on Expressive Lottery Tickets",
+   "arxiv": "2608.18819",
+   "pub_date": "2026-08-19",
+   "s2_id": "221221b372a9be7115eb12fff5cfdc3bf6a932f1",
+   "openreview": "https://openreview.net/forum?id=uWHqeVzNcm",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+   "arxiv": "2604.06268",
+   "pub_date": "2026-04-07",
+   "s2_id": "cc26037281e74325784ce2492f29f23d099347b0",
+   "openreview": "https://openreview.net/forum?id=01caH9oj7C",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "Security-Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",
+   "arxiv": "2606.30783",
+   "pub_date": "2026-06-29",
+   "s2_id": "e0a3164c0dfefd905fcf44dd945a49aebfb468fc",
+   "openreview": "https://openreview.net/forum?id=vTJmIhNvC3",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems",
+   "arxiv": "2603.14392",
+   "pub_date": "2026-03-15",
+   "s2_id": "ae69db2cee03655c48b8a874669132709036269c",
+   "openreview": "https://openreview.net/forum?id=ncRRCG4BfP",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants",
+   "arxiv": "2603.09652",
+   "pub_date": "2026-03-10",
+   "s2_id": "225ce6e473bab439edd638b29b997b44a7668667",
+   "openreview": "https://openreview.net/forum?id=pwbLmew1aq",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State",
+   "arxiv": "2609.19955",
+   "pub_date": "2026-09-17",
+   "s2_id": "24326bd844b28676edafd657e3e0bda196bc5ad3",
+   "openreview": "https://openreview.net/forum?id=g07aDcWYJ9",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  },
+  {
+   "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
+   "arxiv": "2605.09810",
+   "pub_date": "2026-05-10",
+   "s2_id": "5a6c7fc00d564757a812de10eb958478ed2888a6",
+   "openreview": "https://openreview.net/forum?id=RNuC8Nj6rD",
+   "tier": "Spotlight",
+   "venue": "ICML 2026"
+  }
+ ],
+ "spotlights_tried": 0
+}

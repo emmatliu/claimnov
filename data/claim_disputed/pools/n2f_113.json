@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_a9194aa117acabe333aaaf330cf71c66094ced51",
+   "title": "Robust Compressed Sensing MRI with Deep Generative Priors",
+   "is_B": true
+  },
+  {
+   "id": "1e8fbc9e028b26dd6aace38b950c2127bf9d3879",
+   "title": "Robust compressed sensing using generative models",
+   "date": "2020-06-16"
+  },
+  {
+   "id": "f580b0e1020ad67bdbb11e8d99a59c21a8df1e7d",
+   "title": "Compressed Sensing using Generative Models",
+   "date": "2017-03-09"
+  },
+  {
+   "id": "de96cd450baca1a76d89a72081239935e0aa43a3",
+   "title": "Modeling Sparse Deviations for Compressed Sensing using Generative Models",
+   "date": "2018-07-03"
+  },
+  {
+   "id": "5f0216d665a32878279bf11aede446130ae2bf5f",
+   "title": "Solving linear inverse problems using generative models",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "6b07602355d7c3144f79b1c7cac8d2d0f77a20ab",
+   "title": "Instance-Optimal Compressed Sensing via Posterior Sampling",
+   "date": "2021-06-21"
+  },
+  {
+   "id": "c59841c20bd84173f58fd72f36cc3153cfee0376",
+   "title": "Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors",
+   "date": "2020-02-05"
+  },
+  {
+   "id": "806c279dcf695a9668388038e457ae325116ac53",
+   "title": "Lower Bounds for Compressed Sensing with Generative Models",
+   "date": "2019-09-14"
+  },
+  {
+   "id": "bf852287566cda9c2f391fa8f7f19122e0671558",
+   "title": "Model-Based Compressive Sensing",
+   "date": "2008-08-26"
+  },
+  {
+   "id": "d5bc4b9f105c163f81026dd74de872b126bd8672",
+   "title": "Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rates and Global Landscape Analysis",
+   "date": "2019-08-14"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "8a27c9f6357d4b552c7b1906ce7238417c28d3f9",
+   "title": "Information-Theoretic Lower Bounds for Compressive Sensing With Generative Models",
+   "date": "2019-08-28"
+  },
+  {
+   "id": "86f2e24cbf42d1afba52fa6f9482a053c52258a3",
+   "title": "High Dimensional Channel Estimation Using Deep Generative Networks",
+   "date": "2020-06-24"
+  },
+  {
+   "id": "712ba0bf4c2208b6446bd03190df31a514855e09",
+   "title": "Deep Generative Adversarial Neural Networks for Compressive Sensing (GANCS) MRI",
+   "date": "2018-07-23"
+  },
+  {
+   "id": "8f30b061b4aa39fa1f203dbcab7472021f3c0411",
+   "title": "Task-Aware Compressed Sensing with Generative Adversarial Networks",
+   "date": "2018-02-01"
+  },
+  {
+   "id": "c5300c3756332082cb310651f63d74e71b7278ad",
+   "title": "Deep Generative Adversarial Networks for Compressed Sensing Automates MRI",
+   "date": "2017-05-31"
+  },
+  {
+   "id": "1156e277fa7ec195b043161d3c5c97715da17658",
+   "title": "Improved Techniques for Training Score-Based Generative Models",
+   "date": "2020-06-16"
+  },
+  {
+   "id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+   "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+   "date": "2019-07-12"
+  },
+  {
+   "id": "b1df2dfda502516fa0346e0dff57851d223fffd9",
+   "title": "Phase Retrieval Under a Generative Prior",
+   "date": "2018-07-11"
+  },
+  {
+   "id": "4acbd4b21b719b4a8f92fe7cc58052ce7596b7ae",
+   "title": "Prior Image-Constrained Reconstruction using Style-Based Generative Models",
+   "date": "2021-02-24"
+  }
+ ],
+ "n_candidates": 71,
+ "sims": [
+  0.7211,
+  0.7126,
+  0.7113,
+  0.7093,
+  0.6783,
+  0.6739,
+  0.6715,
+  0.663,
+  0.6453,
+  0.6296,
+  0.6221,
+  0.6141,
+  0.6123,
+  0.6087,
+  0.6074,
+  0.5993,
+  0.5942,
+  0.5514,
+  0.5444
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_ecbdc83a1aa8d196943d8997300be871b1c7c2dc",
+   "title": "Objective Mismatch in Model-based Reinforcement Learning",
+   "is_B": true
+  },
+  {
+   "id": "56136aa0b2c347cbcf3d50821f310c4253155026",
+   "title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "db1614b97aec1e0ead9554a038aa0f8dd9a26e30",
+   "title": "Exploring Model-based Planning with Policy Networks",
+   "date": "2019-06-20"
+  },
+  {
+   "id": "9001698e033524864d4d45f051a5ba362d4afd9e",
+   "title": "When to Trust Your Model: Model-Based Policy Optimization",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "e75271c7f985752a8dcce2347ce922d7f4cd3df1",
+   "title": "SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning",
+   "date": "2018-08-28"
+  },
+  {
+   "id": "c372396db5db3ea5d1acc1255e79791c51dfc959",
+   "title": "Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future",
+   "date": "2019-03-05"
+  },
+  {
+   "id": "2ad1071c62b33e0d9daac1a27e819bb2b151654f",
+   "title": "Goal-driven dynamics learning via Bayesian optimization",
+   "date": "2017-03-27"
+  },
+  {
+   "id": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+   "title": "Learning Latent Dynamics for Planning from Pixels",
+   "date": "2018-11-12"
+  },
+  {
+   "id": "6946ae0c23257586c12d01675e05167d74cb89fa",
+   "title": "Robust Reinforcement Learning for Continuous Control with Model Misspecification",
+   "date": "2019-06-18"
+  },
+  {
+   "id": "235b783e5e0dbfeb604d20209d116e12bfdf5d42",
+   "title": "Hierarchical Reinforcement Learning with Optimal Level Synchronization Based on Flow-Based Deep Generative Model",
+   "date": "2021-07-17"
+  },
+  {
+   "id": "68df76350dffba2e5f5f965df57c3747c66bb4d0",
+   "title": "Differentiable MPC for End-to-end Planning and Control",
+   "date": "2018-10-31"
+  },
+  {
+   "id": "188dac491f04c56e1eb7d7b33ac6aa0b87303232",
+   "title": "DeepMDP: Learning Continuous Latent Space Models for Representation Learning",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "ea22d6190b1ae38fefd391e3d6c48d8807d72626",
+   "title": "Self-Correcting Models for Model-Based Reinforcement Learning",
+   "date": "2016-12-01"
+  },
+  {
+   "id": "c46d80f83813fba0e8363a0ab36a19fba062540e",
+   "title": "Learning Actionable Representations with Goal-Conditioned Policies",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "513ea47003a522cebe03f2f1bfe96b3efc598234",
+   "title": "Learning stabilizable nonlinear dynamics with contraction-based regularization",
+   "date": "2019-07-29"
+  },
+  {
+   "id": "8cd52792bba9bfb94a6f532be4b99fddd701ca03",
+   "title": "The Dependence of Effective Planning Horizon on Model Accuracy",
+   "date": "2015-05-04"
+  },
+  {
+   "id": "696ec77d7bcf5b71039877e07dbbdb341d04b4e3",
+   "title": "Path Integral Networks: End-to-End Differentiable Optimal Control",
+   "date": "2017-06-29"
+  },
+  {
+   "id": "b53a4e3bcc7bca42009f1752437267976c968bae",
+   "title": "Universal Planning Networks",
+   "date": "2018-04-02"
+  },
+  {
+   "id": "bb1a17010254abfa5e1f2a17553582ce449f8e16",
+   "title": "Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images",
+   "date": "2015-06-24"
+  },
+  {
+   "id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+   "title": "Intriguing properties of neural networks",
+   "date": "2013-12-20"
+  }
+ ],
+ "n_candidates": 19,
+ "sims": [
+  0.7232,
+  0.6625,
+  0.6615,
+  0.6456,
+  0.634,
+  0.6165,
+  0.6006,
+  0.5821,
+  0.5815,
+  0.5759,
+  0.571,
+  0.565,
+  0.5578,
+  0.5498,
+  0.5341,
+  0.4703,
+  0.4602,
+  0.4446,
+  0.3106
+ ]
+}

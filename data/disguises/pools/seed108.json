@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_a7fc93336d227bdb5d75966cc4555c62b501f26d",
+   "title": "RelaxFlow: Text-Driven Amodal 3D Generation",
+   "date": "2026-03-05",
+   "is_B": true
+  },
+  {
+   "id": "aff479469fc63420ba39990453663250560bca0f",
+   "title": "AnchorDS: Anchoring Dynamic Sources for Semantically Consistent Text-to-3D Generation",
+   "date": "2025-11-12"
+  },
+  {
+   "id": "4f7af27daff614eb4e7c58461743f6405f7c265f",
+   "title": "Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "17fc9a267f44613168ce76efb2ec434e1b4f0b3d",
+   "title": "3D-LATTE: Latent Space 3D Editing from Textual Instructions",
+   "date": "2025-08-29"
+  },
+  {
+   "id": "6507ddb7ece7e1e6b2e5b6cbbe636ac84ea6b863",
+   "title": "Open-World Amodal Appearance Completion",
+   "date": "2024-11-20"
+  },
+  {
+   "id": "9aa01997226b5c4d705ae2e2f52c32681006654b",
+   "title": "MVDream: Multi-view Diffusion for 3D Generation",
+   "date": "2023-08-31"
+  },
+  {
+   "id": "9628d2ad834868d675f3d403269d848a6dec5399",
+   "title": "DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "a6516ea367ee1863bdd24d2ba44750c931348614",
+   "title": "Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing",
+   "date": "2026-01-20"
+  },
+  {
+   "id": "3ff7153fd6bd47d08084c7f50f8fd70026c126e7",
+   "title": "Compositional Visual Generation with Composable Diffusion Models",
+   "date": "2022-06-03"
+  },
+  {
+   "id": "5666d551bc9f86e2f379ede8b8ffddbe4d1d53a8",
+   "title": "Structured 3D Latents for Scalable and Versatile 3D Generation",
+   "date": "2024-12-02"
+  },
+  {
+   "id": "81244a5f36534b41d6265d259082933d951c503e",
+   "title": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "94019a177ac4abc6b416629d2c24d2960ac34ca8",
+   "title": "Flowedit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+   "date": "2024-12-11"
+  },
+  {
+   "id": "8dfe271d2186d5746d034b3cce12131f4d3f45f7",
+   "title": "DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation",
+   "date": "2023-06-21"
+  },
+  {
+   "id": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
+   "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "f3a2e9a43ef9af111d0ccf74d3efa08607f00575",
+   "title": "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "3262cda60389d8a58b81f00a5bae7ec87348bccd",
+   "title": "LN3Diff++: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation",
+   "date": "2024-03-18"
+  },
+  {
+   "id": "1b8a734dd28a9d766a5d3dbc0871e76b6a452b65",
+   "title": "Point-E: A System for Generating 3D Point Clouds from Complex Prompts",
+   "date": "2022-12-16"
+  },
+  {
+   "id": "3f4cbfad6681e1222f84fbd870ba413a1633dd7e",
+   "title": "Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "772b2db53034daf3c0ac665f725972680fc4c703",
+   "title": "T3Bench: Benchmarking Current Progress in Text-to-3D Generation",
+   "date": "2023-10-04"
+  },
+  {
+   "id": "2656f58b9e685d158d14af28b3bf79a6b4a304c6",
+   "title": "pix2gestalt: Amodal Segmentation by Synthesizing Wholes",
+   "date": "2024-01-25"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.6136,
+  0.6049,
+  0.6001,
+  0.5909,
+  0.5836,
+  0.5775,
+  0.572,
+  0.5673,
+  0.5647,
+  0.5636,
+  0.5611,
+  0.5572,
+  0.5571,
+  0.5548,
+  0.546,
+  0.5455,
+  0.536,
+  0.5286,
+  0.5256
+ ]
+}

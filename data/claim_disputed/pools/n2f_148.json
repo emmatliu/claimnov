@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_7d34d84f0022fa7dfcecf7e9f5444c938d2bc3fe",
+   "title": "Learning with Bounded Instance- and Label-dependent Label Noise",
+   "is_B": true
+  },
+  {
+   "id": "4f62d8a036f7616510909d4a19db19b735264d9c",
+   "title": "Are Anchor Points Really Indispensable in Label-Noise Learning?",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "77a1dcdb52b5b76ae17fb4f181840797e58f7fed",
+   "title": "Masking: A New Perspective of Noisy Supervision",
+   "date": "2018-05-21"
+  },
+  {
+   "id": "23858481090f7dbd8e8de859b0795a448cbcb478",
+   "title": "Parts-dependent Label Noise: Towards Instance-dependent Label Noise",
+   "date": "2020-06-14"
+  },
+  {
+   "id": "233de8bacf9b57b208583965762ceb4b8e7f1d03",
+   "title": "Error-Bounded Correction of Noisy Labels",
+   "date": "2020-07-12"
+  },
+  {
+   "id": "c4c4bc0367ec099f1e00a7700332cd0bf393aa55",
+   "title": "Joint Optimization Framework for Learning with Noisy Labels",
+   "date": "2018-03-30"
+  },
+  {
+   "id": "2e4316e7c38373d068f8ff55f26ff83dfc4238b8",
+   "title": "Learning to Learn From Noisy Labeled Data",
+   "date": "2018-12-13"
+  },
+  {
+   "id": "4f6610f23af1bf193ca55b4af119b9be733bce99",
+   "title": "Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks",
+   "date": "2017-05-31"
+  },
+  {
+   "id": "91d331d2bdd5fc86400c40c497bcb4c741c652be",
+   "title": "Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach",
+   "date": "2016-09-13"
+  },
+  {
+   "id": "622727f595542afa3caf8802927d880818ddb17a",
+   "title": "Dimensionality-Driven Learning with Noisy Labels",
+   "date": "2018-06-07"
+  },
+  {
+   "id": "ce9de6c26a4772f2349b29d76c22b5a436f6cbca",
+   "title": "Classification with Asymmetric Label Noise: Consistency and Maximal Denoising",
+   "date": "2013-03-05"
+  },
+  {
+   "id": "b4bd88c2a349d29f7aeaf5c1fcb355021058b3fa",
+   "title": "CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise",
+   "date": "2017-11-20"
+  },
+  {
+   "id": "4f48c8653cd38cd18f08924c9304bc02ed7ea492",
+   "title": "Learning from Noisy Labels with Distillation",
+   "date": "2017-03-07"
+  },
+  {
+   "id": "33d6aa6c41ce3000161d9b5eea910a5b78e14330",
+   "title": "Robust Loss Functions under Label Noise for Deep Neural Networks",
+   "date": "2017-02-13"
+  },
+  {
+   "id": "58b4cf057bdd361be289601ef3dd69b4efbef83e",
+   "title": "Probabilistic End-To-End Noise Correction for Learning With Noisy Labels",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "0abea3322379506b017784309d9bee2e375e3e5d",
+   "title": "Iterative Learning with Open-set Noisy Labels",
+   "date": "2018-03-31"
+  },
+  {
+   "id": "7d6e78e3364af6a43ff7404ed61958d6f6137161",
+   "title": "Label-Noise Robust Domain Adaptation",
+   "date": "2020-07-01"
+  },
+  {
+   "id": "780d18205252a4d3fc1ab4b4a2db55a370d0105e",
+   "title": "Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise",
+   "date": "2018-02-14"
+  },
+  {
+   "id": "e061d23b68e7d4aac5aece4794c044c80e638dca",
+   "title": "Co-teaching: Robust training of deep neural networks with extremely noisy labels",
+   "date": "2018-04-18"
+  },
+  {
+   "id": "c455b45adf81fbbf9b8572a6192a37597f2c8da4",
+   "title": "Deep Self-Learning From Noisy Labels",
+   "date": "2019-08-06"
+  }
+ ],
+ "n_candidates": 48,
+ "sims": [
+  0.774,
+  0.7292,
+  0.692,
+  0.659,
+  0.6532,
+  0.6526,
+  0.6478,
+  0.6326,
+  0.6316,
+  0.6247,
+  0.6182,
+  0.6149,
+  0.6106,
+  0.6093,
+  0.5923,
+  0.5917,
+  0.5913,
+  0.5884,
+  0.5883
+ ]
+}

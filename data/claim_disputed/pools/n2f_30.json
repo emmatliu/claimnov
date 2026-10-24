@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2002.11297",
+   "title": "Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data",
+   "is_B": true
+  },
+  {
+   "id": "e31fa9510047c0df23fb4dd37ee7c70783a3fa60",
+   "title": "Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers",
+   "date": "2018-09-04"
+  },
+  {
+   "id": "925182b91f51f8f2b747f7829e9d25ffc2729e5d",
+   "title": "Likelihood Ratios for Out-of-Distribution Detection",
+   "date": "2019-06-07"
+  },
+  {
+   "id": "4ebc747e7bafafe1551ec0873f621bd870c6a632",
+   "title": "Hyperparameter-Free Out-of-Distribution Detection Using Softmax of Scaled Cosine Similarity",
+   "date": "2019-05-25"
+  },
+  {
+   "id": "547c854985629cfa9404a5ba8ca29367b5f8c25f",
+   "title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks",
+   "date": "2017-06-08"
+  },
+  {
+   "id": "36653f8705b56e39642bcd123494eb680cd1636b",
+   "title": "Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples",
+   "date": "2017-11-26"
+  },
+  {
+   "id": "2d8c97db4bae00ff243d122b957091a236a697a7",
+   "title": "Deep Anomaly Detection with Outlier Exposure",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "d03ca175e2b2745126e792fdc31dfadae4c63afa",
+   "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "317c172f314f8cb634f7569ed5bf3ae7dd25c313",
+   "title": "Metric Learning for Novelty and Anomaly Detection",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "50577b1a6aa575f401bce336e015e7a4eaf7edcb",
+   "title": "Generative Ensembles for Robust Anomaly Detection",
+   "date": "2018-10-02"
+  },
+  {
+   "id": "6ff2a434578ff2746b9283e45abf296887f48a2d",
+   "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+   "date": "2016-10-07"
+  },
+  {
+   "id": "5ea5224de74847ba3a5d15c718af8f04fa50efe7",
+   "title": "Out-of-Distribution Detection using Multiple Semantic Label Representations",
+   "date": "2018-08-20"
+  },
+  {
+   "id": "42a047ca1bc1e5c8fecafb9d1ea2cbd03aae05fb",
+   "title": "Towards Open World Recognition",
+   "date": "2014-12-17"
+  },
+  {
+   "id": "d65ce2b8300541414bfe51d03906fca72e93523c",
+   "title": "On Calibration of Modern Neural Networks",
+   "date": "2017-06-14"
+  },
+  {
+   "id": "52b9199ae9fd0ffee0d412ed4c95087dfb9d2d17",
+   "title": "Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness",
+   "date": "2019-05-31"
+  },
+  {
+   "id": "6507909a8f77c88144c3a67b9336bd1c85e84cac",
+   "title": "Do Deep Generative Models Know What They Don't Know?",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "d98ec42c5bc64b06b5d6e259467528e0121ae69b",
+   "title": "Reducing Network Agnostophobia",
+   "date": "2018-11-09"
+  },
+  {
+   "id": "3217278e346fefbd34f0727321059c7ea5792612",
+   "title": "Moment Matching for Multi-Source Domain Adaptation",
+   "date": "2018-12-04"
+  },
+  {
+   "id": "117deae28bc57323f446d7f7700395909b8d19c6",
+   "title": "Ensemble Distribution Distillation",
+   "date": "2019-04-30"
+  },
+  {
+   "id": "9fcb88ec529aba79a5860e8fde76e7f4762a267d",
+   "title": "Predictive Uncertainty Estimation via Prior Networks",
+   "date": "2018-02-28"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.6803,
+  0.6633,
+  0.645,
+  0.6378,
+  0.6363,
+  0.6047,
+  0.5896,
+  0.5727,
+  0.5572,
+  0.553,
+  0.553,
+  0.5094,
+  0.4909,
+  0.4635,
+  0.4375,
+  0.4355,
+  0.4309,
+  0.429,
+  0.4153
+ ]
+}

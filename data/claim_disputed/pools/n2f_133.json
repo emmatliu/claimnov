@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_b39eed03d345f5c244eac12fd1315d26eba77d62",
+   "title": "Deep Learning for Symbolic Mathematics",
+   "is_B": true
+  },
+  {
+   "id": "afed6dc6900d3b37e528b9086661bba583d60bf6",
+   "title": "Analysing Mathematical Reasoning Abilities of Neural Models",
+   "date": "2019-04-02"
+  },
+  {
+   "id": "53e6f10e70393bdbafa98238272977760196fddf",
+   "title": "Learning Continuous Semantic Representations of Symbolic Expressions",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "7d335f988990f20e0e2d0085e60be24ff3bd56d6",
+   "title": "Learning to Discover Efficient Mathematical Identities",
+   "date": "2014-06-05"
+  },
+  {
+   "id": "e77e00286a63a32dafb9629cd79f6a77bddb1941",
+   "title": "Deep Network Guided Proof Search",
+   "date": "2017-01-24"
+  },
+  {
+   "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+   "title": "Sequence to Sequence Learning with Neural Networks",
+   "date": "2014-09-10"
+  },
+  {
+   "id": "b887a39268ee41fea8d72f0ecd364eb72fe28a82",
+   "title": "Analyzing Uncertainty in Neural Machine Translation",
+   "date": "2018-02-28"
+  },
+  {
+   "id": "7ae976870e17ed36dc41bfd7fcc13e6860573340",
+   "title": "Learning to Parse and Translate Improves Neural Machine Translation",
+   "date": "2017-02-12"
+  },
+  {
+   "id": "0d0b3ff23fbf1ec7a0dfebd923a3ef224306491a",
+   "title": "Learning to Execute",
+   "date": "2014-10-16"
+  },
+  {
+   "id": "618784f1c811dd3df9a0fb95de9868575b38f7a4",
+   "title": "Improving the Neural GPU Architecture for Algorithm Learning",
+   "date": "2017-02-28"
+  },
+  {
+   "id": "5fc548f3f3112de7eddad3744717dc2f9d22ca38",
+   "title": "Neural Arithmetic Logic Units",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "5e4eb58d5b47ac1c73f4cf189497170e75ae6237",
+   "title": "Neural GPUs Learn Algorithms",
+   "date": "2015-11-25"
+  },
+  {
+   "id": "32de44f01a96d4473d21099d15e25bc2b9f08e2f",
+   "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks",
+   "date": "2015-02-27"
+  },
+  {
+   "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+   "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+   "date": "2014-09-01"
+  },
+  {
+   "id": "3d1b34384499f77bf317b01594c8c60af212582b",
+   "title": "SymPy: Symbolic computing in Python",
+   "date": "2017-01-02"
+  },
+  {
+   "id": "7345843e87c81e24e42264859b214d26042f8d51",
+   "title": "Recurrent Neural Network Grammars",
+   "date": "2016-02-01"
+  },
+  {
+   "id": "de5adc98bc00734d0714be30ba268a1b0e818e6d",
+   "title": "THE SOLUTION OF THE PROBLEM OF INTEGRATION IN FINITE TERMS",
+   "date": "1970-05-01"
+  },
+  {
+   "id": "d7da009f457917aa381619facfa5ffae9329a6e9",
+   "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+   "date": "2002-07-06"
+  },
+  {
+   "id": "47570e7f63e296f224a0e7f9a0d08b0de3cbaf40",
+   "title": "Grammar as a Foreign Language",
+   "date": "2014-12-23"
+  }
+ ],
+ "n_candidates": 21,
+ "sims": [
+  0.5931,
+  0.5589,
+  0.5448,
+  0.5432,
+  0.5203,
+  0.4933,
+  0.4684,
+  0.465,
+  0.462,
+  0.4523,
+  0.4405,
+  0.4337,
+  0.4275,
+  0.4107,
+  0.3896,
+  0.3877,
+  0.386,
+  0.3782,
+  0.346
+ ]
+}

@@ -1,0 +1,1302 @@
+[
+ {
+  "id": "47cb159c6da33fa630beb244099dd77d743d2091",
+  "title": "SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "7f728345561ea4a7631527f97da19f6bbf9d5ed5",
+  "title": "Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "1d03586baa32b3d6ff657a180053821543e11abb",
+  "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+  "date": "2025-04-24"
+ },
+ {
+  "id": "e42054d042e2e5b3efe6e96cd6dd1c76ab3ca358",
+  "title": "ToolRL: Reward is All Tool Learning Needs",
+  "date": "2025-04-16"
+ },
+ {
+  "id": "8402e446158252992b6ddf1ff1b0658c39d7604e",
+  "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+  "date": "2025-04-15"
+ },
+ {
+  "id": "bb92cdbf19e13eb54994b49fcdbc7f898ab5d2ca",
+  "title": "Toward Verifiable Instruction-Following Alignment for Retrieval Augmented Generation",
+  "date": "2025-04-11"
+ },
+ {
+  "id": "4298a7bca88001f5df2d1ae15cca186d46271dc5",
+  "title": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
+  "date": "2025-04-04"
+ },
+ {
+  "id": "d981ce332586e6a29f595cbdfa9347cf425e5cd0",
+  "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "ae54469c450c37433ff742cf6bd124dbd62cd4e2",
+  "title": "RARE: Retrieval-Augmented Reasoning Modeling",
+  "date": "2025-03-30"
+ },
+ {
+  "id": "1d0b3c90eb184ea9da554ea3381bdbf1e0f23629",
+  "title": "ToRL: Scaling Tool-Integrated RL",
+  "date": "2025-03-30"
+ },
+ {
+  "id": "ccd9eca10294fe822a25e1133d59deacab005860",
+  "title": "Reasoning Beyond Limits: Advances and Open Problems for LLMs",
+  "date": "2025-03-26"
+ },
+ {
+  "id": "a831fd6a128d6ceba352fd6757e4fe1603a2db2b",
+  "title": "MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search",
+  "date": "2025-03-26"
+ },
+ {
+  "id": "fb970ce4383a78ad52c641bc38815d78ad737aad",
+  "title": "ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning",
+  "date": "2025-03-25"
+ },
+ {
+  "id": "c19ac62fd7fdf2a4ba6581563212c3b33737b030",
+  "title": "Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering",
+  "date": "2025-03-14"
+ },
+ {
+  "id": "0d320beb4a5304a8bd03bb83eba1a8196c601be1",
+  "title": "Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models",
+  "date": "2025-03-12"
+ },
+ {
+  "id": "1fcaafeb72142fe3d1a5d698a072d69778d244b0",
+  "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+  "date": "2025-03-12"
+ },
+ {
+  "id": "78f85a3a4e9d1b83ac33179c777e6eb2d756be82",
+  "title": "R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning",
+  "date": "2025-03-07"
+ },
+ {
+  "id": "c39ae6fb8ab9b8dbd8cca4b13b303033dc23f594",
+  "title": "An Empirical Study on Eliciting and Improving R1-like Reasoning Models",
+  "date": "2025-03-06"
+ },
+ {
+  "id": "9c5718032de470df3dec34a629816c178f54d05f",
+  "title": "DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "f4195d4e283e289665cfc7a65fde2fa7b8814091",
+  "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+  "date": "2025-02-24"
+ },
+ {
+  "id": "446c3356b95a29dca4b908533c088ce63f2275cb",
+  "title": "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "7ad37360eb0f3855827b9a981fc80c166a20a558",
+  "title": "NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions",
+  "date": "2025-02-18"
+ },
+ {
+  "id": "a5524d085ac586d531021dcb1ec156eaf942b109",
+  "title": "A benchmark of expert-level academic questions to assess AI capabilities",
+  "date": "2025-01-24"
+ },
+ {
+  "id": "61a955799c7429efabc46a60812ec13cb1b3fc26",
+  "title": "Chain-of-Retrieval Augmented Generation",
+  "date": "2025-01-24"
+ },
+ {
+  "id": "2eed1fad9bbf887d4395de40f20144c4fafefd7f",
+  "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "613912aa7c10372e95ec43dea4b80d41d47002ee",
+  "title": "OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking",
+  "date": "2025-01-16"
+ },
+ {
+  "id": "eaa6ffc25363ce88d7887f58f5b03a0c26231c36",
+  "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+  "date": "2025-01-13"
+ },
+ {
+  "id": "5b86fbaf12fd50710066e3995e33ece2185f8ada",
+  "title": "Search-o1: Agentic Search-Enhanced Large Reasoning Models",
+  "date": "2025-01-09"
+ },
+ {
+  "id": "88aa6b1f37d1fd8e0a40499ce9bb87873f03aaa8",
+  "title": "Qwen2.5 Technical Report",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "d7c49d355554a6e3a5af481c0a92a515816fa82d",
+  "title": "RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement",
+  "date": "2024-12-17"
+ },
+ {
+  "id": "7ab7da90c65996f4c100e944f15ad55161c13c1b",
+  "title": "RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation",
+  "date": "2024-12-16"
+ },
+ {
+  "id": "d74bf37c83797c7a7fab19428ff014f2f0d4e035",
+  "title": "Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems",
+  "date": "2024-12-12"
+ },
+ {
+  "id": "4e112479c28ed33fd291a672d539b098d6684f00",
+  "title": "AssistRAG: Boosting the Potential of Large Language Models with an Intelligent Information Assistant",
+  "date": "2024-11-11"
+ },
+ {
+  "id": "7943ec4a67151a559b25cd34369e661c9a7924c8",
+  "title": "GPT-4o System Card",
+  "date": "2024-10-25"
+ },
+ {
+  "id": "c53ec4f663c494d193b7aa11a6ed7207015e332b",
+  "title": "Toward General Instruction-Following Alignment for Retrieval-Augmented Generation",
+  "date": "2024-10-12"
+ },
+ {
+  "id": "43982aa7065a13bc1c58029926827d1907c8c525",
+  "title": "O1 Replication Journey: A Strategic Progress Report - Part 1",
+  "date": "2024-10-08"
+ },
+ {
+  "id": "03ae366d33290066edc41287f90fc67476d70bbc",
+  "title": "How Much Can RAG Help the Reasoning of LLM?",
+  "date": "2024-10-03"
+ },
+ {
+  "id": "11dd2fc88747d20629f5aafab72ba649d93e969c",
+  "title": "Qwen2.5-Coder Technical Report",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "273c145ea080f277839b89628c255017fc0e1e7c",
+  "title": "Trustworthiness in Retrieval-Augmented Generation Systems: A Survey",
+  "date": "2024-09-16"
+ },
+ {
+  "id": "389d2ce6611a8501f08c5aae956df6ddb420d1d2",
+  "title": "Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems",
+  "date": "2024-08-29"
+ },
+ {
+  "id": "40e8af970329135ec95057d73e239dab805ad128",
+  "title": "The Llama 3 Herd of Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "54fb839f621e3fe787437ab8ca5f37e7e4726bfe",
+  "title": "Qwen2 Technical Report",
+  "date": "2024-07-15"
+ },
+ {
+  "id": "64ee29d6ddb2c2167a201783ddd4d0a9b744f352",
+  "title": "Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation",
+  "date": "2024-06-26"
+ },
+ {
+  "id": "50650e66ce7c454595862aac70c2a3e9dde23387",
+  "title": "Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models",
+  "date": "2024-06-19"
+ },
+ {
+  "id": "df8c3a325419d63366b9b347739fcbf3e2c4d22c",
+  "title": "Self-Play Preference Optimization for Language Model Alignment",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "4fdf88a4b0677360c333d122699547d8485090f4",
+  "title": "From Matching to Generation: A Survey on Generative Information Retrieval",
+  "date": "2024-04-23"
+ },
+ {
+  "id": "ab15463babf98fffc6f683fe2026de0725b5e1a9",
+  "title": "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+  "date": "2024-02-29"
+ },
+ {
+  "id": "3df6c6cd13e49e637ced0ade0daa87738907a377",
+  "title": "Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs",
+  "date": "2024-02-19"
+ },
+ {
+  "id": "8e91c1b6d22e8a09bff52a5dd6cd3b70a8a26fb2",
+  "title": "BIDER: Bridging Knowledge Inconsistency for Efficient Retrieval-Augmented LLMs via Key Supporting Evidence",
+  "date": "2024-02-19"
+ },
+ {
+  "id": "5950dec8f9ae389b6998b21833f3c4755d6f1f0f",
+  "title": "Metacognitive Retrieval-Augmented Large Language Models",
+  "date": "2024-02-18"
+ },
+ {
+  "id": "ab8169d6e4dfabfe7c30ebec1bb871bf3e1551cd",
+  "title": "GAIA: a benchmark for General AI Assistants",
+  "date": "2023-11-21"
+ },
+ {
+  "id": "210b0a3d76e93079cc51b03c4115fde545eea966",
+  "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+  "date": "2023-11-20"
+ },
+ {
+  "id": "ddbd8fe782ac98e9c64dd98710687a962195dd9b",
+  "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "date": "2023-10-17"
+ },
+ {
+  "id": "23af54b82c951317f1fc1841164d8a441a2d8120",
+  "title": "RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation",
+  "date": "2023-10-06"
+ },
+ {
+  "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+  "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "date": "2023-05-29"
+ },
+ {
+  "id": "a1675f47125aa409525c5f759b5e6bcc1c8831aa",
+  "title": "Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy",
+  "date": "2023-05-24"
+ },
+ {
+  "id": "f743287be3ced6757de7ecb26d03815b22cd737b",
+  "title": "Query Rewriting for Retrieval-Augmented Large Language Models",
+  "date": "2023-05-23"
+ },
+ {
+  "id": "ccc772d88c231275f24c4fac9b28bbe0942e1107",
+  "title": "Query2doc: Query Expansion with Large Language Models",
+  "date": "2023-03-14"
+ },
+ {
+  "id": "99832586d55f540f603637e458a292406a0ed75d",
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "3efbcfeeb0ea1051a71101d3318da4411081f0b8",
+  "title": "Scaling Laws for Autoregressive Generative Modeling",
+  "date": "2020-10-28"
+ },
+ {
+  "id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+  "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "date": "2020-05-22"
+ },
+ {
+  "id": "809aa27a288f136ad065ca4f2555eba32efc3833",
+  "title": "HotelQuEST: Balancing Quality and Efficiency in Agentic Search",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "3dd67e2558afad6a10b7df3ac58b1f37cdbfbb9f",
+  "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "854c9d4fbbab37348ad071157465f89455cdefca",
+  "title": "Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "862868f16c1fd46350b80d954b616eaff15b5929",
+  "title": "Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "547b7d7472140d2328d8231cbd02cb5ead3bfdd9",
+  "title": "Unlocking Multimodal Document Intelligence: From Current Triumphs to Future Frontiers of Visual Document Retrieval",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "8b50a783cce62f47c2d818e7e1c017b759b0e6d2",
+  "title": "LACONIC: Length-Aware Constrained Reinforcement Learning for LLM",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "bbbbd17c41d611ce5c0351ae0f387be630e7cf82",
+  "title": "A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "fb91cdf6a38c45a8bf02cd54683384ec776f7a3c",
+  "title": "WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "569220c3bff8f9776da72b2fe131964657c0b9c8",
+  "title": "SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "d609a25109ae824d8e1da4af33698a712872916b",
+  "title": "Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "c83e798ebe50d5c0d728391f9c7633e3bbec67e6",
+  "title": "Analytical Search",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "d0fc2e164dd4175a967c73abe017c038a3ffdf3a",
+  "title": "AudioRAG: A Challenging Benchmark for Audio Reasoning and Information Retrieval",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "918fb27002780ecc0cac65e7f8a537ddf091b59a",
+  "title": "ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "82aad0ee9cf2aedd4a1227838fff19860a62fc65",
+  "title": "Knowledge Integration Decay in Search-Augmented Reasoning of Large Language Models",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "85dbc02766ab1e47b63a4422e5392694fe31e49f",
+  "title": "GISA: A Benchmark for General Information-Seeking Assistant",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "9c7f3d75e424c7f408f9a54fcd388e7806f48145",
+  "title": "Who Deserves the Reward? SHARP: Shapley Credit-based Optimization for Multi-Agent System",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "325c8805b25d3302bb5924955e990ac851dc2f09",
+  "title": "SRR-Judge: Step-Level Rating and Refinement for Enhancing Search-Integrated Reasoning in Search Agents",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "35ce19079b2c23c5fb5b5c77e878dd0a3a1ec828",
+  "title": "DLLM Agent: See Farther, Run Faster",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "113902b03afbb79fef5b37b21da6857411b346ea",
+  "title": "AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "202846cbd80224985e3d5a3d465a151fdb25d081",
+  "title": "SE-Search: Self-Evolving Search Agent via Memory and Dense Reward",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "9ca391c5c9e7a7f482408a405f1eeea7dd2c02b7",
+  "title": "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "988b1b45759cb5b49e024660d0d41c19a695eecc",
+  "title": "RAG without Forgetting: Continual Query-Infused Key Memory",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "e6492e9efc5c70a27ca56b05485d238e70dadfd6",
+  "title": "TRACE: Trajectory-Aware Comprehensive Evaluation for Deep Research Agents",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "3d4a94851aeee7e7535e3a1190c24cc58d889a24",
+  "title": "ReThinker: Scientific Reasoning by Rethinking with Guided Reflection and Confidence Control",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "f10da273a453376780bbbdca8f5fdbd6d3707825",
+  "title": "Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "43153c29c95c94afd92acc5054a3b7f20be4e7a1",
+  "title": "BranPO: Scalable Contrastive Branch Sampling for Long-Horizon Agentic Reinforcement Learning",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "39dc6ec119aa6574c3ddd693ad4cbc926616d494",
+  "title": "D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "9f4a9187b4d4238814ecd25ab3b7597b58d35309",
+  "title": "FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "36773d5aecd88f9a7da9dc8deda91c5558e87ec2",
+  "title": "Exploring Information Seeking Agent Consolidation",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "5f4d479951e390ab7d3ffe40378e8838d123b15b",
+  "title": "Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "121fe2b41d0c2fe9e46981e0f93ed99d4fb58ad7",
+  "title": "Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "f4fb4529b482c531d74f846e46cd2db27aa8bc6a",
+  "title": "DynaWeb: Model-Based Reinforcement Learning of Web Agents",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "c2615047912d98e4da6c19386e83f8a5c14f1208",
+  "title": "Exploring Reasoning Reward Model for Agents",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "917f3bb8bf834006eafc0fba605c57d4f4a4764e",
+  "title": "Yunque DeepResearch Technical Report",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "d2b38855c82ab29b0d9aa7733e3a11ec177cc92d",
+  "title": "PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "03c246a4e2c36438d7dc90fadabaec721fecb9d5",
+  "title": "Self-Manager: Parallel Agent Loop for Long-form Deep Research",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "3f2363de9ca4e8154be0653363c81fc6fbf33b63",
+  "title": "CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "18af35c845d5c73c6cff1a6085249da648fe2559",
+  "title": "Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "7c2287133199affa1ebf5caea890295d3740eb89",
+  "title": "Can Deep Research Agents Retrieve and Organize? Evaluating the Synthesis Gap with Expert Taxonomies",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "5a2766d6b358b9723b02ce473623c26d47266994",
+  "title": "Process In-Context Learning: Enhancing Mathematical Reasoning via Dynamic Demonstration Insertion",
+  "date": "2026-01-17"
+ },
+ {
+  "id": "6173ad5678374bfa672081814a6a0a5eeaa0f798",
+  "title": "PaperScout: An Autonomous Agent for Academic Paper Search with Process-Aware Sequence-Level Policy Optimization",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "efd2481bf5fd8d8c6f44ea3036dec2fc56df09ff",
+  "title": "EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "eb84e30d2380ce03c5a1afd478e3ba7104d26043",
+  "title": "DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "b731d8f739b3c3b730b8259ef08be9944737d8ef",
+  "title": "MemoBrain: Executive Memory as an Agentic Brain for Reasoning",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "bf25638074dc2f803a9422b1e7c40cf90a079e5f",
+  "title": "ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "d997c4492f6470ca8de313d20a1cb5aaae45a6b2",
+  "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "5c7f5a341366db7d247cb81fc8093ecc92f94578",
+  "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking",
+  "date": "2026-01-10"
+ },
+ {
+  "id": "303de1805f3931282381c71f804bae498f57ade0",
+  "title": "Over-Searching in Search-Augmented Large Language Models",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "b5a37b51d38e693807518a1851457571dc1146b0",
+  "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "ac4c31e19ef6581427ddb6f84638a62ab86b4e45",
+  "title": "Nalar: An agent serving framework",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "d35b19650f6c70988ea136c5a43bd3206522ecc2",
+  "title": "SmartSearch: Process Reward-Guided Query Refinement for Search Agents",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "0581614ad6431fd5a88f70424ffabdaa39908707",
+  "title": "Mind2Report: Expert-Level Commercial Report Synthesis via Cognitive Deep Research Agent",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "4256d90afd5341f6cc9a6b30ec64318d2f6f1486",
+  "title": "O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "5d930fcf06f911ff99ca509135faf8144ee8e86d",
+  "title": "WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "623bdb52785d79a070987d5b39a0918e12ebe754",
+  "title": "Nested Browser-Use Learning for Agentic Information Seeking",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "99b76e5737afd40bd79be1d74ad153c06477abbc",
+  "title": "AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "42ac1fcd5dd73637237d95631f82b13df514cdec",
+  "title": "Video-Browser: Towards Agentic Open-web Video Browsing",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "dbe954f9b2d77287b2cb1cfaeaa22df92002e34b",
+  "title": "DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation",
+  "date": "2025-12-19"
+ },
+ {
+  "id": "6de5d009af9108d04dac69016047becdd35d5449",
+  "title": "HybridQuestion: Human-AI Collaboration for Identifying High-Impact Research Questions",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "5ecac3e8ca6d3186034019011de9d949c3a8042e",
+  "title": "An Open and Reproducible Deep Research Agent for Long-Form Question Answering",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "b1cf5444947bdec0a3d1337b3238ab097cf1c8d8",
+  "title": "Intern-S1-MO: Long-horizon Reasoning Agent for Olympiad?Level Mathematical Problem Solving",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "aa92bdab6ed3bd0e441194917c8297510fa9ad63",
+  "title": "EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "5ee1d6365e52784e15fa90762069d659c591a4d5",
+  "title": "An Index-based Approach for Efficient and Effective Web Content Extraction",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "a70f085a4b9711558eefe56ef8f4edbd0f6a9fba",
+  "title": "GTM: Simulating the World of Tools for AI Agents",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "255501f3ab861418b62a8941c9fa843c9d57938d",
+  "title": "Think in Parallel, Answer as One: Logit Averaging for Open-Ended Reasoning",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "6c6f1c03fb158ca89efe71a499b4405ce52d8bce",
+  "title": "How Far Are We from Genuinely Useful Deep Research Agents?",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "4b7265127314b9d3d213e19044f66b33bbcb4a84",
+  "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "ac27d9412026ef6664ec58b8262147e4eb782580",
+  "title": "Toward an AI-Native Internet: Rethinking the Web Architecture for Semantic Retrieval",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "36d2ac0e4913ecc0fe4e7f223590850f68f4b0d3",
+  "title": "SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "e6209d4aed2d218087504b6cdbc0de95e1367a60",
+  "title": "GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "4a5bee77f190dd23125bad78be2676a8489cdc09",
+  "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "388e983a50f43b9e29b34e9f98fc7547bbb3d27a",
+  "title": "Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "5e4d885d5197f060028136f17baf97cfad70ec0d",
+  "title": "IterResearch: Rethinking Long-Horizon Agents with Interaction Scaling",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "30c4dcc68bafee7ba247e7180fec7fbb1f294470",
+  "title": "Beyond Single Embeddings: Capturing Diverse Targets with Multi-Query Retrieval",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "de6b7dbe0fc09403aa72328bbe90064f1ab35b17",
+  "title": "Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "84d184526b7dfc974b79a66968d65fed5fdcf700",
+  "title": "Accumulating Context Changes the Beliefs of Language Models",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "1e4ac3e9866c86b531b16889964105842ee50bbb",
+  "title": "SIGMA: Search-Augmented On-Demand Knowledge Integration for Agentic Mathematical Reasoning",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "2da8a787b2c624b984fe86484dcd893786a485f8",
+  "title": "Model-Document Protocol for AI Search",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "c65cbed8dabd71cdbfcb3310305c40171fd17a65",
+  "title": "GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "2f3efbf3e77ff11bb9cd95ca5ed18d372c6af4d7",
+  "title": "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "7baa7db4b75786dfecabab61f4c2b94213acac13",
+  "title": "ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "c7cc73ad527b548da579c81c48dc4439314ea4d1",
+  "title": "WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "476f886fab7065bddf615df5865a9f25887d3a7d",
+  "title": "AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "d61dea1dcdf159f226b90287f8899bb9c98d2ef4",
+  "title": "AgentFold: Long-Horizon Web Agents with Proactive Context Management",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "8b02d8734c5fa67be04398f8fa23407eeeae4293",
+  "title": "Repurposing Synthetic Data for Fine-grained Search Agent Supervision",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "4a681b4daa97fb8ea43d392903560a4749d99dc5",
+  "title": "Tongyi DeepResearch Technical Report",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "7394555bc2e803cc3b54a14ebadd6ff3096ebc75",
+  "title": "Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "d55d7ab0258072a512954c6e79e32984e69f1010",
+  "title": "Lost in the Maze: Overcoming Context Limitations in Long-Horizon Agentic Search",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "f674bc3c91b7a8fb1650d9de91b920d4bdf5e3b5",
+  "title": "FinSight: Towards Real-World Financial Deep Research",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "2cc298e6305b96320633a3b3b83de8e3fa8c7411",
+  "title": "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "9d8042e61d7bc48d52b7144dd7746b41ec931294",
+  "title": "What Limits Agentic Systems Efficiency?",
+  "date": "2025-10-18"
+ },
+ {
+  "id": "d7bfdead4a1158f70db5f93ced0d10fb1398af5f",
+  "title": "WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "255c44c37825397b7f97b849df34f8cfbf9add9b",
+  "title": "An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "b8aa4af01192f66c0757553dec657f457d455ab6",
+  "title": "RAGCap-Bench: Benchmarking Capabilities of LLMs in Agentic Retrieval Augmented Generation Systems",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "f141aa111261f1fde86d85a260e7d02fc94051a8",
+  "title": "Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "a62edce3735793d17cb286da11d0d7f99735aa65",
+  "title": "DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "3ec3aeee9c65de49ec60d106d175cfc9b53343e2",
+  "title": "Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "78e97e60a43c9984666d29c7925ee8079265e87b",
+  "title": "ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "8196e314b3e01668ad691b3fa2ba88db8d517baf",
+  "title": "Demystifying Reinforcement Learning in Agentic Reasoning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "22d796264cd6fedb401827eef3d509dbaf4d14d0",
+  "title": "What Generative Search Engines Like and How to Optimize Web Content Cooperatively",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "6ca29e9438224626cafa50f121c22244f35575c0",
+  "title": "Scaling Long-Horizon LLM Agent via Context-Folding",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "85b39cc7f57d73e6b74dc28cc5d9e6de0c5549c7",
+  "title": "A2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "ce8892a9a654ac554a8f8cab49f35eba351696ea",
+  "title": "Deep Research Agents Brings Deeper Harm",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "74ee3e7991b5d9b99e2892d688ebe935e8ae494e",
+  "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "e945fa561c6718afe12bf2b2c957bd6da745562d",
+  "title": "DualResearch: Entropy-Gated Dual-Graph Retrieval for Answer Reconstruction",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "5b87f870419da53d84c908b9eda9f1942b104f76",
+  "title": "Agentic-KGR: Co-evolutionary Knowledge Graph Construction through Multi-Agent Reinforcement Learning",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "c298aea9c6b0e284a786987ccc9bce9df6b6d16a",
+  "title": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "2e261589839d722f5a14265710e3d8f6d3256080",
+  "title": "FlowSearch: Advancing deep research with dynamic structured knowledge flow",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "e238357808d14b7b0455548cbc214e640ada6bc0",
+  "title": "Beyond Turn Limits: Training Deep Search Agents with Dynamic Context Window",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "d7fab55747f876aaddf6a832b9f6ca9fab338eb7",
+  "title": "TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "9b52ab354bd62169dc09e1768fdc2fb42879fdf9",
+  "title": "Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "36102877b2d72cbab91f550e0ad06871b5240deb",
+  "title": "Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "39d0a250f88178b2fbc7ca63d3dc82c92af81b06",
+  "title": "MARS: Co-evolving Dual-System Deep Research via Multi-Agent Reinforcement Learning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "dd9ccffa36cf0f628466bbe43318079a72d7111b",
+  "title": "Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "3ce0b34ff20463a19f98be3af1f989e746cfba38",
+  "title": "Multi-Agent Tool-Integrated Policy Optimization",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "dcc1c2ff424b5efd4851c841ab0ba014200e2e7e",
+  "title": "InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "5e3ee5d468bf323469a504cfebe37f910caf62ed",
+  "title": "Zero-shot reasoning for simulating scholarly peer-review",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "e7aaf7e848e16e226d0dae3420c5bac863ef04da",
+  "title": "ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "776f15ae4ebfe038906a50abfa6e0e15e7d51eee",
+  "title": "JoyAgent-JDGenie: Technical Report on the GAIA",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "d2094033781cb4b9e4497326e5c3bbcbafb96859",
+  "title": "Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "78178ad824a656a09c48f0102566c9cfc22ed1f4",
+  "title": "InfoAgent: Advancing Autonomous Information-Seeking Agents",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7da0852f60fb5abf7a7172b4419c19fc292ece9c",
+  "title": "Scaling Generalist Data-Analytic Agents",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "ca2176c95eed64e1e569bb2b5d41dadb60b020a5",
+  "title": "Towards Personalized Deep Research: Benchmarks and Evaluations",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "a71f1f9e55f2089f6445e586b7f91e878e756095",
+  "title": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7dbde77b268d8df57210ccc69fac37e3375a5595",
+  "title": "Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "8192b5002a06710acb05b4ca2a568a82d055ee87",
+  "title": "Structured In-context Environment Scaling for Large Language Model Reasoning",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "d4cc1918e071be4148579a4984ee2a5ea682e31e",
+  "title": "Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "5c6730b6173f89443830d39a92a0d8775e83093a",
+  "title": "Tree Search for LLM Agent Reinforcement Learning",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "33f6d94fa81c6f0e30007c58986ccdd13c6a86d1",
+  "title": "ConvergeWriter: Data-Driven Bottom-Up Article Construction",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "8ea85716c8a1d539be28148c3b11cf8d32cb8609",
+  "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "ec4ecced2fd37dc7297069a11de750d63237d66b",
+  "title": "Scaling Agents via Continual Pre-training",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "5abb16bebef175f776c57d4c662ab7d2d57d99e5",
+  "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "2d0971511b5459352ef3dc6e4f2295b328de5370",
+  "title": "DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL",
+  "date": "2025-09-12"
+ },
+ {
+  "id": "216242fd3aad4f76855ed5608abc14151bd91198",
+  "title": "Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs",
+  "date": "2025-09-12"
+ },
+ {
+  "id": "4a0c2e84b11b4ef997ca047b42b6ca3a778ff292",
+  "title": "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "8460a61d76933d2f2c83e78a6658f3468b5b71af",
+  "title": "SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "ea6c4230657ee48a88e83ccd70e8ed3902f0aad4",
+  "title": "Reinforcement Learning Foundations for Deep Research Systems: A Survey",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "1cbdc7bddab7b04eb2a688dd9837a30ed0c8675f",
+  "title": "L-MARS: Legal Multi-Agent System with Agentic Search and Citation-Faithfulness Audit",
+  "date": "2025-08-31"
+ },
+ {
+  "id": "58859f92a30b094a2852e890419c8eda87b8d17f",
+  "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+  "date": "2025-08-26"
+ },
+ {
+  "id": "62d4edc7ffafe6cfe6b04f0d0e6191960f018d41",
+  "title": "MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains",
+  "date": "2025-08-25"
+ },
+ {
+  "id": "08c2c93b62ebb7f2d332c03a3bd354d9249bd939",
+  "title": "CORE-RAG: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning",
+  "date": "2025-08-24"
+ },
+ {
+  "id": "0eba7939880402f33016b058e62861597462c51a",
+  "title": "Test-time Corpus Feedback: From Retrieval to RAG",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "b325233cc964e941b346d9d6a5fae32f27178ddc",
+  "title": "SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "c6e650747ce0bfea3820cc77928fd7f42181e835",
+  "title": "Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "d9fa21a2655730470cf8bfb35f545d672eb9b3ff",
+  "title": "Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "2782c7b38c6ecbef00c9fb94ccf33f89be5665c5",
+  "title": "Deep Research: A Survey of Autonomous Research Agents",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "278d12fdeb3fe3e5ad1e50fffb9ec8839de324c0",
+  "title": "ReviewRL: Towards Automated Scientific Review with RL",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "51c1ac9532bf4991f1cfc36bd72055d11c84b160",
+  "title": "ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "db4ade5bf66f5cf68354153f1deed171db3fb57d",
+  "title": "Improving and Evaluating Open Deep Research Agents",
+  "date": "2025-08-13"
+ },
+ {
+  "id": "7ca82e83b047ab1ac0fffed46724e044c9660fbb",
+  "title": "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "e28ccea82e23a44b13aad780fee634f6f6568b78",
+  "title": "Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "1b375fb3e3ec5a29ce62ee267a813c1b6ac9e474",
+  "title": "HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "10ab7d6caefec453d36640c7a839ed2080a2d060",
+  "title": "Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "6704707edc88c86aa82f74ad6030b8bbebbd7182",
+  "title": "WideSearch: Benchmarking Agentic Broad Info-Seeking",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "726742d2dc0ef40e172b7b7f6962a6594eec3147",
+  "title": "WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "c025deaa6087ba2ee3a8d18ab94a047d233ef6e0",
+  "title": "Characterizing Deep Research: A Benchmark and Formal Definition",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "88c0353126ccbbc1f86fdddb189db36654a63f05",
+  "title": "VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "d1442338bd4b180fff78bb3403487b40d0223328",
+  "title": "A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges",
+  "date": "2025-08-03"
+ },
+ {
+  "id": "bb1d42b3e504acdf59e09c4e0969a7f7c0e1cbbe",
+  "title": "Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents",
+  "date": "2025-08-03"
+ },
+ {
+  "id": "61b307002e3289f2e1b5ad45b13d2e2c5e71309f",
+  "title": "MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "412bf7358c6aa3da6f1c384b4cc79953e7a5d3fb",
+  "title": "Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "3c8b92a8b6eee1377077ecfea95e53223845af20",
+  "title": "Agentic Reinforced Policy Optimization",
+  "date": "2025-07-26"
+ },
+ {
+  "id": "d0178c36476a583503619d7b7186e8638b7d9287",
+  "title": "RAVine: Reality-Aligned Evaluation for Agentic Search",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "52f36c2d1f109db3ff7efd862571e563150a0c9b",
+  "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+  "date": "2025-07-20"
+ },
+ {
+  "id": "746575f830e07545d2fca63ccb408af0720217aa",
+  "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs",
+  "date": "2025-07-13"
+ },
+ {
+  "id": "d4b9917737a520c471a7dd0e0e80520b7508562a",
+  "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "c18ecc86d8ef4d05bff8c94fa3af7f27e38f54e2",
+  "title": "Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "fb0e61daa06faa107811a8fa43cf62ed2a9cd32a",
+  "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "216fd8b8b8f5e7947f6bf1b121a394598934145c",
+  "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "4c38d7d7ba935af14dfcce894c4fb2e0a0f26374",
+  "title": "HiRA: A Hierarchical Reasoning Framework for Decoupled Planning and Execution in Deep Search",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "a3a766f334ad3a6582a18da4d899c86f50258dc2",
+  "title": "Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "14a90f4dce0ff11c893593f43f0607c41b7c9e3a",
+  "title": "Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation",
+  "date": "2025-06-26"
+ },
+ {
+  "id": "65d9884f1ac6ed2ae809690afc8f1c8ebcfcf59c",
+  "title": "From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "dc491963de5b0e69b10094092753f010c3f72977",
+  "title": "Deep Research Agents: A Systematic Examination And Roadmap",
+  "date": "2025-06-22"
+ },
+ {
+  "id": "06ae26eddcaded91a8c6ec3c434ca976aee0a084",
+  "title": "Scaling Test-time Compute for LLM Agents",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "cca73506ab839718879a49ccce389d33907aa053",
+  "title": "DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents",
+  "date": "2025-06-13"
+ },
+ {
+  "id": "1526c2db582e6b691e010dd2dacffdd9ca7c13cc",
+  "title": "AutoMind: Adaptive Knowledgeable Agent for Automated Data Science",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "77572987c6a9b72d0b61e7b01f4c28727a78113e",
+  "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "fc29f258fe83cfc14814604d29737c1f62b715fa",
+  "title": "KnowCoder-V2: Deep Knowledge Analysis",
+  "date": "2025-06-07"
+ },
+ {
+  "id": "be2bc8513621e3ae8b83684767aaa512edb630e7",
+  "title": "Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework",
+  "date": "2025-06-03"
+ },
+ {
+  "id": "873eda73b8e95231dea4983772ca604c8a0bd126",
+  "title": "MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "95734f0217391ea27ea4051cec73e015ed4a1954",
+  "title": "Mitigating Overthinking in Large Reasoning Models via Manifold Steering",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "2950a5f82921a6ed34446575d1eea9d2b922ee5a",
+  "title": "Code Researcher: Deep Research Agent for Large Systems Code and Commit History",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "121b2ea3770c1e5627846f06b58ada4d886a7f01",
+  "title": "Interleaved Reasoning for Large Language Models via Reinforcement Learning",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "99259d51eadfe2473fe8eb643625a6bd1c3c0a41",
+  "title": "WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "51069f2c6f27bb9c5a6fb20b27e9df8c433da905",
+  "title": "ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "ca39d564e30c35ccc95546272903674f89e5ad0f",
+  "title": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "64dd23368414df0e8eb6f788664ae000de33d0dc",
+  "title": "Visual Agentic Reinforcement Fine-Tuning",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "a71c99d3836007721e8e6194f9c52f17ca77187d",
+  "title": "Hierarchical Document Refinement for Long-context Retrieval-augmented Generation",
+  "date": "2025-05-15"
+ },
+ {
+  "id": "638d402d7c097391d154043554467d077f45f4b1",
+  "title": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching",
+  "date": "2025-05-07"
+ },
+ {
+  "id": "1c1be69d7cd3c3360f5b8af5f66055234fc0506f",
+  "title": "Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards",
+  "date": "2025-05-05"
+ },
+ {
+  "id": "076f059aa724619ad346503623c5ee57d4625c9d",
+  "title": "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "2ec6caff88519e06a3148fe2890f1741b30ce623",
+  "title": "A Survey on the Optimization of Large Language Model-based Agents",
+  "date": "2025-03-16"
+ },
+ {
+  "id": "1015ed24519e3272f96c8a47f779dd9e5d0546eb",
+  "title": "A Survey of Model Architectures in Information Retrieval",
+  "date": "2025-02-20"
+ },
+ {
+  "id": "9bc304a1ee5e0b13a68492b2944ad0a8d30c6171",
+  "title": "Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search",
+  "date": "2025-02-02"
+ },
+ {
+  "id": "1fd282ff3a034ff6113f076b02769c46a7159476",
+  "title": "A Survey of Test-Time Compute: From Intuitive Inference to Deliberate Reasoning",
+  "date": "2025-01-05"
+ },
+ {
+  "id": "f05cf0438b5dc19bc4d32ca6cd85d1525c936de6",
+  "title": "Progressive Multimodal Reasoning via Active Retrieval",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "0b220041eb83c23b7b10d32a5d08c0309d528071",
+  "title": "Large Language Models for Information Retrieval: A Survey",
+  "date": "2023-08-14"
+ }
+]

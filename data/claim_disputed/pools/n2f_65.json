@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_524af7d8cd27e1a15e41a0a77107f00941a3419c",
+   "title": "HV-Net: Hypervolume Approximation Based on DeepSets",
+   "is_B": true
+  },
+  {
+   "id": "244babc4a261837dece0407eb569f282b99f3eb0",
+   "title": "Efficient real-time hypervolume estimation with monotonically reducing error",
+   "date": "2019-07-13"
+  },
+  {
+   "id": "0d4096010136fa000d3a5bcb43d0a01b947f5a87",
+   "title": "Approximating Hypervolume and Hypervolume Contributions Using Polar Coordinate",
+   "date": "2019-01-24"
+  },
+  {
+   "id": "b5aa6500063eddc26904cc07d203d8fd2f4e42ed",
+   "title": "A Survey on the Hypervolume Indicator in Evolutionary Multiobjective Optimization",
+   "date": "2021-02-01"
+  },
+  {
+   "id": "1732823b00797b87b89c4bbdf5c7d3d5a8d21986",
+   "title": "Combining Simple and Adaptive Monte Carlo Methods for Approximating Hypervolume",
+   "date": "2020-10-01"
+  },
+  {
+   "id": "491a3f15ad88b60a05ebc99bdfdb24e49b6fbad9",
+   "title": "A New Hypervolume-Based Evolutionary Algorithm for Many-Objective Optimization",
+   "date": "2020-01-02"
+  },
+  {
+   "id": "5eb21204de7b1a07da76e6cc16c0a77a58448c88",
+   "title": "A Simple and Fast Hypervolume Indicator-Based Multiobjective Evolutionary Algorithm",
+   "date": "2015-10-01"
+  },
+  {
+   "id": "a24ce5485402c1a314bb4b6c1e6272f4bcd4832e",
+   "title": "Quick Hypervolume",
+   "date": "2012-07-19"
+  },
+  {
+   "id": "ae4c3d6d5959b13a78a9027b0bf7a03495e6a05b",
+   "title": "The Hypervolume Indicator Revisited: On the Design of Pareto-compliant Indicators Via Weighted Integration",
+   "date": "2007-03-05"
+  },
+  {
+   "id": "724a9cbcbc80feadafa8a616e00e6346e25c585d",
+   "title": "What is a good direction vector set for the R2-based hypervolume contribution approximation",
+   "date": "2020-06-25"
+  },
+  {
+   "id": "dad2526b2bd11eb7ab441a0b6c5ae4f5d8773898",
+   "title": "A new R2 indicator for better hypervolume approximation",
+   "date": "2018-07-02"
+  },
+  {
+   "id": "a456265138c088a894301c0433dae938705a9bec",
+   "title": "Deep Sets",
+   "date": "2017-03-10"
+  },
+  {
+   "id": "2d5e9d4faac343998981108b179f3ab7d0c1d68f",
+   "title": "A Box Decomposition Algorithm to Compute the Hypervolume Indicator",
+   "date": "2015-10-07"
+  },
+  {
+   "id": "26faf528bcef4087be6cd09c83a22b38de2452e1",
+   "title": "Two-Dimensional Deep ReLU CNN Approximation for Korobov Functions: A Constructive Approach",
+   "date": "2025-03-11"
+  },
+  {
+   "id": "430a03b3c83a0426717cb34601cfcc14c8b1b1b9",
+   "title": "NSGA-Net: neural architecture search using multi-objective genetic algorithm",
+   "date": "2018-10-08"
+  },
+  {
+   "id": "5942a68fee3d988c7ccc6ae821dc834569ed2848",
+   "title": "Approximating the volume of unions and intersections of high-dimensional geometric objects",
+   "date": "2008-09-04"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "8c9ed82810cecf54880a1419be955628ffbbcb37",
+   "title": "Quality Evaluation of Solution Sets in Multiobjective Optimisation",
+   "date": "2019-03-18"
+  },
+  {
+   "id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+   "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+   "date": "2019-12-03"
+  },
+  {
+   "id": "973684159b76b2baae31b94674ce11a56ca7c5fa",
+   "title": "Randomized Algorithms for Streaming Low\u2010Rank Approximation in Tree Tensor Network Format",
+   "date": "2024-12-09"
+  }
+ ],
+ "n_candidates": 21,
+ "sims": [
+  0.7316,
+  0.7206,
+  0.7195,
+  0.7099,
+  0.7098,
+  0.7084,
+  0.6997,
+  0.6566,
+  0.6347,
+  0.5757,
+  0.5643,
+  0.5583,
+  0.4834,
+  0.4691,
+  0.4689,
+  0.4638,
+  0.4482,
+  0.3488,
+  0.3444
+ ]
+}

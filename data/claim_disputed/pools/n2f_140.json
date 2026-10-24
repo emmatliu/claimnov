@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_962aa5b847f1692af058bd14fc0e8c3f0a0fee73",
+   "title": "Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing",
+   "is_B": true
+  },
+  {
+   "id": "ebaebfefec9d5c21a4559a1a038743bd437d2f01",
+   "title": "Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "874e9318c09c711ecd48a903b3824a3a03e2cd62",
+   "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "ebd8b4ebad8c3ea6362e9a1389c09f04f6f18e84",
+   "title": "QED: A Framework and Dataset for Explanations in Question Answering",
+   "date": "2020-09-08"
+  },
+  {
+   "id": "346081161bdc8f18e2a4c4af7f51d35452b5cb01",
+   "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+   "date": "2021-01-06"
+  },
+  {
+   "id": "e88b18cde9f0b0be5dbf85c373720bc7d952f960",
+   "title": "F1 Is Not Enough! Models and Evaluation towards User-Centered Explainable Question Answering",
+   "date": "2020-10-13"
+  },
+  {
+   "id": "22655979df781d222eaf812b0d325fa9adf11594",
+   "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+   "date": "2018-09-25"
+  },
+  {
+   "id": "3a1311fbba348a13857f54b92c24be4ee75d1b41",
+   "title": "Learning to Rationalize for Nonmonotonic Reasoning with Distant Supervision",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "c9940a17504a3b83bd1e9d613b095ddb204d2ad0",
+   "title": "Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs",
+   "date": "2020-10-15"
+  },
+  {
+   "id": "087dd95e13efd47aef2a6582e6801b39fc0f83d8",
+   "title": "ERASER: A Benchmark to Evaluate Rationalized NLP Models",
+   "date": "2019-11-08"
+  },
+  {
+   "id": "c242438dac5aa4d9b13766c14240bb8426690d58",
+   "title": "e-SNLI: Natural Language Inference with Natural Language Explanations",
+   "date": "2018-12-04"
+  },
+  {
+   "id": "ebf59587f8f170ff4241c42263bbfb9da5bd2135",
+   "title": "ELI5: Long Form Question Answering",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "343e06bae852f74a98573e798b501f6003bcb1c0",
+   "title": "Measuring Association Between Labels and Free-Text Rationales",
+   "date": "2020-10-24"
+  },
+  {
+   "id": "a550f576ff20b8cce98f3ddad0043d3783fbc9b4",
+   "title": "Abductive Commonsense Reasoning",
+   "date": "2019-08-15"
+  },
+  {
+   "id": "7b4358d7692353003eae7e39cececa2c2c44c43a",
+   "title": "Learning from Explanations with Neural Execution Tree",
+   "date": "2019-11-04"
+  },
+  {
+   "id": "7eebe26af39dfd513a78be3483b9506dcf321606",
+   "title": "Teaching Machine Comprehension with Compositional Explanations",
+   "date": "2020-05-02"
+  },
+  {
+   "id": "b2a839e3ee68e81b863b73ee08c6626c94477fef",
+   "title": "WT5?! Training Text-to-Text Models to Explain their Predictions",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "3c54b796cc10cb530f77caa4d18e1c80ac863822",
+   "title": "Visual Entailment: A Novel Task for Fine-Grained Image Understanding",
+   "date": "2019-01-20"
+  },
+  {
+   "id": "ef7df5eae54107c013885231eb7af4431f2e6158",
+   "title": "Automated rationale generation: a technique for explainable AI and its effects on human perceptions",
+   "date": "2019-01-11"
+  },
+  {
+   "id": "66117f82def0c69a3b9cc77eb3e2694b0245ca86",
+   "title": "Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning",
+   "date": "2019-08-31"
+  }
+ ],
+ "n_candidates": 97,
+ "sims": [
+  0.6934,
+  0.656,
+  0.621,
+  0.6192,
+  0.6101,
+  0.5967,
+  0.5961,
+  0.5897,
+  0.5892,
+  0.5857,
+  0.5824,
+  0.5784,
+  0.5744,
+  0.5687,
+  0.5616,
+  0.5581,
+  0.5548,
+  0.5535,
+  0.5498
+ ]
+}

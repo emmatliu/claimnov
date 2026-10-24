@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_df957e9cafc59bac982b15f585558b5801bf1aa3",
+   "title": "Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models",
+   "date": "2026-03-09",
+   "is_B": true
+  },
+  {
+   "id": "c6b95bda66e5897adf380e35c905372dc20e3e95",
+   "title": "Understanding and Enhancing Mamba-Transformer Hybrids for Memory Recall and Language Modeling",
+   "date": "2025-10-30"
+  },
+  {
+   "id": "5a77b508302771fc083bf24e0bcda8553c9b5421",
+   "title": "Hungry Hungry Hippos: Towards Language Modeling with State Space Models",
+   "date": "2022-12-28"
+  },
+  {
+   "id": "189fde3f4dfa105bb51472a8945618f395919560",
+   "title": "Repeat After Me: Transformers are Better than State Space Models at Copying",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "7bbc7595196a0606a07506c4fb1473e5e87f6082",
+   "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "917479a7a72ee7c1fb320c14d770e30ef322ef28",
+   "title": "The Illusion of State in State-Space Models",
+   "date": "2024-04-12"
+  },
+  {
+   "id": "d668f557b922d0cac746c8ec82f7975f06ac906b",
+   "title": "An Empirical Study of Mamba-based Language Models",
+   "date": "2024-06-12"
+  },
+  {
+   "id": "32b8ce7a3ea6ec6880dfc16648b1fb1cd32a34eb",
+   "title": "Overcoming Long-Context Limitations of State-Space Models via Context-Dependent Sparse Attention",
+   "date": "2025-07-01"
+  },
+  {
+   "id": "28eb18717cfa257f0fc49fb9512c48279cafa031",
+   "title": "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling",
+   "date": "2024-06-11"
+  },
+  {
+   "id": "9da427202cc48370fd66359f5d72ff5ff3bc8b57",
+   "title": "Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "8729f7e0711ab94b7276fdd2117ee0e514a56ddd",
+   "title": "Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models",
+   "date": "2025-04-04"
+  },
+  {
+   "id": "ca444821352a4bd91884413d8070446e2960715a",
+   "title": "On the Parameterization and Initialization of Diagonal State Space Models",
+   "date": "2022-06-23"
+  },
+  {
+   "id": "7d97c17a75beb89f938eaac1d3ca60ac2245fb2e",
+   "title": "Faith and Fate: Limits of Transformers on Compositionality",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+   "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+   "date": "2019-01-09"
+  },
+  {
+   "id": "6e70b704c7729752179300d7504252fb4e950d58",
+   "title": "Theoretical limitations of multi-layer Transformer",
+   "date": "2024-12-04"
+  },
+  {
+   "id": "955191363c3676f71766af3d14d1e6bbc0f040d6",
+   "title": "The Parallelism Tradeoff: Limitations of Log-Precision Transformers",
+   "date": "2022-07-02"
+  },
+  {
+   "id": "1be73fa3e856c33d0aed1d9e46693523e7fa3c60",
+   "title": "Zoology: Measuring and Improving Recall in Efficient Language Models",
+   "date": "2023-12-08"
+  },
+  {
+   "id": "9ce3a7c82a7e73c2a5326951f04b632d130d5816",
+   "title": "Depth-Width Tradeoffs for Transformers on Graph Tasks",
+   "date": "2025-03-03"
+  },
+  {
+   "id": "bbe0e4cc9b052e960362fdc18b6805043b81ca6b",
+   "title": "On Limitations of the Transformer Architecture",
+   "date": "2024-02-13"
+  },
+  {
+   "id": "cbaf689fd9ea9bc939510019d90535d6249b3367",
+   "title": "Jamba: A Hybrid Transformer-Mamba Language Model",
+   "date": "2024-03-28"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.8062,
+  0.7872,
+  0.7483,
+  0.7252,
+  0.7073,
+  0.7004,
+  0.6673,
+  0.6503,
+  0.6306,
+  0.6087,
+  0.5752,
+  0.5695,
+  0.5622,
+  0.5577,
+  0.5519,
+  0.5516,
+  0.533,
+  0.5302,
+  0.529
+ ]
+}

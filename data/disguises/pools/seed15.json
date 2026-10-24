@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ef0a48d13022ee56065ce90effca75a5d623aa5a",
+   "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+   "date": "2026-05-20",
+   "is_B": true
+  },
+  {
+   "id": "b29ff2491b0365f1e3862c43197860eac9962db3",
+   "title": "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "f3460dc3ae5cfd41099d576a3bb77411e1fc2e3f",
+   "title": "A General Theoretical Paradigm to Understand Learning from Human Preferences",
+   "date": "2023-10-18"
+  },
+  {
+   "id": "bfc223b002401f42b44bca725da6ed6d1b953cff",
+   "title": "Disentangling Length from Quality in Direct Preference Optimization",
+   "date": "2024-03-28"
+  },
+  {
+   "id": "711774dbe2d14045c4df37b57b324d18e0fe5572",
+   "title": "On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization",
+   "date": "2024-09-05"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "5c9eec060bd9b7af1b8f71a18c0402de3dc98388",
+   "title": "Robust Preference Optimization through Reward Model Distillation",
+   "date": "2024-05-29"
+  },
+  {
+   "id": "748698bd4387afd08594e0dc8150c2afa210d9ae",
+   "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+   "date": "2023-04-11"
+  },
+  {
+   "id": "c3f1fae241a3c2449e675ab750873d800f95513c",
+   "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "973814cd535facbf4f27c3de477b05bf19366030",
+   "title": "ORPO: Monolithic Preference Optimization without Reference Model",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "38c8111873cb40d28c8bbc8aa6836a172234b5fa",
+   "title": "Nash Learning from Human Feedback",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "6eb46737bf0ef916a7f906ec6a8da82a45ffb623",
+   "title": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback",
+   "date": "2023-07-27"
+  },
+  {
+   "id": "58af2d4fcca54c14334d1efd975554b4eb78cd4d",
+   "title": "SLiC-HF: Sequence Likelihood Calibration with Human Feedback",
+   "date": "2023-05-17"
+  },
+  {
+   "id": "fb3dc5e20e0a71134ca916f0d6d8d41f01225b4b",
+   "title": "Scaling Laws for Reward Model Overoptimization",
+   "date": "2022-10-19"
+  },
+  {
+   "id": "5bbb6f9a8204eb13070b6f033e61c84ef8ee68dd",
+   "title": "Deep Reinforcement Learning from Human Preferences",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "ebd1c04c61f73f46def3305ca11d038c46665b65",
+   "title": "Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation",
+   "date": "2024-01-16"
+  },
+  {
+   "id": "7a15950dc71079285a4eaf195de5aadd87c41b40",
+   "title": "Fine-Tuning Language Models from Human Preferences",
+   "date": "2019-09-18"
+  },
+  {
+   "id": "cdcf3f36866ef1e16eba26d57c2324362247ba84",
+   "title": "Zephyr: Direct Distillation of LM Alignment",
+   "date": "2023-10-25"
+  },
+  {
+   "id": "37680e5cb6030e01f1a44a5abe2257972196ae26",
+   "title": "Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2",
+   "date": "2023-11-17"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.7992,
+  0.7715,
+  0.7475,
+  0.7414,
+  0.7312,
+  0.7038,
+  0.6581,
+  0.6543,
+  0.6453,
+  0.6065,
+  0.6049,
+  0.5853,
+  0.5684,
+  0.5673,
+  0.5599,
+  0.5007,
+  0.4849,
+  0.4822,
+  0.3486
+ ]
+}

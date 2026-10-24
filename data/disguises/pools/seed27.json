@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d37511c4895e64fa1906c750d32fb022217c70b9",
+   "title": "Accelerating Q-learning through Efficient Value-Sharing across Actions",
+   "date": "2026-06-29",
+   "is_B": true
+  },
+  {
+   "id": "5fb976a1e0b1531722fe6a6224cb2ba94bb4bc73",
+   "title": "Deep Double Q-learning",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "3b9732bb07dc99bde5e1f9f75251c6ea5039373e",
+   "title": "Deep Reinforcement Learning with Double Q-Learning",
+   "date": "2015-09-22"
+  },
+  {
+   "id": "f88a6f6fd6611543220482e6b3a5f379b7bf5049",
+   "title": "Increasing the Action Gap: New Operators for Reinforcement Learning",
+   "date": "2015-12-15"
+  },
+  {
+   "id": "24ff25664cdbdc44aeacc4ddb1540eb5069ab5cb",
+   "title": "An Analysis of Action-Value Temporal-Difference Methods That Learn State Values",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "d867946e52cc382cc657967d566697d7bf023801",
+   "title": "VA-learning as a more efficient alternative to Q-learning",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "4931c91f4b30eb122def1e697abc096f14c48987",
+   "title": "Learning values across many orders of magnitude",
+   "date": "2016-02-24"
+  },
+  {
+   "id": "4c05d7caa357148f0bbd61720bdd35f0bc05eb81",
+   "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+   "title": "A Distributional Perspective on Reinforcement Learning",
+   "date": "2017-07-17"
+  },
+  {
+   "id": "d85623ffae865f9ef386644dd02d0ea2d6a8c8de",
+   "title": "Implicit Quantile Networks for Distributional Reinforcement Learning",
+   "date": "2018-06-14"
+  },
+  {
+   "id": "4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+   "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+   "date": "2018-02-26"
+  },
+  {
+   "id": "350904da231fa0c28e8a6b9358198366db9a2f9b",
+   "title": "Revisiting Rainbow: Promoting more insightful and inclusive deep reinforcement learning research",
+   "date": "2020-11-20"
+  },
+  {
+   "id": "558ca2e8c7eb56edd77a52b084e6cc24dffe5bcd",
+   "title": "Deep Reinforcement Learning at the Edge of the Statistical Precipice",
+   "date": "2021-08-30"
+  },
+  {
+   "id": "3b290ffa1f4f8226e326f00984acecdfbe9e28bf",
+   "title": "Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents",
+   "date": "2017-09-18"
+  },
+  {
+   "id": "0ab3f7ecbdc5a33565a234215604a6ca9d155a33",
+   "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+   "date": "2017-10-06"
+  },
+  {
+   "id": "f82e4ff4f003581330338aaae71f60316e58dd26",
+   "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+   "date": "2012-07-19"
+  },
+  {
+   "id": "aafe3626973c2abb446919b6da578548474f70d6",
+   "title": "Reward Centering",
+   "date": "2024-05-16"
+  },
+  {
+   "id": "b29a82bf55fcb451c148eb6e0dadf4e3569c4f8f",
+   "title": "ChainerRL: A Deep Reinforcement Learning Library",
+   "date": "2019-12-09"
+  },
+  {
+   "id": "ad013482955923364f104074939e7c969d24268a",
+   "title": "Beyond variance reduction: Understanding the true impact of baselines on policy optimization",
+   "date": "2020-08-31"
+  },
+  {
+   "id": "ce81b06760f07a560916289d68e81aae2eb78d9f",
+   "title": "Atari-5: Distilling the Arcade Learning Environment down to Five Games",
+   "date": "2022-10-05"
+  }
+ ],
+ "n_candidates": 20,
+ "sims": [
+  0.6504,
+  0.633,
+  0.6196,
+  0.6133,
+  0.61,
+  0.608,
+  0.6049,
+  0.5799,
+  0.5796,
+  0.5647,
+  0.5497,
+  0.5375,
+  0.5299,
+  0.5224,
+  0.4861,
+  0.4849,
+  0.4493,
+  0.4376,
+  0.4307
+ ]
+}

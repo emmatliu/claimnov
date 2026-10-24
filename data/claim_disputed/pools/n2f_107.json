@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3f84cfeb8a58d9b7379bed0cda404acf3a95991e",
+   "title": "3D-COCO: Extension of MS-COCO Dataset for Scene Understanding and 3D Reconstruction",
+   "is_B": true
+  },
+  {
+   "id": "403ad5d6e78fcf29f1ac526fbc9ff6cbfea555eb",
+   "title": "Open-Vocabulary DETR with Conditional Matching",
+   "date": "2022-03-22"
+  },
+  {
+   "id": "4d7a9197433acbfb24ef0e9d0f33ed1699e4a5b0",
+   "title": "SSD: Single Shot MultiBox Detector",
+   "date": "2015-12-08"
+  },
+  {
+   "id": "962dc29fdc3fbdc5930a10aba114050b82fe5a3e",
+   "title": "End-to-End Object Detection with Transformers",
+   "date": "2020-05-26"
+  },
+  {
+   "id": "5ac18d505ed6d10e8692cbb7d33f6852e6782692",
+   "title": "The Open Images Dataset V4",
+   "date": "2018-11-02"
+  },
+  {
+   "id": "1b31dbf44e68b698120552366df03e6e35a1e428",
+   "title": "Objaverse: A Universe of Annotated 3D Objects",
+   "date": "2022-12-15"
+  },
+  {
+   "id": "1b90e9e9734bed6b379ae87d688cb3b887baf597",
+   "title": "Objaverse-XL: A Universe of 10M+ 3D Objects",
+   "date": "2023-07-11"
+  },
+  {
+   "id": "fe6544a0965e1c6182737b0f86d549036d5c5bcc",
+   "title": "Pose estimation for category specific multiview object localization",
+   "date": "2009-06-20"
+  },
+  {
+   "id": "77327efa13f9e1defba258091bab5d406d047a0b",
+   "title": "Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction",
+   "date": "2021-09-01"
+  },
+  {
+   "id": "f8e79ac0ea341056ef20f2616628b3e964764cfd",
+   "title": "You Only Look Once: Unified, Real-Time Object Detection",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270",
+   "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+   "date": "2015-06-04"
+  },
+  {
+   "id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+   "title": "Microsoft COCO: Common Objects in Context",
+   "date": "2014-05-01"
+  },
+  {
+   "id": "28fa2c85f891d4d22589d7a63f2c3a62bcb7b136",
+   "title": "ABO: Dataset and Benchmarks for Real-World 3D Object Understanding",
+   "date": "2021-10-12"
+  },
+  {
+   "id": "8246ca246187cad0580797efd195697d45e57e62",
+   "title": "Parsing IKEA Objects: Fine Pose Estimation",
+   "date": "2013-12-01"
+  },
+  {
+   "id": "fb013c3d857bc95333a2ca6c2de08d0806cbdf72",
+   "title": "LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction",
+   "date": "2021-06-23"
+  },
+  {
+   "id": "ac770fbd369727a8dd5f41100899e54abc5abee5",
+   "title": "VPFusion: Joint 3D Volume and Pixel-Aligned Feature Fusion for Single and Multi-view 3D Reconstruction",
+   "date": "2022-03-14"
+  },
+  {
+   "id": "c97d92a50305133933b59e10377b57e0d1b1a307",
+   "title": "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction",
+   "date": "2022-05-29"
+  },
+  {
+   "id": "9f5120b815fddaaef25c7042035ffe5680507a65",
+   "title": "Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items",
+   "date": "2022-04-25"
+  },
+  {
+   "id": "28e1c5fa724db6c4d927799730d13229c4a74bac",
+   "title": "Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling",
+   "date": "2018-04-12"
+  },
+  {
+   "id": "65e2891e745dd1f3a89f40d7bb7a99e60817111c",
+   "title": "PhotoShape",
+   "date": "2018-09-26"
+  }
+ ],
+ "n_candidates": 21,
+ "sims": [
+  0.7157,
+  0.5711,
+  0.5583,
+  0.5538,
+  0.5477,
+  0.5477,
+  0.5265,
+  0.5232,
+  0.5047,
+  0.4854,
+  0.4737,
+  0.4599,
+  0.4548,
+  0.4498,
+  0.4483,
+  0.4218,
+  0.4167,
+  0.4107,
+  0.3657
+ ]
+}

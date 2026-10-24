@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_24326bd844b28676edafd657e3e0bda196bc5ad3",
+   "title": "One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State",
+   "date": "2026-09-17",
+   "is_B": true
+  },
+  {
+   "id": "d78fd534d5ee2474dc0314cff331674870a53bb1",
+   "title": "Identifiability Analysis of Linear ODE Systems with Hidden Confounders",
+   "date": "2024-10-29"
+  },
+  {
+   "id": "62fad6b30e33e4c4bf7e6a3d03170a38292ddba8",
+   "title": "On the Lasso for Graphical Continuous Lyapunov Models",
+   "date": "2022-08-29"
+  },
+  {
+   "id": "0e5fe0cbd8b5809c0d397fe6fb7760f808eca4b3",
+   "title": "Causal interpretation of stochastic differential equations",
+   "date": "2013-03-31"
+  },
+  {
+   "id": "90990e3f750958d91bd3d31085c641676f9e3e9e",
+   "title": "Causal Modeling with Stationary Diffusions",
+   "date": "2023-10-26"
+  },
+  {
+   "id": "16144efe39c1a93074bdda4c88ab7fc9bd7e2538",
+   "title": "Identifiability in Continuous Lyapunov Models",
+   "date": "2022-09-08"
+  },
+  {
+   "id": "3c1fa81c2307098407dbe572493a9387da5618c3",
+   "title": "Structural Identifiability of Dynamic Systems Biology Models",
+   "date": "2016-10-01"
+  },
+  {
+   "id": "d70125dc8a5bc89bc0fc9a95767dd4510260d737",
+   "title": "Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "c27e16cf9b626e983ad6372a25e98e060053afcb",
+   "title": "Wisdom of crowds for robust gene network inference",
+   "date": "2012-07-01"
+  },
+  {
+   "id": "36b3e03463654252e0019bff0ee27d65a7bce8d4",
+   "title": "A new look at state-space models for neural data",
+   "date": "2009-08-01"
+  },
+  {
+   "id": "1bf6559ddac2f170c648033bec48d1ae65fb78ef",
+   "title": "Dynamic Structural Causal Models",
+   "date": "2024-06-03"
+  },
+  {
+   "id": "3b8bd75949579925f6950ca0dd1b91fe1a753c45",
+   "title": "NODAGS-Flow: Nonlinear Cyclic Causal Structure Learning",
+   "date": "2023-01-04"
+  },
+  {
+   "id": "a317a3083ce0796bf24e57aacdee1f79e1065c9a",
+   "title": "PerturBench: Benchmarking Machine Learning Models for Cellular Perturbation Analysis",
+   "date": "2024-08-20"
+  },
+  {
+   "id": "5f0a897b41b86390044f1494e0724e7c8ded5792",
+   "title": "Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "164358180c300fb4d45a3b156ef2746ce91128f0",
+   "title": "A Survey on Causal Discovery Methods for I.I.D. and Time Series Data",
+   "date": "2023-03-27"
+  },
+  {
+   "id": "ed6bdc8d57a8547923d000da4cc87c7013332ab1",
+   "title": "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations",
+   "date": "2022-07-21"
+  },
+  {
+   "id": "2aac28eedb11ab7a15d2b095b276547fa03db580",
+   "title": "GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations",
+   "date": "2022-07-15"
+  },
+  {
+   "id": "124aa6898432fe30e385b2fd995c71cb1c900b1c",
+   "title": "Time Series Analysis",
+   "date": "2003-04-15"
+  },
+  {
+   "id": "78a763ba54911697670150a565c626930b3e3557",
+   "title": "Causal Discovery from Temporal Data: An Overview and New Perspectives",
+   "date": "2023-03-17"
+  },
+  {
+   "id": "cc5f35ade6b0ecee863956c541fb239c1db1d593",
+   "title": "The single cell transcriptional landscape of mammalian organogenesis",
+   "date": "2019-02-01"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.5483,
+  0.5294,
+  0.5242,
+  0.5225,
+  0.5089,
+  0.5079,
+  0.5036,
+  0.4376,
+  0.4364,
+  0.4136,
+  0.412,
+  0.4093,
+  0.4092,
+  0.3888,
+  0.3885,
+  0.3704,
+  0.3696,
+  0.3405,
+  0.2845
+ ]
+}

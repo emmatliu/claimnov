@@ -1,0 +1,2692 @@
+[
+ {
+  "id": "6de03206638d7d43c4142a1dfc891849fa0ea696",
+  "title": "Mercury: Ultra-Fast Language Models Based on Diffusion",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "4673013a4e141e4324ebbdfe844b3f22673f4f82",
+  "title": "Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "5312fec64ae16cd2a32bdc8c1fa6605bf77333ed",
+  "title": "BLOCK DIFFUSION: INTERPOLATING BETWEEN AU-TOREGRESSIVE AND DIFFUSION LANGUAGE MODELS",
+  "date": "2025-03-12"
+ },
+ {
+  "id": "6001d49dfce58fe907b9b2b427208558926c434d",
+  "title": "Effective and Efficient Masked Image Generation Models",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "26ffa2b7af25df153bd04cc206772cf71aa693e1",
+  "title": "Fast Solvers for Discrete Diffusion Models: Theory and Applications of High-Order Algorithms",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "88aa6b1f37d1fd8e0a40499ce9bb87873f03aaa8",
+  "title": "Qwen2.5 Technical Report",
+  "date": "2024-12-19"
+ },
+ {
+  "id": "05f9997d61460fea9b586f98722c4be32f4a8b22",
+  "title": "Simple Guidance Mechanisms for Discrete Diffusion Models",
+  "date": "2024-12-13"
+ },
+ {
+  "id": "ada78211c9beb284d75fc0679b49d2ef0f5a5346",
+  "title": "Beyond Autoregression: Fast LLMs via Self-Distillation Through Time",
+  "date": "2024-10-28"
+ },
+ {
+  "id": "b5c4c2f88fac2ca41854bbe8ae9740b9b03a0d3a",
+  "title": "Scaling up Masked Diffusion Models on Text",
+  "date": "2024-10-24"
+ },
+ {
+  "id": "385f0c77e72f95e7df74e98b4ff6b9ab19d52f93",
+  "title": "Scaling Diffusion Language Models via Adaptation from Autoregressive Models",
+  "date": "2024-10-23"
+ },
+ {
+  "id": "bc2ddba47a9d6b378abd8a8584849f3e4c410f24",
+  "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+  "date": "2024-10-23"
+ },
+ {
+  "id": "0456bec726800502f72bf63fde1a637d1807a62b",
+  "title": "DPLM-2: A Multimodal Diffusion Protein Language Model",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "a7cf7b7ee862b3cb908d581a34ed1a831bba6367",
+  "title": "Distillation of Discrete Diffusion through Dimensional Correlations",
+  "date": "2024-10-11"
+ },
+ {
+  "id": "30e10edf8f4916c8b3ca04a43f7ec62d44b05b5d",
+  "title": "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "e6544820751a4aef15bffd540dce3d3f0d33063c",
+  "title": "Think While You Generate: Discrete Diffusion with Planned Denoising",
+  "date": "2024-10-08"
+ },
+ {
+  "id": "e85213146c7f50474c72116f33d36196c1c2e857",
+  "title": "Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling",
+  "date": "2024-09-04"
+ },
+ {
+  "id": "40e8af970329135ec95057d73e239dab805ad128",
+  "title": "The Llama 3 Herd of Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "6b50afd7e015e9f4433ff55ef0f24e882d867d31",
+  "title": "Informed Correctors for Discrete Diffusion Models",
+  "date": "2024-07-30"
+ },
+ {
+  "id": "fec3d7e1272d640eddd55307127bebf4fa55ac33",
+  "title": "Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process",
+  "date": "2024-07-29"
+ },
+ {
+  "id": "a9ac6c4b165d8c4bf1a949d0931e7ca7a21fc55b",
+  "title": "Discrete Flow Matching",
+  "date": "2024-07-22"
+ },
+ {
+  "id": "8ca1fdca69d780881f905ef9a4612e62f49a1014",
+  "title": "Qwen2-Audio Technical Report",
+  "date": "2024-07-15"
+ },
+ {
+  "id": "cab3d65b3f4d0a4169d0fdaaed15af6be1d6bb84",
+  "title": "Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing",
+  "date": "2024-06-12"
+ },
+ {
+  "id": "f8d357d38bbcdd93889fe71762eb57842b2ab063",
+  "title": "Simple and Effective Masked Diffusion Language Models",
+  "date": "2024-06-11"
+ },
+ {
+  "id": "3c4f868142221873d41f2c4e19cb415ce033d346",
+  "title": "The Factorization Curse: Which Tokens You Predict Underlie the Reversal Curse and More",
+  "date": "2024-06-07"
+ },
+ {
+  "id": "7a73cc4bc0ce80661b5acbb51bbde30ea5167280",
+  "title": "Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data",
+  "date": "2024-06-06"
+ },
+ {
+  "id": "1bed8c7541381b1f79027c240b64c9276573fc3c",
+  "title": "Simplified and Generalized Masked Diffusion for Discrete Data",
+  "date": "2024-06-06"
+ },
+ {
+  "id": "afb8128b2c8016326131f5a12b657f2e9589a97f",
+  "title": "Diffusion On Syntax Trees For Program Synthesis",
+  "date": "2024-05-30"
+ },
+ {
+  "id": "a85c64c4f002c2b53c5d2e8c5c1afd68ba286f0e",
+  "title": "Unifying Bayesian Flow Networks and Diffusion Models through Stochastic Differential Equations",
+  "date": "2024-04-24"
+ },
+ {
+  "id": "4cf69c2074c86d0a114e8e77ddea69b53ebe435c",
+  "title": "Compression Represents Intelligence Linearly",
+  "date": "2024-04-15"
+ },
+ {
+  "id": "49873ee415619efd9e1e4c16f73ee066ff008c1f",
+  "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+  "date": "2024-04-09"
+ },
+ {
+  "id": "a1849a77644ff411a03833b5aa7a65ff57158c50",
+  "title": "CLLMs: Consistency Large Language Models",
+  "date": "2024-02-28"
+ },
+ {
+  "id": "9ec09a9534fe41d3a5231693050150e0bbec8515",
+  "title": "Diffusion Language Models Are Versatile Protein Learners",
+  "date": "2024-02-28"
+ },
+ {
+  "id": "7260442ef9c0448f07ce3803efd49cebaffcebe9",
+  "title": "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism",
+  "date": "2024-01-05"
+ },
+ {
+  "id": "e8430dcca698b9f012615157c2a81b4983a10038",
+  "title": "DiSK: A Diffusion Model for Structured Knowledge",
+  "date": "2023-12-08"
+ },
+ {
+  "id": "f68164bf402e311a510a741860e96ab4ea24aa9f",
+  "title": "Magicoder: Empowering Code Generation with OSS-Instruct",
+  "date": "2023-12-04"
+ },
+ {
+  "id": "210b0a3d76e93079cc51b03c4115fde545eea966",
+  "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+  "date": "2023-11-20"
+ },
+ {
+  "id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
+  "title": "Mistral 7B",
+  "date": "2023-10-10"
+ },
+ {
+  "id": "47daf5f81470564f94adcac672405c2cd39dd186",
+  "title": "Physics of Language Models: Part 3.2, Knowledge Manipulation",
+  "date": "2023-09-25"
+ },
+ {
+  "id": "8eafec7014d08043517834b5a2ed26384f188873",
+  "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+  "date": "2023-09-21"
+ },
+ {
+  "id": "21091f8133ab034baacb92fdb958e14989eb427f",
+  "title": "Language Modeling Is Compression",
+  "date": "2023-09-19"
+ },
+ {
+  "id": "9cbbb250a565228ba328038ee7944b89cff53e84",
+  "title": "Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning",
+  "date": "2023-08-23"
+ },
+ {
+  "id": "28c6ac721f54544162865f41c5692e70d61bccab",
+  "title": "A survey on large language model based autonomous agents",
+  "date": "2023-08-22"
+ },
+ {
+  "id": "7b4a09463e1fec7d9a49f325035453a67b842773",
+  "title": "Bayesian Flow Networks",
+  "date": "2023-08-14"
+ },
+ {
+  "id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+  "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+  "date": "2023-07-18"
+ },
+ {
+  "id": "bb9a44c94a89dbe00f0061d05c70a45064ff6ea6",
+  "title": "CMMLU: Measuring massive multitask language understanding in Chinese",
+  "date": "2023-06-15"
+ },
+ {
+  "id": "4c26a1c6e573c772e1634b1747d7e9a3b33dce52",
+  "title": "PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model",
+  "date": "2023-06-05"
+ },
+ {
+  "id": "d9ffb44ee3c8ec0b6692df8a90451384c1edd89b",
+  "title": "Likelihood-Based Diffusion Language Models",
+  "date": "2023-05-30"
+ },
+ {
+  "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+  "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "date": "2023-05-29"
+ },
+ {
+  "id": "5ae6fb6b5a3c7df515ff4a82ac9673bae6a8e200",
+  "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+  "date": "2023-05-22"
+ },
+ {
+  "id": "236c7dafea3df7ecffb5f18ec780d12f2f27d4b0",
+  "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+  "date": "2023-05-15"
+ },
+ {
+  "id": "5278a8eb2ba2429d4029745caf4e661080073c81",
+  "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "date": "2023-04-07"
+ },
+ {
+  "id": "36709000a9272e941338244ef80ff5ab1dd2bba1",
+  "title": "A Survey of Large Language Models",
+  "date": "2023-03-31"
+ },
+ {
+  "id": "163b4d6a79a5b19af88b8585456363340d9efd04",
+  "title": "GPT-4 Technical Report",
+  "date": "2023-03-15"
+ },
+ {
+  "id": "020a50f6a7154850ac81e3cde69ad8198ded6751",
+  "title": "DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises",
+  "date": "2023-02-20"
+ },
+ {
+  "id": "1f898d66acabff511a3871b82799aa73c0055402",
+  "title": "A Reparameterized Discrete Diffusion Model for Text Generation",
+  "date": "2023-02-11"
+ },
+ {
+  "id": "2a3213cb3c755f036d5dfec7261d726a819c78c1",
+  "title": "Muse: Text-To-Image Generation via Masked Generative Transformers",
+  "date": "2023-01-02"
+ },
+ {
+  "id": "cb648d482dbd1e6ad0b0f4da43aca71c06538d4f",
+  "title": "Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise",
+  "date": "2022-12-22"
+ },
+ {
+  "id": "736973165f98105fec3729b7db414ae4d80fcbeb",
+  "title": "Scalable Diffusion Models with Transformers",
+  "date": "2022-12-19"
+ },
+ {
+  "id": "33433e9103b00aa0c42597cbfe13a429fbf5abdf",
+  "title": "Score-based Continuous-time Discrete Diffusion Models",
+  "date": "2022-11-30"
+ },
+ {
+  "id": "a979742220a88b1d32e1fbe72c41e8ba3007053c",
+  "title": "DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models",
+  "date": "2022-11-28"
+ },
+ {
+  "id": "22775e58932cdfbd273a2a835a22c5d86800a458",
+  "title": "Continuous diffusion for categorical data",
+  "date": "2022-11-28"
+ },
+ {
+  "id": "2c6ac935c826002976722ca8d3319f691975687e",
+  "title": "Self-conditioned Embedding Diffusion for Text Generation",
+  "date": "2022-11-08"
+ },
+ {
+  "id": "3d8a2753649f3c493e2c237b0f4049858e958ae6",
+  "title": "Concrete Score Matching: Generalized Score Matching for Discrete Data",
+  "date": "2022-11-02"
+ },
+ {
+  "id": "0b9770a377b3f96cef9f268cee1791d39a0d4893",
+  "title": "SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control",
+  "date": "2022-10-31"
+ },
+ {
+  "id": "663a41c866d49ce052801fbc88947d39764cad29",
+  "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+  "date": "2022-10-17"
+ },
+ {
+  "id": "69144d537f90f214d5b07a7c79121d16afd7da16",
+  "title": "DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models",
+  "date": "2022-10-17"
+ },
+ {
+  "id": "897f3bb5eacaa80359e81ff33378e1110e20ae95",
+  "title": "All are Worth Words: A ViT Backbone for Diffusion Models",
+  "date": "2022-09-25"
+ },
+ {
+  "id": "b64537bdf7a103aa01972ba06ea24a9c08f7cd74",
+  "title": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning",
+  "date": "2022-08-08"
+ },
+ {
+  "id": "ec4c8d99eb1c028c43af6d8bbf727392d351cb59",
+  "title": "Efficient Training of Language Models to Fill in the Middle",
+  "date": "2022-07-28"
+ },
+ {
+  "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+  "title": "Classifier-Free Diffusion Guidance",
+  "date": "2022-07-26"
+ },
+ {
+  "id": "e9b9a47cd81c66603c827f0f2bc4fba0d9ae77c4",
+  "title": "A Continuous Time Framework for Discrete Denoising Models",
+  "date": "2022-05-30"
+ },
+ {
+  "id": "1386b8a11929cf02da291c56aca353e33bbc22ed",
+  "title": "Diffusion-LM Improves Controllable Text Generation",
+  "date": "2022-05-27"
+ },
+ {
+  "id": "7091030c831a81f5968285e91340b9fd5a107f6c",
+  "title": "Training and Inference on Any-Order Autoregressive Models the Right Way",
+  "date": "2022-05-26"
+ },
+ {
+  "id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+  "title": "Training Compute-Optimal Large Language Models",
+  "date": "2022-03-29"
+ },
+ {
+  "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+  "title": "Training language models to follow instructions with human feedback",
+  "date": "2022-03-04"
+ },
+ {
+  "id": "7c597874535c1537d7ddff3b3723015b4dc79d30",
+  "title": "MaskGIT: Masked Generative Image Transformer",
+  "date": "2022-02-08"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+  "title": "Training Verifiers to Solve Math Word Problems",
+  "date": "2021-10-27"
+ },
+ {
+  "id": "599bc7cfe98c2b57ddbe111412203a636da57be0",
+  "title": "Autoregressive Diffusion Models",
+  "date": "2021-10-05"
+ },
+ {
+  "id": "77d956cdab4508d569ae5741549b78e715fd0749",
+  "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+  "date": "2021-09-08"
+ },
+ {
+  "id": "a38e0f993e4805ba8a9beae4c275c91ffcec01df",
+  "title": "Program Synthesis with Large Language Models",
+  "date": "2021-08-16"
+ },
+ {
+  "id": "91b32fc0a23f0af53229fceaae9cce43a0406d2e",
+  "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+  "date": "2021-07-07"
+ },
+ {
+  "id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+  "title": "Evaluating Large Language Models Trained on Code",
+  "date": "2021-07-07"
+ },
+ {
+  "id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+  "title": "Diffusion Models Beat GANs on Image Synthesis",
+  "date": "2021-05-11"
+ },
+ {
+  "id": "66c10bf1f11bc1b2d92204d8f8391d087f6de1c4",
+  "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "date": "2021-04-20"
+ },
+ {
+  "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+  "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+  "date": "2021-03-05"
+ },
+ {
+  "id": "1913d3edcc00d0aba097a9df190dd16f6fdfbf0c",
+  "title": "Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions",
+  "date": "2021-02-10"
+ },
+ {
+  "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+  "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+  "date": "2020-11-26"
+ },
+ {
+  "id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+  "title": "Measuring Massive Multitask Language Understanding",
+  "date": "2020-09-07"
+ },
+ {
+  "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+  "title": "Denoising Diffusion Probabilistic Models",
+  "date": "2020-06-19"
+ },
+ {
+  "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+  "title": "Language Models are Few-Shot Learners",
+  "date": "2020-05-28"
+ },
+ {
+  "id": "bdbf780dfd6b3eb0c9e980887feae5f23af15bc4",
+  "title": "GLU Variants Improve Transformer",
+  "date": "2020-02-12"
+ },
+ {
+  "id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+  "title": "Scaling Laws for Neural Language Models",
+  "date": "2020-01-23"
+ },
+ {
+  "id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+  "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+  "date": "2019-11-26"
+ },
+ {
+  "id": "10eda4521c032adabaa8e70d6569e17370b29dcd",
+  "title": "Root Mean Square Layer Normalization",
+  "date": "2019-10-16"
+ },
+ {
+  "id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+  "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+  "date": "2019-05-01"
+ },
+ {
+  "id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+  "title": "The Curious Case of Neural Text Degeneration",
+  "date": "2019-04-22"
+ },
+ {
+  "id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+  "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+  "date": "2018-03-14"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+  "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+  "date": "2015-03-11"
+ },
+ {
+  "id": "705fd4febe2fff810d2f72f48dcda20826eca77a",
+  "title": "A Deep and Tractable Density Estimator",
+  "date": "2013-10-07"
+ },
+ {
+  "id": "53719967bbc49365521e2d36497f5e081e5148fb",
+  "title": "Learning Generation Orders for Masked Discrete Diffusion Models via Variational Inference",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "5bff460bc43466b17b8e7d96c05109b457739c1d",
+  "title": "Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "b3bd962bbe6f2152740fe588516766224b9e3efa",
+  "title": "Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "667d7524dfa203f62be36434fa2b85bd29c5abbd",
+  "title": "TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "87cc94dde9a2ab86cfb69ae9b6e0561fcabaa278",
+  "title": "dLLM: Simple Diffusion Language Modeling",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "1ed7bbe65b99f6cd35942dc33c1876ceb73c7e84",
+  "title": "Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "1c7c7dce4f414bcee0e844b2f60009b4ec70c2b4",
+  "title": "Sharp Convergence Rates for Masked Diffusion Models",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "b58b05e745044e0c22ca579b53f2f00e258f6640",
+  "title": "The Design Space of Tri-Modal Masked Diffusion Models",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "739018210c8cf3fdb22be19ef18db141810583df",
+  "title": "Efficient and Explainable End-to-End Autonomous Driving via Masked Vision-Language-Action Diffusion",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "cdc666abaa6f5e8ff65a0a5e8a50ad04f0cff24c",
+  "title": "Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "925ac9d722097e0b873b4b439740bcbd885e738c",
+  "title": "Zatom-1: Towards a Multimodal Foundation Model for 3D Molecules and Materials",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "3b78c35f92fb9ad1a785bad622646187f6c69201",
+  "title": "Adaptation to Intrinsic Dependence in Diffusion Language Models",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "a3641bfa52ad8a893ab7742bd53d73c2c58af853",
+  "title": "Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "ec0beee67da145c336b03359be515d3dbd3d72a6",
+  "title": "Discrete Diffusion Models Exploit Asymmetry to Solve Lookahead Planning Tasks",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "f0a92cc67e2ce39fe6275e082bd2aa5b90c30b7e",
+  "title": "IDLM: Inverse-distilled Diffusion Language Models",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "f88c1d5decfd2fe980dacbeb9752925448db8f5c",
+  "title": "Improving Sampling for Masked Diffusion Models via Information Gain",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "07c79bbd454faba8dd9e09b0f6866f399513f9b0",
+  "title": "Discrete Stochastic Localization for Non-autoregressive Generation",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "102cbec3c32f3525c1dbcb1ab5b85f2fcc7dbc17",
+  "title": "LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?",
+  "date": "2026-02-18"
+ },
+ {
+  "id": "becb272a570a8e99387164925e07298657b825f5",
+  "title": "DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "02c9a00bfe3580c88696f90eab8c57230ed49562",
+  "title": "Scaling Beyond Masked Diffusion Language Models",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "6151e14ffa02cd9d50709ddf9abdb4350dc8bc61",
+  "title": "LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "8885e05234d97de230a8347cb9404c686a6f1e75",
+  "title": "MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "c16262403870611fdb679a53d7c7cb2fd8eb93d8",
+  "title": "Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "5d446cb0623a1cee5b144adb8b147a9b13504686",
+  "title": "Generalized Discrete Diffusion with Self-Correction",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "0ecf8288dfc62567a115b440b7e05e9c049ad237",
+  "title": "DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "ddd220c946529d22f054f468a250973eb9181d83",
+  "title": "Learn from Your Mistakes: Self-Correcting Masked Diffusion Models",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "70c9a96851c320c769e2ba83ab6e49437d1cb0ff",
+  "title": "Few-Step Diffusion Language Models via Trajectory Self-Distillation",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "298f2c9cec583a4aeddca6c84591beee8a99308b",
+  "title": "Continuous Diffusion Models Can Obey Formal Syntax",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "3371e7745e8ad225391c9393e0e7a3bf66757c35",
+  "title": "Categorical Flow Maps",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "21dfa0c2290d854fac188eeb7ebd56d771ac7daa",
+  "title": "Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "67f0049deb667e8c4092a21340020a95814026ed",
+  "title": "Just on Time: Token-Level Early Stopping for Diffusion Language Models",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "06b8b2230cbb5bd711282005a52079883332e675",
+  "title": "Diffusion-Pretrained Dense and Contextual Embeddings",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "457825a9f520b43ac2d5f9666f04d33c4d5a76bf",
+  "title": "Advancing Block Diffusion Language Models for Test-Time Scaling",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "9abd593985b17299c60f0515acc4f7fb1b5b1688",
+  "title": "Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "501268f7aa697d4228f754e167be379eac057fb2",
+  "title": "Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "6deeb783a2e7ab179117aaed9ac33501cc5efede",
+  "title": "KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "044833934abbe43d445e4760d4cc5c460c919ce9",
+  "title": "Breaking the Factorization Barrier in Diffusion Language Models",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "f5fff9b0b658ab248de5698639e9ef7db990fa6a",
+  "title": "Efficient and Stable Reinforcement Learning for Diffusion Language Models",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "0ebdde037d9ff10e3baff9c17ed543edcff18136",
+  "title": "TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "165b69237c8574f1924eac5ccc1a622eed22b01f",
+  "title": "TDGNet: Hallucination Detection in Diffusion Language Models via Temporal Dynamic Graphs",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "547ab1d1b94b3d9bb33b27274d725662235fc588",
+  "title": "DAWN: Dependency-Aware Fast Inference for Diffusion LLMs",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "4e34a499fc7b608de4eaac9ddb00af1c7cf3eb85",
+  "title": "Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "760e184feb7e68c1ba3222afd20b1f3a5107424e",
+  "title": "Discrete Adjoint Matching",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "10541eac6ce8f4ee62f2cedd1f97a030e4ece4cb",
+  "title": "Diffusion-State Policy Optimization for Masked Diffusion Language Models",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "9c90a0b91d8dbdfb86943d63f6e9142768e9dd74",
+  "title": "DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "ab8612a612d7022d7a3b38c1fe2d37cf101f0305",
+  "title": "Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "0390fcde62c69eb6fb8df4e3aa76cf5121dff0fa",
+  "title": "DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "40d2cb84559a6abbcc72408e246ca55b8ea458cc",
+  "title": "FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "5336a5afc63dda6aefa7ca5c61ca9b971fcd61de",
+  "title": "Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "039fc56fc3f12f5ef6df018c43ded8a4e53c4ec0",
+  "title": "DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "4a5cc5c094b605d16eac4f68578d8bde0d437873",
+  "title": "Conditional Diffusion Guidance under Hard Constraint: A Stochastic Analysis Approach",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "bc2808d4da750a7e89a0d57c6df88912b83aff4f",
+  "title": "AnCoder: Anchored Code Generation via Discrete Diffusion Models",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "bb176b6443127333b3c132e0fd87594bcff7e702",
+  "title": "Entropy Aware Reward Guidance for Diffusion Language Model Alignment",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "13a87282b03392ab63a068e41f493745e6276dfb",
+  "title": "CORE: Context-Robust Remasking for Diffusion Language Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "eac84de6e4ce26fbbd7fb2013a923afceda4d797",
+  "title": "UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "ee8b1d525963bb3f5610087cf41a8f8646755aba",
+  "title": "DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "75be89a2b2d4801957b1afdab1627308651cb301",
+  "title": "Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "b65746eda9ae06ec742a5c52821eba9a31ecbe52",
+  "title": "Ophiuchus-Ab: A Versatile Generative Foundation Model for Advanced Antibody-Based Immunotherapy",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "405380c8b650ed4e6e5a0cc5a2813f1b46303862",
+  "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "eebff2a9ac7c8735cbd6e525b5ba28ae28933d5f",
+  "title": "Lookahead Path Likelihood Optimization for Diffusion LLMs",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "757594ba4adde3ec7587e37106b6f7795c355edd",
+  "title": "ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "1f96f5eb64d66a28897c572583844a01ff07c336",
+  "title": "Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "04534568caa8ad9e041e2d847a1ca33fa4628bb7",
+  "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "7eacc23efeff03928c20319405a7aa9222a8099c",
+  "title": "Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "6868447763a360e9207c920011cd48a22d9e744f",
+  "title": "AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "269f81e9b9d22e4d5a2703a9cc0193fbb41d1f56",
+  "title": "Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "473bb8d5d0a7183d3ab002e4d96ad1a41a2b046f",
+  "title": "Unifying Masked Diffusion Models with Various Generation Orders and Beyond",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "9143b2c348761acf39ab110bd3644085d402e3bc",
+  "title": "A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "866cd64fc6712ceda7ff40153e03cfded9b97c21",
+  "title": "Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "367a074dfa7f57cee78d4cc996dfc18c839c241b",
+  "title": "Sentence Curve Language Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "7f2c91bf92c05cb5ab321524d57163cb624939d9",
+  "title": "Search-Augmented Masked Diffusion Models for Constrained Generation",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "92ac015057992b62ccb3d1019e132226ac4df476",
+  "title": "Training-Free Self-Correction for Multimodal Masked Diffusion Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "3846bae473a95e8a57cb3dcc37f109bf036c85b0",
+  "title": "LaDi-RL: Latent Diffusion Reasoning Prevents Entropy Collapse in Reinforcement Learning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "d73ef74c6d8ba17f55167d4d1970ae4ee939ec12",
+  "title": "Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "bc419a73a07e0416013fe136a283d556fb6d467e",
+  "title": "DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-size Canvas",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "11ef08210ccb33c04671fdc8f7ebd654c0a81389",
+  "title": "Balancing Understanding and Generation in Discrete Diffusion Models",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "cf3876f11d4a14acb082e0548bc5ca0c82ae98cc",
+  "title": "Diffusion LMs Can Approximate Optimal Infilling Lengths Implicitly",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "2beeee1c9a20b8abff315fa86ef5e4162a52068e",
+  "title": "Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "0ac742b8591bf4f3734e22fc6f0337fe5c15644c",
+  "title": "SPA-Cache: Singular Proxies for Adaptive Caching in Diffusion Language Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "f26f4728ffbb127ec84cc7981a04428f04940633",
+  "title": "FOCUS: DLLMs Know How to Tame Their Compute Bound",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "010b339fd3c793e6585ec6264a68d699382899d6",
+  "title": "TABES: Trajectory-Aware Backward-on-Entropy Steering for Masked Diffusion Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "877e9aff86be42fdccc5a92d8d6849947efbb053",
+  "title": "Safer by Diffusion, Broken by Context: Diffusion LLM's Safety Blessing and Its Failure Mode",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "34ea15d82364df2d13c79a8f2e6ede17d682b89c",
+  "title": "Reconsidering Positional Supervision in Masked Diffusion Language Model Training",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "96a19adfb86cbcbd85f0741b97b47950eea09275",
+  "title": "DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "b276674463c81dd75089ec16f57a1fe0a924cd40",
+  "title": "Generation Order and Parallel Decoding in Masked Diffusion Models: An Information-Theoretic Perspective",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "18f5284e6a2b72d376631870cb9a5da0d5fe5934",
+  "title": "Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from k-Parity",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "84b786d545136889b41c84c33106defe37210d5e",
+  "title": "Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "446a6dea6c25ac7b4708442679a42564b3c22089",
+  "title": "FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "85253efdfc2e0851a6aaae8bceff1c0992f851ae",
+  "title": "Corrected Samplers for Discrete Flow Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "981f175ee4b281153807e7441101a5be35c27f3b",
+  "title": "\u03c1-EOS: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "22b769305192374ba4693259b52a0adb6d253895",
+  "title": "Prompt Optimization Via Diffusion Language Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "27ed2d2304de18e4819e7a673ee01331ef7bf55c",
+  "title": "ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "c307eee5f576310f09520b3f269a7ac7ea00a6ad",
+  "title": "Causal Autoregressive Diffusion Language Model",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "4ec7c68bf47d16e83266e76553fabc3bf1dfbbbc",
+  "title": "Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "4509e4ec3599899f3829418b65b17f2bec4d79f3",
+  "title": "Reversible Diffusion Decoding for Diffusion Language Models",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "93df4fd5ea3093d18eeffac759e739b5dfe2d2d2",
+  "title": "DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "af8a2dbeb5e78e32cd9b75edd4a37180151373a5",
+  "title": "Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "1d5c429a4b3b5811cd59c3a3243e1b9aae5f5de2",
+  "title": "Window-Diffusion: Accelerating Diffusion Language Model Inference with Windowed Token Pruning and Caching",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "d5adb315bec6221056f150a5d11bbecdc08c3367",
+  "title": "Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "e31e7e62721c975c984f1cf42c8c01edde10048e",
+  "title": "MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "f4b004e03f6cd52dd0734a4d58d208941a212d7a",
+  "title": "Membership Inference Attacks Against Fine-tuned Diffusion Language Models",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "4d5e41ba08ad0269d47c6fde35cf325a63294296",
+  "title": "Up to 36x Speedup: Mask-based Parallel Inference Paradigm for Key Information Extraction in MLLMs",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "28c79e37b388b9987a0b143a95c16e1fe88a4998",
+  "title": "DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "3fb361e588383a8f2d9f1bd6ccf4789800c1944a",
+  "title": "ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "18a3039b1d7d15f4422e6685f3bf430b7a14dfca",
+  "title": "VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "8a1ade354d01ded8613871108aef7b50433caa2d",
+  "title": "Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "3bc5a90583e99c53ae0e36d85825070ef45076ab",
+  "title": "dLLM-ASR: A Faster Diffusion LLM-based Framework for Speech Recognition",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "a240d461804cd5a23c768e1ce2d4be6afe870534",
+  "title": "Auto-Regressive Masked Diffusion Models",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "6b5cdea0e446c4569bc246289883bf8c4b45dc65",
+  "title": "miniMTI: minimal multiplex tissue imaging enhances biomarker expression prediction from histology",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "9e2bcab79b7793d18e08a8228ca231a26299f922",
+  "title": "Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "db5139cd29a27bf97baca0b3ad4d720394dfe831",
+  "title": "The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "46bdfd2b44188f1dbe10967541c52ad7a77576d5",
+  "title": "Diffusion Large Language Models for Black-Box Optimization",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "da60d1d8442c981ac0e649f49791209c95de64e8",
+  "title": "Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "a0e595a5cb6a532bd67469f1f678970bc7194816",
+  "title": "Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "5c4015b28566c65cdb86f2f5481368f5ae5a3260",
+  "title": "Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "e698fda8c79ec8e6b362755f152656ee102084e2",
+  "title": "dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "b8c0f3c3f9110a6510cf000361940b9cae01bc96",
+  "title": "Plan, Verify and Fill: A Structured Parallel Decoding Approach for Diffusion Language Models",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "1b37d201f5768337e70c75c6ae695b6c0650f57a",
+  "title": "Discrete Feynman-Kac Correctors",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "e1495991ea6a5e0bc66ac5920f9e58826f9199c9",
+  "title": "Training-Trajectory-Aware Token Selection",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "c5908653b52b24423cfe07270b0d737399feb68c",
+  "title": "d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "2935d2e0d25dbfe67529ca7e9ac707adb24f456e",
+  "title": "BackPlay: Head-Only Look-Back Self-Correction for Diffusion Language Models",
+  "date": "2026-01-10"
+ },
+ {
+  "id": "28d1612b26e5e24af2647988e024fe3fb16420a4",
+  "title": "Mosaic: Unlocking Long-Context Inference for Diffusion LLMs via Global Memory Planning and Dynamic Peak Taming",
+  "date": "2026-01-10"
+ },
+ {
+  "id": "bb96b6563d8daaa8a46c8d305c137958ba244004",
+  "title": "Window-based Membership Inference Attacks Against Fine-tuned Large Language Models",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "ed03d24de9c51a3e82bf09e5dd083a14ec951a8c",
+  "title": "Deferred Commitment Decoding for Diffusion Language Models",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "867fb65d2893ab338131ef5947eadf9114b370b1",
+  "title": "CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "5ecef3e5bbdd8384660bb7e79fb4559c1dea074d",
+  "title": "Diffusion Language Models are Provably Optimal Parallel Samplers",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "70bb5c7754f984bca299e0c675d5be7f3aeb4519",
+  "title": "GCG Attack On A Diffusion LLM",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "825eda46da2094ecb02c2a787eaacb8c7f46fe61",
+  "title": "Activation Steering for Masked Diffusion Language Models",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "e25bdce5c16f1d5e88c8c48d8b9dd5fb7479dabf",
+  "title": "Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "1e4a739236fa6000687b63380e67c7d651924f0f",
+  "title": "WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "b80587bb894774a2a258245ab6fbc914f3e6873e",
+  "title": "Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone",
+  "date": "2025-12-27"
+ },
+ {
+  "id": "c15dc309d6f2cfda9ad3b199b10c9d256daa3d88",
+  "title": "Self-Evaluation Unlocks Any-Step Text-to-Image Generation",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "7058c27669b59f3fbaa2fbd98b5b0c44cd0ecf5d",
+  "title": "Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model",
+  "date": "2025-12-25"
+ },
+ {
+  "id": "5bdde3308d44abe7d85f1705684e2029c84a54d0",
+  "title": "Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "aed6b42199f78c29f7ddb7bbf6676f3d1e618336",
+  "title": "dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "53facb050fbb2ee8780cc32cffaa30d708488228",
+  "title": "ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling",
+  "date": "2025-12-24"
+ },
+ {
+  "id": "08fc7c5f189735803cbb86e91d5aa9cf27d09ab0",
+  "title": "PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "fa3fa343eccf90cae47f5dcd1f639e774a8c28c3",
+  "title": "Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "7354fb2d3a227b800fc20ca67f1077a4b1ad29eb",
+  "title": "DiRL: An Efficient Post-Training Framework for Diffusion Language Models",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "9dde2f787eb63edd12d7f9654044f4bfccdfcd32",
+  "title": "dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "1969541140bcb2d3c306d427975abf885b3dea84",
+  "title": "HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "aece4f035159d6b4e59ead93c3843d684d6c606b",
+  "title": "DEER: Draft with Diffusion, Verify with Autoregressive Models",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "86173152d17102a2d2c8d3fefa63bb00db2a640a",
+  "title": "DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "4008d5bf3e1ce70476847065897b91c64e2a067d",
+  "title": "Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "f94b93ec54ba5cc4f4911ccddef5d7bb11a07a0b",
+  "title": "Fast and Accurate Causal Parallel Decoding using Jacobi Forcing",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "c975ce1462aea25418cf16297606967ee6477d6d",
+  "title": "Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "e0a0fadd037941b87a6052102eed3b5aa22fb507",
+  "title": "ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Diffusion Models",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "63202d7831f630f5b67de6a09eabde2d21b13178",
+  "title": "Dual-objective Language Models: Training Efficiency Without Overfitting",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "bf3e93d83229d7acd95596d0cf92371d0f28c7b5",
+  "title": "ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "977aea9befb7d777c274792649a73daaca82e45b",
+  "title": "MineTheGap: Automatic Mining of Biases in Text-to-Image Models",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "b79a96d8c1894dcf3dfd23b65619bdc4f1dbbb00",
+  "title": "LINA: Learning INterventions Adaptively for Physical Alignment and Generalization in Diffusion Models",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "3f4119d34ca93f102e4a7d0900467e0d653e6fc8",
+  "title": "Diffusion vs Autoregression: An Empirical Study on Code Comment Translation",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "8dd67e1dcad3aa76aedad48fa636f96b5ddd8b37",
+  "title": "A Technical Overview of Continuous and Discrete Diffusion-based Language Models",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "0672dfb6976a1752d2559902f727602a4dab7f01",
+  "title": "Scaling Behavior of Discrete Diffusion Language Models",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "585d4fa1ed9a88875afe9a0031037ab5600517bc",
+  "title": "d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "6739048e9defde817b93ceca9d756a98cb94f535",
+  "title": "Learning Unmasking Policies for Diffusion Language Models",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "1a14156ab764a8a7824229a52b3275570a2b8bf8",
+  "title": "Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "22d834dd4075d1a752810625bd6a27a5a87efa90",
+  "title": "From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "894bdecccb3601d48c249df84c568d50915249a2",
+  "title": "STaRR: Spatial-Temporal Token-Dynamics-Aware Responsive Remasking for Diffusion Language Models",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "8a235f1d121842a67b3ec6dd3bf29b72c0a3bd44",
+  "title": "WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving",
+  "date": "2025-12-06"
+ },
+ {
+  "id": "2f554d4f6d67c4c976890ff586fa2fb9df2e1ef4",
+  "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "9d214e385f8d3490e27bcb13ff8e11b4458999c5",
+  "title": "Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "873733f5313ddffe957729652f7e2dab89a71844",
+  "title": "dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "ff74cca171ba44c9580063c799a91b2ba2c93777",
+  "title": "Self-Paced and Self-Corrective Masked Prediction for Movie Trailer Generation",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "d701dda7051eba78d05b03174cb40654fbd1ac58",
+  "title": "Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "7f472c68b3c71fdc977dfa156230862ccecce923",
+  "title": "Decoding Large Language Diffusion Models with Foreseeing Movement",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "0509f3a645155971dca0ac5d67da614505b71f08",
+  "title": "PretrainZero: Reinforcement Active Pretraining",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "87f5382f73206e0688efad2c1fb8632c9cd91773",
+  "title": "Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "21eaf605118432617cb5be54f83cd6654d1bef02",
+  "title": "Syndrome-Flow Consistency Model Achieves One-step Denoising Error Correction Codes",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "7af66e4f6e585f40b495ed3082235ee4179c7bb0",
+  "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "c70ab17807bc47d8c2aceb470c15467c89077b6f",
+  "title": "Diffusion-Augmented Markov Decision Processes for Maximum Entropy Reinforcement Learning",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "bf09330f1934ed7e5ea5c161e652dcd777dd7e48",
+  "title": "MM-ACT: Learn from Multimodal Parallel Generation to Act",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "52d5f711fd44a41acb32b928b1bd219bd54f9468",
+  "title": "Accelerating Inference of Masked Image Generators via Reinforcement Learning",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "103e836a4388b3225b9397ea4a5ddb10437c8c17",
+  "title": "EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients",
+  "date": "2025-11-29"
+ },
+ {
+  "id": "970e575b414e44aa2644b33811623ae9aeb4b060",
+  "title": "Markovian Scale Prediction: A New Era of Visual Autoregressive Generation",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "7ff688f838fec226beefb2012a384af50def0ae3",
+  "title": "Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "513e0c794e3a6f7eee576bbed5e1e73e3be80573",
+  "title": "From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "cfefe7a5df5b04883ef63bfb7dd675682d6b0085",
+  "title": "Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "f77ba99099e53a6accfd14b15e15cbe6b016a2a6",
+  "title": "Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "ff441ae94022765d5b8f31428cca9dcd5554d84a",
+  "title": "E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "f3dba1ad17f25d21629fce4662a3a99c277f5a16",
+  "title": "Fluid Intelligence: A Forward Look on AI Foundation Models in Computational Fluid Dynamics",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "84c6486feb4c071f1db41d3b2fe295a71a2536a5",
+  "title": "CDLM: Consistency Diffusion Language Models For Faster Sampling",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "400f28cc563b048a3345f9c5bf816331de26b643",
+  "title": "FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "4cd844d80d08adb554875a3504d47d288385e9f7",
+  "title": "PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "f2d29406f780af22bfd7b97afd982c327514efca",
+  "title": "Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "8133b84927c45e4cc0850d7510f48b4bc95c9853",
+  "title": "Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "11878c1cb697912cb9a66e3d3251385c1b707bc5",
+  "title": "Bringing Stability to Diffusion: Decomposing and Reducing Variance of Training Masked Diffusion Models",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "a0bb41df8cd0d0f2095c7a062b24bc8da71048d1",
+  "title": "WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "a785ba7d4d00faa579824f03c5d41f68160393b1",
+  "title": "DELTA: Language Diffusion-based EEG-to-Text Architecture",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "9acba2ca896250c8b24e558b7d1f47bdb9219970",
+  "title": "From text to idea embeddings: a review on quintessential information extraction",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "0e428dc856fe87e0901ba2aaf1d358415b667374",
+  "title": "DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "1781c5967acd82e7016e7091a6a2f88c2bffae55",
+  "title": "A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "4b7a218a75cbdf2004a7f4e3b9e00e26c6e59351",
+  "title": "Reasoning in Diffusion Large Language Models is Concentrated in Dynamic Confusion Zones",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "0bf1571d6ede33f5315e9cacedd487adba1c4ff4",
+  "title": "Nona: A unifying multimodal masking framework for functional genomics",
+  "date": "2025-11-18"
+ },
+ {
+  "id": "71709e9859ccfada9509859fa67b577bcb078f31",
+  "title": "AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models",
+  "date": "2025-11-18"
+ },
+ {
+  "id": "3c312dde75096c774cf8c6beae5776cd80cf7b07",
+  "title": "Discrete Flow Matching is a Surprisingly Effective Post-training Method to Address Compound Error in Autoregressive Models",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "8d094a47108dd5264580283940103d1a7ef979ad",
+  "title": "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "240b1411de9ed6649344d9e8eb79c95afe944d36",
+  "title": "KLASS: KL-Guided Fast Inference in Masked Diffusion Models",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "d3c18ea608606bcf72e82bb178cb7c874fa836d3",
+  "title": "Optimal Inference Schedules for Masked Diffusion Models",
+  "date": "2025-11-06"
+ },
+ {
+  "id": "ed5a53e3f320aea137d84cdafb8ed9847546d0b8",
+  "title": "Diffusion Language Models are Super Data Learners",
+  "date": "2025-11-05"
+ },
+ {
+  "id": "cc0d38dca18d2a87ff4b77246bd22348345c874d",
+  "title": "Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "0d97417a89a6daba67f2ecf4ee517801417a63b7",
+  "title": "Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "24232791cbf7c190487a81416effc9d92086f9a2",
+  "title": "Forget BIT, It is All about TOKEN: Towards Semantic Information Theory for LLMs",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "7aeeee6e2638a3cd43cf803be22ec836c6ccfe77",
+  "title": "Watermarking Discrete Diffusion Language Models",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "1246a879b5b74104106b60435d034bfe4dd5a00f",
+  "title": "Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "47d745295ea3a4814fabb2a8f1d6b4c51fcc4bd6",
+  "title": "The Era of Agentic Organization: Learning to Organize with Language Models",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "b39c07234645547c6f5f6d4b6d3eef15828eef44",
+  "title": "PairUni: Pairwise Training for Unified Multimodal Language Models",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "687e686d4236cec1d6a8eaf5b632a2b1b9444159",
+  "title": "Information-Theoretic Discrete Diffusion",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "b5263ac02ee240e633efe4987be71e5781c5732b",
+  "title": "Variational Masked Diffusion Models",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "db8248fd9de574df37c1abc2f2d0ff2c12c70e8a",
+  "title": "Simple Denoising Diffusion Language Models",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "3305f0d1f5a55ab01ad1aa17b2013ec85197c060",
+  "title": "Aligning Diffusion Language Models via Unpaired Preference Optimization",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "e78156d2ceaa43586f86cb2ba8558255d900ae1b",
+  "title": "Encoder-Decoder Diffusion Language Models for Efficient Training and Inference",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "e44026ab4fe95ffe107fea613177da82da260e6b",
+  "title": "Parallel Sampling from Masked Diffusion Models via Conditional Independence Testing",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "b53d9b097ff04753931c5f4105db384e02bf528d",
+  "title": "Efficient semantic uncertainty quantification in language models via diversity-steered sampling",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "e39e201ded42bf21f29f41905ba313bcd395cd39",
+  "title": "Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "c050144ad4edfffc54e3edb2d9d4de5fbd535d0b",
+  "title": "From Masks to Worlds: A Hitchhiker's Guide to World Models",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "8a72abe616cde0bc9401055755cb9d08c0d83d15",
+  "title": "From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "cde3fd42c60d02d13877dd87f37c3c9f50ebd3ab",
+  "title": "Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "47efb61a285727ade599c7657995221fc43ed58a",
+  "title": "A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "fa5ddb185df23cf8098114f4ef4dfe01033b38cc",
+  "title": "Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "38cedae80d743dfac28b90a1d2c1bd15cf668a84",
+  "title": "How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "8b1fc2b0b7f33fc5549105f57c6a860e0fbd100e",
+  "title": "Soft-Masked Diffusion Language Models",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "35c144451602a79cefac400a8835afaab30500d6",
+  "title": "Planned Diffusion",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "4c95b1cef66cda6693fa6ab192698703dd3c070f",
+  "title": "Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "199319bccf12c9321173240a508bf0907bf66318",
+  "title": "Latent-Augmented Discrete Diffusion Models",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "8620f5fbd3031452167a88835ad5c87d34b873e2",
+  "title": "Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "fa67ce14393ce96ece7d7732e90f579e23382b21",
+  "title": "Attention Is All You Need for KV Cache in Diffusion LLMs",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "09d9778bad4c142e2c10f8756d86ae6f7682c627",
+  "title": "On the Reasoning Abilities of Masked Diffusion Language Models",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "8d1ce8db6f4b0a5b5ce199bc45e06f377b93ff44",
+  "title": "NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "621139590b96a1f9a31f1594af766aebb1f6468f",
+  "title": "DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "c2ccecee103e1437bcd63255bca964963cbcbbb4",
+  "title": "Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "115fb74e90142336862117a9c5076845981f9b6b",
+  "title": "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "bc77e521b25385a5d92220f4dd2194cd965e7113",
+  "title": "Diffusion-Inspired Masked Fine-Tuning for Knowledge Injection in Autoregressive LLMs",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "feca4295e3c5295e79e4bc28dfcdd663d31a5920",
+  "title": "Beyond Surface Reasoning: Unveiling the True Long Chain-of-Thought Capacity of Diffusion Large Language Models",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "3a3959fab5d33a54845a8fce1137aff1c061ddc5",
+  "title": "SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "8dacc381548d0909fa37c5196dc8a99ea45ffcac",
+  "title": "dInfer: An Efficient Inference Framework for Diffusion Language Models",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "db1fc2cf71c139af85651f9d60aa5b8306824302",
+  "title": "Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "ef0be30eb0e9ee7a56aa2daf7c730db2f1a495c4",
+  "title": "Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "3f2ee974c78fe3a4ac2c16235d14ca093111ab65",
+  "title": "Guided Star-Shaped Masked Diffusion",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "057dcf8166773f04b5d596757f49e806ccdf01cf",
+  "title": "Accelerating Diffusion LLM Inference via Local Determinism Propagation",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "7b1f0c2919ef4ab80daa59c9eff579a69a02f859",
+  "title": "AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "ed817ca743c8dff804fac93566eba29e45d3f51b",
+  "title": "OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "9a3e37311ff29cf25b8b7ea2e7a3b6165ad1650e",
+  "title": "SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "7824a7a8f8368361e4ff29cf47c81f7858338b13",
+  "title": "Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "9521df5fbabc5c12ce35ce64aa8a0388b8871f1c",
+  "title": "Improving Discrete Diffusion Unmasking Policies Beyond Explicit Reference Policies",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "e16ac091a1acea220775a84b8b067ab287d2210a",
+  "title": "Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "a26c505906695568dbd4aaf88d9d7d2d9fa446e5",
+  "title": "Demystifying MaskGIT Sampler and Beyond: Adaptive Order Selection in Masked Diffusion",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "804570620a120f0c168753b067dc9efa7480d9a0",
+  "title": "Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "cc80a5e8dc409cbfcaab4d7fe8d971ed49dca86d",
+  "title": "ParallelBench: Understanding the Trade-offs of Parallel Decoding in Diffusion LLMs",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "58f76e30fffba506350d11f530a46c832eddcb36",
+  "title": "Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "c4629616e6a648b786979aaf40ef6fb328d97d4f",
+  "title": "Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "63fc4f619bab220bfd5869b55d4feb6384283e64",
+  "title": "LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "97d60bd77200da768a71b1df1379a2453ecdfc0f",
+  "title": "AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Crystalline Materials",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "39f0f4d7ad0ad8b792d8e4cdd441a6fc38ed9f1f",
+  "title": "Self Speculative Decoding for Diffusion Large Language Models",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "77b4e9caa6a359b3760230459be368ce490ede61",
+  "title": "Simple Policy Gradients for Reasoning with Diffusion Language Models",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "b22f25401aa1380a9dd2713af2ffc00951777780",
+  "title": "Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "9cf351efdd3b2b58ba7394c2f3a1b6ee63a6c4df",
+  "title": "Rainbow Padding: Mitigating Early Termination in Instruction-Tuned Diffusion LLMs",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "efff5ddc9aae3b2bd67e7fa40a7144a16f1823a1",
+  "title": "DMark: Order-Agnostic Watermarking for Diffusion Large Language Models",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "1e7f94ef39f2da783d2b2c35c730647a41df2ab4",
+  "title": "Consolidating Reinforcement Learning for Multimodal Discrete Diffusion Models",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "d01c56cdbc83356f5cc2afab4d70bd936577d0b2",
+  "title": "Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "67315adc04c4934b4eade977be0cd4510b559d3d",
+  "title": "OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows",
+  "date": "2025-10-03"
+ },
+ {
+  "id": "69d3a593b14b22479cac879bf1dbf87e0f78e00f",
+  "title": "DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "985fe45952ea046f544178e1a3eace0d97f842a1",
+  "title": "Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "1933bb386dd5502c37a95507ba5ab7b61c1eaaf3",
+  "title": "Test-Time Anchoring for Discrete Diffusion Posterior Sampling",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "4f4d9e912ae5f0c98f21918fc61d3f433d4b5376",
+  "title": "Fine-Tuning Masked Diffusion for Provable Self-Correction",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "b79dc2c52715be17ee1e942d0f8124165e0cba5e",
+  "title": "Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "86210f934f1137fbc0e57d6ef852defca4e3b51c",
+  "title": "Syntax-Guided Diffusion Language Models with User-Integrated Personalization",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "b254aa651f955b0a4a0ed349752374198ffc7686",
+  "title": "Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "8e4f0dbb926cdcc395013ba1cae7954614da82db",
+  "title": "Training Large Language Models To Reason In Parallel With Global Forking Tokens",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "54bbd8787707e3371888986d0ed7f1f7d7d3edd5",
+  "title": "In-Situ Tweedie Discrete Diffusion Models",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "925d79a0c31a8b7966fac5e6b64904089aabe918",
+  "title": "dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "a9950abc25bcafb8ff1859e8add566d741e52a5d",
+  "title": "dParallel: Learnable Parallel Decoding for dLLMs",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "3e48aa3ceb36b6cad4bd1aaa907ec7f8607b9212",
+  "title": "AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "ba93810b44b5529d62e2e24abd50b171baf1837b",
+  "title": "TraceDet: Hallucination Detection from the Decoding Trace of Diffusion Large Language Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "4c81515d1aa61c56da6217766936a9fc368ac514",
+  "title": "Fast-dLLM v2: Efficient Block-Diffusion LLM",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "205e990f68c467ad29df5d7e474e21d38915f328",
+  "title": "Data-to-Energy Stochastic Dynamics",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "cd9feffae79c3d84bdff57ce40224a7d2a55ecec",
+  "title": "Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "4175fb8295a1c3af4db5421bbc7f85993d276f93",
+  "title": "Watermarking Diffusion Language Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "47bcd99521b23e6a9749f64913edf6fa213347dc",
+  "title": "LLaDA-MoE: A Sparse MoE Diffusion Language Model",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "adc3a081078a9267221045e74a79b8c7b422cfb8",
+  "title": "Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "1f9dc0890201d55ed55ba342bcdaac5d25c3b0b2",
+  "title": "DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "f6b80274adac521baa2150961edc80fffced9fae",
+  "title": "TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "c97548581a6fa55e7a0364033e294f90c8e23412",
+  "title": "Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7ab357e8e8fa692d25580ab115c8f51f581468ce",
+  "title": "DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "396fdacf5afe126e69d1e9364fe04462726b47bc",
+  "title": "Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "97bd4982ea62976b4fad419892ef260556305df4",
+  "title": "Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "3d757893659557883571e1ebc2c29daebac96786",
+  "title": "RIV: Recursive Introspection Mask Diffusion Vision Language Model",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "584f826151232ff5e66fa846c1283a3d77a10eb4",
+  "title": "Sequential Diffusion Language Models",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "b2c3661733b33eb6f0379d6a62324a2e88dfefb2",
+  "title": "Training Optimal Large Diffusion Language Models",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "d31269a7604e8c1c86dc4783f5610e8396a10462",
+  "title": "Tree Reward-Aligned Search for TReASURe in Masked Diffusion Language Models",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "b5939cba32a1c1c6a6c3418b7cba16dbcafb8850",
+  "title": "A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "17ed01f7688361680cf6906fa8befab4c3fdc3b1",
+  "title": "Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "363163642cdd30332a1c31764eada3eb092cdbe6",
+  "title": "d2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "8c01a7f1ab8d2856a63210cb32c459dc5a166f08",
+  "title": "CoDA: Coding LM via Diffusion Adaptation",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "5e4dd605065383eaf6117312b80276d2ad3228c7",
+  "title": "Planner Aware Path Learning in Diffusion Language Models Training",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "d3507bcf8586bb301d44ceec4e7d2bb0ed5df81a",
+  "title": "Decoding quantum low density parity check codes with diffusion",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "22542f706dd0a41b0139ba2da54caa45c7481a61",
+  "title": "Discrete Guidance Matching: Exact Guidance for Discrete Flow Matching",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "3580721ffea7f241aa8ac38d4027f19273d41c06",
+  "title": "Generation Properties of Stochastic Interpolation under Finite Training Set",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "2503e3abfbf3c421f60193e5618cf85c10ed08ff",
+  "title": "Scale-Wise VAR is Secretly Discrete Diffusion",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "0133b8bc2d5569fd587705db0961e5b35953252a",
+  "title": "CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "224456c81abf82e71cdf976deae2ab5b970fe523",
+  "title": "Error Analysis of Discrete Flow with Generator Matching",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "83d0a2a5de8df1c86e4c6d242a4b11f3005f67e4",
+  "title": "Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "d383946423823c90a1fda60f70042610b8c3ed4f",
+  "title": "Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "1140d5850bcd50c6499280fd521d740caa7cd977",
+  "title": "On the $\\epsilon$-Free Inference Complexity of Absorbing Discrete Diffusion",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "fc5e80f43b0f29a92db79592bb16779e473aa95d",
+  "title": "d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "bd58090f80ee1fd4413b7f9b4d2eeb318cdf72bf",
+  "title": "Enabling Approximate Joint Sampling in Diffusion LMs",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "eb04c388d5bc4c726ff41b205adb6010e9ad718b",
+  "title": "Deterministic Discrete Denoising",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "f8d5d37d4cbba93b2535de509200ba9c83a9ddb1",
+  "title": "Discrete Diffusion for Generative Modeling of Text-Aligned Speech Tokens",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "89afbe92bda911f8197e695009e1b00276282457",
+  "title": "Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "6d912401d21916139def914fb8b4984f99a7814e",
+  "title": "FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "1416afa3b83d5447cadf25a731879ece1b3378ab",
+  "title": "From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "2164992bd7fe3b420a196ec82bdea8a09d0939a0",
+  "title": "PIRF: Physics-Informed Reward Fine-Tuning for Diffusion Models",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "14179d68919bb4de7813332a17a8d7aa2c9372b9",
+  "title": "Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "b69f70ef896b589bfa91e6b91fec817cfe2dcb73",
+  "title": "Visual Instruction Pretraining for Domain-Specific Foundation Models",
+  "date": "2025-09-22"
+ },
+ {
+  "id": "9bdfd1ffcb2b5e6415025e9fe84c9fb277a6c527",
+  "title": "Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "283529b99ccc3b329f43db783ad077d9474d57ee",
+  "title": "Diffusion-Based Cross-Modal Feature Extraction for Multi-Label Classification",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "11c55e68524f60ab98b5a4a50aab2f4c9f6ac9a4",
+  "title": "Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "3ba53833ad9b32c471ab4859527055090225bba4",
+  "title": "Masked Diffusion Models as Energy Minimization",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "c0f746f3c699bf89783a9e9543171798ca9b3f70",
+  "title": "DSFT: Inspiring Diffusion Large Language Models to Comprehend Mathematical and Logical Patterns",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "02cb02e641725da96f29d9233382bdffb8591377",
+  "title": "LLaDA-VLA: Vision Language Diffusion Action Models",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "d4813e1a6ed34195ba8b03000cdd5a8c23cf9b46",
+  "title": "COGITAO: A Visual Reasoning Framework To Study Compositionality&Generalization",
+  "date": "2025-09-05"
+ },
+ {
+  "id": "5abdf3cdca85a6c57c33552b067a3e4d9cb5ffbc",
+  "title": "Set Block Decoding is a Language Model Inference Accelerator",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "9b4db56c8fbcec429ee9e9e4b45da5d3e5c59669",
+  "title": "Diffusion Generative Models Meet Compressed Sensing, with Applications to Imaging and Finance",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "4b37680b828ea09aab51a3fa829d7ec166dcfb48",
+  "title": "Dream-Coder 7B: An Open Diffusion Language Model for Code",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "7e1b7de386c9516f0f0f8d8736075e3b6650804f",
+  "title": "Tabular diffusion counterfactual explanations",
+  "date": "2025-08-31"
+ },
+ {
+  "id": "0fbdade822baad9eb8512db08bd73817dc0391e7",
+  "title": "Any-Order Flexible Length Masked Diffusion",
+  "date": "2025-08-31"
+ },
+ {
+  "id": "78b818c189f81d9ab271fa955b4f653beb1d1251",
+  "title": "Universal Properties of Activation Sparsity in Modern Large Language Models",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "b7b95b60ed78916950ae670cbf90bb5081112c38",
+  "title": "Diffusion Language Models Know the Answer Before Decoding",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "b93096a0076c5090d87f1fca66c79a06ca473cc4",
+  "title": "Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "59d62f070c3f4ddfb3974fa1cff9aeed258fa492",
+  "title": "Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "3d3a57ecaedad039ba121dcfdece3f7b07c85bd2",
+  "title": "CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods",
+  "date": "2025-08-26"
+ },
+ {
+  "id": "175720cc5b1ae343711044c4a5c2af3bf14f06c4",
+  "title": "Dream 7B: Diffusion Large Language Models",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "f45f0f07d2fbd80f8fe62b8e280097a110753a13",
+  "title": "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs",
+  "date": "2025-08-20"
+ },
+ {
+  "id": "88fe27bff57a196d31db45855ef71ec2fe417381",
+  "title": "DPad: Efficient Diffusion Language Models with Suffix Dropout",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "a8b3070c8f1ed2874b4ae834bc3fb72807680493",
+  "title": "ViLaD: A Large Vision Language Diffusion Framework for End-to-End Autonomous Driving",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "2e53f467ca43ff660863326530d8ebcf1d432ab1",
+  "title": "MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "7ec7053bd06c84b05377a5fb274cac3e6d52138b",
+  "title": "Reinforced Context Order Recovery for Adaptive Reasoning and Planning",
+  "date": "2025-08-18"
+ },
+ {
+  "id": "5564d5124e25e473aed893fa17ddfbf00b9c79f1",
+  "title": "Navigating the Exploration-Exploitation Tradeoff in Inference-Time Scaling of Diffusion Models",
+  "date": "2025-08-17"
+ },
+ {
+  "id": "71837e66048330a2b3a1b1840fdf0c10b69db3b5",
+  "title": "A Survey on Diffusion Language Models",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "528302668885787968a3700524a7915cea4abb21",
+  "title": "MDNS: Masked Diffusion Neural Sampler via Stochastic Optimal Control",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "64204941cc07c6aebed89084b1e3c5a364121bf4",
+  "title": "Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "c10204381cd23df57b15577eead3dfa47e14adc3",
+  "title": "Constrained Decoding of Diffusion LLMs with Context-Free Grammars",
+  "date": "2025-08-13"
+ },
+ {
+  "id": "1d4267fcf0b70fcfa789d3eeb6a6a1be499c57ab",
+  "title": "Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "4918d8815f77d64cf9dbd12bccd53a2f0aa798e7",
+  "title": "Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "5945406e29c638c21da3bb99785d442c125ca6f6",
+  "title": "One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "44bd8de6318a1adf67703876875218af77193b72",
+  "title": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "44a3bb2433ad50881a899a4a044af5dc8f84d37d",
+  "title": "LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding",
+  "date": "2025-08-03"
+ },
+ {
+  "id": "3f826e48b15b38369b112cff71e57bb906b42adc",
+  "title": "Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "34c384c040a950db130d22f7ea3ef9134df66727",
+  "title": "MLLM-based Speech Recognition: When and How is Multimodality Beneficial?",
+  "date": "2025-07-25"
+ },
+ {
+  "id": "b376f5b0b65061b621120acdaad75318fdb747d8",
+  "title": "Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "17f341034ec4437c84e0b66b016d26c8f65fa500",
+  "title": "Diffusion Beats Autoregressive in Data-Constrained Settings",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "6e7d41e93e262b076b4f44201330980d48dbec1e",
+  "title": "Rethinking LLM Inference Bottlenecks: Insights from Latent Attention and Mixture-of-Experts",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "dbc10b2230083fca42d09205d70801aaee9af521",
+  "title": "Language Models for Controllable DNA Sequence Design",
+  "date": "2025-07-19"
+ },
+ {
+  "id": "c970d40edfb53cda042741a6a3af01a9566ec6a9",
+  "title": "Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "cc1f03a6c330a398a81de79f49fb0dc2322f8e5e",
+  "title": "The Serial Scaling Hypothesis",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "eb2ecffa7b8e6575f3da98835f3890a92835a4a8",
+  "title": "Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "49c54056fe245d779e77ee5cb5cf5534c1fc183d",
+  "title": "Can You Detect the Difference?",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "72942ae752796e4549d36a39874a670e2ceda72d",
+  "title": "Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "886225e4b0213337850e5d72e52f4ce2f2973523",
+  "title": "Token-based Audio Inpainting via Discrete Diffusion",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "b353dd9bb8ce4d747521c409ecabaf6b0e4360c7",
+  "title": "Region-guided Latent Diffusion for Training-free Style Transfer",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "1870cbbf134976835f7aebfbbeee45fb82e2264a",
+  "title": "Improving Classifier-Free Guidance in Masked Diffusion: Low-Dim Theoretical Insights with High-Dim Impact",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "862b7a395ee2a3aa72d3aab2865ffdc3e8b73f73",
+  "title": "Generative Deep Learning for de Novo Drug Design\ue5f8A Chemical Space Odyssey",
+  "date": "2025-07-09"
+ },
+ {
+  "id": "0ba7e537a1728d6b40d9ff16105f6207900fbb01",
+  "title": "A Survey on Latent Reasoning",
+  "date": "2025-07-08"
+ },
+ {
+  "id": "8fe4308c33e942ab60dbcbf6d625f74edd62dd38",
+  "title": "Discrete Diffusion Trajectory Alignment via Stepwise Decomposition",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "7f01d7adc28899552eb0d3d9ca488b3c2300b0f2",
+  "title": "wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "76fd364bc18851bbf9613189b2e300502765348a",
+  "title": "Mind captioning: Evolving descriptive text of mental content from human brain activity",
+  "date": "2025-07-07"
+ },
+ {
+  "id": "bb197ccefe69b4550a768cb052bd9c23fdfceaeb",
+  "title": "Unveiling the Potential of Diffusion Large Language Model in Controllable Generation",
+  "date": "2025-07-06"
+ },
+ {
+  "id": "526818e4f4e71d50300f5e6a0560eac430a24b5a",
+  "title": "Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "bc29e85f2849a92d5b6a17cb1acc58eb25ba2595",
+  "title": "Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "a1e55f8f40504f5a498fd456f0a0ed151d65cc14",
+  "title": "A \"Good\" Regulator May Provide a World Model for Intelligent Systems",
+  "date": "2025-06-28"
+ },
+ {
+  "id": "624a18225eda0de2009614e17bbbf82dbf284f40",
+  "title": "Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "cccec89a636135621743fe2021ee6ca25dd7ec93",
+  "title": "Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models",
+  "date": "2025-06-23"
+ },
+ {
+  "id": "b2694084e24bc25803428f7a99f04dafb1ed9a8b",
+  "title": "LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "4a230ff814e6492da8c7dbd1b3d44842df1be989",
+  "title": "Discrete Diffusion in Large Language and Multimodal Models: A Survey",
+  "date": "2025-06-16"
+ },
+ {
+  "id": "15c88117351a15dec13a7668bfc4760053bf5630",
+  "title": "ContextBench: Modifying Contexts for Targeted Latent Activation",
+  "date": "2025-06-15"
+ },
+ {
+  "id": "bb37f60382590b8ca1faaae4c79f73fee623a201",
+  "title": "What Exactly Does Guidance Do in Masked Discrete Diffusion Models",
+  "date": "2025-06-12"
+ },
+ {
+  "id": "6101d3273f5f69a53c8c5999c4f66aff23a8209a",
+  "title": "Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation",
+  "date": "2025-06-11"
+ },
+ {
+  "id": "20e63fdb3f271ecc66e1220195523459238bfeeb",
+  "title": "A Theory of Inference Compute Scaling: Reasoning through Directed Stochastic Skill Search",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "241f3a9030dd78b7f2a8cc94dc437570f0031675",
+  "title": "Edit Flows: Flow Matching with Edit Operations",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "e66bca3519ff099eecd1fa6ab26034d1b1dc3c1c",
+  "title": "Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "a630c9799e29a21e6024aa4e925121ce01ec0fa6",
+  "title": "Diffusion Sequence Models for Enhanced Protein Representation and Generation",
+  "date": "2025-06-09"
+ },
+ {
+  "id": "4e159e405e3072611ecc14f61e9bdeef575e2117",
+  "title": "Esoteric Language Models",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "f8dcb5c2f1a90806459d7bed4410a27b475c78ec",
+  "title": "Accelerating Diffusion LLMs via Adaptive Parallel Decoding",
+  "date": "2025-05-31"
+ },
+ {
+  "id": "1a4a0033fffb3e01315eebd43915bcbc3e1cba23",
+  "title": "Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "10774f1550bf36252923cdf1ea26d88328e7fe2b",
+  "title": "DLM-One: Diffusion Language Models for One-Step Sequence Generation",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "ef66f34b4624932b55c7e80b6d096967ea55c512",
+  "title": "Diffusion-Based Symbolic Regression",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "3886f4dc7bbca578b73d2231c138690d2c01b94d",
+  "title": "DINGO: Constrained Inference for Diffusion LLMs",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "b3dc26c4512e966af967fd39cfc01d8f8e1b67c6",
+  "title": "Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "5e9ffdd179df49be1129e32ae75fc89a2b68e676",
+  "title": "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "96bd6a8fc53fee3605913e94930ec911380121cc",
+  "title": "Inference-Time Scaling of Discrete Diffusion Models via Importance Weighting and Optimal Proposal Design",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "d116105534980a0e5619c98a66a3b101ea48ed2a",
+  "title": "Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "646e86a93671357dc8a37a6388cabb15ce00240b",
+  "title": "Score Replacement with Bounded Deviation for Rare Prompt Generation",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "baa529e747d00591008503638bfddd6194a5028b",
+  "title": "Breaking AR\u2019s Sampling Bottleneck: Provable Acceleration via Diffusion Language Models",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "17fdf94362b3ae856f67edafd6a8532dc87642ee",
+  "title": "FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "28ac2d96aa0e12e8d70583ff38faaa3d67649819",
+  "title": "Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "085c39094a966dfcd58f4db985cb8a2092040cb1",
+  "title": "ReDDiT: Rehashing Noise for Discrete Visual Generation",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "7cb3e8d9803a4bcf92fc0652ed69b84f04f1b6d7",
+  "title": "Discrete Markov Bridge",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "c6f896aa698b2d65160372bce057ea5f081904de",
+  "title": "LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "6c8f155cafdb286e09abbed89cd7c70a550a8aef",
+  "title": "Do Large Language Models (Really) Need Statistical Foundations?",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "e07f909277a2251ed52b464da0246da60ed27dc6",
+  "title": "Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "d136e08a12144b0087b0bbe3e4507d99cbded34f",
+  "title": "Anchored Diffusion Language Model",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "a0129f7b3f16d92f30f53811a57dc0c61dcfd281",
+  "title": "Test-Time Scaling of Diffusion Models via Noise Trajectory Search",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "a58a6cc6db56de91850ef5f80abc81aee0ee3ad2",
+  "title": "Enhancing Cognitive Functions in Large Language Models Towards AGI: A State-of-the-Art Survey and Exploratory Review",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "dc0ee332af5cff428ccf0298ec2b84a128b72240",
+  "title": "Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey",
+  "date": "2025-05-23"
+ },
+ {
+  "id": "35ab014ae97f98192824963d00559adb5a699141",
+  "title": "Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "7ffe883cf9ccfc8f212231d4f4b137d5096013e9",
+  "title": "LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "5105e734fc2a95f6710e0bbb93a829b7e0bbf6bc",
+  "title": "LaViDa: A Large Diffusion Language Model for Multimodal Understanding",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "818a853bd9243f6a1784bf8b11c8fc867bb40bb1",
+  "title": "From Prediction to Perfection: Introducing Refinement to Autoregressive Image Generation",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "0df1f308b8df13194d76fb95aa86d18d6aeffbdc",
+  "title": "MMaDA: Multimodal Large Diffusion Language Models",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "773fdb9a909abe5065262c94b873572dc9eb7e82",
+  "title": "dKV-Cache: The Cache for Diffusion Language Models",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "c88ebab24da1206956cad89aa6d444f5c7802d6d",
+  "title": "Steering Generative Models with Experimental Data for Protein Fitness Optimization",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "004713dfa6ee7fa13ae8042676613b95e5a288fd",
+  "title": "Neurosymbolic Diffusion Models",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "9d54eaae9c56508199c0c5ba06f6bc9cb1a78dd4",
+  "title": "Training Latent Diffusion Models with Interacting Particle Algorithms",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "a24b410204822d4faf61b9f3135be6ef39c5a617",
+  "title": "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching",
+  "date": "2025-05-17"
+ },
+ {
+  "id": "c33a21e4215a5cd690ca8e2bb0d770b45adf5c89",
+  "title": "Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models",
+  "date": "2025-05-15"
+ },
+ {
+  "id": "21e161c863d66d0dc6e3e58f5bb7f54a2a28a81e",
+  "title": "TransDiffuser: Diverse Trajectory Generation with Decorrelated Multi-modal Representation for End-to-end Autonomous Driving",
+  "date": "2025-05-14"
+ },
+ {
+  "id": "a2314cdec306ec5a069232d14a7a53089e1f62aa",
+  "title": "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities",
+  "date": "2025-05-05"
+ },
+ {
+  "id": "545820cd0233f1a5c5cfed30e935497ec9b07818",
+  "title": "Reviving Any-Subset Autoregressive Models with Principled Parallel Sampling and Speculative Decoding",
+  "date": "2025-04-29"
+ },
+ {
+  "id": "8e3b1f5d8b6c165f64137cc1f7dea89cf6f622bd",
+  "title": "d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning",
+  "date": "2025-04-16"
+ },
+ {
+  "id": "b501df63ce56e1f62ed7c99ca1301a28de83bc4f",
+  "title": "CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers",
+  "date": "2025-04-09"
+ },
+ {
+  "id": "b262788f65a7468cd72a7142396faf810864658f",
+  "title": "Unifying Autoregressive and Diffusion-Based Sequence Generation",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "b8780fe864c2cc47cccdcf444e84b2292f9cb146",
+  "title": "An Empirical Comparison of Generation Quality and Diversity Between Discrete Diffusion and Autoregressive Text Generation",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "d170e69de7519e926bee6af648c9ffd625689600",
+  "title": "When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "2f066326c0d5e5ecd7dc646224272f1e13948579",
+  "title": "Efficient Inference for Large Reasoning Models: A Survey",
+  "date": "2025-03-29"
+ },
+ {
+  "id": "69fa15513f1d0d26c28fed1a2669f9f6aa1546b3",
+  "title": "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling",
+  "date": "2025-03-20"
+ },
+ {
+  "id": "8b6899dea6864910e37a70fe8669a6682e68513c",
+  "title": "VeriContaminated: Assessing LLM-Driven Verilog Coding for Data Contamination",
+  "date": "2025-03-17"
+ },
+ {
+  "id": "1746d7b2c5c9a0351d51acbc636ac9c4b0eefd9a",
+  "title": "Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "f4195d4e283e289665cfc7a65fde2fa7b8814091",
+  "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+  "date": "2025-02-24"
+ },
+ {
+  "id": "a66b6c6544af9c7926d43ec0a2b144de968a50e7",
+  "title": "Idiosyncrasies in Large Language Models",
+  "date": "2025-02-17"
+ },
+ {
+  "id": "410d8f0451384237b054b3f06cd8eab1c9f72104",
+  "title": "Theoretical Benefit and Limitation of Diffusion Language Model",
+  "date": "2025-02-13"
+ },
+ {
+  "id": "749ae28bc2b02638a90000ee3505b7190788b8a7",
+  "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+  "date": "2025-02-10"
+ },
+ {
+  "id": "ea6423c4f6a3169c33a83a1414e207f269eb4ab0",
+  "title": "UniCM: A Unified Consistency Model For Efficient Multimodal Generation and Understanding",
+  "date": "2025-02-08"
+ },
+ {
+  "id": "870305e5c8a12d18fab452bf858d0d82f3e328db",
+  "title": "Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods",
+  "date": "2025-02-03"
+ },
+ {
+  "id": "611b95d4d83de8594c599a26dca8d35a7f42c6b7",
+  "title": "Sampling out-of-distribution chemical spaces via Bayesian flow.",
+  "date": "2024-12-16"
+ },
+ {
+  "id": "a1e8d8b6bbdb97e4a99114455160668e9d3b58b2",
+  "title": "DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models",
+  "date": "2024-10-10"
+ },
+ {
+  "id": "79c978f3adae6ab026d9cffb1ef0e3563c01f047",
+  "title": "Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration",
+  "date": "2024-07-25"
+ },
+ {
+  "id": "8e764b91d7c0bab9f21508969d1abbf84f409bc6",
+  "title": "Improved Noise Schedule for Diffusion Training",
+  "date": "2024-07-03"
+ }
+]

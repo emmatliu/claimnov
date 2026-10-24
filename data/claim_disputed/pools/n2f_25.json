@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2208.02225",
+   "title": "Sequence Model Imitation Learning with Unobserved Contexts",
+   "is_B": true
+  },
+  {
+   "id": "aa471525a2e77dbf9eec65b9a3eab7c860dbc720",
+   "title": "Of Moments and Matching: A Game-Theoretic Framework for Closing the Imitation Gap",
+   "date": "2021-03-04"
+  },
+  {
+   "id": "684515ae6414fc27ef95e70560bc0b7cd1533b63",
+   "title": "Causal Imitation Learning With Unobserved Confounders",
+   "date": "2022-08-12"
+  },
+  {
+   "id": "648761e7cf50f47a5b34b8950df6c9fe2c12b9df",
+   "title": "Fighting Copycat Agents in Behavioral Cloning from Observation Histories",
+   "date": "2020-10-28"
+  },
+  {
+   "id": "c3d9aeed8d61a69bfc077a498436c180b529ef13",
+   "title": "On Covariate Shift of Latent Confounders in Imitation and Reinforcement Learning",
+   "date": "2021-10-13"
+  },
+  {
+   "id": "445c1bf10a5acb637ec429d622cbaab68898db25",
+   "title": "Causal Imitation Learning under Temporally Correlated Noise",
+   "date": "2022-02-02"
+  },
+  {
+   "id": "4ab53de69372ec2cd2d90c126b6a100165dc8ed1",
+   "title": "Generative Adversarial Imitation Learning",
+   "date": "2016-06-10"
+  },
+  {
+   "id": "c441a7e9b1c7ecf54f583cd61e896faa10b60358",
+   "title": "Causal Confusion in Imitation Learning",
+   "date": "2019-05-28"
+  },
+  {
+   "id": "1eae98b0c9c6ccd9044db332e63eadf01cb1fa23",
+   "title": "Feedback in Imitation Learning: The Three Regimes of Covariate Shift",
+   "date": "2021-02-04"
+  },
+  {
+   "id": "70b8bc7883382f221c685d0b13b11779de3b41a5",
+   "title": "Keyframe-Focused Visual Imitation Learning",
+   "date": "2021-06-11"
+  },
+  {
+   "id": "79ab3c49903ec8cb339437ccf5cf998607fc313e",
+   "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+   "date": "2010-11-02"
+  },
+  {
+   "id": "3ca5070f832ce5201f6e41ec54b3e072eb7c118a",
+   "title": "Data-driven planning via imitation learning",
+   "date": "2017-11-17"
+  },
+  {
+   "id": "c37a8d1df0e843600d7da065d0db9f8060c647c9",
+   "title": "Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction",
+   "date": "2022-07-20"
+  },
+  {
+   "id": "7bbe8d597e25f81bf743ed19a32558d586e186d4",
+   "title": "Sequential Causal Imitation Learning with Unobserved Confounders",
+   "date": "2022-08-12"
+  },
+  {
+   "id": "811df72e210e20de99719539505da54762a11c6d",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "date": "2018-01-04"
+  },
+  {
+   "id": "8e8bc8a9ac9df65c6c2a45efc639baf1ba431fbc",
+   "title": "ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst",
+   "date": "2018-12-07"
+  },
+  {
+   "id": "62ff2180783c79283c281cbdb56aea24f9487013",
+   "title": "Closing the learning-planning loop with predictive state representations",
+   "date": "2009-12-11"
+  },
+  {
+   "id": "fcfc344628c7604232804317eb90db268dfc85e8",
+   "title": "Exploring the Limitations of Behavior Cloning for Autonomous Driving",
+   "date": "2019-04-18"
+  },
+  {
+   "id": "ab2e9398954142727aa78ac68517159906e3fffd",
+   "title": "Imitating driver behavior with generative adversarial networks",
+   "date": "2017-01-24"
+  },
+  {
+   "id": "ca5045c9d9e0bf2e95f6694dff657e28ffcd4f07",
+   "title": "Learning by Cheating",
+   "date": "2019-12-27"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.6015,
+  0.6007,
+  0.573,
+  0.5724,
+  0.5711,
+  0.5645,
+  0.5546,
+  0.542,
+  0.5261,
+  0.526,
+  0.5255,
+  0.5234,
+  0.4986,
+  0.4929,
+  0.4905,
+  0.4836,
+  0.4667,
+  0.4581,
+  0.4524
+ ]
+}

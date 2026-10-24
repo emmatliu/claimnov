@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_dd5eac3b9961a1ffc4c164795616edf882abedb5",
+   "title": "From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space",
+   "date": "2026-03-13",
+   "is_B": true
+  },
+  {
+   "id": "3ff6b82155e89e553d74a4eb4be79437bb3a8052",
+   "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+   "date": "2024-12-16"
+  },
+  {
+   "id": "db5cb5354d8c1ff9cccf2a1c9ef5c218c9323cc1",
+   "title": "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables",
+   "date": "2024-02-29"
+  },
+  {
+   "id": "68cc2e1a7e6fe7620a700fbe4c3c6198b3b45068",
+   "title": "Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting",
+   "date": "2023-05-22"
+  },
+  {
+   "id": "f72a33524134abc68e0987cc51cc70704b846576",
+   "title": "Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis",
+   "date": "2024-06-12"
+  },
+  {
+   "id": "32bee919a779c601881e8257988e6dabe10383c1",
+   "title": "From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection",
+   "date": "2024-09-26"
+  },
+  {
+   "id": "dad15404d372a23b4b3bf9a63b3124693df3c85e",
+   "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+   "date": "2022-11-27"
+  },
+  {
+   "id": "5f404dbba07619cc7f28d75d03f124a52290046e",
+   "title": "Are Transformers Effective for Time Series Forecasting?",
+   "date": "2022-05-26"
+  },
+  {
+   "id": "e1ed1134a97ac0cbba8f49c1f4fff1b03936f5fa",
+   "title": "Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "2519332c856615774db8432a719e65bc8bc36043",
+   "title": "Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation",
+   "date": "2025-01-09"
+  },
+  {
+   "id": "16f01c1b3ddd0b2abd5ddfe4fdb3f74767607277",
+   "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models",
+   "date": "2023-10-03"
+  },
+  {
+   "id": "563bac1c5cdd5096e9dbf8d4f3d5b3c4f7284e06",
+   "title": "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting",
+   "date": "2022-01-30"
+  },
+  {
+   "id": "59694c8dce4f13db2f486eb8102459a3f7c23da6",
+   "title": "TSMixer: An all-MLP Architecture for Time Series Forecasting",
+   "date": "2023-03-10"
+  },
+  {
+   "id": "47696145b3f88c4cc3f3c22035286b5d7ebce09d",
+   "title": "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis",
+   "date": "2022-10-05"
+  },
+  {
+   "id": "1d677be7af16b43f4fbba37971ab89c75d072fe8",
+   "title": "Non-collective Calibrating Strategy for Time Series Forecasting",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "6ef770d11e3e5918646b2f5a97c0bcc8bc9b9256",
+   "title": "AdaRNN: Adaptive Learning and Forecasting of Time Series",
+   "date": "2021-08-10"
+  },
+  {
+   "id": "0b2b5e2c60f5c0d7cb9535b5e94fd1612d3ec21c",
+   "title": "Deep Attentive Learning for Stock Movement Prediction from Social Media Text and Company Correlations",
+   "date": "2020-11-01"
+  },
+  {
+   "id": "8064d3873c646dc9ff949d72c54c634a906fc092",
+   "title": "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting",
+   "date": "2022-05-28"
+  },
+  {
+   "id": "a5d824c29c8f8cd5d6f514224165f7d91c36b280",
+   "title": "VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting",
+   "date": "2024-05-19"
+  },
+  {
+   "id": "ac8f4b30b59f65cc663cb593e85f87996dba2f41",
+   "title": "Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction",
+   "date": "2025-05-01"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.6489,
+  0.6078,
+  0.5988,
+  0.596,
+  0.5874,
+  0.5858,
+  0.5834,
+  0.5608,
+  0.5583,
+  0.5481,
+  0.5445,
+  0.5358,
+  0.5277,
+  0.5178,
+  0.5141,
+  0.511,
+  0.5085,
+  0.5004,
+  0.4994
+ ]
+}

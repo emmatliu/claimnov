@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2103.00123",
+   "title": "GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training",
+   "is_B": true
+  },
+  {
+   "id": "392d5f6bbad69ecbf0e773aae1cda25ef399c921",
+   "title": "Core\u2010sets: An updated survey",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "b06d260b504a20e90d07180aa3c4eaecb3b5cde5",
+   "title": "Selection Via Proxy: Efficient Data Selection For Deep Learning",
+   "date": "2019-06-26"
+  },
+  {
+   "id": "33aa3a627995af8d8b79026f0d4b6e8680ca7b33",
+   "title": "Bayesian Coreset Construction via Greedy Iterative Geodesic Ascent",
+   "date": "2018-02-05"
+  },
+  {
+   "id": "ec94a1d967333b3a5663f581554ad11d278d3cf6",
+   "title": "Submodular meets Spectral: Greedy Algorithms for Subset Selection, Sparse Approximation and Dictionary Selection",
+   "date": "2011-02-19"
+  },
+  {
+   "id": "a8b4bd4addd55c7c31d046a25aab12e14956088c",
+   "title": "Coresets for Robust Training of Neural Networks against Noisy Labels",
+   "date": "2020-11-15"
+  },
+  {
+   "id": "8b1d3806ad1f24e9de19fc3903fcac97fda94730",
+   "title": "Restricted Strong Convexity Implies Weak Submodularity",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "199ac333b1ff37917d1ab4a2e2002d9605b3db1e",
+   "title": "GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning",
+   "date": "2020-12-19"
+  },
+  {
+   "id": "cd545daa24d4a05db40c12efcd4114dfa76f205b",
+   "title": "Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision",
+   "date": "2019-01-01"
+  },
+  {
+   "id": "7995ff63046f24a65bd6e1373cba7364e3e37c0c",
+   "title": "Submodularity for Data Selection in Machine Translation",
+   "date": "2014-10-01"
+  },
+  {
+   "id": "0dd4784c31758f40b73c04ef67e700d84bdaac4a",
+   "title": "E2-Train: Training State-of-the-art CNNs with Over 80% Energy Savings",
+   "date": "2019-10-29"
+  },
+  {
+   "id": "a82fc0115c1802d48d352b35595204738fad84f0",
+   "title": "Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes",
+   "date": "2018-07-30"
+  },
+  {
+   "id": "b022f2a277a4bf5f42382e86e4380b96340b9e86",
+   "title": "SGDR: Stochastic Gradient Descent with Warm Restarts",
+   "date": "2016-08-13"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "a2b5d224895d96bfe2e384e2dcf1ebd136ac3782",
+   "title": "An Empirical Study of Example Forgetting during Deep Neural Network Learning",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+   "title": "ImageNet Large Scale Visual Recognition Challenge",
+   "date": "2014-09-01"
+  },
+  {
+   "id": "cf5a21684aefb1b8db6e0490167636d245396095",
+   "title": "Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "5290d7921f0266c8b50b79fc8a0b7d22868f4f60",
+   "title": "The Cost of Training NLP Models: A Concise Overview",
+   "date": "2020-04-19"
+  },
+  {
+   "id": "3c5f1ab37f70db503636075e15b3173f86eea00b",
+   "title": "Green AI",
+   "date": "2019-07-22"
+  },
+  {
+   "id": "d6a083dad7114f3a39adc65c09bfbb6cf3fee9ea",
+   "title": "Energy and Policy Considerations for Deep Learning in NLP",
+   "date": "2019-06-05"
+  }
+ ],
+ "n_candidates": 19,
+ "sims": [
+  0.609,
+  0.545,
+  0.4914,
+  0.4912,
+  0.483,
+  0.474,
+  0.4596,
+  0.4496,
+  0.4247,
+  0.4005,
+  0.3584,
+  0.3564,
+  0.3289,
+  0.3233,
+  0.2965,
+  0.2731,
+  0.261,
+  0.2524,
+  0.2353
+ ]
+}

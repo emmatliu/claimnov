@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ab994d05a29516a3ea3171ac37517a5543b5d6e0",
+   "title": "On Efficient Scaling of GNNs via IO-Aware Layers Implementations",
+   "date": "2026-05-29",
+   "is_B": true
+  },
+  {
+   "id": "76e5889bda726945a9d49fd87a8726daff00d1ff",
+   "title": "fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU",
+   "date": "2020-11-02"
+  },
+  {
+   "id": "ff85cbe6b374f87027b4445e126bd1a64e9504ac",
+   "title": "MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training",
+   "date": "2023-12-14"
+  },
+  {
+   "id": "4446727b868145b9e619089206c310cedc45e8ff",
+   "title": "RT-GNN: Accelerating Sparse Graph Neural Networks by Tensor-CUDA Kernel Fusion",
+   "date": "2024-11-15"
+  },
+  {
+   "id": "bfc1fbd304707adf8e55f18b0ac71c70549a52e7",
+   "title": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective",
+   "date": "2021-10-18"
+  },
+  {
+   "id": "1b760a77fcc6c577bc8021fd344a34e6a653e320",
+   "title": "TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs",
+   "date": "2021-12-03"
+  },
+  {
+   "id": "e09dec411861064801f52e9e5c963fc92dea4b28",
+   "title": "Cached Operator Reordering: A Unified View for Fast GNN Training",
+   "date": "2023-08-23"
+  },
+  {
+   "id": "a72bbf818135b30ab24835e663bc8dcb7b8274ff",
+   "title": "GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs",
+   "date": "2020-06-11"
+  },
+  {
+   "id": "f9d34299bab1ac9063f361514b75d626a65e08ba",
+   "title": "GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks",
+   "date": "2020-07-07"
+  },
+  {
+   "id": "e688afc310c691bb9f1274375d6da6f063c9b006",
+   "title": "Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study",
+   "date": "2024-09-17"
+  },
+  {
+   "id": "0d12201b7f3274793adca4722aa7200c406aab5b",
+   "title": "Fused3S: Fast Sparse Attention on Tensor Cores",
+   "date": "2025-05-12"
+  },
+  {
+   "id": "ab30672c8c5e4787f6a5985f26a8f281f0db2fb8",
+   "title": "How Attentive are Graph Attention Networks?",
+   "date": "2021-05-30"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "823ca4778e1027f2f0b356df051d762dcecaaba0",
+   "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+   "date": "2023-07-17"
+  },
+  {
+   "id": "1b9dc327d525cade506fcbf99ac1125b2e1ffeb8",
+   "title": "cuTeSpMM: Accelerating Sparse-Dense Matrix Multiplication using GPU Tensor Cores",
+   "date": "2025-04-08"
+  },
+  {
+   "id": "7ee5eca932645e36d5726a150629acfbb83fb059",
+   "title": "Can Tensor Cores Benefit Memory-Bound Kernels? (NO!)",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "5d1ca53a0b41f4f5c960cd9997556d7180d6b88d",
+   "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+   "date": "2024-07-11"
+  },
+  {
+   "id": "e58dde4b23f251314e900f56e765b4aad27bc15f",
+   "title": "Transformer for Graphs: An Overview from Architecture Perspective",
+   "date": "2022-02-17"
+  },
+  {
+   "id": "2b2056bf5763e32811a69769fa8c223160125f9e",
+   "title": "DNNFusion: accelerating deep neural networks execution with advanced operator fusion",
+   "date": "2020-09-30"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  }
+ ],
+ "n_candidates": 35,
+ "sims": [
+  0.7987,
+  0.7873,
+  0.7606,
+  0.7572,
+  0.7562,
+  0.7506,
+  0.7217,
+  0.6971,
+  0.6875,
+  0.6313,
+  0.63,
+  0.6144,
+  0.6071,
+  0.596,
+  0.5907,
+  0.5754,
+  0.5669,
+  0.5612,
+  0.5551
+ ]
+}

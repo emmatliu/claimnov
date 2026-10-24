@@ -1,0 +1,115 @@
+{
+ "pool": [
+  {
+   "id": "B_ce79eec8eba5be8a2a0e8d381075adbe2132f560",
+   "title": "Automated Formal Proofs of Combinatorial Identities via Wilf-Zeilberger Guidance and LLMs",
+   "date": "2026-05-06",
+   "is_B": true
+  },
+  {
+   "id": "3caf1dde5fd351e9b979bb518034edff9569a473",
+   "title": "A Combinatorial Identities Benchmark for Theorem Proving via Automated Theorem Generation",
+   "date": "2025-02-25"
+  },
+  {
+   "id": "ec6a8bc007ba9573809ff9a972f6ed300dfd89ce",
+   "title": "APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning",
+   "date": "2025-05-09"
+  },
+  {
+   "id": "3648515cc35b517cdf60331cc4870e24616f9939",
+   "title": "DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "6ef5a9e475c3596cb42a4e320b9f0a210e06c0f4",
+   "title": "CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics",
+   "date": "2025-05-06"
+  },
+  {
+   "id": "c98038be92c3d8bf0e2150f702830373ba708586",
+   "title": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+   "date": "2025-07-31"
+  },
+  {
+   "id": "a9de58b1ad7e052dfc21f0363ec3809b5f9e5b7b",
+   "title": "TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts",
+   "date": "2024-07-03"
+  },
+  {
+   "id": "8d6839662f4c0e564be11860f24328d35ad90512",
+   "title": "MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving",
+   "date": "2025-03-05"
+  },
+  {
+   "id": "87875a07976c26f82705de1fc70041169e5d652b",
+   "title": "LeanDojo: Theorem Proving with Retrieval-Augmented Language Models",
+   "date": "2023-06-27"
+  },
+  {
+   "id": "f1f31064ccac840a33ae2a6b9e5a0873d97b3abe",
+   "title": "DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition",
+   "date": "2025-04-30"
+  },
+  {
+   "id": "4a7572e340ba9b4555f70cebb263ab80c7b65330",
+   "title": "Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training",
+   "date": "2025-11-17"
+  },
+  {
+   "id": "72922530fcfa7c1218b2e5a17851f7a36ee05053",
+   "title": "BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving",
+   "date": "2025-02-05"
+  },
+  {
+   "id": "5cf103a9610d3f1bb11ec254281f2e01284819b1",
+   "title": "Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction",
+   "date": "2025-08-05"
+  },
+  {
+   "id": "d6fa3cfde46c45d746853b39d7cc420ec96d8f97",
+   "title": "Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning",
+   "date": "2025-04-15"
+  },
+  {
+   "id": "5fe0a4af3bd1479d5e39fbda2215c86bce54722b",
+   "title": "Generative Language Modeling for Automated Theorem Proving",
+   "date": "2020-09-07"
+  },
+  {
+   "id": "c430d9b478ae93c5bb2d197c607fcacb9c8b0e22",
+   "title": "Proving Olympiad Algebraic Inequalities without Human Demonstrations",
+   "date": "2024-06-20"
+  },
+  {
+   "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+   "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "35b142ea69598e6241f0011312128031df55895c",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "date": "2024-02-05"
+  }
+ ],
+ "n_candidates": 17,
+ "sims": [
+  0.7024,
+  0.6769,
+  0.6719,
+  0.6663,
+  0.6576,
+  0.6564,
+  0.6505,
+  0.6293,
+  0.5972,
+  0.592,
+  0.5711,
+  0.5521,
+  0.5288,
+  0.5131,
+  0.5126,
+  0.5074,
+  0.4669
+ ]
+}

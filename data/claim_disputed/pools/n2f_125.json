@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1386b8a11929cf02da291c56aca353e33bbc22ed",
+   "title": "Diffusion-LM Improves Controllable Text Generation",
+   "is_B": true
+  },
+  {
+   "id": "93d00ea9c87268f867b4addb8043be35d6996d18",
+   "title": "Symbolic Music Generation with Diffusion Models",
+   "date": "2021-03-30"
+  },
+  {
+   "id": "91b32fc0a23f0af53229fceaae9cce43a0406d2e",
+   "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "9695824d7a01fad57ba9c01d7d76a519d78d65e7",
+   "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+   "date": "2022-05-23"
+  },
+  {
+   "id": "94bcd712aed610b8eaeccc57136d65ec988356f2",
+   "title": "Variational Diffusion Models",
+   "date": "2021-07-01"
+  },
+  {
+   "id": "34bf13e58c7226d615afead0c0f679432502940e",
+   "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+   "date": "2020-09-21"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "599bc7cfe98c2b57ddbe111412203a636da57be0",
+   "title": "Autoregressive Diffusion Models",
+   "date": "2021-10-05"
+  },
+  {
+   "id": "c57293882b2561e1ba03017902df9fc2f289dea2",
+   "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+   "date": "2022-04-13"
+  },
+  {
+   "id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+   "title": "Diffusion Models Beat GANs on Image Synthesis",
+   "date": "2021-05-11"
+  },
+  {
+   "id": "014576b866078524286802b1d0e18628520aa886",
+   "title": "Denoising Diffusion Implicit Models",
+   "date": "2020-10-06"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "de18baa4964804cf471d85a5a090498242d2e79f",
+   "title": "Improved Denoising Diffusion Probabilistic Models",
+   "date": "2021-02-18"
+  },
+  {
+   "id": "4a6a65968a8eb8c09ffb57a7774ddabb596565b1",
+   "title": "COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics",
+   "date": "2022-02-23"
+  },
+  {
+   "id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+   "title": "The Curious Case of Neural Text Degeneration",
+   "date": "2019-04-22"
+  },
+  {
+   "id": "07bcda1dff9bb696ea9cbc69303eee8bd3d85bd6",
+   "title": "GeDi: Generative Discriminator Guided Sequence Generation",
+   "date": "2020-09-14"
+  },
+  {
+   "id": "75fe6c3ffdea2608794b4f21119c5a4dec07663a",
+   "title": "FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow",
+   "date": "2019-09-05"
+  },
+  {
+   "id": "e04a80263d252a3d8a382ba37a249b9345620570",
+   "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "9c5c89199114858eafbe50b46d77d38ffd03b28a",
+   "title": "Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement",
+   "date": "2018-02-19"
+  },
+  {
+   "id": "b6c4a96e09b9f11e7c70e7f1fbe3f3971b92762d",
+   "title": "FUDGE: Controlled Text Generation With Future Discriminators",
+   "date": "2021-04-11"
+  }
+ ],
+ "n_candidates": 45,
+ "sims": [
+  0.6936,
+  0.6199,
+  0.613,
+  0.6058,
+  0.597,
+  0.582,
+  0.5774,
+  0.5744,
+  0.5721,
+  0.5653,
+  0.5647,
+  0.5625,
+  0.5608,
+  0.5598,
+  0.5431,
+  0.5255,
+  0.5242,
+  0.5231,
+  0.5186
+ ]
+}

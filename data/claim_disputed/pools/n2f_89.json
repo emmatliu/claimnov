@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e8c46dade1aaedce96ecd03178379b5921a90306",
+   "title": "Sparse and Imperceivable Adversarial Attacks",
+   "is_B": true
+  },
+  {
+   "id": "1b225474e7a5794f98cdfbde8b12ccbc56799409",
+   "title": "Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models",
+   "date": "2017-12-12"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "fd7789de401811fd8692466b8d49230e7184655f",
+   "title": "Towards the first adversarially robust neural network model on MNIST",
+   "date": "2018-05-23"
+  },
+  {
+   "id": "033c08ca48aaed2d5ab0a17d668d410538678ed8",
+   "title": "Evasion Attacks against Machine Learning at Test Time",
+   "date": "2013-09-23"
+  },
+  {
+   "id": "516afc7d5a427f0b53ca459fe2624a1aae2ee00d",
+   "title": "Towards Imperceptible and Robust Adversarial Example Attacks against Neural Networks",
+   "date": "2018-01-15"
+  },
+  {
+   "id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+   "title": "Towards Evaluating the Robustness of Neural Networks",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "f0c5991dbb130fa6b5de011cf7a04f6ed815ef68",
+   "title": "Robust Physical-World Attacks on Deep Learning Visual Classification",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "b3f83e8416010e9c3a705a0b6390d268e5ddf5c0",
+   "title": "Black-box Adversarial Attacks with Limited Queries and Information",
+   "date": "2018-04-23"
+  },
+  {
+   "id": "2a76bf5895759af6a561d81a0e2960cd00f1167e",
+   "title": "Simple Black-Box Adversarial Perturbations for Deep Networks",
+   "date": "2016-12-19"
+  },
+  {
+   "id": "1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "6f006a3895dd8fb24f83235a67f2fe72418aa800",
+   "title": "Adversarial learning",
+   "date": "2005-08-21"
+  },
+  {
+   "id": "99cb08c76c120599abd1d1637e32aaf577f38d39",
+   "title": "Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods",
+   "date": "2017-05-20"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "d3c071dbbb4520ed5875f7e064a9da87240534db",
+   "title": "Spatially Transformed Adversarial Examples",
+   "date": "2018-01-08"
+  },
+  {
+   "id": "b544ca32b66b4c9c69bcfa00d63ee4b799d8ab6b",
+   "title": "Adversarial examples in the physical world",
+   "date": "2016-07-08"
+  },
+  {
+   "id": "6114cdf58aa606ceaa998ed883c01c692207d473",
+   "title": "Foolbox v0.8.0: A Python toolbox to benchmark the robustness of machine learning models",
+   "date": "2017-07-13"
+  },
+  {
+   "id": "9ab7319dbe80549ba80e3320d0546d741a7a5791",
+   "title": "ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models",
+   "date": "2017-08-14"
+  },
+  {
+   "id": "819167ace2f0caae7745d2f25a803979be5fbfae",
+   "title": "The Limitations of Deep Learning in Adversarial Settings",
+   "date": "2015-11-24"
+  },
+  {
+   "id": "8bf18d546ae7aea144663136c5704049953ce4e2",
+   "title": "SparseFool: A Few Pixels Make a Big Difference",
+   "date": "2018-11-06"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.6028,
+  0.5868,
+  0.5768,
+  0.5647,
+  0.5633,
+  0.5606,
+  0.5604,
+  0.5516,
+  0.5509,
+  0.5493,
+  0.5477,
+  0.5323,
+  0.5322,
+  0.5284,
+  0.5244,
+  0.5233,
+  0.5181,
+  0.5107,
+  0.5098
+ ]
+}

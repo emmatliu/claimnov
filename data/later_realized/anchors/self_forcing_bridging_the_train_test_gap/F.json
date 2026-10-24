@@ -1,0 +1,1512 @@
+[
+ {
+  "id": "46d1f4c6074f917a4706af96f4f0695a13637be7",
+  "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "aa42dba1dfc7713b024388025e95a7847f227175",
+  "title": "Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "5cf97c379443d69ea6c3dfb0b6b79c3421b2c895",
+  "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "9a86eb1cf38cf42213bc80ab988a8356a90b70e6",
+  "title": "DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "4294bc263c3aefc597a768a41e8536a30e94b843",
+  "title": "SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation",
+  "date": "2026-08-17"
+ },
+ {
+  "id": "a14a55e36df8fa2a3bc421fc422ea1e4895ee2f2",
+  "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "7e792fa0520d5b8223af168bbecbe7938fca2cf2",
+  "title": "RGBX-Next: Towards Realistic Generative Rendering from G-Buffers",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "5af043ad79a7ac7df6a36a3aa50836cc314913f5",
+  "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "eb6717d44c9976af88a6e22e5111e9f430a617c4",
+  "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "b8f8ccbd44491eb63fc8f1eaba0a1e2c5070fbef",
+  "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "a1db9fd25be888ed48f0dd33be106f69619f4d27",
+  "title": "GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "bbb8118629eea40b035e32b99fb3fb2d9d92ee41",
+  "title": "Avatar-Forever: Decoupled Parallel Training for High-Quality Real-Time Infinite Avatars",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "202d89631aa4539a60be4ad3255c6d098e93d40f",
+  "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+  "date": "2026-08-12"
+ },
+ {
+  "id": "dcf1d494f79430982078c8fc4591538f540db59a",
+  "title": "Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "2db32375e56cca1fc107397bc4f95506e69650dc",
+  "title": "Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "de830ca1c89b3fff6aa25a8f51913633798b8aea",
+  "title": "DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "88cbe1f8f25bc391adf743a43756eff5c6dba70a",
+  "title": "verdi: retrieval is not transfer for continual world model optimization",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "f3c9c2abf7bc9adbee8453619f570030a3fc477e",
+  "title": "Distilling Physical Priors into Streaming World Models",
+  "date": "2026-08-08"
+ },
+ {
+  "id": "279dcc94327bfc5b72e85e72ca6191817ee5a5c8",
+  "title": "Addressable Memory for Video World Models",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "d47962b460fce1836b05b75f9569bca6937acfc8",
+  "title": "Omni-LiveAvatar: Minute-Level Real-Time Streaming Joint Audio-Video Avatar Generation",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "8fc94a7d704819ec49f1f390a275c17669bc82b9",
+  "title": "Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "708120eeba98411c2c5186b796a7d2e7ca7394ae",
+  "title": "Vorch-IR: Long-Form Unified Multimodal Identity Replacement Video Generation",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "646b5b225c2944279b0756b350d11acf1693ae89",
+  "title": "Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "92fe492208a860f5c5827892b156c89ce94e9515",
+  "title": "Wan-Animate-2: Pushing the Application Boundaries of Character Animation",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "275210c383676a06dbad19023e89c4a55a0aeb32",
+  "title": "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "c42ff62e08d645f56bd9f2621c3d015a94ba59d2",
+  "title": "In-Context Forcing: Uncovering Context Effects in Autoregressive Video Diffusion",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "da38977587a644dd8fbce2635575632cdcdb421e",
+  "title": "ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Context Routing",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "b0b603a0d096d9a6778016ecebf0cbcad09f67a1",
+  "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "7f157dcba0be06cf95bdd329a64f7fbd5f836064",
+  "title": "LiveLight: Real-time Streaming Video Relighting with Interactive Control",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "5a01fe4bba1555b483b13790b805f4932e890339",
+  "title": "MiniWorld: Democratizing the Training of Video World Models from Scratch",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "3c7bedf0b341220117af6ec3c10165d8bd6e2620",
+  "title": "Beyond Token-Level Cross-Entropy: Fr\\'echet Distributional Post-Training for Autoregressive Image Generation",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "d6fd8e9dde6457544ff37da1768a52fe3b22dbbd",
+  "title": "ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "f0b5ca5ff09cf1a3d28ec031d77abca3a2b9e60b",
+  "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "4c974f0119237903057a03e9d7fa6c97f1251a2a",
+  "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "a3f3957098ff832d109dee09db6194b4cbe9abf0",
+  "title": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "5a32dd2b1170310f87901aa3146128896eb2f165",
+  "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "bb4de3c8322bf9cbb827d38c92aacb8e64e06694",
+  "title": "Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "3973d4cf77225dad80f4b02f8b5e908165177e19",
+  "title": "CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "3eb5e400baafc63fb19e47eb51a5f8eec1f01b53",
+  "title": "PSG: Pair-Space Generation for Efficient Generative Reranking",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "ffe35f49ab2f6a7a0f776e5e037637eb7288d705",
+  "title": "Mitigating Compounding Error via Video Representation Regularization",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "3f1ab2148d9aa2c63abc2d2a4198b6a61db58622",
+  "title": "LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "898f3b8caf160bc5aa542aaed95374dceb9c076f",
+  "title": "Wonder: Video World Model Done Better",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "1ac9e1fbe00516c4eb7d5ec94f889b8a0a47d977",
+  "title": "AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "82ca842138db0b1a9eedec935a437b2ba3fd7b11",
+  "title": "Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "3647864e1caf0177b71c41353430c637f3c328a3",
+  "title": "$N_0$-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "ef4f8f96929cdd627e691528b8ed0d317cdf9f70",
+  "title": "OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars",
+  "date": "2026-07-25"
+ },
+ {
+  "id": "12a8de5b01b88197f29060a1adaaa384f9abb057",
+  "title": "Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "fe6736302930bfca7bbcb645df492facfb1ac198",
+  "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "16a5f227f99a1f3e8b751ef4022eee971f877237",
+  "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "30d665a97920c44436e3caf57d8331b7dbfb8b42",
+  "title": "StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "d97988fb633f270f8be59ca5a2ec21ba082af641",
+  "title": "Generative World Renderer at the Speed of Play",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "2aca002c93c02eea0cbcf739224d381e472232d1",
+  "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "981fc83689f48337fbdb872270a8e0f09d955109",
+  "title": "Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "805214fc280ca0ae7a34e4d58901561b1fb7098a",
+  "title": "PE-Field 4D: Video Generation Models as Canvas",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "af7bb8a24416ab3f8843fb05768056570d587a7d",
+  "title": "SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation",
+  "date": "2026-07-17"
+ },
+ {
+  "id": "3baf8f770995f8f68bf43a134eaf5545fc3c3358",
+  "title": "FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "6d2eb236b601560a7ae38fb43e250803d1914a54",
+  "title": "DriftWorld: Fast World Modeling through Drifting",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "fd4b0fa6266381701b62cabd481d8d41924d4976",
+  "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+  "date": "2026-07-16"
+ },
+ {
+  "id": "74a9252a1e0d8865d357ba040d50762959d4a59e",
+  "title": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "8b3bc8d318b5756873d929e92219cbf96d440a4d",
+  "title": "WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction",
+  "date": "2026-07-14"
+ },
+ {
+  "id": "fc30bd6879001320797c8ad17fa2b5862edc1189",
+  "title": "Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "c1b0f74aa3749e6a225eee9fa01559139f7a25dd",
+  "title": "Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "51e619c59d33d9677e74d24c33ed59d008c3fe2f",
+  "title": "SAGA: Stable Acceleration Guidance for Autoregressive Video Generation",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "75ebf90f0185071307b9232caafc4fb0a58e258f",
+  "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "b85cdbd599f42c868c8b584f09f1dad316f3caa0",
+  "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "bae9c63341a0e6ea0d3ccb6f15dea8d8ca1a53ad",
+  "title": "Native Video-Action Pretraining for Generalizable Robot Control",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "3bce655906037790be464d00e82b29cdf0d0f8c9",
+  "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "bd982d42c0c7f2c76eff24c7ba2ab39eb25ba9f4",
+  "title": "Infinite Worlds with Versatile Interactions",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "5b2d839de22b93c8609f5103d01daeca6001eda0",
+  "title": "MoWorld: A Flash World Model",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "66911f8f6c47d24be1db8b48d234e8d77277d537",
+  "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "acdbe3824865fdafa8c21be57f1de5473d777910",
+  "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "801cc4ae94a7a161a02c0e1513f98631ea5e8369",
+  "title": "CaLiSym: Learning Symplectic Dynamics of Real-World Systems through Structured Canonical Lifts",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "9fa4f752fdc7b9a034c6db56d9bc1d22e9422fdb",
+  "title": "MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "30b429e9ce6a5afacd2cb8c887a28b1cab72d2f9",
+  "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "2f89445cffbeb5780e21f4d6c546034bf9ab24e8",
+  "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "94e064246299fb524e58fdf29090fcb9be1ec1a5",
+  "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "7ea1d55ac0dde4fc418bc26f817d3064a4eaeedc",
+  "title": "HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "ff84a80adb726c69a7e40e6b9c6da708f7cc0e2b",
+  "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "7c6b3f80cb6ae608c48c03e4d8327dde592f4278",
+  "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "f2e962dde881c3bd90c9b2c6c5ccaaa6e09b2d93",
+  "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "a417d19312b5673a20ce4902b06d476b71ff5c73",
+  "title": "Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "e6d8e1ec758dfe69770017da2b44dba6f03ae937",
+  "title": "MemLearner: Learning to Query Context memory for Video World Models",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "bc4137654ea6818a41dc3708e8e529c9f4f0c11b",
+  "title": "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "90c2ed017d4e9cc99d53985c2001c87a7c54934a",
+  "title": "Learning Transferable Dynamics Priors from Action to World Modeling",
+  "date": "2026-06-28"
+ },
+ {
+  "id": "a1e2a83f0d80bb85fb0fd64fc09b28449e705594",
+  "title": "TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "462d9651bb5e4377de690aeeea7aa73451b7f89b",
+  "title": "EMOSH: Expressive Motion and Shape Disentanglement for Human Animation",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "41c5d141b6eb32aa30528590dc583f620d2b97d6",
+  "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "c79f53f255715fa5f704889cf0f3fa2301e391f1",
+  "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "11fc219862fd57c8542a53d4b05f84328cdcd7e5",
+  "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "4a3b5f92de9e9fef07f7b846ce7f77ad7e3bc597",
+  "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "4822e9939d83847214480be1adeb56c203aefaf3",
+  "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "fe39cffb9a48d401773a672e40f2e035552a33b3",
+  "title": "Compression and Retrieval: Implicit Memory Retrieval for Video World Models",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "1bf29fe47cd82011e9827a469052d8ffd3188b5c",
+  "title": "InteractiveAvatar: Real-Time Streaming Video Generation for Consistent and Intent-Aware Avatars",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "ea160ea274ecf05a84c5c33a2d0d7e281e8fa1a8",
+  "title": "ZeroGVC: Zero-Shot Generative Video Compression with Autoregressive Diffusion Priors",
+  "date": "2026-06-21"
+ },
+ {
+  "id": "c50147b52bbf729a68f3127d51ef5c053ae25956",
+  "title": "Towards Error-Free Long Video Generation",
+  "date": "2026-06-21"
+ },
+ {
+  "id": "ff020d99b507cf10e893f455beb3da3b713cd5cd",
+  "title": "CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation",
+  "date": "2026-06-20"
+ },
+ {
+  "id": "a54cb1e2455eed7a0e1ff328f200f3686733d5d6",
+  "title": "Beyond the Next Step: Variable-Length Latent World Models for Long-Horizon Planning",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "6fa2f9759ea055402f1203c587b977f7be7d1a85",
+  "title": "SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "afeb71e0a71fa665842fb31c3d053ae79ce24ecf",
+  "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "786fb704514d7ebe305a36b37593a7b8a932c0cf",
+  "title": "UniTemp: Unlocking Video Generation in Any Temporal Order via Bidirectional Distillation",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "6c8a617f2042b262fb2d5cbbdd13b56ec58faba4",
+  "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "f07a4090138b09d107d284093aac750d61c69a16",
+  "title": "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "5a92d45c7960e8749ae9a18e34db30c286241b07",
+  "title": "Data-Forcing Distillation: Restoring Diversity and Fidelity in Few-Step Video Generation",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "caccbcf4e2b65457fb511c6e64fe76ff615826d7",
+  "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "f38092210c251eacb300c6892d8368324d13acfe",
+  "title": "Unified Multimodal Model for Brain MRI Imputation and Understanding",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "61a0d2114dae4bbbbda38958efc95ad00ebc8d5d",
+  "title": "Closed-Loop Triplet Synergistic Generation for Long-Form Video",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "02350e01ae6c3b1ab9a7955ceda92c9bc4728098",
+  "title": "BadWorld: Adversarial Attacks on World Models",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "5d8a990bc40c5ed4b9873b2a5b3b51dd9f556114",
+  "title": "Adaptive Resource Management and Quality Control for Streaming Video Generation",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "5ea9c809c6cc0ee154ed0c20109b7e17325e14c3",
+  "title": "CausalDrive: Real-time Causal World Models for Autonomous Driving",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "d2f9b857f8d2a1a603306ee61305a0c630a4d5b6",
+  "title": "GeoStream: Toward Precise Camera Controlled Streaming Video Generation",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "8bf46f38e883a799ae9919c944b32448652d9a1c",
+  "title": "MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation",
+  "date": "2026-06-13"
+ },
+ {
+  "id": "3ac77c685d88956a0e823a795d952bb5d1b479b3",
+  "title": "VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "8923d83b61e848a940b7048e5576e725a59c81d0",
+  "title": "ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "eebbeb39c15a7d5da7dca7ac7e866013b52f59df",
+  "title": "TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "194732d24ccd5f1761ff37a22fce6edefc1adb64",
+  "title": "MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "b021692d4272114f1e25768224f90b05190354e2",
+  "title": "Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction",
+  "date": "2026-06-11"
+ },
+ {
+  "id": "395e341fa857a8ac3145be718493b13a1ce3cdb1",
+  "title": "AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "b334128c7a97d05444baff6935368db1ea7aa54a",
+  "title": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "0052aa730262761a11743d6553327df5a9585d03",
+  "title": "FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "fd11d898f10510fbbfd9d70d815858f2e097935c",
+  "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "b24a153e308700f2f537d21e97eaa35be89b7245",
+  "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "40dc6b78f0bf331dfec5a5f992a6c4f6429730b5",
+  "title": "K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "679fb103c4cc59bd1210b7213c418195520760f8",
+  "title": "BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "f8e9d7511561f2d77617c48792087abde54f1290",
+  "title": "SwiftVR: Real-Time One-Step Generative Video Restoration",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "8466a41d21973e8b63bb923e840e977d3ef5d2de",
+  "title": "C3ache: Accelerating World Action Models with Cross Inference Chunk Cache",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "deefcd232eba1847b2b68826bc4da587101c06ce",
+  "title": "Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "8bbe53b8a68b3d29cc548fd1054b543c418089ae",
+  "title": "Prisma-World: Camera-Controllable Multi-Agent Video World Model",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "dd3c342385f44b3d39ee2befeba1a0673cd60248",
+  "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+  "date": "2026-06-08"
+ },
+ {
+  "id": "03befea827af867eb1a89c9d9122cb633b9a1939",
+  "title": "DisCo: World Models with Discrete Camera Motion Control",
+  "date": "2026-06-06"
+ },
+ {
+  "id": "910ff519c8f2e497482f11809612ee3fd90876ae",
+  "title": "Streaming Video Generation with Streaming Force Control",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "5a70c89a84547e9af7bb3be9d614b474a19b2814",
+  "title": "DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "335ebd446d1351b77c4e9af3056971b6eac980e7",
+  "title": "Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "5af254e5b77b0fcc3f6b12744ebaf689c5d7152c",
+  "title": "AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "f7c54c63f427c0c8fd253a7b65faebda69035030",
+  "title": "Video-Mirai: Autoregressive Video Diffusion Models Need Foresight",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "8af28d2962774ca0d84832beb47bf289ea62eaac",
+  "title": "Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "a2ab97f27e53b3e0aff6d93207be7d060cd94d42",
+  "title": "LiveBand: Live Accompaniment Generation in the Audio Domain",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "70bb0be688b108ab541d9f926059b3e5db038f37",
+  "title": "Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "bd4cc703f275d36c1f2e6035f45a8b163ccfe745",
+  "title": "PointAction: 3D Points as Universal Action Representations for Robot Control",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "0b29bf6742faf772e531c25502fcae56144f962c",
+  "title": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "cef88b15cd0cb1f848d49cdcfefd34a13a78a871",
+  "title": "MORPHOS: Autoregressive 4D Generation with Temporal Structured Latents",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "9cb3df8aac0f844c155dc308dda320365462ca12",
+  "title": "Geometry-Aware Implicit Memory for Video World Models",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "274eba81757ee8addb95edb7d8002c7462341125",
+  "title": "Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "581c4f730b1c309de58b24ce0dbdb400c2df5d21",
+  "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "9a9026c57df6c7e339814daf99b285e08bf9925d",
+  "title": "Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "fb8bbe8576b4bd3e2c56aeabd360afeb9c29cf60",
+  "title": "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends",
+  "date": "2026-05-31"
+ },
+ {
+  "id": "4262bc75bf3ac88c258300a321c5c53b92783936",
+  "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
+  "date": "2026-05-30"
+ },
+ {
+  "id": "8dc5c1edd849b6ec1b9f3fda783f916239c34ac0",
+  "title": "Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "2fba19abd4dd2d4a77db8409c6fd5e9141ac7d00",
+  "title": "SlotMemory: Object-Centric KV Memory for Streaming Long-Video Generation",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "0863b06eb5870a1508aaf638e5239157844ce828",
+  "title": "AR Forcing: Towards Long-Horizon Robot Navigation World Model",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "4d1751d6293b0e981bcdb534f32cf7cc5eaff9c3",
+  "title": "DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "d359a36e58bc88b0d7c81a019f1b6a22d1bb15ed",
+  "title": "Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "072e20fd4fc8869751acfe53d95f298717d2ea11",
+  "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "a86a250110fc8278533d24ac6ccc53cb866486e0",
+  "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "9b7b8c3c4b4f13ebb1d67644f4c05832bfa55cb8",
+  "title": "OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "6710e9d939fec41efd60e8309490378c92f4ecb5",
+  "title": "SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "2698c1c2e31b994ce38c3f936c163ef9bb0d632c",
+  "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "d42fec69dcd1657f023571b091babab0b68bbfab",
+  "title": "VPG: Visual Prefix Guidance for Autoregressive Image and Video Generation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "20c67f283d6fd2fd35f248efe7ea39bf8001119c",
+  "title": "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "ba7d7839e7a6a263f26f60d4f0c691e58208f04a",
+  "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "33f4be972e3c2e60e3b8e8ca2268784f4e16ec11",
+  "title": "DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "20af48f5f8410e8d74ed2bd68b3210dea01df153",
+  "title": "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "33085add9ee7b8b4044acdcc619aef5b8072ec62",
+  "title": "Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "9836ae647ad0c6698d4a0f5359d6649d872e50c8",
+  "title": "On-Policy Adversarial Flow Distillation for Autoregressive Video Generation",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "bdead91cb500112c6ef9ea98fb5d6617cb514454",
+  "title": "PixelWizard: Towards Efficient High-Fidelity Video Generation at Ultra-Large Spatial Resolution",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "0081303aa55df644340e665f915b881b4d550ebd",
+  "title": "StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "fde1dbc84244ba4d67d5b96176431eebbe91180e",
+  "title": "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling",
+  "date": "2026-05-24"
+ },
+ {
+  "id": "300ffb187c29e68f994556219d99e73e00051bf3",
+  "title": "DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion",
+  "date": "2026-05-23"
+ },
+ {
+  "id": "d4becbe4e504d30a760694aaf72adc6dffbe3f13",
+  "title": "One-Forcing: Towards Stable One-Step Autoregressive Video Generation",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "373a23d5f6e2622ce24a393b50e1c8788cc931d0",
+  "title": "EM-Vid: Training-Free Entity-Centric Memory for Efficient and Consistent Multi-Shot Video Generation",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "fbd11d178d51d75a95c1662d9e10f45ea7edbdbe",
+  "title": "WorldKV: Efficient World Memory with World Retrieval and Compression",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "a1d533b54be758fb122687fd905bfdce86d40bb1",
+  "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "2b1673c47b37a45216aff0cd73c9acc702e095f0",
+  "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "f9b6f64c8d81edbce26f1056c30869b3c4560124",
+  "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "5ad3059747c47d2223cccd7d5b7979960b6b01f6",
+  "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "91d07d1a32014ed7794cfcaec141f8c2d67d9d11",
+  "title": "Q-ARVD: Quantizing Autoregressive Video Diffusion Models",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "b74b83434a7e7ce9957bf09c90474b18a8415816",
+  "title": "StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "8849cecb409de131e99e6bf89b50878001d112ab",
+  "title": "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "42396d0c11b6a22cdae4b66f58c6bee336ee4674",
+  "title": "DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "616d3726f075e9d20591ce1604bb217292ba7630",
+  "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "71c20411e86a5310ffaaad8a63ee4f0da4c29291",
+  "title": "Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "cc79d68f0c6ca1eb9841b282c8377b47e436da05",
+  "title": "Distribution Matching Distillation without Fake Score Network",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "a8fbbf3d23045dd42b04e9aa0a45935f27e16a57",
+  "title": "PhyWorld: Physics-Faithful World Model for Video Generation",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "8e833e24cfe97cfc9a1d65f03dcfe964ca6c5755",
+  "title": "MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "f9b6e212df90943ac47e684ed79f25c914cff557",
+  "title": "Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "1f50c7d110d715a8e3c1e34cc8a5debd88e66d32",
+  "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "4fd88656a5cafde14ec171cee534925d54b6c048",
+  "title": "Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "bbf373349f2d6510313965ca17fe79172f78b22e",
+  "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "408cbb12286f5e8d000d4d00433d77c05d24363c",
+  "title": "Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "960d734abb4a9125b420f0a7906303835693ea36",
+  "title": "Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "f982d3a7fdc1f2c9a843f50625fcf42448697976",
+  "title": "Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "bbe9cadce3baceb090983bda935dcb7d3f4dc690",
+  "title": "VISTA: Triplet-Supervised Video Style Transfer with Diffusion Transformers",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "b0204d14d160d638ddad10c8f731c167a5366674",
+  "title": "HL-OutPaint: Coarse-to-Fine Video Outpainting for High-Resolution Long-Range Videos",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "301530307604741d8f9d39bb16fe0f69922a6b5d",
+  "title": "Nano World Models: A Minimalist Implementation of Future Video Prediction",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "774083c8b687b125a4c2b845e7a93c6db0d88c7e",
+  "title": "StreamingEffect: Real-Time Human-Centric Video Effect Generation",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "b7860f56c7e5fc37c56f864aa7b796837b1e776a",
+  "title": "FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "f6f02c175891b4ee17fd90a475494148ff4d2fbc",
+  "title": "Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "501fc98236a726a6e68a977f5339fec208c1520d",
+  "title": "AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "04e6da49246112555bb51cb71e581543f7d175e5",
+  "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "b04bcc1dad6fbd13caf3e5cdaa0a17308fc2efd4",
+  "title": "Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "49a735f489f8adb917a1963846b78e3307ec7cfb",
+  "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "7d4e5665216f3b9112e74fc13eb9a9778eec57af",
+  "title": "EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "20d790f44a5be01971832ced60e69dae82e62440",
+  "title": "Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "70a9faa0548879a99628d092e73fe7e3d3ab49fd",
+  "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "8f4728095ea1f12a33e112a3616ece02cef1130c",
+  "title": "Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "4d1c3e795de63e8fd1b390d362ecf6ddc596be30",
+  "title": "Compositional Video Generation via Inference-Time Guidance",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "5c17ee3907f9299941bfe868dc54b6999f27fe0a",
+  "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "b4746593e475324cd3b9f011fade41e201977f4f",
+  "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "324ab0a73dd8b53d4edccbbb138ffb47edf1501e",
+  "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "7d269ee31af6ebc9a3d1ad539917bbdbcbb0a6f9",
+  "title": "Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "6335b58523d79fd129b5d8998ce9a8f2cab3f76d",
+  "title": "HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "e54460e801c1ce01e53673a7862d9f9381464398",
+  "title": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "0b87561075c832d021cfd236f97cded420aaf0dd",
+  "title": "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "db4a19ebd05aafa469770a49322623cad81af2ab",
+  "title": "ACWM-Phys: Investigating Generalized Physical Interaction in Action-Conditioned Video World Models",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "165b80d6987b0cbe5c88da2a90efc1ae41798bbc",
+  "title": "Unison: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "d9b96fcb0560b2908a394b4c06d6ce45e94beac4",
+  "title": "Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "9572a9a9a2d728b306924d54267390b3c9cfc9cb",
+  "title": "FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "2cfb6ccf6e09a16dc906ba3babf7d12df21f88ab",
+  "title": "FlashMol: High-Quality Molecule Generation in as Few as Four Steps",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "734859a9df3cb21ffcb183e5f7f58745d28b79bf",
+  "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "0cb11a1dfe4828295b736becbf1f9c0d4fb6d529",
+  "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "be5e2c717aca2b759db9e1612b19821b05ce9f25",
+  "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
+  "date": "2026-05-05"
+ },
+ {
+  "id": "0ef40d85d60e3a7e441c7f9271ccdeaad60dfca6",
+  "title": "Exploring Data-Free LoRA Transferability for Video Diffusion Models",
+  "date": "2026-05-03"
+ },
+ {
+  "id": "2a32f275bbd48ee930794df21de68a57f0609abd",
+  "title": "AsymTalker: Identity-Consistent Long-Term Talking Head Generation via Asymmetric Distillation",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "6d784b86d9162d12a591bf609431295b6cd3786a",
+  "title": "Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "79860bc258aa4c80c92781ae1351710835a389bd",
+  "title": "A Systematic Post-Train Framework for Video Generation",
+  "date": "2026-04-28"
+ },
+ {
+  "id": "03e352e789fe4b8daec2a87d4be6a63619d919be",
+  "title": "Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "13ad7192473878c3a3fda0faebf1204d905b788c",
+  "title": "Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation",
+  "date": "2026-04-26"
+ },
+ {
+  "id": "cd1c514d3fc90c4da9387bc679f00c020efc0bc0",
+  "title": "Real-Time AttentionBender: Granular Interactive Network Bending of Video Diffusion Transformers",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "06ebd557b1b73d02f723523ece2fb120aa7d51d5",
+  "title": "Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation",
+  "date": "2026-04-23"
+ },
+ {
+  "id": "3ad1f2b7bd3ef00984c24f6aab4a3818b1df3b34",
+  "title": "X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "f16487986c9e7ff870cdf157c79ec0e81cd3999c",
+  "title": "PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "6adca1a37582aaa038cd60392a3c322951fd043b",
+  "title": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "e36150a386b18c4cad9677764dc64abeb26381fc",
+  "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "5938ed1e7b563dbb5c2aac074f8e3458e23fc712",
+  "title": "Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "9b35e61749db38816109b836e39c06824a3fc758",
+  "title": "Speculative Decoding for Autoregressive Video Generation",
+  "date": "2026-04-19"
+ },
+ {
+  "id": "47f574c6ffa3ced5881a170b5cdffabafea01eab",
+  "title": "Repurposing 3D Generative Model for Autoregressive Layout Generation",
+  "date": "2026-04-17"
+ },
+ {
+  "id": "4a8682788655c01c0bf47acc738698ae19379ec3",
+  "title": "TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "b8068e6fa1dfb83a84676c512a1303496b8dee73",
+  "title": "TokenLight: Precise Lighting Control in Images using Attribute Tokens",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "bf1bc3d7725823c623ef3d6563f72c519d044499",
+  "title": "DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "9e98509621468c9095963b4221a46ca64cd49493",
+  "title": "From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "6c05107871e8d8f94d7a68d224954d0ac7b7568f",
+  "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+  "date": "2026-04-15"
+ },
+ {
+  "id": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
+  "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "5673c59aeb1290e05a788c865b611d20496ab95f",
+  "title": "Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation",
+  "date": "2026-04-11"
+ },
+ {
+  "id": "1694aa9399cb95268eb39b2af1eb9706e7dafa0d",
+  "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "bc7392954aeadec91a33f5420ff921bb64d41b58",
+  "title": "ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "5a4c2f93b61b52aa32d94d3c7a620de4e91d0047",
+  "title": "LPM 1.0: Video-based Character Performance Model",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "ea0f4eb6a6f087a6c140458b2df4d4bd943541f3",
+  "title": "DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "3b4ed9621a3b6476587b3b8c1486cab5afcdc2ef",
+  "title": "Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "631eef1328e0e8ef3d1fbdf738487560181a8dce",
+  "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "a1cd58233fa951d882b1f9995f3b1e7156505fdf",
+  "title": "Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "a00d4ba44d66d4ff19b6a030480610b173ba023d",
+  "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "f521cd0de41f462312d1bd548b0a3f47ca9f3963",
+  "title": "Evolution of Video Generative Foundations",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "1392a44c1d2bda2ad04f428d9572c8eb54544510",
+  "title": "Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "1c35fc96f3107c85919e7988583fede0d1c51587",
+  "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "7664d23f283809518230dd98740b99ab84dcee3a",
+  "title": "OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation",
+  "date": "2026-03-31"
+ },
+ {
+  "id": "dd94082120934b04dc8ed73819bb04afe46bd2e3",
+  "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "175d5b3c08a01fbc3ef67d468fbadc13e4d6a2ea",
+  "title": "KV Cache Quantization for Self-Forcing Video Generation: A 33-Method Empirical Study",
+  "date": "2026-03-29"
+ },
+ {
+  "id": "c7d90563fd04a3ed23defe34609a5ea448593acd",
+  "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "b5a919e0e12f9cb630d36d5343d0e3a2b544dce3",
+  "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "0d4ff71629698943892251c008807f75848f386a",
+  "title": "GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "522f869baafef1e0245daeca7de8c920d11c91d3",
+  "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "17780f59f9d55832d2a4919ff5a34099483ee3e8",
+  "title": "VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "6cc961f01796b1b4fbcda211815b5ab766ebd743",
+  "title": "DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "b8e15864e729dc56182a3afc452a79f3dd312d47",
+  "title": "I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "d0f3a09dbefaea20738c3bec56643ea22c16bf68",
+  "title": "InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "08fcfc31c98203b18464c6054d1fb8631b70b04f",
+  "title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "d2adf0752023718abfc5adb3156fa85f3716457d",
+  "title": "DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "209a2c86ab82bf8e5f99c86b3d5a714cc9fe521c",
+  "title": "Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation",
+  "date": "2026-03-23"
+ },
+ {
+  "id": "497c4583bc0f7b4021bd69190438b5029e4adf19",
+  "title": "Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation",
+  "date": "2026-03-22"
+ },
+ {
+  "id": "3bece8019ee9fba458b75fa77792bb816f06bf9b",
+  "title": "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "3bfcdc1c43e334a565e91582589a01bc9982fa3e",
+  "title": "MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "82e18a468319e55def1ff95157d446237d22e142",
+  "title": "ST-GDance++: A Scalable Spatial-Temporal Diffusion for Long-Duration Group Choreography",
+  "date": "2026-03-20"
+ },
+ {
+  "id": "2692c909b4c0aeff8e3d14010ef6c12ea20e0263",
+  "title": "Stereo World Model: Camera-Guided Stereo Video Generation",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "c55dd3b17f1ea959bc7bd98d362222b9927ee9f7",
+  "title": "AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "2b8eedf8985573fb6290992a2e845786445182e7",
+  "title": "ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "0770faf9c9a94b84db146bf4816a89159f5e0958",
+  "title": "VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "391c17cf7b98df14c94eca96574c942a354e3c42",
+  "title": "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models",
+  "date": "2026-03-17"
+ },
+ {
+  "id": "f3dbe90b135791cf84726d2a06f5e0d60af6f6f1",
+  "title": "Grounding World Simulation Models in a Real-World Metropolis",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "7db173dced1ba48d134891aeaf0ef86d641f1d2c",
+  "title": "FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "e3d32c28ae896b072a616e579a529ed0106e33f8",
+  "title": "ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "095a9a9406cad8694ac88d7957619730f5f72060",
+  "title": "AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "273f981c57a62c45c3b6c61bc46863cc56d03884",
+  "title": "VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model",
+  "date": "2026-03-13"
+ },
+ {
+  "id": "6e8fc902bf395c5a053745de43eac6632e21bf20",
+  "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "5e5e02a3a87fc024fa204bf6d31d29fa0f6b5fc0",
+  "title": "MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "f65b61b10843aa1891efbbef4cf6e4a39836fe65",
+  "title": "SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "41e4da02915726d4231661e3553089f1e8a46956",
+  "title": "FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "e33468849944a44c85dd2ae22e1e93170bd90eb0",
+  "title": "Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "fcda32a3fc9e5bd5f05bb0c8f321b1c60e223a95",
+  "title": "Streaming Autoregressive Video Generation via Diagonal Distillation",
+  "date": "2026-03-10"
+ },
+ {
+  "id": "f089c84a7ba32f45133297842e0a85f4c8eddab7",
+  "title": "SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing",
+  "date": "2026-03-09"
+ },
+ {
+  "id": "ea8ff29642e3c40bf2524dc94183821f73650fd5",
+  "title": "MWM: Mobile World Models for Action-Conditioned Consistent Prediction",
+  "date": "2026-03-08"
+ },
+ {
+  "id": "e5f8efcde2a20c76047b7e93e044e3c888c4637c",
+  "title": "LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models",
+  "date": "2026-03-07"
+ },
+ {
+  "id": "c10c0d4eb36d3beed781a0dd2ca76dfdc5c974af",
+  "title": "Video Compression Meets Video Generation: Latent Inter-Frame Pruning with Attention Recovery",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "a1bbf4eb779c24ab2d1ee98fdd19d65dbe07f9af",
+  "title": "SmoothDiffusion-VE: Real-time Generative Video Editing Using Adaptive Feature Cache",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "eb96283f63172a7ab20a0919715b1cbf1acfa0e5",
+  "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "4e7b7508ac30aed492f667cfc6e34b05872e8891",
+  "title": "Helios: Real Real-Time Long Video Generation Model",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "88e73ada04c11864d38e9705a5425986a80af1b6",
+  "title": "CubeComposer: Spatio-Temporal Autoregressive 4K 360\u00b0 Video Generation from Perspective Video",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "ce49b706a2749f963e5e4f5282a0e70806c48ae9",
+  "title": "Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning",
+  "date": "2026-03-04"
+ },
+ {
+  "id": "232f5930580431bec7396b722a3780d44f190cb8",
+  "title": "Beyond Pixel Histories: World Models with Persistent 3D State",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "7e4982af7ecdf6e123d795700fa3fc13256772b1",
+  "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "518a24450a62e2ec6ed5b340304d03f7cf74c47e",
+  "title": "ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "e156315ceb1a644574dd5a798ea33bf2f6439430",
+  "title": "WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "8489f69e56827ddbe388a74ad9f6a2559be47e4e",
+  "title": "Accelerating Video Generation Inference with Sequential-Parallel 3D Positional Encoding Using a Global Time Index",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "6cf9c71c50c070e9cc30ef36bb73bde6fc503f8b",
+  "title": "Surprise Forcing: What to Remember, When to Skip in Long Video Generation",
+  "date": "2026-07-20"
+ }
+]

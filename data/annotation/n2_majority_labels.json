@@ -1,0 +1,1079 @@
+{
+ "note": "Majority keyed by (pair_id, B_title): two papers (QkRV50TZyP, W9G_ImpHlQd) carry two distinct reviewer tells each, so the 100 audited rows cover 98 papers. An earlier version keyed by pair_id alone collapsed those to 98 entries and, when mapping clean pairs to pools by paper id, admitted one unaudited second tell (n2f_33); corrected 2026-10-10.",
+ "n_rows": 100,
+ "n_third_annotated": 63,
+ "q1_genuine": {
+  "no": 41,
+  "yes": 59
+ },
+ "q2_B_correct": {
+  "yes": 67,
+  "no": 9,
+  "no_majority": 10,
+  "cannot_assess": 14
+ },
+ "rows": [
+  {
+   "pair_id": "DSy8tP4WctmZ",
+   "B_title": "ScanNet (Dai et al., 2017) [resolved: ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "AsOLzq1S-p",
+   "B_title": "Fu et al., 2021 [resolved: Benchmarks for Deep Off-Policy Evaluation]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "aOX3a9q3RVV",
+   "B_title": "Contrastive Multiview Coding",
+   "q1": "no",
+   "q2": "no",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "Gp91Et4LeRf",
+   "B_title": "Probabilistic Verification of Fairness Properties via Concentration",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_199",
+   "usable": true
+  },
+  {
+   "pair_id": "8H5bpVwvt5",
+   "B_title": "ProcGen; Jumping Task; Atari modes [resolved: Analytic Procgen with Composable Design Space Expressions]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": null,
+   "usable": false
+  },
+  {
+   "pair_id": "mRc_t2b3l1-",
+   "B_title": "arXiv:1803.06969 [resolved: Comparing dynamics: deep neural networks versus glassy systems]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_150",
+   "usable": true
+  },
+  {
+   "pair_id": "2O_pIShVl-",
+   "B_title": "Taming Neural Networks with TUSLA: Non-convex Learning via Adaptive Stochastic Gradient Langevin Algorithms",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_48",
+   "usable": true
+  },
+  {
+   "pair_id": "ZW5aK4yCRqU",
+   "B_title": "CKConv: Continuous Kernel Convolution For Sequential Data",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_47",
+   "usable": true
+  },
+  {
+   "pair_id": "b9tUk-f_aG",
+   "B_title": "ClevrTex (Karazija et al., NeurIPS D&B 2021) [resolved: ClevrTex: A Texture-Rich Benchmark for Unsupervised Multi-Object Segmentation]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "G89-1yZLFHk",
+   "B_title": "Conceptual Captions 12M (CC12M)",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "PINRbk7h01",
+   "B_title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-\u0141ojasiewicz Condition",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_161",
+   "usable": true
+  },
+  {
+   "pair_id": "sRZ3GhmegS",
+   "B_title": "Rainbow paper (arXiv:1710.02298) [resolved: Rainbow: Combining Improvements in Deep Reinforcement Learning]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "xb333aboIu",
+   "B_title": "Schoenholz et al., 2016 [resolved: Deep Information Propagation]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_192",
+   "usable": true
+  },
+  {
+   "pair_id": "WxuE_JWxjkW",
+   "B_title": "Compositionality and Generalization in Emergent Languages",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "K75z1mX4VTo",
+   "B_title": "Effective Evaluation of Deep Active Learning on Image Classification Tasks",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "ieWqvOiKgz2",
+   "B_title": "Mei & Montanari 2022; Gerace et al.",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "K5qR1F14qPE",
+   "B_title": "Choudhury et al. 2022 [resolved: A LETTER FROM SPECIAL EDITION EDITOR IN CHIEF - DR. DEEPASHREE CHOUDHURY]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "ci7LBzDn2Q",
+   "B_title": "Depth-width tradeoff in ReLU networks",
+   "q1": "no",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "ivwZO-HnzG_",
+   "B_title": "Taskonomy: Disentangling Task Transfer Learning",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "mQDpmgFKu1P",
+   "B_title": "Kaplan et al. 2020 [resolved: Scaling Laws for Neural Language Models]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "oWZsQ8o5EA",
+   "B_title": "Neu (2021)",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "n0okuXMlI7V",
+   "B_title": "arXiv:2204.00491 (ECCV 2022) [resolved: FrequencyLowCut Pooling - Plug & Play against Catastrophic Overfitting]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "F1Z3QH-VjZE",
+   "B_title": "Nowozin et al., 2016",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "5ktFNz_pJLK",
+   "B_title": "Oxford Pets dataset (Parkhi et al., 2012) [resolved: FastSHAP: Real-Time Shapley Value Estimation]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "L9pW5fknjO",
+   "B_title": "Wav2Vec-2.0 (Baevski et al., 2020)",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "30nbp1eV0dJ",
+   "B_title": "Bassily et al. 2014",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "2bO2x8NAIMB",
+   "B_title": "Gururangan et al., 2020",
+   "q1": "no",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "49h_IkpJtaE",
+   "B_title": "Ma, Cheng, et al. 2018, Overcoming Forgetting, arXiv:1801.01423 [resolved: Overcoming catastrophic forgetting with hard attention to the task]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "QkRV50TZyP",
+   "B_title": "ImageNet (Deng et al., 2009) [resolved: Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "WvOGCEAQhxl",
+   "B_title": "Nakkiran & Bansal 2020",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "aM7l2S2s5pk",
+   "B_title": "Yu et al. [resolved: MOPO: Model-based Offline Policy Optimization]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_3",
+   "usable": true
+  },
+  {
+   "pair_id": "n6H86gW8u0d",
+   "B_title": "Regularization Cocktails for Tabular Datasets",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "pgir5f7ekAL",
+   "B_title": "Cone-Constrained Principal Component Analysis",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "-UsbRlXzMG",
+   "B_title": "Jung et al., 2019 [resolved: Pelatihan Tata kelola Desa Wisata Halal Berbasis Media Branding Strategy di Desa Labuhan Jung Koneng Kabupaten Bangkalan]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_15",
+   "usable": true
+  },
+  {
+   "pair_id": "uH_RlkvQMUs",
+   "B_title": "NS-VQA",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "vzdrgR2nomD",
+   "B_title": "Donini et al. 2018; Tan et al. 2020; Gr\u00fcnew\u00e4lder et al. 2021 [resolved: Ippolito Donini]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "6Qvjzr2VGLl",
+   "B_title": "Stochastic WaveNet (arXiv:1806.06116); STCN (arXiv:1902.06568) [resolved: Stochastic WaveNet: A Generative Latent Variable Model for Sequential Data]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_61",
+   "usable": true
+  },
+  {
+   "pair_id": "Ng8wWGXXIXh",
+   "B_title": "Rosenfeld et al. [resolved: Dixon-Rosenfeld lines and the Standard Model]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "zbZL1s-pBF",
+   "B_title": "Deep Multimodal Fusion by Channel Exchanging",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_7",
+   "usable": true
+  },
+  {
+   "pair_id": "Uzng0zolM8",
+   "B_title": "ogbn-arxiv (Open Graph Benchmark dataset) [resolved: Open Graph Benchmark: Datasets for Machine Learning on Graphs]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "Fia60I79-4B",
+   "B_title": "Stock prediction: Integrating text mining approach using real-time news",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "bQZ2wEYxRBL",
+   "B_title": "Replica dataset (Straub et al., 2019) [resolved: The Replica Dataset: A Digital Replica of Indoor Spaces]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "97r5Y5DrJTo",
+   "B_title": "Setlur et al.",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "gICys3ITSmj",
+   "B_title": "RotNet (arXiv:1803.07728); Self-Supervised Representation Learning by Rotation Feature Decoupling (CVPR'19) [resolved: Unsupervised Representation Learning by Predicting Image Rotations]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_50",
+   "usable": true
+  },
+  {
+   "pair_id": "-ltZ1uw8ZE7",
+   "B_title": "Delving into Deep Imbalanced Regression ; Balanced MSE for Imbalanced Visual Regression",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "OgCcfc1m0TO",
+   "B_title": "Li and Liang 2021; Zhong et al.",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "_xwr8gOBeV1",
+   "B_title": "Satorras et al. [resolved: Un mapa geol\u00f3gico in\u00e9dito de Ceuta de M\u00e1ximo Laguna y Luis Satorras (1861)]",
+   "q1": "yes",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "-kAWfaLkPT3",
+   "B_title": "Ye et al., 2021",
+   "q1": "no",
+   "q2": "cannot_assess",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "e0TRvNWsVIH",
+   "B_title": "High-dimensional Bayesian optimization with projections using quantile Gaussian processes",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": null,
+   "usable": false
+  },
+  {
+   "pair_id": "1gEb_H1DEqZ",
+   "B_title": "Gururangan et al. 2018; McCoy et al. 2019",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "f6cywgfd11",
+   "B_title": "Liu et al., Violin: A Large-Scale Dataset for Video and Language Inference (CVPR 2020)",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_117",
+   "usable": true
+  },
+  {
+   "pair_id": "CAsH4Z_Xzj7",
+   "B_title": "Wide Neural Networks Forget Less Catastrophically",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_71",
+   "usable": true
+  },
+  {
+   "pair_id": "p9zz7hLzH-4",
+   "B_title": "ogbn-arxiv (Open Graph Benchmark dataset) [resolved: Open Graph Benchmark: Datasets for Machine Learning on Graphs]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "hsSYDdZTIsl",
+   "B_title": "CamemBERT: a Tasty French Language Model",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_141",
+   "usable": true
+  },
+  {
+   "pair_id": "v4ePDrH91D",
+   "B_title": "Ma, Cheng, et al. Overcoming Forgetting. arXiv:1801.01423 (2018) [resolved: Overcoming catastrophic forgetting with hard attention to the task]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "fSa5IjNMmmi",
+   "B_title": "HV-Net: Hypervolume Approximation based on DeepSets",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_65",
+   "usable": true
+  },
+  {
+   "pair_id": "QkRV50TZyP",
+   "B_title": "Feature Space Perturbations Yield More Transferable Adversarial Examples",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": null,
+   "usable": false
+  },
+  {
+   "pair_id": "YgPqNctmyd",
+   "B_title": "Commutative Lie Group VAE, arXiv:2106.03375 [resolved: Commutative Lie Group VAE for Disentanglement Learning]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_58",
+   "usable": true
+  },
+  {
+   "pair_id": "04pGUg0-pdZ",
+   "B_title": "Zhang et al., 2018 [resolved: Manipulation of anisotropic Zhang-Rice exciton in NiPS3 by magnetic field]",
+   "q1": "no",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "ldkunzUzRWj",
+   "B_title": "Rendle and Freudenthaler 2014; Ding et al., 2019",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "1-YP2squpa7",
+   "B_title": "Baldassi et al., 2016 [resolved: Learning may need only a few bits of synaptic precision.]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": null,
+   "usable": false
+  },
+  {
+   "pair_id": "MLStcoDEhqi",
+   "B_title": "Oh et al., 2018",
+   "q1": "no",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "QwKvL6wC8Yi",
+   "B_title": "GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "s03AQxehtd_",
+   "B_title": "AMASS dataset",
+   "q1": "yes",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "W9G_ImpHlQd",
+   "B_title": "Denoised Smoothing, Salman et al.",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "jxTRL-VOoQo",
+   "B_title": "Towards Deeper Graph Neural Networks",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_74",
+   "usable": true
+  },
+  {
+   "pair_id": "KeBPcg5E3X",
+   "B_title": "Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_98",
+   "usable": true
+  },
+  {
+   "pair_id": "_uR2KmSfU8g",
+   "B_title": "Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_138",
+   "usable": true
+  },
+  {
+   "pair_id": "1xXvPrAshao",
+   "B_title": "Multimodal Generative Models for Scalable Weakly-Supervised Learning",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_4",
+   "usable": true
+  },
+  {
+   "pair_id": "Qx8lUU8CzQ",
+   "B_title": "HDMapNet: An Online HD Map Construction and Evaluation Framework",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "bvgHBkSBdcj",
+   "B_title": "Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_54",
+   "usable": true
+  },
+  {
+   "pair_id": "-Gk_IPJWvk",
+   "B_title": "MolGAN (De Cao & Kipf, 2018) [resolved: MolGAN: An implicit generative model for small molecular graphs]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_53",
+   "usable": true
+  },
+  {
+   "pair_id": "99XwOpGYAH",
+   "B_title": "Improved Techniques for Training GANs",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "FRxhHdnxt1",
+   "B_title": "Barking up the right tree: an approach to search over molecule synthesis DAGs",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_60",
+   "usable": true
+  },
+  {
+   "pair_id": "7UmjRGzp-A",
+   "B_title": "Alon & Yahav (2020)",
+   "q1": "no",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "Q3-1vRh3HOA",
+   "B_title": "Dai et al.",
+   "q1": "yes",
+   "q2": "cannot_assess",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "g5tANwND04i",
+   "B_title": "Asymptotic study of stochastic adaptive algorithm in non-convex landscape",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "S7vWxSkqv_M",
+   "B_title": "Evaluating Approximate Inference in Bayesian Deep Learning",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "4JlwgTbmzXQ",
+   "B_title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "03sXXjL1um3",
+   "B_title": "On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_72",
+   "usable": true
+  },
+  {
+   "pair_id": "HRwN7IQLUKA",
+   "B_title": "Accelerated Algorithms for Monotone Inclusions and Constrained Nonconvex-Nonconcave Min-Max Optimization",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "sciA_xgYofB",
+   "B_title": "Sequence Model Imitation Learning with Unobserved Contexts",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_25",
+   "usable": true
+  },
+  {
+   "pair_id": "K-hiHQXEQog",
+   "B_title": "Latent Video Transformer",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_99",
+   "usable": true
+  },
+  {
+   "pair_id": "pPUoahHadAX",
+   "B_title": "Yin et al. [resolved: Reinforcement Learning with Efficient Active Feature Acquisition]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_86",
+   "usable": true
+  },
+  {
+   "pair_id": "PvDY71zKsvP",
+   "B_title": "Hu et al., 2022 [resolved: Multi-block Min-max Bilevel Optimization with Applications in Multi-task Deep AUC Maximization]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_34",
+   "usable": true
+  },
+  {
+   "pair_id": "C9uEwyfklBE",
+   "B_title": "Learning the Pareto Front with Hypernetworks",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "er_nz4Q9Km7",
+   "B_title": "Ma, Cheng, et al. 2018, Overcoming Forgetting, arXiv:1801.01423 [resolved: Overcoming catastrophic forgetting with hard attention to the task]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "W9G_ImpHlQd",
+   "B_title": "Denoised Smoothing: A Provable Defense for Pretrained Classifiers",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_39",
+   "usable": true
+  },
+  {
+   "pair_id": "GK5m7a3Uy4",
+   "B_title": "Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_42",
+   "usable": true
+  },
+  {
+   "pair_id": "0_TxFpAsEI",
+   "B_title": "Sanyal et al., 2021 [resolved: How benign is benign overfitting?]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "Qb07sqX7dVl",
+   "B_title": "Chen et al. 2020, arXiv:2006.15168 [resolved: Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_52",
+   "usable": true
+  },
+  {
+   "pair_id": "M5hiCgL7qt",
+   "B_title": "NTK-based adversarial attacks (ICML 2021)",
+   "q1": "yes",
+   "q2": "no_majority",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "Jifob4dSh99",
+   "B_title": "Bernacchia (2021) [resolved: Meta-learning with negative learning rates]",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_172",
+   "usable": true
+  },
+  {
+   "pair_id": "49A1Y6tRhaq",
+   "B_title": "Emergent Communication Pretraining for Few-Shot Machine Translation",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_155",
+   "usable": true
+  },
+  {
+   "pair_id": "Sq0-tgDyHe4",
+   "B_title": "Observational Overfitting in Reinforcement Learning",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": false,
+   "item": "n2f_31",
+   "usable": true
+  },
+  {
+   "pair_id": "Wc5bmZZU9cy",
+   "B_title": "Spider dataset (Yu et al., 2018) [resolved: Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task]",
+   "q1": "no",
+   "q2": "yes",
+   "third_annotated": false
+  },
+  {
+   "pair_id": "IDJx97BC38",
+   "B_title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_12",
+   "usable": true
+  },
+  {
+   "pair_id": "qFVVBzXxR2V",
+   "B_title": "Critical Thinking for Language Models",
+   "q1": "yes",
+   "q2": "yes",
+   "third_annotated": true,
+   "item": "n2f_110",
+   "usable": true
+  },
+  {
+   "pair_id": "WF7dU23lRCo",
+   "B_title": "Hofer et al.; PersLay (Carrier et al.) [resolved: Shelukhin's Hofer distance and a symplectic cohomology barcode for contactomorphisms]",
+   "q1": "no",
+   "q2": "no",
+   "third_annotated": true
+  },
+  {
+   "pair_id": "-AW3SFO63GO",
+   "B_title": "Tsipras et al. [resolved: Ludic impoliteness and globalisation on Twitter: \u2018I speak England very best\u2019 #agglika_Tsipra, #Tsipras #Clinton]",
+   "q1": "yes",
+   "q2": "no",
+   "third_annotated": true
+  }
+ ],
+ "clean_pairs": [
+  {
+   "pair_id": "Gp91Et4LeRf",
+   "B_title": "Probabilistic Verification of Fairness Properties via Concentration",
+   "item": "n2f_199",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "8H5bpVwvt5",
+   "B_title": "ProcGen; Jumping Task; Atari modes [resolved: Analytic Procgen with Composable Design Space Expressions]",
+   "item": null,
+   "usable": false,
+   "unusable_reason": "unresolved_B"
+  },
+  {
+   "pair_id": "mRc_t2b3l1-",
+   "B_title": "arXiv:1803.06969 [resolved: Comparing dynamics: deep neural networks versus glassy systems]",
+   "item": "n2f_150",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "2O_pIShVl-",
+   "B_title": "Taming Neural Networks with TUSLA: Non-convex Learning via Adaptive Stochastic Gradient Langevin Algorithms",
+   "item": "n2f_48",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "ZW5aK4yCRqU",
+   "B_title": "CKConv: Continuous Kernel Convolution For Sequential Data",
+   "item": "n2f_47",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "PINRbk7h01",
+   "B_title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-\u0141ojasiewicz Condition",
+   "item": "n2f_161",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "xb333aboIu",
+   "B_title": "Schoenholz et al., 2016 [resolved: Deep Information Propagation]",
+   "item": "n2f_192",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "aM7l2S2s5pk",
+   "B_title": "Yu et al. [resolved: MOPO: Model-based Offline Policy Optimization]",
+   "item": "n2f_3",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "-UsbRlXzMG",
+   "B_title": "Jung et al., 2019 [resolved: Pelatihan Tata kelola Desa Wisata Halal Berbasis Media Branding Strategy di Desa Labuhan Jung Koneng Kabupaten Bangkalan]",
+   "item": "n2f_15",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "6Qvjzr2VGLl",
+   "B_title": "Stochastic WaveNet (arXiv:1806.06116); STCN (arXiv:1902.06568) [resolved: Stochastic WaveNet: A Generative Latent Variable Model for Sequential Data]",
+   "item": "n2f_61",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "zbZL1s-pBF",
+   "B_title": "Deep Multimodal Fusion by Channel Exchanging",
+   "item": "n2f_7",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "gICys3ITSmj",
+   "B_title": "RotNet (arXiv:1803.07728); Self-Supervised Representation Learning by Rotation Feature Decoupling (CVPR'19) [resolved: Unsupervised Representation Learning by Predicting Image Rotations]",
+   "item": "n2f_50",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "e0TRvNWsVIH",
+   "B_title": "High-dimensional Bayesian optimization with projections using quantile Gaussian processes",
+   "item": null,
+   "usable": false,
+   "unusable_reason": "thin_pool"
+  },
+  {
+   "pair_id": "f6cywgfd11",
+   "B_title": "Liu et al., Violin: A Large-Scale Dataset for Video and Language Inference (CVPR 2020)",
+   "item": "n2f_117",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "CAsH4Z_Xzj7",
+   "B_title": "Wide Neural Networks Forget Less Catastrophically",
+   "item": "n2f_71",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "hsSYDdZTIsl",
+   "B_title": "CamemBERT: a Tasty French Language Model",
+   "item": "n2f_141",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "fSa5IjNMmmi",
+   "B_title": "HV-Net: Hypervolume Approximation based on DeepSets",
+   "item": "n2f_65",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "QkRV50TZyP",
+   "B_title": "Feature Space Perturbations Yield More Transferable Adversarial Examples",
+   "item": null,
+   "usable": false,
+   "unusable_reason": "thin_pool"
+  },
+  {
+   "pair_id": "YgPqNctmyd",
+   "B_title": "Commutative Lie Group VAE, arXiv:2106.03375 [resolved: Commutative Lie Group VAE for Disentanglement Learning]",
+   "item": "n2f_58",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "1-YP2squpa7",
+   "B_title": "Baldassi et al., 2016 [resolved: Learning may need only a few bits of synaptic precision.]",
+   "item": null,
+   "usable": false,
+   "unusable_reason": "excluded_n160"
+  },
+  {
+   "pair_id": "jxTRL-VOoQo",
+   "B_title": "Towards Deeper Graph Neural Networks",
+   "item": "n2f_74",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "KeBPcg5E3X",
+   "B_title": "Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data",
+   "item": "n2f_98",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "_uR2KmSfU8g",
+   "B_title": "Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models",
+   "item": "n2f_138",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "1xXvPrAshao",
+   "B_title": "Multimodal Generative Models for Scalable Weakly-Supervised Learning",
+   "item": "n2f_4",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "bvgHBkSBdcj",
+   "B_title": "Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields",
+   "item": "n2f_54",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "-Gk_IPJWvk",
+   "B_title": "MolGAN (De Cao & Kipf, 2018) [resolved: MolGAN: An implicit generative model for small molecular graphs]",
+   "item": "n2f_53",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "FRxhHdnxt1",
+   "B_title": "Barking up the right tree: an approach to search over molecule synthesis DAGs",
+   "item": "n2f_60",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "03sXXjL1um3",
+   "B_title": "On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift",
+   "item": "n2f_72",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "sciA_xgYofB",
+   "B_title": "Sequence Model Imitation Learning with Unobserved Contexts",
+   "item": "n2f_25",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "K-hiHQXEQog",
+   "B_title": "Latent Video Transformer",
+   "item": "n2f_99",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "pPUoahHadAX",
+   "B_title": "Yin et al. [resolved: Reinforcement Learning with Efficient Active Feature Acquisition]",
+   "item": "n2f_86",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "PvDY71zKsvP",
+   "B_title": "Hu et al., 2022 [resolved: Multi-block Min-max Bilevel Optimization with Applications in Multi-task Deep AUC Maximization]",
+   "item": "n2f_34",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "W9G_ImpHlQd",
+   "B_title": "Denoised Smoothing: A Provable Defense for Pretrained Classifiers",
+   "item": "n2f_39",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "GK5m7a3Uy4",
+   "B_title": "Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild",
+   "item": "n2f_42",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "Qb07sqX7dVl",
+   "B_title": "Chen et al. 2020, arXiv:2006.15168 [resolved: Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings]",
+   "item": "n2f_52",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "Jifob4dSh99",
+   "B_title": "Bernacchia (2021) [resolved: Meta-learning with negative learning rates]",
+   "item": "n2f_172",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "49A1Y6tRhaq",
+   "B_title": "Emergent Communication Pretraining for Few-Shot Machine Translation",
+   "item": "n2f_155",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "Sq0-tgDyHe4",
+   "B_title": "Observational Overfitting in Reinforcement Learning",
+   "item": "n2f_31",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "IDJx97BC38",
+   "B_title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+   "item": "n2f_12",
+   "usable": true,
+   "unusable_reason": null
+  },
+  {
+   "pair_id": "qFVVBzXxR2V",
+   "B_title": "Critical Thinking for Language Models",
+   "item": "n2f_110",
+   "usable": true,
+   "unusable_reason": null
+  }
+ ]
+}

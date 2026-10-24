@@ -1,0 +1,109 @@
+{
+ "pool": [
+  {
+   "id": "B_f0b042d54ccc16c51a193a5a81c7cc8768235f5a",
+   "title": "Quantifying Frontier LLM Capabilities for Container Sandbox Escape",
+   "date": "2026-03-01",
+   "is_B": true
+  },
+  {
+   "id": "095b31dfaa032a2daf13da21bd4d04dddb2097fa",
+   "title": "CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities",
+   "date": "2025-03-21"
+  },
+  {
+   "id": "4cdedbc1c32f5893c3a781c2720c98849ef25892",
+   "title": "PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities",
+   "date": "2025-10-13"
+  },
+  {
+   "id": "6cdedb971475321c62d1af5b3038db2f9e608fab",
+   "title": "NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security",
+   "date": "2024-06-08"
+  },
+  {
+   "id": "cb4b0bba67466c22bbc99bbf973dce5e1d9a48b6",
+   "title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+   "date": "2024-08-15"
+  },
+  {
+   "id": "d23fb1051574e9614dcf31c2b6963808c3981558",
+   "title": "AI security beyond core domains: resume screening as a case study of adversarial vulnerabilities in specialized LLM applications",
+   "date": "2025-12-23"
+  },
+  {
+   "id": "f08a8c877a8ae526033c7acc5027f0d78be28a3f",
+   "title": "A Measurement Study on Linux Container Security: Attacks and Countermeasures",
+   "date": "2018-12-03"
+  },
+  {
+   "id": "8131bb7ca5d4d155025497b212e67424c8397802",
+   "title": "A Container Security Survey: Exploits, Attacks, and Defenses",
+   "date": "2025-01-25"
+  },
+  {
+   "id": "b0c820f9d7fa4d8c56a7887548834b7ba65ddfa5",
+   "title": "Guidelines for Artificial Intelligence Containment",
+   "date": "2017-07-24"
+  },
+  {
+   "id": "eeff713967bfd94da50e4cc8fda888b01f137e90",
+   "title": "Establishing Best Practices for Building Rigorous Agentic Benchmarks",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "f4f6e6d0c531c80eac329b1def861b58411277a4",
+   "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+   "date": "2025-11-05"
+  },
+  {
+   "id": "4f3366b204816bae1313a67153a39a8b34645c36",
+   "title": "CyberGym: Evaluating AI Agents'Real-World Cybersecurity Capabilities at Scale",
+   "date": "2025-06-03"
+  },
+  {
+   "id": "d02fd1cad3e97ca2ee037ba28918d22c3bebfc7a",
+   "title": "DirtyCred: Escalating Privilege in Linux Kernel",
+   "date": "2022-11-07"
+  },
+  {
+   "id": "eba762de9b2120f778b6ccd6c26d3ba00b6f73b5",
+   "title": "Alignment faking in large language models",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "5aacf780ec16a29bdbe283a14f5a9e6b7e1f292d",
+   "title": "AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways",
+   "date": "2024-06-04"
+  },
+  {
+   "id": "f66b6049946a10080d1f2a7ee6a40e5cca3ee6a0",
+   "title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+   "date": "2024-07-31"
+  },
+  {
+   "id": "8682a36383e5285e29225b3e2a8618bb034527d4",
+   "title": "Olympiad-level formal mathematical reasoning with reinforcement learning",
+   "date": "2025-11-12"
+  }
+ ],
+ "n_candidates": 16,
+ "sims": [
+  0.6896,
+  0.6809,
+  0.6707,
+  0.6303,
+  0.5792,
+  0.5503,
+  0.5061,
+  0.4795,
+  0.4726,
+  0.4678,
+  0.4637,
+  0.4086,
+  0.3996,
+  0.39,
+  0.3899,
+  0.3324
+ ]
+}

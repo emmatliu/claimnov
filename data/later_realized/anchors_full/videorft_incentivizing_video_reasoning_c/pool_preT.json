@@ -1,0 +1,447 @@
+[
+ {
+  "id": "4fbdfafce93d6218ed7d9297f8ea4e8960a92ac4",
+  "title": "TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning",
+  "date": "2025-04-13"
+ },
+ {
+  "id": "ec3456950811ceb0bcb97601af57f812ece01744",
+  "title": "VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning",
+  "date": "2025-04-09"
+ },
+ {
+  "id": "a3cdf5d2d5c53370dd6173b509438481e32a0419",
+  "title": "Video-R1: Reinforcing Video Reasoning in MLLMs",
+  "date": "2025-03-27"
+ },
+ {
+  "id": "0af4359948693c7aa60caf5e13aaab9d32fced92",
+  "title": "R1-VL: Learning to Reason with Multimodal Large Language Models via Step-Wise Group Relative Policy Optimization",
+  "date": "2025-03-17"
+ },
+ {
+  "id": "e1774446423a18d0731642aa49a5875f6aa425a3",
+  "title": "R1-Onevision: Advancing Generalized Multimodal Reasoning Through Cross-Modal Formalization",
+  "date": "2025-03-13"
+ },
+ {
+  "id": "942328473407147f609761dc22128a503713df58",
+  "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+  "date": "2025-03-09"
+ },
+ {
+  "id": "35c639be8599d72834a76b89746eba8fa2544d28",
+  "title": "R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning",
+  "date": "2025-03-07"
+ },
+ {
+  "id": "2464e287e6f92738fd5627819597172e8674e36b",
+  "title": "Visual-RFT: Visual Reinforcement Fine-Tuning",
+  "date": "2025-03-03"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "4e3d888abc01555feb92a60935c8e537abc4648a",
+  "title": "Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos",
+  "date": "2025-01-23"
+ },
+ {
+  "id": "668075792a7ab40457d92e09da28d35c879271c3",
+  "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "2eed1fad9bbf887d4395de40f20144c4fafefd7f",
+  "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+  "date": "2025-01-22"
+ },
+ {
+  "id": "44d46ed197aedcf2344f0b77250cbd6211c9c0a8",
+  "title": "MMVU: Measuring Expert-Level Multi-Discipline Video Understanding",
+  "date": "2025-01-21"
+ },
+ {
+  "id": "376461a2c049f6fa51a4303853fdc672e4d07a0d",
+  "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+  "date": "2024-12-18"
+ },
+ {
+  "id": "3a5d87e6cdf1cc59db0e4bd721b34c6598eb561c",
+  "title": "STEP: Enhancing Video-LLMs\u2019 Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training",
+  "date": "2024-11-29"
+ },
+ {
+  "id": "040088e0156f6e1c29c75ed07f7bd3ba6d7332f4",
+  "title": "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection",
+  "date": "2024-11-22"
+ },
+ {
+  "id": "b368528a18d8f7b377e6fc74c1050df8c0348a1f",
+  "title": "LlaVA-CoT: Let Vision Language Models Reason Step-By-Step",
+  "date": "2024-11-15"
+ },
+ {
+  "id": "7943ec4a67151a559b25cd34369e661c9a7924c8",
+  "title": "GPT-4o System Card",
+  "date": "2024-10-25"
+ },
+ {
+  "id": "6665145c516f1ad7c19b8e8a3bd5a6dc90316883",
+  "title": "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning",
+  "date": "2024-09-26"
+ },
+ {
+  "id": "fc753026180f9d76f82a0bd292b2d801c264cb02",
+  "title": "Enhancing Advanced Visual Reasoning Ability of Large Language Models",
+  "date": "2024-09-21"
+ },
+ {
+  "id": "88fc09d3cd7bda6d3e5008b2a691816191cbfe51",
+  "title": "mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models",
+  "date": "2024-08-09"
+ },
+ {
+  "id": "1a71f7b216b710b936da666027014adb83af8e7a",
+  "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+  "date": "2024-08-06"
+ },
+ {
+  "id": "d57a5722119a146128540b845a476ba4ce017dda",
+  "title": "VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool",
+  "date": "2024-07-07"
+ },
+ {
+  "id": "d081584960c42f7793502bb496e46f682e3e43b3",
+  "title": "Long Context Transfer from Language to Vision",
+  "date": "2024-06-24"
+ },
+ {
+  "id": "c6dd31c40836d616b50feab17aff569591c4262e",
+  "title": "VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs",
+  "date": "2024-06-11"
+ },
+ {
+  "id": "9583cadea300f67aaab0fdf7b6d1f774c3cd55e7",
+  "title": "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+  "date": "2024-06-06"
+ },
+ {
+  "id": "22552dd0e7789f175a302055f06444a12e22b652",
+  "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+  "date": "2024-05-31"
+ },
+ {
+  "id": "6a08ff3d0821654b1fa92b2b63106946813e41a3",
+  "title": "Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition",
+  "date": "2024-05-07"
+ },
+ {
+  "id": "12e1d7aabaea5196dc3df60dd182cef3ccfdb7d5",
+  "title": "MoReVQA: Exploring Modular Reasoning Models for Video Question Answering",
+  "date": "2024-04-09"
+ },
+ {
+  "id": "ee8c1a46c90f1261c23479e15c6bed7f67ad8943",
+  "title": "Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning",
+  "date": "2024-03-25"
+ },
+ {
+  "id": "ac8089bb7944090cf1de5df25aadf5e6356f3040",
+  "title": "TempCompass: Do Video LLMs Really Understand Videos?",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "35b142ea69598e6241f0011312128031df55895c",
+  "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+  "date": "2024-02-05"
+ },
+ {
+  "id": "7ca300c16abbd38382dec5b7ea6809fee570be54",
+  "title": "ReFT: Reasoning with Reinforced Fine-Tuning",
+  "date": "2024-01-17"
+ },
+ {
+  "id": "4a48d628e53f554eb6ef09a457ca855188b96171",
+  "title": "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models",
+  "date": "2024-01-16"
+ },
+ {
+  "id": "2141ed804636a1cf339d606cd03fd3b3e9582133",
+  "title": "VILA: On Pre-training for Visual Language Models",
+  "date": "2023-12-12"
+ },
+ {
+  "id": "486c2df78cbb770a90a55f7fa3fe19102fba2c24",
+  "title": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models",
+  "date": "2023-11-28"
+ },
+ {
+  "id": "ea3448eb86a233189631d914721e587d45931b64",
+  "title": "MVBench: A Comprehensive Multi-modal Video Understanding Benchmark",
+  "date": "2023-11-28"
+ },
+ {
+  "id": "107fb6eec2febbae12db29bf3e311aaf5680027c",
+  "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+  "date": "2023-11-16"
+ },
+ {
+  "id": "1e909e2a8cdacdcdff125ebcc566f37cb869a1c8",
+  "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+  "date": "2023-11-09"
+ },
+ {
+  "id": "f8b8f926bbfa327c86c40796131fe2695db81126",
+  "title": "DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models",
+  "date": "2023-10-25"
+ },
+ {
+  "id": "bf7025a2e5dbb3c09deae02a1aa98a256ca559e2",
+  "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+  "date": "2023-06-08"
+ },
+ {
+  "id": "35aba190f28b5c39df333c06ca21f46bd4845eba",
+  "title": "Sigmoid Loss for Language Image Pre-Training",
+  "date": "2023-03-27"
+ },
+ {
+  "id": "780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050",
+  "title": "Multimodal Chain-of-Thought Reasoning in Language Models",
+  "date": "2023-02-02"
+ },
+ {
+  "id": "90350aa626bed47b02d0c162462e5b0ca82be6b2",
+  "title": "Automatic Chain of Thought Prompting in Large Language Models",
+  "date": "2022-10-07"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "date": "2021-02-26"
+ },
+ {
+  "id": "d88d69a64f236309e95c611cacd2dfdd35496758",
+  "title": "CLEVRER: CoLlision Events for Video REpresentation and Reasoning",
+  "date": "2019-10-03"
+ },
+ {
+  "id": "8ad12d3ee186403b856639b58d7797aa4b89a6c7",
+  "title": "Temporal Relational Reasoning in Videos",
+  "date": "2017-11-22"
+ },
+ {
+  "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+  "title": "Proximal Policy Optimization Algorithms",
+  "date": "2017-07-20"
+ },
+ {
+  "id": "f9dd22319fe1b4fbb0ba34a30220ac100827e51c",
+  "title": "APPO: Attention-guided Perception Policy Optimization for Video Reasoning",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "f1a68b04b70a2d1736e098b4197d2c853671e8c9",
+  "title": "MedScope: Incentivizing \"Think with Videos\" for Clinical Reasoning via Coarse-to-Fine Tool Calling",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "4c3b3821b655173c8a9f9f54104a2888498f02b6",
+  "title": "VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "5bdf06b63b86a1dd8ef2a89b8f30b76571c45142",
+  "title": "Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "29252cfea1d40dde96389c6e7ceee7635e21b1c3",
+  "title": "What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "1a5013c498d407918fc91eb771c952a8c27bd45a",
+  "title": "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "6e5d44204a19a673efa245858c3ea41f45d0723f",
+  "title": "Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "370f4a02e3109ab3700223093f8a65570c4cd2fa",
+  "title": "VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "79d1db742bb35f0e5cd1ea56462f1324a577ef34",
+  "title": "AbductiveMLLM: Boosting Visual Abductive Reasoning Within MLLMs",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "22cfa48e2a09dc08c0f2e5f423980ff0ba9b7400",
+  "title": "AdaTooler-V: Adaptive Tool-Use for Images and Videos",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "d31bb69c85a287c2ac5116a626164d68928e0ecb",
+  "title": "A Benchmark for Omni-Modal Reasoning in Long Videos",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "9901a14ea287e764699b2d8b17e81f1f4b0b0631",
+  "title": "SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "487731c10293c43c6a52333b7160ccb5d1868e4b",
+  "title": "Rethinking Chain-of-Thought Reasoning for Videos",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "d6e64c9e776167b49aade4fdb32fa574dec4fc44",
+  "title": "Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "e9689a588715666c1630ba58f96318480610e82a",
+  "title": "TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "16bcfd38617301b7abf982b70430b83492009150",
+  "title": "ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "d905973335615ae99024fb3aeedd0e4ec94a5606",
+  "title": "Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "fdb0219b1e3daa0e8a29d11ca2e2951353e6283b",
+  "title": "Video-CoM: Interactive Video Reasoning via Chain of Manipulations",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "a0aa20601406f49db86e759266606d6c8f6f3a63",
+  "title": "LongVT: Incentivizing \"Thinking with Long Videos\" via Native Tool Calling",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "87d6399586017deb7981136d1de0c10f2308a9b0",
+  "title": "When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "628bb365732d90635df59aa0e6b4840e808f2eac",
+  "title": "Decoupling Perception from Reasoning for Hallucination-Resistant Video Understanding",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "c4bee989346f2b3980f20d78d290e24322cac7c1",
+  "title": "V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "c0ab7584157a70dc55e9d94afcebe1f134286268",
+  "title": "ViSS-R1: Self-Supervised Reinforcement Video Reasoning",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "1cf06b7d02061abfe25eff91bd587d16b48e5e73",
+  "title": "VIDEOP2R: Video Understanding from Perception to Reasoning",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "3dd967cd6d0afc3ea3f71c53d30780ba7a886328",
+  "title": "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "ac06c5f968c0e5f102a8f3728ea1ff3ed2d666e4",
+  "title": "Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "b9bf676ac56fbbb09fcd5877fa7b6fe0899dd3d7",
+  "title": "SpaceVista: All-Scale Visual Spatial Reasoning from mm to km",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "ef0fab97465a996d07fc06c6d2d5424f84777f41",
+  "title": "Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "33c47a925a783489d3dc94090271b56ffe872403",
+  "title": "Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "5de5e469f3d27980c8e5407f5bd1107041cfd498",
+  "title": "ReWatch-R1: Boosting Complex Video Reasoning in Large Vision-Language Models through Agentic Data Synthesis",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "6c3c2aac3c7968383bc107d3dfa958ff73b391d7",
+  "title": "TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "3a0ee8b20e3d7a42395678cf97887b38ecd0d2c2",
+  "title": "HumanPCR: Probing MLLM Capabilities in Diverse Human-Centric Scenes",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "f809e863789c31d39f836aa4da3876fc83d8f9f7",
+  "title": "Empowering Multimodal LLMs with External Tools: A Comprehensive Survey",
+  "date": "2025-08-14"
+ },
+ {
+  "id": "cac217dee3a84a7e6a6c97b6f310d8479e92792c",
+  "title": "Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "eb61655dd91b1cb1fbffe3e373f19a6bf9511a8c",
+  "title": "AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "7538eb144a6dd28f9d8d4bddc915b746225beeca",
+  "title": "Lava: Language Driven Scalable and Versatile Traffic Video Analytics",
+  "date": "2025-07-26"
+ },
+ {
+  "id": "b37d5ab221da0397b95c75d9b766be4b8894a06d",
+  "title": "Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning",
+  "date": "2025-07-09"
+ },
+ {
+  "id": "7618413e804b559361b0903e8ab15d2f95bd18a5",
+  "title": "VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "387eb5c690c5b4dd28a4a7e725788a992e45d152",
+  "title": "MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "2838219201df68901d1b26d570f7090099bc2be7",
+  "title": "VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing",
+  "date": "2025-05-17"
+ }
+]

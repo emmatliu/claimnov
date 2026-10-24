@@ -1,0 +1,160 @@
+{
+ "n_items_labeled": 60,
+ "n_items": 60,
+ "confirmed_novel_by_stratum": {
+  "e12_bucket_a": "6/15 = 40.0% [19.8, 64.3]",
+  "later_some_lowFA_check_fired": "8/10 = 80.0% [49.0, 94.3]",
+  "later_sorter_conflict": "5/10 = 50.0% [23.7, 76.3]",
+  "later_uniform": "15/25 = 60.0% [40.7, 76.6]"
+ },
+ "confirmed_novel_by_population_group": {
+  "conflict": "5/13 = 38.5% [17.7, 64.5]",
+  "lowFA_fired": "12/14 = 85.7% [60.1, 96.0]",
+  "other": "11/18 = 61.1% [38.6, 79.7]"
+ },
+ "weighted_confirmed_novel_rate_all_400": 0.599,
+ "confirmed_novel_later_unweighted": "28/45 = 62.2% [47.6, 74.9]",
+ "contribution_established_rate": {
+  "e12_bucket_a": "11/15 = 73.3% [48.0, 89.1]",
+  "later_uniform": "21/25 = 84.0% [65.3, 93.6]",
+  "later_some_lowFA_check_fired": "9/10 = 90.0% [59.6, 98.2]",
+  "later_sorter_conflict": "10/10 = 100.0% [72.2, 100.0]"
+ },
+ "checks_on_later": {
+  "arc": {
+   "FA_on_confirmed_novel": "0/28 = 0.0% [0.0, 12.1]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "0/15 = 0.0% [0.0, 20.4]"
+  },
+  "central": {
+   "FA_on_confirmed_novel": "15/28 = 53.6% [35.8, 70.5]",
+   "rejections_on_human_done": "14/17",
+   "of_which_same_paper_as_humans": 5,
+   "FA_on_confirmed_novel_uniform_stratum_only": "5/15 = 33.3% [15.2, 58.3]"
+  },
+  "claimnov": {
+   "FA_on_confirmed_novel": "2/28 = 7.1% [2.0, 22.6]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "1/15 = 6.7% [1.2, 29.8]"
+  },
+  "claimnov_ctx": {
+   "FA_on_confirmed_novel": "2/28 = 7.1% [2.0, 22.6]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "0/15 = 0.0% [0.0, 20.4]"
+  },
+  "claimnov_k10": {
+   "FA_on_confirmed_novel": "1/28 = 3.6% [0.6, 17.7]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "0/15 = 0.0% [0.0, 20.4]"
+  },
+  "coi": {
+   "FA_on_confirmed_novel": "0/28 = 0.0% [0.0, 12.1]",
+   "rejections_on_human_done": "2/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "0/15 = 0.0% [0.0, 20.4]"
+  },
+  "graded": {
+   "FA_on_confirmed_novel": "1/28 = 3.6% [0.6, 17.7]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "1/15 = 6.7% [1.2, 29.8]"
+  },
+  "judge_only_top20": {
+   "FA_on_confirmed_novel": "4/28 = 14.3% [5.7, 31.5]",
+   "rejections_on_human_done": "3/17",
+   "of_which_same_paper_as_humans": 2,
+   "FA_on_confirmed_novel_uniform_stratum_only": "2/15 = 13.3% [3.7, 37.9]"
+  },
+  "judge_only_top8": {
+   "FA_on_confirmed_novel": "6/28 = 21.4% [10.2, 39.5]",
+   "rejections_on_human_done": "2/17",
+   "of_which_same_paper_as_humans": 1,
+   "FA_on_confirmed_novel_uniform_stratum_only": "1/15 = 6.7% [1.2, 29.8]"
+  },
+  "judge_only_top8_gpt-oss-120b-1": {
+   "FA_on_confirmed_novel": "2/28 = 7.1% [2.0, 22.6]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "1/15 = 6.7% [1.2, 29.8]"
+  },
+  "judge_only_top8_meta": {
+   "FA_on_confirmed_novel": "12/28 = 42.9% [26.5, 60.9]",
+   "rejections_on_human_done": "3/17",
+   "of_which_same_paper_as_humans": 1,
+   "FA_on_confirmed_novel_uniform_stratum_only": "5/15 = 33.3% [15.2, 58.3]"
+  },
+  "opennovelty_all": {
+   "FA_on_confirmed_novel": "8/28 = 28.6% [15.3, 47.1]",
+   "rejections_on_human_done": "2/17",
+   "of_which_same_paper_as_humans": 2,
+   "FA_on_confirmed_novel_uniform_stratum_only": "1/15 = 6.7% [1.2, 29.8]"
+  },
+  "opennovelty_any": {
+   "FA_on_confirmed_novel": "16/28 = 57.1% [39.1, 73.5]",
+   "rejections_on_human_done": "9/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "7/15 = 46.7% [24.8, 69.9]"
+  },
+  "ra": {
+   "FA_on_confirmed_novel": "27/28 = 96.4% [82.3, 99.4]",
+   "rejections_on_human_done": "17/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "14/15 = 93.3% [70.2, 98.8]"
+  },
+  "scholareval": {
+   "FA_on_confirmed_novel": "0/28 = 0.0% [0.0, 12.1]",
+   "rejections_on_human_done": "0/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "0/15 = 0.0% [0.0, 20.4]"
+  },
+  "si": {
+   "FA_on_confirmed_novel": "24/28 = 85.7% [68.5, 94.3]",
+   "rejections_on_human_done": "17/17",
+   "of_which_same_paper_as_humans": 5,
+   "FA_on_confirmed_novel_uniform_stratum_only": "11/15 = 73.3% [48.0, 89.1]"
+  },
+  "v1": {
+   "FA_on_confirmed_novel": "11/28 = 39.3% [23.6, 57.6]",
+   "rejections_on_human_done": "11/17",
+   "of_which_same_paper_as_humans": 3,
+   "FA_on_confirmed_novel_uniform_stratum_only": "2/15 = 13.3% [3.7, 37.9]"
+  },
+  "v2_reflection": {
+   "FA_on_confirmed_novel": "14/28 = 50.0% [32.6, 67.4]",
+   "rejections_on_human_done": "10/17",
+   "of_which_same_paper_as_humans": 0,
+   "FA_on_confirmed_novel_uniform_stratum_only": "5/15 = 33.3% [15.2, 58.3]"
+  }
+ },
+ "e12": {
+  "human_done": "9/15 = 60.0% [35.7, 80.2]",
+  "human_done_same_paper_as_sorter": 5,
+  "check_catch_on_human_done": {
+   "claimnov": "1/5 = 20.0% [3.6, 62.4]",
+   "claimnov_ctx": "4/9 = 44.4% [18.9, 73.3]",
+   "claimnov_k10": "1/9 = 11.1% [2.0, 43.5]",
+   "judge_only_top8": "7/9 = 77.8% [45.3, 93.7]"
+  },
+  "check_rej_on_human_novel": {
+   "claimnov": "0/5 = 0.0% [0.0, 43.4]",
+   "claimnov_ctx": "1/6 = 16.7% [3.0, 56.4]",
+   "claimnov_k10": "0/6 = 0.0% [0.0, 39.0]",
+   "judge_only_top8": "3/6 = 50.0% [18.8, 81.2]"
+  }
+ },
+ "agreement": {
+  "opus_claim_labeler_(later items labeled novel)": "28/45 = 62.2% [47.6, 74.9]",
+  "opus_whole_idea_sorter_(bucket a = done)": {
+   "agree": "40/60 = 66.7% [54.1, 77.3]",
+   "kappa": 0.327
+  },
+  "gpt5_pool_contained": {
+   "agree": "24/35 = 68.6% [52.0, 81.4]",
+   "kappa": 0.063
+  }
+ }
+}

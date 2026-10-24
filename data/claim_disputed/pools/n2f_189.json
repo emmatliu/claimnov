@@ -1,0 +1,72 @@
+{
+ "pool": [
+  {
+   "id": "B_9bab9b46f60385ac7d8ed417322808a7a2faea8e",
+   "title": "Learning may need only a few bits of synaptic precision.",
+   "is_B": true
+  },
+  {
+   "id": "6fc9a4234c55cbe41feb16b9e4298475b0e6cb90",
+   "title": "Learning by message-passing in networks of discrete synapses",
+   "date": "2005-11-07"
+  },
+  {
+   "id": "ef0bb00d0c13b3882840e7eb75e5d420610ec6d9",
+   "title": "Efficient supervised learning in networks with binary synapses",
+   "date": "2007-06-26"
+  },
+  {
+   "id": "e0dc99255a62a1856d6e0f7871d76b4672b6e021",
+   "title": "A Max-Sum algorithm for training discrete neural networks",
+   "date": "2015-05-20"
+  },
+  {
+   "id": "599e769b65ab64f247926f38c9c080c45a12271a",
+   "title": "Subdominant Dense Clusters Allow for Simple Learning and High Computational Performance in Neural Networks with Discrete Synapses.",
+   "date": "2015-09-18"
+  },
+  {
+   "id": "046b512b5a561d8009e5f01b504ac834c570cdcd",
+   "title": "Generalization Learning in a Perceptron with Binary Synapses",
+   "date": "2009-09-19"
+  },
+  {
+   "id": "cd5bc5ceceec5cfad831ecff833e05f203b97a4f",
+   "title": "Origin of the computational hardness for learning with binary synapses",
+   "date": "2014-08-08"
+  },
+  {
+   "id": "855c8e5e3f69a1e7bd48b58e1dffd98efb6092d5",
+   "title": "Local entropy as a measure for sampling solutions in constraint satisfaction problems",
+   "date": "2015-11-18"
+  },
+  {
+   "id": "f4f866c8fab8a72a37e3c3e6508499a9f95931af",
+   "title": "Gibbs states and the set of solutions of random constraint satisfaction problems",
+   "date": "2006-12-14"
+  },
+  {
+   "id": "3796b4c55502b958adf000703c8f4387a602ca9e",
+   "title": "Properties of Atypical Graphs from Negative Complexities",
+   "date": "2003-12-18"
+  },
+  {
+   "id": "89ebfb6c3a7ad6e6753b5060faf38fc90ad2287b",
+   "title": "Hippocampal Spine Head Sizes Are Highly Precise",
+   "date": "2015-03-11"
+  }
+ ],
+ "n_candidates": 10,
+ "sims": [
+  0.6128,
+  0.5516,
+  0.5266,
+  0.5133,
+  0.5081,
+  0.4302,
+  0.3987,
+  0.357,
+  0.2744,
+  0.2501
+ ]
+}

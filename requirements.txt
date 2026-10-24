@@ -1,0 +1,28 @@
+# Core module (src/)
+openai>=1.30
+numpy>=1.26
+# Evaluation harness and checks
+anthropic
+boto3
+requests
+rank_bm25
+backoff
+retry
+pyyaml
+tqdm
+# Analysis
+pandas
+scipy
+statsmodels
+krippendorff
+matplotlib
+openpyxl
+# Dataset rebuilding
+openreview-py
+pyalex
+pypdf
+lxml
+# Scientific embedding baselines (SciNCL, SPECTER2)
+torch
+transformers
+adapters

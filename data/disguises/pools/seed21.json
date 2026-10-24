@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_9a253ab8485f4edc69047dfedcff184f846cb3f5",
+   "title": "Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding",
+   "date": "2026-05-30",
+   "is_B": true
+  },
+  {
+   "id": "71bae1ffe7691f9164d1d38ef0090782051f4d71",
+   "title": "Self-Rewarding Vision-Language Model via Reasoning Decomposition",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "31b830c19cdef906654c0ef7141222a29b11706d",
+   "title": "Elevating Visual Perception in Multimodal LLMs with Visual Embedding Distillation",
+   "date": "2024-12-12"
+  },
+  {
+   "id": "f3757ba2d8ab93d62fe976c3e5e4a5e5cbcfdfaf",
+   "title": "LLaVA-KD: A Framework of Distilling Multimodal Large Language Models",
+   "date": "2024-10-21"
+  },
+  {
+   "id": "658674f1b5e5cb6e7be6f14735b4c3cc6778aec3",
+   "title": "Perception-Aware Policy Optimization for Multimodal Reasoning",
+   "date": "2025-07-08"
+  },
+  {
+   "id": "a57ef1f5c3af185af79751855b8033b7fc6d89b3",
+   "title": "On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes",
+   "date": "2023-06-23"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "3405e5b06c879c7292a121add9291c7d67b2d39e",
+   "title": "VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge",
+   "date": "2025-04-14"
+  },
+  {
+   "id": "57a10537978600fd33dcdd48922c791609a4851a",
+   "title": "Sequence-Level Knowledge Distillation",
+   "date": "2016-06-25"
+  },
+  {
+   "id": "4010db05a68a15d9d1df3478460d487ed07b43a9",
+   "title": "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning",
+   "date": "2025-10-29"
+  },
+  {
+   "id": "7d6168fbd3ed72f9098573007f4b8c2ec9e576b9",
+   "title": "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning",
+   "date": "2024-02-08"
+  },
+  {
+   "id": "582157494d72dd28dc28172f04dfd5f25fb17bff",
+   "title": "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks",
+   "date": "2017-11-07"
+  },
+  {
+   "id": "e96c86407b3acf09e5d7729bec201824b717b476",
+   "title": "Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "7b4d47849e6513b3cb8644ad23a9c3953111a04f",
+   "title": "Rethinking Reward Models for Multi-Domain Test-Time Scaling",
+   "date": "2025-10-01"
+  },
+  {
+   "id": "668075792a7ab40457d92e09da28d35c879271c3",
+   "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+   "date": "2025-01-22"
+  },
+  {
+   "id": "8a7195b593108d8d243c999c95eb9a489e1d7aed",
+   "title": "ProgRM: Build Better GUI Agents with Progress Rewards",
+   "date": "2025-05-23"
+  },
+  {
+   "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+   "title": "Training language models to follow instructions with human feedback",
+   "date": "2022-03-04"
+  },
+  {
+   "id": "ef122de37f6fe57403974bbfb12d4f7d2f183e1f",
+   "title": "Compact Language Models via Pruning and Knowledge Distillation",
+   "date": "2024-07-19"
+  },
+  {
+   "id": "b58e708187a3a8d11ff4da9ddefd0cd9486a9d52",
+   "title": "PACR: Progressively Ascending Confidence Reward for LLM Reasoning",
+   "date": "2025-10-25"
+  },
+  {
+   "id": "6d017adda6b2b1ea627dde2f0e85401ebb9fe566",
+   "title": "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?",
+   "date": "2024-03-21"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.698,
+  0.6335,
+  0.6246,
+  0.62,
+  0.6111,
+  0.5655,
+  0.5467,
+  0.5339,
+  0.5219,
+  0.5135,
+  0.5101,
+  0.4908,
+  0.4799,
+  0.4786,
+  0.4691,
+  0.4663,
+  0.4653,
+  0.4588,
+  0.457
+ ]
+}

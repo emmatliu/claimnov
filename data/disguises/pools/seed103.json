@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_49dd47a4f9094c4f42faa92f7783dabd024acf05",
+   "title": "A Regret Minimization Framework on Preference Learning in Large Language Models",
+   "date": "2026-06-08",
+   "is_B": true
+  },
+  {
+   "id": "9ffad46dcde21e7ae76f650420ab11202dc32200",
+   "title": "Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer",
+   "date": "2024-05-26"
+  },
+  {
+   "id": "f1173df25d83e5c6ff16e087f890993bccf355ed",
+   "title": "Policy-labeled Preference Learning: Is Preference Enough for RLHF?",
+   "date": "2025-05-06"
+  },
+  {
+   "id": "386cebdba39d2d5f2862a9ab43a8d807f3863dae",
+   "title": "Contrastive Preference Learning: Learning from Human Feedback without RL",
+   "date": "2023-10-20"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "f3460dc3ae5cfd41099d576a3bb77411e1fc2e3f",
+   "title": "A General Theoretical Paradigm to Understand Learning from Human Preferences",
+   "date": "2023-10-18"
+  },
+  {
+   "id": "4f0bfeadd39e64456d15d400fda8ecc2197c3265",
+   "title": "Direct Preference-based Policy Optimization without Reward Modeling",
+   "date": "2023-01-30"
+  },
+  {
+   "id": "5bbb6f9a8204eb13070b6f033e61c84ef8ee68dd",
+   "title": "Deep Reinforcement Learning from Human Preferences",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "fddb80238bfb3b601fd172911f915fa59970fbb9",
+   "title": "Q\u266f: Provably Optimal Distributional RL for LLM Post-Training",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "053b1d7b97eb2c91fc3921d589c160b0923c70b1",
+   "title": "Learning to summarize from human feedback",
+   "date": "2020-09-02"
+  },
+  {
+   "id": "8f2254fb38cfc8f79524fd1cd2609124808f2c8c",
+   "title": "Token-level Direct Preference Optimization",
+   "date": "2024-04-18"
+  },
+  {
+   "id": "c3f1fae241a3c2449e675ab750873d800f95513c",
+   "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "92527f37a85934f72e9fee4ba3e26912cf151a47",
+   "title": "The $f$-Divergence Reinforcement Learning Framework",
+   "date": "2021-09-24"
+  },
+  {
+   "id": "18f44e605082388ffc0a59b895ff70b01cfc0034",
+   "title": "Quantifying Differences in Reward Functions",
+   "date": "2020-06-24"
+  },
+  {
+   "id": "976ca858496d2d10246b943a44fe75d1ac477639",
+   "title": "ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback",
+   "date": "2023-10-02"
+  },
+  {
+   "id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+   "date": "2021-06-17"
+  },
+  {
+   "id": "eb375712bd37250c350ecd3f559e1879e87eb3e5",
+   "title": "Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators",
+   "date": "2024-04-06"
+  },
+  {
+   "id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+   "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+   "date": "2023-06-09"
+  },
+  {
+   "id": "6a7c29829227bfd65ae0ffec294a874bb9ea0871",
+   "title": "T\u00dcLU 3: Pushing Frontiers in Open Language Model Post-Training",
+   "date": "2024-11-22"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.7628,
+  0.7534,
+  0.7488,
+  0.739,
+  0.7104,
+  0.7029,
+  0.6497,
+  0.6451,
+  0.6277,
+  0.6183,
+  0.6043,
+  0.545,
+  0.5315,
+  0.5235,
+  0.5155,
+  0.5033,
+  0.5012,
+  0.5003,
+  0.4968
+ ]
+}

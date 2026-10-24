@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_fdf1fc12873639d101657a8e2962f09a18ed5eef",
+   "title": "MIRA: A Score for Conditional Distribution Accuracy and Model Comparison",
+   "date": "2026-05-03",
+   "is_B": true
+  },
+  {
+   "id": "a8d1e466b0efa44da34379ed2be21afc4cf3251d",
+   "title": "PQMass: Probabilistic Assessment of the Quality of Generative Models using Probability Mass Estimation",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "b27861ed8189cda048b7f48e00430b4059098ece",
+   "title": "Sampling-Based Accuracy Testing of Posterior Estimators for General Inference",
+   "date": "2023-02-06"
+  },
+  {
+   "id": "1ea9f643171115e4a89e77c9a770c593f0794712",
+   "title": "Assessing Generative Models via Precision and Recall",
+   "date": "2018-05-31"
+  },
+  {
+   "id": "f0fb35be05a19dfeed06d4129bc1a7c7e3363515",
+   "title": "Bayesian model comparison for simulation-based inference",
+   "date": "2022-07-08"
+  },
+  {
+   "id": "7ec215b728f3988f8d48ebf065fb746835460677",
+   "title": "Score-Based Diffusion Models as Principled Priors for Inverse Imaging",
+   "date": "2023-04-23"
+  },
+  {
+   "id": "6b4e030193fc5a2cf82486ec3b3929dc3d3ac308",
+   "title": "How Faithful is your Synthetic Data? Sample-level Metrics for Evaluating and Auditing Generative Models",
+   "date": "2021-02-17"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "a0efb01257ff1f1d4dcf771590f4f930a85cf7fe",
+   "title": "Probabilistic Mass Mapping with Neural Score Estimation",
+   "date": "2022-01-14"
+  },
+  {
+   "id": "938b004947f4c0d846e14e1dcc344ef7fd831261",
+   "title": "Posterior samples of source galaxies in strong gravitational lenses with score-based priors",
+   "date": "2022-11-07"
+  },
+  {
+   "id": "55afa124e59cfd1f8c0e532442bba403f4828918",
+   "title": "Computer code validation via mixture model estimation",
+   "date": "2019-03-08"
+  },
+  {
+   "id": "b066bab42d963daf4d8831695d2ef7787f2473c9",
+   "title": "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors",
+   "date": "2024-05-29"
+  },
+  {
+   "id": "904d0539d29bfc0d9f389c25a16b455f449a92b6",
+   "title": "Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-dimensional Data-driven Priors for Inverse Problems",
+   "date": "2024-07-24"
+  },
+  {
+   "id": "712243f7c6f099a93ad9f62d6e11f19ad68b323c",
+   "title": "Amortized Bayesian Model Comparison With Evidential Deep Learning",
+   "date": "2020-04-22"
+  },
+  {
+   "id": "e11817ce34636abb2aedf31442c040aee12208a4",
+   "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration",
+   "date": "2018-04-18"
+  },
+  {
+   "id": "9cff64bbe6cbd0f0790be9aa4d74ab36c3dadcef",
+   "title": "Posterior Sampling of the Initial Conditions of the Universe from Non-linear Large Scale Structures using Score-Based Generative Models",
+   "date": "2023-04-07"
+  },
+  {
+   "id": "185301512ec2d2fec972fa5ecb1f8f5c0bd2e41a",
+   "title": "Variational Inference with Coverage Guarantees",
+   "date": "2023-05-23"
+  },
+  {
+   "id": "e40ffb39da69be8e97bdb065268f3e4ce225be40",
+   "title": "Simulator-Based Inference with WALDO: Confidence Regions by Leveraging Prediction Algorithms and Posterior Estimators for Inverse Problems",
+   "date": "2022-05-31"
+  },
+  {
+   "id": "7fd327fd62eaa9cbf419919bbaefda5c099b22a3",
+   "title": "Towards instance-wise calibration: local amortized diagnostics and reshaping of conditional densities (LADaR)",
+   "date": "2022-05-29"
+  },
+  {
+   "id": "cfec1e2e670bc5de1a0621f66eaed7abb56387f3",
+   "title": "Revisiting Classifier Two-Sample Tests",
+   "date": "2016-10-20"
+  }
+ ],
+ "n_candidates": 50,
+ "sims": [
+  0.5433,
+  0.5269,
+  0.5159,
+  0.5039,
+  0.4901,
+  0.4884,
+  0.4837,
+  0.4773,
+  0.4771,
+  0.4733,
+  0.4686,
+  0.458,
+  0.4511,
+  0.4475,
+  0.4357,
+  0.4325,
+  0.4302,
+  0.4299,
+  0.4286
+ ]
+}

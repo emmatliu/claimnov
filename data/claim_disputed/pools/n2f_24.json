@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2004.09124",
+   "title": "Compositionality and Generalization In Emergent Languages",
+   "is_B": true
+  },
+  {
+   "id": "d6c799129b8eb54db932cf03fae89000897fda2d",
+   "title": "EGG: a toolkit for research on Emergence of lanGuage in Games",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "c0617490e0ea57b28b89d4ca92e069f538609603",
+   "title": "Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "cf96b99f4d35b452d4679b664b74aa255e000b8c",
+   "title": "Capacity, Bandwidth, and Compositionality in Emergent Language Learning",
+   "date": "2019-10-24"
+  },
+  {
+   "id": "29e928d4cf13ffd132c9af0bc987b86f0f34112a",
+   "title": "Anti-efficient encoding in emergent communication",
+   "date": "2019-05-29"
+  },
+  {
+   "id": "b42c1eb6a8eadc8d734acd4c1ff1ff0f6b164500",
+   "title": "Emergence of Compositional Language with Deep Generational Transmission",
+   "date": "2019-04-19"
+  },
+  {
+   "id": "c1b927710dba925f81220318f0eab262397e99ec",
+   "title": "Ease-of-Teaching and Language Structure from Emergent Communication",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "300896cd4fb518b67b796e9eef7c94c64661ec37",
+   "title": "Emergent Language Generalization and Acquisition Speed are not tied to Compositionality",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "2caa021d85d4878d3369000e0068f617576d6cca",
+   "title": "Natural Language Does Not Emerge \u2018Naturally\u2019 in Multi-Agent Dialog",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "c0ff28fa418cfbc3817942fcd6d5eaa3fc0538bb",
+   "title": "The Emergence of Compositional Languages for Numeric Concepts Through Iterated Learning in Neural Agents",
+   "date": "2019-10-11"
+  },
+  {
+   "id": "a251c4142b8b6babfe907be24a52385b99c7c8d5",
+   "title": "Compression and communication in the cultural evolution of linguistic structure.",
+   "date": "2015-08-01"
+  },
+  {
+   "id": "5d2f5c2dc11c18c0d45203e2b980fe375a56d774",
+   "title": "Emergence of Grounded Compositional Language in Multi-Agent Populations",
+   "date": "2017-03-15"
+  },
+  {
+   "id": "cddd7ebe1f37a6ff22fc8f7d34fb16e73cf42be7",
+   "title": "The communicative function of ambiguity in language.",
+   "date": "2011-12-01"
+  },
+  {
+   "id": "f3fbcfbb396f6c0391674c8637a373b729e5e531",
+   "title": "Compositionality Decomposed: How do Neural Networks Generalise?",
+   "date": "2019-08-22"
+  },
+  {
+   "id": "f7b24e8a88d11fca87efc80de0686eb19b80b91a",
+   "title": "Sequence Memory Constraints Give Rise to Language-Like Structure through Iterated Learning",
+   "date": "2017-01-24"
+  },
+  {
+   "id": "df2cfacd88713b56a618a42aefe9f3b1b7bec832",
+   "title": "Compositionality in animals and humans",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "f035955d575332b13244598cd7aa88f0deb4f81e",
+   "title": "Do Language Models Know Who Did What to Whom?",
+   "date": "2025-04-23"
+  },
+  {
+   "id": "ba4cf6046d420af0ae86e2f4b587a8d50d219be3",
+   "title": "Measuring Compositionality in Representation Learning",
+   "date": "2019-02-19"
+  },
+  {
+   "id": "ea39691702bdc614d7dad08bd04c42b42d7b9140",
+   "title": "Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness",
+   "date": "2018-10-31"
+  },
+  {
+   "id": "186b6ce02ab2c2927df096bcb93da858fbf341ff",
+   "title": "Bias and Generalization in Deep Generative Models: An Empirical Study",
+   "date": "2018-11-08"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.6592,
+  0.6559,
+  0.6483,
+  0.6383,
+  0.6322,
+  0.6118,
+  0.6114,
+  0.6031,
+  0.5782,
+  0.5689,
+  0.5599,
+  0.4934,
+  0.4818,
+  0.475,
+  0.4633,
+  0.4595,
+  0.4433,
+  0.42,
+  0.4198
+ ]
+}

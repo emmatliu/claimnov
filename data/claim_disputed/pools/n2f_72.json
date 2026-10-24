@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_6509486691e16dbe6cbe13a4fffa8112acae1af3",
+   "title": "Optimality and Approximation with Policy Gradient Methods in Markov Decision Processes",
+   "is_B": true
+  },
+  {
+   "id": "9c0b482314dc8c10875b217b86cc5df5a4fe4bdf",
+   "title": "Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator",
+   "date": "2018-01-15"
+  },
+  {
+   "id": "07f5bae91cd45eafe82f3548a43268eb5c84df7a",
+   "title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-\u0141ojasiewicz Condition",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "34c65ff9691581ef251faeb35d4b48d37ce76a4c",
+   "title": "Neural Proximal/Trust Region Policy Optimization Attains Globally Optimal Policy",
+   "date": "2019-06-25"
+  },
+  {
+   "id": "eacded78298ede0956a1a130a52572aedaaa540d",
+   "title": "How to Escape Saddle Points Efficiently",
+   "date": "2017-03-02"
+  },
+  {
+   "id": "34d5677a71691b09533040a76787d944e72d1f9d",
+   "title": "Non-strongly-convex smooth stochastic approximation with convergence rate O(1/n)",
+   "date": "2013-06-10"
+  },
+  {
+   "id": "2e7d1e21409a90e66106722506aeb434ee7a18f3",
+   "title": "A unified view of entropy-regularized Markov decision processes",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "0dadb9383f3d8b2b1d45f09c6b41d88fd9b7d430",
+   "title": "Accelerated gradient methods for nonconvex nonlinear and stochastic programming",
+   "date": "2013-10-14"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "79fe8653b61f7080db4b0fb11165d4ea28a6225e",
+   "title": "Dynamic policy programming",
+   "date": "2010-04-12"
+  },
+  {
+   "id": "b3b3d1d6d36ac203cd06c00bb37e66c000430275",
+   "title": "A Theory of Regularized Markov Decision Processes",
+   "date": "2019-01-31"
+  },
+  {
+   "id": "c4955faa27e082a80504285c28324c58eb52250c",
+   "title": "Understanding the impact of entropy on policy optimization",
+   "date": "2018-11-27"
+  },
+  {
+   "id": "d746a1f64daae2d3fb91de8ffe08e9e5668cdc38",
+   "title": "Approximate Policy Iteration Schemes: A Comparison",
+   "date": "2014-05-12"
+  },
+  {
+   "id": "5dc9099c13e99f9b629c40542cf77805c15c08a8",
+   "title": "Proximal Alternating Minimization and Projection Methods for Nonconvex Problems: An Approach Based on the Kurdyka-Lojasiewicz Inequality",
+   "date": "2008-01-11"
+  },
+  {
+   "id": "cadb96f49f3c13c86dfe285b5c75c655391ad1c3",
+   "title": "Towards Generalization and Simplicity in Continuous Control",
+   "date": "2017-03-08"
+  },
+  {
+   "id": "a70c24f8e97aea58d6fe913372abab1daeaf1264",
+   "title": "Escaping From Saddle Points - Online Stochastic Gradient for Tensor Decomposition",
+   "date": "2015-03-06"
+  },
+  {
+   "id": "f12a647617d79bad85560eaed7f9ca55e88795f3",
+   "title": "A Markov Chain Theory Approach to Characterizing the Minimax Optimality of Stochastic Gradient Descent (for Least Squares)",
+   "date": "2017-10-25"
+  },
+  {
+   "id": "a4683aaa2a5b20ba1baba3722b06b8aa96521bbc",
+   "title": "Parallelizing Stochastic Approximation Through Mini-Batching and Tail-Averaging",
+   "date": "2016-10-12"
+  },
+  {
+   "id": "e0456b744af84f07cb5e750217463214f96c921e",
+   "title": "Relative Entropy Policy Search",
+   "date": "2010-07-05"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.6976,
+  0.639,
+  0.6105,
+  0.6012,
+  0.5922,
+  0.5837,
+  0.5816,
+  0.565,
+  0.5625,
+  0.5543,
+  0.5514,
+  0.5503,
+  0.54,
+  0.5372,
+  0.5356,
+  0.5189,
+  0.5178,
+  0.5144,
+  0.5074
+ ]
+}

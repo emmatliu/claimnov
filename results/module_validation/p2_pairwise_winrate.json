@@ -1,0 +1,25 @@
+{
+ "caption": "Within-paper ranking: reviewer-praised claim vs siblings, pooled pairwise win rate (papers as clusters)",
+ "data": {
+  "graded_4o-mini": {
+   "win_rate": 0.591,
+   "ci95": [
+    0.525,
+    0.655
+   ],
+   "n_papers": 86,
+   "n_claims": 233
+  },
+  "binary_sonnet-4.6": {
+   "win_rate": 0.5
+  },
+  "attrition": {
+   "tells": 339,
+   "analyzed": 86,
+   "no_praised_match": 181,
+   "thin_pool": 63,
+   "single_claim": 5,
+   "body_supplemented": 16
+  }
+ }
+}

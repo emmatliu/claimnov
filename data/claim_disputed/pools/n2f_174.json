@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_6e84d6788bdd1f99a0ed322cf35ae7b2fb81aa66",
+   "title": "Deep Deterministic Uncertainty: A New Simple Baseline",
+   "is_B": true
+  },
+  {
+   "id": "298f67a9719e74192296fa2428776c46161a256a",
+   "title": "Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness",
+   "date": "2020-06-01"
+  },
+  {
+   "id": "802168a81571dde28f5ddb94d84677bc007afa7b",
+   "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+   "date": "2016-12-05"
+  },
+  {
+   "id": "9fcb88ec529aba79a5860e8fde76e7f4762a267d",
+   "title": "Predictive Uncertainty Estimation via Prior Networks",
+   "date": "2018-02-28"
+  },
+  {
+   "id": "cf7d9f4499ab8444b3b801a1e245337691397e01",
+   "title": "Quantifying Aleatoric and Epistemic Uncertainty Using Density Estimation in Latent Space",
+   "date": "2020-12-05"
+  },
+  {
+   "id": "f35de4f9b1a7c4d3fa96a0d2ab1bf8937671f6b6",
+   "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+   "date": "2015-06-06"
+  },
+  {
+   "id": "1eb7f46b1a0a7df823194d86543e5554aa21021a",
+   "title": "Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "ff7bcaa4556cb13fc7bf03e477172493546172cd",
+   "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+   "date": "2017-03-15"
+  },
+  {
+   "id": "63ed798f1847d8a952cbeb75d3b286f16c144914",
+   "title": "Understanding Measures of Uncertainty for Adversarial Example Detection",
+   "date": "2018-03-01"
+  },
+  {
+   "id": "175e3e14b7c8872f7c99638e90ca978d69b41297",
+   "title": "Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors",
+   "date": "2020-05-14"
+  },
+  {
+   "id": "4ee09045d7276103f5a4d7c0938c188418ba002f",
+   "title": "Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks",
+   "date": "2020-02-24"
+  },
+  {
+   "id": "d65ce2b8300541414bfe51d03906fca72e93523c",
+   "title": "On Calibration of Modern Neural Networks",
+   "date": "2017-06-14"
+  },
+  {
+   "id": "fdae6cb9beff9749009798b95192a4549f8761a2",
+   "title": "Understanding Softmax Confidence and Uncertainty",
+   "date": "2021-06-09"
+  },
+  {
+   "id": "36aa6c01c9683783499395953c6bc856d6101feb",
+   "title": "A Simple Baseline for Bayesian Uncertainty in Deep Learning",
+   "date": "2019-02-07"
+  },
+  {
+   "id": "431ba9fae8fccad1665979d455c6307786e47318",
+   "title": "Learning Confidence for Out-of-Distribution Detection in Neural Networks",
+   "date": "2018-02-13"
+  },
+  {
+   "id": "117deae28bc57323f446d7f7700395909b8d19c6",
+   "title": "Ensemble Distribution Distillation",
+   "date": "2019-04-30"
+  },
+  {
+   "id": "dc8301b67f98accbb331190dd7bd987952a692af",
+   "title": "NICE: Non-linear Independent Components Estimation",
+   "date": "2014-10-30"
+  },
+  {
+   "id": "af4745332872b12067daf82c7c3103ef654af06b",
+   "title": "Can convolutional ResNets approximately preserve input distances? A frequency analysis perspective",
+   "date": "2021-06-04"
+  },
+  {
+   "id": "af9280741ef627f0d6c8437605d002d3bfc2d1b1",
+   "title": "Bayesian Deep Learning and a Probabilistic Perspective of Generalization",
+   "date": "2020-02-20"
+  },
+  {
+   "id": "36653f8705b56e39642bcd123494eb680cd1636b",
+   "title": "Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples",
+   "date": "2017-11-26"
+  }
+ ],
+ "n_candidates": 54,
+ "sims": [
+  0.7271,
+  0.7216,
+  0.6825,
+  0.6541,
+  0.6363,
+  0.6309,
+  0.6212,
+  0.5841,
+  0.5752,
+  0.5744,
+  0.57,
+  0.5692,
+  0.566,
+  0.5594,
+  0.5474,
+  0.5447,
+  0.5396,
+  0.5373,
+  0.5147
+ ]
+}

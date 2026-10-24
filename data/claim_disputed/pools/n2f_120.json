@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_c1d9583bc15f622773305fe033fccb67e15c8a49",
+   "title": "Inductive Relation Prediction by Subgraph Reasoning",
+   "is_B": true
+  },
+  {
+   "id": "c77faa8577817b26c1a2e81914f19eecbe13ee1f",
+   "title": "Efficient Probabilistic Logic Reasoning with Graph Neural Networks",
+   "date": "2020-01-29"
+  },
+  {
+   "id": "ef8fc5c0c8523e2cfcd3975a372b0a8705b392d2",
+   "title": "Probabilistic Logic Neural Networks for Reasoning",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "857176d022369e963d3ff1be2cb9e1ca2f674520",
+   "title": "DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "cd8a9914d50b0ac63315872530274d158d6aff09",
+   "title": "Modeling Relational Data with Graph Convolutional Networks",
+   "date": "2017-03-17"
+  },
+  {
+   "id": "033f25ad905ef2ed32a8331cf38b83953ff15922",
+   "title": "A Review of Relational Machine Learning for Knowledge Graphs",
+   "date": "2015-03-02"
+  },
+  {
+   "id": "727183c5cff89a6f2c3b71167ae50c02ca2cacc4",
+   "title": "Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding",
+   "date": "2018-11-04"
+  },
+  {
+   "id": "5aea95e1ae78a66474051a330ded374e199b658c",
+   "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+   "date": "2018-06-09"
+  },
+  {
+   "id": "6b7d6e6416343b2a122f8416e69059ce919026ef",
+   "title": "Inductive Representation Learning on Large Graphs",
+   "date": "2017-06-07"
+  },
+  {
+   "id": "ecf6c42d84351f34e1625a6a2e4cc6526da45c74",
+   "title": "Representation Learning on Graphs: Methods and Applications",
+   "date": "2017-09-17"
+  },
+  {
+   "id": "e4715a13f6364b1c81e64f247651c3d9e80b6808",
+   "title": "Link Prediction Based on Graph Neural Networks",
+   "date": "2018-02-27"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "86412306b777ee35aba71d4795b02915cb8a04c3",
+   "title": "Embedding Entities and Relations for Learning and Inference in Knowledge Bases",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "9697d32ed0a16da167f2bdba05ef96d0da066eb5",
+   "title": "Convolutional 2D Knowledge Graph Embeddings",
+   "date": "2017-07-05"
+  },
+  {
+   "id": "3d846cb01f6a975554035d2210b578ca61344b22",
+   "title": "Revisiting Semi-Supervised Learning with Graph Embeddings",
+   "date": "2016-03-29"
+  },
+  {
+   "id": "3a8129e6fe3ad9bc3a51e44da32424e38612e4cc",
+   "title": "TensorLog: A Differentiable Deductive Database",
+   "date": "2016-05-20"
+  },
+  {
+   "id": "a625dee1fb23d1c842a961bc354c0aef3a20c132",
+   "title": "Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach",
+   "date": "2017-06-18"
+  },
+  {
+   "id": "7445966ded8f38cac487314e8c6b71cdf327b047",
+   "title": "DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "a4dfb121275a6408d290b803baf8c9caeb23dc5b",
+   "title": "Knowledge Graph Completion via Complex Tensor Factorization",
+   "date": "2017-02-22"
+  },
+  {
+   "id": "5e35895fc4731858f0b286cb5a1613a819cc2367",
+   "title": "CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text",
+   "date": "2019-08-01"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.6549,
+  0.6379,
+  0.6247,
+  0.5869,
+  0.5832,
+  0.5759,
+  0.5694,
+  0.5685,
+  0.5636,
+  0.5623,
+  0.5486,
+  0.5478,
+  0.5415,
+  0.5293,
+  0.5123,
+  0.5068,
+  0.5033,
+  0.4967,
+  0.4913
+ ]
+}

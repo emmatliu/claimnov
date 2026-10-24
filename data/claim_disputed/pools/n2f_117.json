@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_704ec27b8399df574a96da338c428a923509385e",
+   "title": "Violin: A Large-Scale Dataset for Video-and-Language Inference",
+   "is_B": true
+  },
+  {
+   "id": "6dfc2ff03534a4325d06c6f88c3144831996629b",
+   "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+   "date": "2018-11-27"
+  },
+  {
+   "id": "03eb382e04cca8cca743f7799070869954f1402a",
+   "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+   "date": "2016-12-20"
+  },
+  {
+   "id": "3c54b796cc10cb530f77caa4d18e1c80ac863822",
+   "title": "Visual Entailment: A Novel Task for Fine-Grained Image Understanding",
+   "date": "2019-01-20"
+  },
+  {
+   "id": "7e232313a59d735ef7c8a9f4cc7bc980a29deb5e",
+   "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "2e17cf6a339fd071ad222062f868e882ef4120a4",
+   "title": "Inferring and Executing Programs for Visual Reasoning",
+   "date": "2017-05-10"
+  },
+  {
+   "id": "65a9c7b0800c86a196bc14e7621ff895cc6ab287",
+   "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+   "date": "2019-08-06"
+  },
+  {
+   "id": "4aa6298b606941a282d735fa3143da293199d2ca",
+   "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations",
+   "date": "2019-08-22"
+  },
+  {
+   "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "date": "2018-04-20"
+  },
+  {
+   "id": "afcf4dbd2ef300e5c4b35043d4fbe516807cdf7d",
+   "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+   "date": "2016-02-23"
+  },
+  {
+   "id": "1b80416cc2b05954941ac7e7dcbcc358c10e5ace",
+   "title": "Visual Dialog",
+   "date": "2016-11-26"
+  },
+  {
+   "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+   "title": "VQA: Visual Question Answering",
+   "date": "2015-05-03"
+  },
+  {
+   "id": "6ac33d3dcecbed17580509a34bccdff2425f7ed8",
+   "title": "Learning Conditioned Graph Structures for Interpretable Visual Question Answering",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "120ae4cbdcfeaf2604983b3bc3d9a8e1ec37e376",
+   "title": "A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question-Answering",
+   "date": "2016-11-23"
+  },
+  {
+   "id": "c122fa378a774ba202d418cf71c5c356cf2f902f",
+   "title": "GQA: a new dataset for compositional question answering over real-world images",
+   "date": "2019-02-25"
+  },
+  {
+   "id": "79c93274429d6355959f1e4374c2147bb81ea649",
+   "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers",
+   "date": "2019-08-20"
+  },
+  {
+   "id": "d88d69a64f236309e95c611cacd2dfdd35496758",
+   "title": "CLEVRER: CoLlision Events for Video REpresentation and Reasoning",
+   "date": "2019-10-03"
+  },
+  {
+   "id": "54416048772b921720f19869ed11c2a360589d03",
+   "title": "UNITER: Learning UNiversal Image-TExt Representations",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "b2f521c02c6ed3080c5fe123e938cdf4555e6fd2",
+   "title": "TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering",
+   "date": "2017-04-14"
+  },
+  {
+   "id": "cfc9ef5c7ef8056cff7bf1f1cfdd75e120f28231",
+   "title": "MUREL: Multimodal Relational Reasoning for Visual Question Answering",
+   "date": "2019-02-25"
+  }
+ ],
+ "n_candidates": 63,
+ "sims": [
+  0.6494,
+  0.639,
+  0.6345,
+  0.6285,
+  0.6104,
+  0.6056,
+  0.6055,
+  0.604,
+  0.6039,
+  0.597,
+  0.5869,
+  0.5858,
+  0.5808,
+  0.5723,
+  0.5716,
+  0.5594,
+  0.5511,
+  0.5478,
+  0.5474
+ ]
+}

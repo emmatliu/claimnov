@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_7c4356ec0dca6e6df0af7a882e2cd1571c8bf3dc",
+   "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+   "is_B": true
+  },
+  {
+   "id": "1fd4694e7c2d9c872a427d50e81b5475056de6bc",
+   "title": "Model-Based Reinforcement Learning for Atari",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "eed8cae46eb28311e88f6fc41f788528ca2d0f00",
+   "title": "State Representation Learning for Control: An Overview",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "744139d65c3bf6da6a6acd384a32d94a06f44f62",
+   "title": "Reinforcement Learning with Augmented Data",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "4c05d7caa357148f0bbd61720bdd35f0bc05eb81",
+   "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+   "date": "2015-11-20"
+  },
+  {
+   "id": "dcf90546433cc5c00f97cb3e2947bc4286e70cec",
+   "title": "Learning Invariances for Policy Generalization",
+   "date": "2018-02-12"
+  },
+  {
+   "id": "27a7df880e9c4ccd87cb88cccb131e2b4687567f",
+   "title": "Deep Reinforcement and InfoMax Learning",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "2e73ba5c098e5207aaecf159b6e6620b3f2ea56e",
+   "title": "Unsupervised State Representation Learning in Atari",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "33690ff21ef1efb576410e656f2e60c89d0307d6",
+   "title": "Deep Reinforcement Learning that Matters",
+   "date": "2017-09-19"
+  },
+  {
+   "id": "3b9732bb07dc99bde5e1f9f75251c6ea5039373e",
+   "title": "Deep Reinforcement Learning with Double Q-Learning",
+   "date": "2015-09-22"
+  },
+  {
+   "id": "0ab3f7ecbdc5a33565a234215604a6ca9d155a33",
+   "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+   "date": "2017-10-06"
+  },
+  {
+   "id": "9651e1987a39d100dc0f6696a2077199e5075ea2",
+   "title": "Agent57: Outperforming the Atari Human Benchmark",
+   "date": "2020-03-30"
+  },
+  {
+   "id": "69d1ee8a99f55e9228f33fdb3a0339541ad1201c",
+   "title": "Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "b227f3e4c0dc96e5ac5426b85485a70f2175a205",
+   "title": "Representation Learning with Contrastive Predictive Coding",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "22ade45a75c1ce8ae63feae8d5381316493cefe8",
+   "title": "When to use parametric models in reinforcement learning?",
+   "date": "2019-06-12"
+  },
+  {
+   "id": "c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+   "title": "A Distributional Perspective on Reinforcement Learning",
+   "date": "2017-07-17"
+  },
+  {
+   "id": "b4373eab2bf475afc5bf869d4a8402f2710523a8",
+   "title": "Bootstrap Latent-Predictive Representations for Multitask Reinforcement Learning",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "235b783e5e0dbfeb604d20209d116e12bfdf5d42",
+   "title": "Hierarchical Reinforcement Learning with Optimal Level Synchronization Based on Flow-Based Deep Generative Model",
+   "date": "2021-07-17"
+  },
+  {
+   "id": "9a56ab8b1aba50dc2fea3cf4b531d30891a88ba9",
+   "title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere",
+   "date": "2020-05-20"
+  },
+  {
+   "id": "6f9a9b68a334a87ce051968efbaf71c658fef614",
+   "title": "rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch",
+   "date": "2019-09-03"
+  }
+ ],
+ "n_candidates": 50,
+ "sims": [
+  0.5846,
+  0.5755,
+  0.5708,
+  0.5632,
+  0.5564,
+  0.5539,
+  0.5441,
+  0.5437,
+  0.5414,
+  0.5293,
+  0.5277,
+  0.5273,
+  0.5162,
+  0.5155,
+  0.5099,
+  0.5077,
+  0.5065,
+  0.5005,
+  0.4978
+ ]
+}

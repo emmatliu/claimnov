@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_557477d2dd93a0f1ead6b6904b5cb5b0ed6bfe6d",
+   "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+   "date": "2026-04-14",
+   "is_B": true
+  },
+  {
+   "id": "a3ebbaabc51e6f666802bcbccc149027bdc9f5a9",
+   "title": "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length",
+   "date": "2025-02-19"
+  },
+  {
+   "id": "b777412294e4b2e23532d390acf2ebd8233f97ad",
+   "title": "VidTok: A Versatile and Open-Source Video Tokenizer",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "50c4e66f64e2d2802060d7e572e6191a2978ee36",
+   "title": "ElasticTok: Adaptive Tokenization for Image and Video",
+   "date": "2024-10-10"
+  },
+  {
+   "id": "1e31f4a4ccfc0d1e461be05361d77b5e045f4d37",
+   "title": "An Image is Worth 32 Tokens for Reconstruction and Generation",
+   "date": "2024-06-11"
+  },
+  {
+   "id": "985f0c89c5a607742ec43c1fdc2cbfe54541cbad",
+   "title": "Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation",
+   "date": "2023-10-09"
+  },
+  {
+   "id": "289d46628d721374535e8e4b45abd7408249cda7",
+   "title": "UniTok: A Unified Tokenizer for Visual Generation and Understanding",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "7b248d78573ccf0dca6aa2cec2743d3eccaa9d1a",
+   "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+   "date": "2024-08-12"
+  },
+  {
+   "id": "8613c1081a6ab34e2f980e35c06a1af461d7314e",
+   "title": "OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation",
+   "date": "2024-06-13"
+  },
+  {
+   "id": "bf7abedaa95c680d3b29c32127a42bef0003bf81",
+   "title": "LTX-Video: Realtime Video Latent Diffusion",
+   "date": "2024-12-30"
+  },
+  {
+   "id": "454e552832ae0008f2c20b617ded6a6862180e79",
+   "title": "AToken: A Unified Tokenizer for Vision",
+   "date": "2025-09-17"
+  },
+  {
+   "id": "9a35c189bd0fd77bd41df3eac635a461fd6ecba0",
+   "title": "Adaptive Length Image Tokenization via Recurrent Allocation",
+   "date": "2024-11-04"
+  },
+  {
+   "id": "aa509ec67f311cd09d109356f7fa37a40072aabb",
+   "title": "Phenaki: Variable Length Video Generation From Open Domain Textual Description",
+   "date": "2022-10-05"
+  },
+  {
+   "id": "21fd946d6841a20feb9f19c8188fcdad6e91f84d",
+   "title": "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer",
+   "date": "2022-04-07"
+  },
+  {
+   "id": "88e7c4265fcf89461556100d599410a459155bd9",
+   "title": "LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior",
+   "date": "2024-10-28"
+  },
+  {
+   "id": "009973053ccf7e48e82a5280472b4075bd0a17f7",
+   "title": "ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation",
+   "date": "2024-10-27"
+  },
+  {
+   "id": "810e721d49db777762af1b2ac24666c849562195",
+   "title": "When Worse is Better: Navigating the compression-generation tradeoff in visual tokenization",
+   "date": "2024-12-20"
+  },
+  {
+   "id": "2d9ae4c167510ed78803735fc57ea67c3cc55a35",
+   "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+   "date": "2021-04-20"
+  },
+  {
+   "id": "b59233aab8364186603967bc12d88af48cc0992d",
+   "title": "Towards Accurate Generative Models of Video: A New Metric & Challenges",
+   "date": "2018-12-03"
+  },
+  {
+   "id": "457d4cffbb11666180507db21a86435941a69625",
+   "title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+   "date": "2024-10-08"
+  }
+ ],
+ "n_candidates": 69,
+ "sims": [
+  0.8073,
+  0.7905,
+  0.7731,
+  0.7005,
+  0.6713,
+  0.671,
+  0.6685,
+  0.6681,
+  0.6588,
+  0.6494,
+  0.6382,
+  0.6266,
+  0.6264,
+  0.6254,
+  0.618,
+  0.6068,
+  0.6063,
+  0.6033,
+  0.5916
+ ]
+}

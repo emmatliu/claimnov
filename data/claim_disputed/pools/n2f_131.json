@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2b59a0de4186650c274777ed663db836b32409c9",
+   "title": "ClevrTex: A Texture-Rich Benchmark for Unsupervised Multi-Object Segmentation",
+   "is_B": true
+  },
+  {
+   "id": "9792f38e108f5bd25a31ff39bc73956eec0aa32a",
+   "title": "Object Concepts Emerge from Motion",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "5a3a1aed872ef687e91bc98ea5acf5041fd342ae",
+   "title": "SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition",
+   "date": "2020-01-08"
+  },
+  {
+   "id": "5156381d63bb3e873533b08f203cb56c2d79b6c9",
+   "title": "Object-Centric Learning with Slot Attention",
+   "date": "2020-06-26"
+  },
+  {
+   "id": "a3f3ef183db11aa80b92bee3f1501f6ef2a68763",
+   "title": "Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views",
+   "date": "2021-11-13"
+  },
+  {
+   "id": "bf92f815fbf6fd4d50304c4b939447459d2e06d8",
+   "title": "Efficient Iterative Amortized Inference for Learning Symmetric and Disentangled Multi-Object Representations",
+   "date": "2021-06-07"
+  },
+  {
+   "id": "9b8327b04667269fdae78cd34064eb2ee05ddee8",
+   "title": "Multi-Object Representation Learning with Iterative Variational Inference",
+   "date": "2019-03-01"
+  },
+  {
+   "id": "edfbb73fea9da86f6db9a3830e17ff0cee783ef2",
+   "title": "Unsupervised Layered Image Decomposition into Object Prototypes",
+   "date": "2021-04-29"
+  },
+  {
+   "id": "d25b1edda507cba944938ec8784d8b124c2381a5",
+   "title": "MONet: Unsupervised Scene Decomposition and Representation",
+   "date": "2019-01-22"
+  },
+  {
+   "id": "61081d610808ddd0c741c6d61bb4edd7c89855fe",
+   "title": "GENESIS-V2: Inferring Unordered Object Representations without Iterative Refinement",
+   "date": "2021-04-20"
+  },
+  {
+   "id": "ed419b489ef3e78de3decb466b732143b6319bb7",
+   "title": "Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks",
+   "date": "2019-07-17"
+  },
+  {
+   "id": "7c690f7c0597ef8e966ab61281ecb552aa0b37a4",
+   "title": "Unsupervised Discovery of Object Radiance Fields",
+   "date": "2021-07-16"
+  },
+  {
+   "id": "a50b7a45f704f30d7f97dd229d4d53433d5df3b1",
+   "title": "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations",
+   "date": "2019-07-30"
+  },
+  {
+   "id": "24bae1dbad640d81306d106a380261eb7d6063fb",
+   "title": "Unsupervised Object Segmentation by Redrawing",
+   "date": "2019-05-27"
+  },
+  {
+   "id": "152880494ca264adffbab59fa6123c8cbcbc3f20",
+   "title": "Learning To Classify Images Without Labels",
+   "date": "2020-05-25"
+  },
+  {
+   "id": "c002ceaeee6fb74bebbdc2012a877ba78f1fd4de",
+   "title": "Emergence of Object Segmentation in Perturbed Generative Models",
+   "date": "2019-05-01"
+  },
+  {
+   "id": "7536bce1007a765fd097a7cc8ea62208a8c89b85",
+   "title": "Deep Learning for Generic Object Detection: A Survey",
+   "date": "2018-09-06"
+  },
+  {
+   "id": "66eb9741cee7fdeac0a437cc5e737535b7314f06",
+   "title": "Tagger: Deep Unsupervised Perceptual Grouping",
+   "date": "2016-06-21"
+  },
+  {
+   "id": "18f4b336660d6f58ed9bc8855aa481d61a02ae9b",
+   "title": "Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge",
+   "date": "2016-09-29"
+  },
+  {
+   "id": "7c13fabdf7d8d016e3fa7ef6d271381f5a0f4d50",
+   "title": "Decomposing 3D Scenes into Objects via Unsupervised Volume Segmentation",
+   "date": "2021-04-02"
+  }
+ ],
+ "n_candidates": 53,
+ "sims": [
+  0.6907,
+  0.6715,
+  0.6566,
+  0.6495,
+  0.6408,
+  0.6394,
+  0.6332,
+  0.6188,
+  0.6153,
+  0.6124,
+  0.6012,
+  0.5987,
+  0.5962,
+  0.581,
+  0.5806,
+  0.5779,
+  0.5739,
+  0.5702,
+  0.569
+ ]
+}

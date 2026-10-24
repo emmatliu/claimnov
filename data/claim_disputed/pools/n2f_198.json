@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3fc133a0b16a4e737e5685760e7295288f9e50fa",
+   "title": "Accelerated Algorithms for Constrained Nonconvex-Nonconcave Min-Max Optimization and Comonotone Inclusion",
+   "is_B": true
+  },
+  {
+   "id": "8e0db841036cf9121f2b3c7ec23db79b498b6545",
+   "title": "Accelerated Single-Call Methods for Constrained Min-Max Optimization",
+   "date": "2022-10-06"
+  },
+  {
+   "id": "4267f395a184a1be00c5c63ce68862b60d059413",
+   "title": "Solving Nonconvex-Nonconcave Min-Max Problems exhibiting Weak Minty Solutions",
+   "date": "2022-01-28"
+  },
+  {
+   "id": "dcabd4cce126e272caab0e4fdae810f01698a019",
+   "title": "Accelerated Algorithms for Smooth Convex-Concave Minimax Problems with O(1/k^2) Rate on Squared Gradient Norm",
+   "date": "2021-02-16"
+  },
+  {
+   "id": "d7c46f51692defa6821e8e50da33498d2a7c4bce",
+   "title": "Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems",
+   "date": "2023-02-20"
+  },
+  {
+   "id": "a834ec652cf884e7f0982d61e3a97b5eb48e19e3",
+   "title": "Convergence of Proximal Point and Extragradient-Based Methods Beyond Monotonicity: the Case of Negative Comonotonicity",
+   "date": "2022-10-25"
+  },
+  {
+   "id": "40fb6d46bcade608f7a8b78b190f4ecc20da4a12",
+   "title": "Halpern-Type Accelerated and Splitting Algorithms For Monotone Inclusions",
+   "date": "2021-10-15"
+  },
+  {
+   "id": "3a4f139ab8608b229ae1ab66011e510799d5a4f3",
+   "title": "A Fast Optimistic Method for Monotone Variational Inequalities",
+   "date": "2023-07-21"
+  },
+  {
+   "id": "0377b3da0cde3fa4abdf546c07d0bd6d899026e8",
+   "title": "The complexity of constrained min-max optimization",
+   "date": "2020-09-21"
+  },
+  {
+   "id": "d5cd74054f64ed41a2b0a9f7f78e63a997c41697",
+   "title": "Fast Extra Gradient Methods for Smooth Structured Nonconvex-Nonconcave Minimax Problems",
+   "date": "2021-06-04"
+  },
+  {
+   "id": "0e9e334e2647307f8fa7f9937d93f3ca9095e351",
+   "title": "Extragradient Method: O(1/K) Last-Iterate Convergence for Monotone Variational Inequalities and Connections With Cocoercivity",
+   "date": "2021-10-08"
+  },
+  {
+   "id": "532c044ffc4486e80e22c54471f185075d80e96f",
+   "title": "First-order Convergence Theory for Weakly-Convex-Weakly-Concave Min-max Problems",
+   "date": "2018-10-24"
+  },
+  {
+   "id": "f8aa1d8683f1a96e33f89156ef0f263965b55580",
+   "title": "Tight last-iterate convergence rates for no-regret learning in multi-player games",
+   "date": "2020-10-26"
+  },
+  {
+   "id": "b59b84de622467a12b136e051057277c96625f1b",
+   "title": "Efficient Methods for Structured Nonconvex-Nonconcave Min-Max Optimization",
+   "date": "2020-10-31"
+  },
+  {
+   "id": "1cc159f15cabc8e40f4bcdf1d223afac592362fb",
+   "title": "Doubly Optimal No-Regret Learning in Monotone Games",
+   "date": "2023-01-30"
+  },
+  {
+   "id": "6196c19d536b616d0d246d0597dba0b3a2785bd1",
+   "title": "Golden ratio algorithms for variational inequalities",
+   "date": "2018-03-23"
+  },
+  {
+   "id": "bc1bbbedc28f0e462bffd7859743d81bdf105e58",
+   "title": "From Halpern\u2019s fixed-point iterations to Nesterov\u2019s accelerated interpretations for root-finding problems",
+   "date": "2022-03-09"
+  },
+  {
+   "id": "3c2eb96034409c4bfdd182f2dd09b57a431ddf27",
+   "title": "Halpern Iteration for Near-Optimal and Parameter-Free Monotone Inclusion and Strong Solutions to Variational Inequalities",
+   "date": "2020-02-20"
+  },
+  {
+   "id": "16b4c8f533b8ecf9f384684dbf50fed698baa0a6",
+   "title": "Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets",
+   "date": "2019-12-26"
+  },
+  {
+   "id": "7a9c800f75e4a9898131c515e31b4fc2d29ad33b",
+   "title": "On the convergence properties of non-Euclidean extragradient methods for variational inequalities with generalized monotone operators",
+   "date": "2013-11-12"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.9923,
+  0.7,
+  0.6836,
+  0.6752,
+  0.6663,
+  0.6654,
+  0.6595,
+  0.6511,
+  0.6401,
+  0.6303,
+  0.6301,
+  0.6298,
+  0.6286,
+  0.6097,
+  0.6056,
+  0.5885,
+  0.585,
+  0.5833,
+  0.5751
+ ]
+}

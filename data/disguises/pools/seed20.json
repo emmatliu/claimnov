@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_e97b3f37ab5b1446bfda3b39be45eb6a272f9e75",
+   "title": "On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance",
+   "date": "2026-05-30",
+   "is_B": true
+  },
+  {
+   "id": "d4d4a9e6f52b7d415425236ad0d6b65526452df7",
+   "title": "A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "8f7297454d7f44365b9bcda5ebb9439a43daf5e6",
+   "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs",
+   "date": "2023-06-22"
+  },
+  {
+   "id": "d6d0fd994f37b630f35945736b5e1bb198148404",
+   "title": "Time Travel in LLMs: Tracing Data Contamination in Large Language Models",
+   "date": "2023-08-16"
+  },
+  {
+   "id": "65b61e35ea9416b47046f2775147d75a6d05375f",
+   "title": "Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation",
+   "date": "2025-09-10"
+  },
+  {
+   "id": "4fd8ded3fd8942fb9e8a557ac37722b9f7add8b8",
+   "title": "On Verbalized Confidence Scores for LLMs",
+   "date": "2024-12-19"
+  },
+  {
+   "id": "e2a4115bc5ce722ce42925470baa09149c35ec81",
+   "title": "The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs",
+   "date": "2025-09-03"
+  },
+  {
+   "id": "9de1c9261bd2e4505573fecf3444afab53b740d0",
+   "title": "Confidence in the Reasoning of Large Language Models",
+   "date": "2024-12-16"
+  },
+  {
+   "id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+   "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+   "date": "2023-06-09"
+  },
+  {
+   "id": "f4df78183261538e718066331898ee5cad7cad05",
+   "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+   "date": "2022-02-25"
+  },
+  {
+   "id": "b1b8c3e47f44158d22fb70bb453d2494ed013b70",
+   "title": "On Second Thought, Let\u2019s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning",
+   "date": "2022-12-15"
+  },
+  {
+   "id": "6aa6003c7d7b3d275ae981aa6200014968c32430",
+   "title": "A Survey of Confidence Estimation and Calibration in Large Language Models",
+   "date": "2023-11-14"
+  },
+  {
+   "id": "87796ee9857e120378025a487aec9758e1a5d77e",
+   "title": "Can You Label Less by Using Out-of-Domain Data? Active & Transfer Learning with Few-shot Instructions",
+   "date": "2022-11-21"
+  },
+  {
+   "id": "81ad7744ec982e78d05c925c85fcdaebb3390e09",
+   "title": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
+   "date": "2025-10-01"
+  },
+  {
+   "id": "ab4ce5dda7ad4d9032995c9c049a89d65723c6aa",
+   "title": "Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback",
+   "date": "2023-05-24"
+  },
+  {
+   "id": "3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a",
+   "title": "Detecting Pretraining Data from Large Language Models",
+   "date": "2023-10-25"
+  },
+  {
+   "id": "e38a29f6463f38f43797b128673b9e44d18a991e",
+   "title": "Whose Opinions Do Language Models Reflect?",
+   "date": "2023-03-30"
+  },
+  {
+   "id": "2069aaaa281eb13bcd9330fc4d43f24f6b436a53",
+   "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+   "date": "2023-10-05"
+  },
+  {
+   "id": "9f99e74f35b2cf48ab4cf0f8f401ba266ba80c5f",
+   "title": "Evaluating the Prompt Steerability of Large Language Models",
+   "date": "2024-11-19"
+  },
+  {
+   "id": "aea731e7cf33aa3d482b13f42cedbc1adb3271c6",
+   "title": "The \u201cProblem\u201d of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation",
+   "date": "2022-11-04"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.6024,
+  0.5875,
+  0.5861,
+  0.5727,
+  0.5568,
+  0.5515,
+  0.5495,
+  0.5485,
+  0.5431,
+  0.5375,
+  0.5341,
+  0.532,
+  0.5313,
+  0.5241,
+  0.52,
+  0.5041,
+  0.5017,
+  0.498,
+  0.4893
+ ]
+}

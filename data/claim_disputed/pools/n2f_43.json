@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2010.04104",
+   "title": "Learning the Pareto Front with Hypernetworks",
+   "is_B": true
+  },
+  {
+   "id": "77e71aed1d8827ea65367933503ce24d6fbfb4ae",
+   "title": "Efficient Continuous Pareto Exploration in Multi-Task Learning",
+   "date": "2020-06-29"
+  },
+  {
+   "id": "0702f398468c23c96e3313e6efc798c964fba289",
+   "title": "Pareto Multi-Task Learning",
+   "date": "2019-12-30"
+  },
+  {
+   "id": "2b0d7e51efd004fe3847f54863540c79312f3546",
+   "title": "Multi-Task Learning as Multi-Objective Optimization",
+   "date": "2018-10-10"
+  },
+  {
+   "id": "7ad66cba3b7e3abae7ef33122588512a146f7f77",
+   "title": "A Survey on Multi-Task Learning",
+   "date": "2017-07-25"
+  },
+  {
+   "id": "f98788f32b0d33d200c9bc7d900d0ef39519c927",
+   "title": "Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+   "date": "2017-05-19"
+  },
+  {
+   "id": "356941da708c6d5b06bce17463aca309fd33151a",
+   "title": "Which Tasks Should Be Learned Together in Multi-task Learning?",
+   "date": "2019-05-18"
+  },
+  {
+   "id": "c3c780b9f20f254639644c61bdbea9f7aeb498b9",
+   "title": "Multi-Objective Reinforcement Learning with Continuous Pareto Frontier Approximation",
+   "date": "2014-06-13"
+  },
+  {
+   "id": "5043e91d4f36ada5504e1f7fa8b534c614a8ad98",
+   "title": "Auxiliary Learning by Implicit Differentiation",
+   "date": "2020-06-22"
+  },
+  {
+   "id": "619cf9d39abb93fe1ab17921c163fc5734ac1e70",
+   "title": "End-To-End Multi-Task Learning With Attention",
+   "date": "2018-03-28"
+  },
+  {
+   "id": "caa2da5a4b5e0951ecbf0a0fcdf364f7ae3bfe34",
+   "title": "Accuracy and fairness trade-offs in machine learning: a stochastic multi-objective approach",
+   "date": "2020-08-03"
+  },
+  {
+   "id": "6d431f835c06afdea45dff6b24486bf301ebdef0",
+   "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
+   "date": "2017-06-15"
+  },
+  {
+   "id": "b99bd19bed56de300dfa241b9698a35e95b95925",
+   "title": "Minimax Pareto Fairness: A Multi Objective Perspective",
+   "date": "2020-07-01"
+  },
+  {
+   "id": "582157494d72dd28dc28172f04dfd5f25fb17bff",
+   "title": "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks",
+   "date": "2017-11-07"
+  },
+  {
+   "id": "133c1f5ebc8a9baf716383771d15b32378539cc2",
+   "title": "Predictive Entropy Search for Multi-objective Bayesian Optimization",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "f4886e112ca73ab96e0f81c94a72d44f54bcb21f",
+   "title": "Structural Bias in Multi-objective Optimization",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "61e27dbae190b82639c57f180ecf97e4c46fcad9",
+   "title": "Pymoo: Multi-Objective Optimization in Python",
+   "date": "2020-01-22"
+  },
+  {
+   "id": "191461705e9961a3b07273c19d89eb214819002c",
+   "title": "Continual learning with hypernetworks",
+   "date": "2019-06-03"
+  },
+  {
+   "id": "ed8be9ba879d4b31d870a81fb0fc9d97f7c9287c",
+   "title": "Decoupled classifiers for fair and efficient machine learning",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "442e10a3c6640ded9408622005e3c2a8906ce4c2",
+   "title": "A Unified Approach to Interpreting Model Predictions",
+   "date": "2017-05-22"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.7874,
+  0.7755,
+  0.744,
+  0.6527,
+  0.649,
+  0.6079,
+  0.6066,
+  0.5699,
+  0.5539,
+  0.5491,
+  0.549,
+  0.5334,
+  0.5032,
+  0.5017,
+  0.4939,
+  0.4776,
+  0.4677,
+  0.4406,
+  0.3918
+ ]
+}

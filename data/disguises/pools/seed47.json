@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_3cb4615ca43e656ced002a054902bd2de871a5ea",
+   "title": "Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression",
+   "date": "2026-06-16",
+   "is_B": true
+  },
+  {
+   "id": "00814e5631c20bec502838a1e8040b3f5f258971",
+   "title": "MoE-I\u00b2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition",
+   "date": "2024-11-01"
+  },
+  {
+   "id": "3926ec0a7406b21eb8a602f31e4ea1de34650e32",
+   "title": "A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts",
+   "date": "2024-05-26"
+  },
+  {
+   "id": "0e47c5ce3590345a4e1093f44c4f66513934efe7",
+   "title": "STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning",
+   "date": "2024-09-10"
+  },
+  {
+   "id": "1f5809a1005eeeaef84f86006a26ecbd9a946828",
+   "title": "Diversifying the Expert Knowledge for Task-Agnostic Pruning in Sparse Mixture-of-Experts",
+   "date": "2024-07-12"
+  },
+  {
+   "id": "4d0ee7bca07af07e319add08efcdd403e215abff",
+   "title": "Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques",
+   "date": "2024-06-04"
+  },
+  {
+   "id": "03ae768eec3b49d0ab71bebcbba7fb361f406418",
+   "title": "Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "a129f271fb6311c980111a2f118e6a4a8528b151",
+   "title": "Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning",
+   "date": "2024-11-26"
+  },
+  {
+   "id": "d1de718109dc23ce34183b557016f24d7872a7e2",
+   "title": "DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning",
+   "date": "2025-09-19"
+  },
+  {
+   "id": "6253c232b46df5763a230ece9bae5c5883393717",
+   "title": "Collaborative Compression for Large-Scale MoE Deployment on Edge",
+   "date": "2025-09-30"
+  },
+  {
+   "id": "3f89a1d552c2271640d352c860282fabf5694960",
+   "title": "MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router",
+   "date": "2024-10-15"
+  },
+  {
+   "id": "2a28903d52688d7bee05f1f9b8ca4ff83a825824",
+   "title": "Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations",
+   "date": "2025-04-09"
+  },
+  {
+   "id": "740c46ea0d67e3521aa45982618d6d3e5cb6dd3a",
+   "title": "Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging",
+   "date": "2025-06-29"
+  },
+  {
+   "id": "ea3ee97a34fe0157fc08b1d13a7e3aab1c22b698",
+   "title": "PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference",
+   "date": "2025-11-06"
+  },
+  {
+   "id": "bca6d3b61336718f0a89d3ba65ff794e79631917",
+   "title": "EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models",
+   "date": "2025-08-03"
+  },
+  {
+   "id": "394ff691966b419e0a6f24c661aa3c7d45b66bd2",
+   "title": "SEER-MoE: Sparse Expert Efficiency through Regularization for Mixture-of-Experts",
+   "date": "2024-04-07"
+  },
+  {
+   "id": "97e6047bca99a4aa8a83dfee53594d4165e9e007",
+   "title": "Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "a2781a5583ca624d569783850d035de8a58ecf13",
+   "title": "MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "b42e5a92890053ef48f794311c28c45e9fe55ddd",
+   "title": "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "a09744e48c60999ffb39560b5960db6c1df263c4",
+   "title": "MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping",
+   "date": "2025-11-19"
+  }
+ ],
+ "n_candidates": 43,
+ "sims": [
+  0.7773,
+  0.7751,
+  0.7742,
+  0.7734,
+  0.7698,
+  0.7642,
+  0.7539,
+  0.7525,
+  0.7467,
+  0.7369,
+  0.7367,
+  0.7342,
+  0.7337,
+  0.7325,
+  0.7259,
+  0.7218,
+  0.721,
+  0.7165,
+  0.6442
+ ]
+}

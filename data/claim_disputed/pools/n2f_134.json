@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_597bd2e45427563cdf025e53a3239006aa364cfc",
+   "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+   "is_B": true
+  },
+  {
+   "id": "7e71eedb078181873a56f2adcfef9dddaeb95602",
+   "title": "Simplifying Graph Convolutional Networks",
+   "date": "2019-02-19"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  },
+  {
+   "id": "4e7dd1e79f0f13650b2612325e6ba8d206dc04fb",
+   "title": "DeepGCNs: Can GCNs Go As Deep As CNNs?",
+   "date": "2019-04-07"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "5d1bfeed240709725c78bc72ea40e55410b373dc",
+   "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints",
+   "date": "2015-09-30"
+  },
+  {
+   "id": "463883b2b15662c3f391b97c10843ee97a19d738",
+   "title": "Dimensional Reweighting Graph Convolutional Networks",
+   "date": "2019-07-04"
+  },
+  {
+   "id": "cd8a9914d50b0ac63315872530274d158d6aff09",
+   "title": "Modeling Relational Data with Graph Convolutional Networks",
+   "date": "2017-03-17"
+  },
+  {
+   "id": "05c4eb154ad9512a69569c18d68bc4428ee8bb83",
+   "title": "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks",
+   "date": "2019-05-20"
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network with Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "0a6a9e6d4e3efd7c69357769305b70097281655f",
+   "title": "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification",
+   "date": "2019-07-25"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "1a39bb2caa151d15efd6718f3a80d9f4bff95af2",
+   "title": "Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs",
+   "date": "2017-04-10"
+  },
+  {
+   "id": "fc3e99ebc07b3014f6736a6a7b077edf2f1634c0",
+   "title": "GraphSAINT: Graph Sampling Based Inductive Learning Method",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "d18b48f77eb5c517a6d2c1fa434d2952a1b0a825",
+   "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+   "date": "2018-06-22"
+  },
+  {
+   "id": "967a21a111757d6af7f7a25ca7ea2bdf6d505098",
+   "title": "Deep Graph Infomax",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "789a7069d1a2d02d784e4821685b216cc63e6ec8",
+   "title": "Strategies for Pre-training Graph Neural Networks",
+   "date": "2019-05-29"
+  },
+  {
+   "id": "d2a8e1857dbfaef6713e33a1946ea7548f8209a3",
+   "title": "Learning Graph-Level Representation for Drug Discovery",
+   "date": "2017-09-12"
+  },
+  {
+   "id": "0ca7d8c3250d43d14fdde46bf6fc299654d861ef",
+   "title": "Heterogeneous Graph Transformer",
+   "date": "2020-03-03"
+  }
+ ],
+ "n_candidates": 86,
+ "sims": [
+  0.7319,
+  0.7193,
+  0.6817,
+  0.6803,
+  0.6609,
+  0.6589,
+  0.6581,
+  0.6506,
+  0.6481,
+  0.6433,
+  0.6369,
+  0.6363,
+  0.6336,
+  0.6326,
+  0.629,
+  0.6266,
+  0.6254,
+  0.6188,
+  0.6146
+ ]
+}

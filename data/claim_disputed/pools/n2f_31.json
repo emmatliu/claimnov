@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1912.02975",
+   "title": "Observational Overfitting in Reinforcement Learning",
+   "is_B": true
+  },
+  {
+   "id": "0d38284025bd0eabf92399b35df189ae1e034236",
+   "title": "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation",
+   "date": "2018-05-31"
+  },
+  {
+   "id": "ef2bc452812d6005ab0a66af6c3f97b6b0ba837e",
+   "title": "Quantifying Generalization in Reinforcement Learning",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "2c3a1a088ef51548264197ed8882f42e0ad73a9b",
+   "title": "Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck",
+   "date": "2019-10-28"
+  },
+  {
+   "id": "041d99f442dc22cf51118dc992095be9aa0972e0",
+   "title": "A Study on Overfitting in Deep Reinforcement Learning",
+   "date": "2018-04-18"
+  },
+  {
+   "id": "caea502325b6a82b1b437c62585992609b5aa542",
+   "title": "Assessing Generalization in Deep Reinforcement Learning",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "9c4082bfbd46b781e70657f14895306c57c842e3",
+   "title": "Robust Adversarial Reinforcement Learning",
+   "date": "2017-03-08"
+  },
+  {
+   "id": "fa51365608b4957a3930ed94858114e57815084b",
+   "title": "On the Generalization Gap in Reparameterizable Reinforcement Learning",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "a622be547caf0b1223626de5e69377c20ae11265",
+   "title": "A Dissection of Overfitting and Generalization in Continuous Reinforcement Learning",
+   "date": "2018-06-20"
+  },
+  {
+   "id": "d53fb3feeeab07a0d70bf466dd473ec6052ecc07",
+   "title": "Exploring Generalization in Deep Learning",
+   "date": "2017-06-27"
+  },
+  {
+   "id": "540c226fdf7047ac602c7cb05a18db19ee595df0",
+   "title": "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data",
+   "date": "2017-03-31"
+  },
+  {
+   "id": "5d42df7219d63aee95bf55de4043d42385cc9a7c",
+   "title": "Implicit Regularization in Deep Learning",
+   "date": "2017-09-06"
+  },
+  {
+   "id": "b4e669bae43216cb0e77836a411b88dea4bb6034",
+   "title": "Visualizing and Understanding Atari Agents",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "cadb96f49f3c13c86dfe285b5c75c655391ad1c3",
+   "title": "Towards Generalization and Simplicity in Continuous Control",
+   "date": "2017-03-08"
+  },
+  {
+   "id": "53ff8d142b3ce64ac9649450ddb7be12cfaefcd6",
+   "title": "Natural Environment Benchmarks for Reinforcement Learning",
+   "date": "2018-11-14"
+  },
+  {
+   "id": "d205595e3d1fa4342f29c9517f3b56fffe785d06",
+   "title": "Generalization in Deep Networks: The Role of Distance from Initialization",
+   "date": "2019-01-07"
+  },
+  {
+   "id": "a01aa16ba8f8b9541577e49f54f701df5bfb6105",
+   "title": "An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents",
+   "date": "2018-12-17"
+  },
+  {
+   "id": "51063caeb691f9a20e34feb721f14660a0df968e",
+   "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "b72e488b48e464c7633418873f1cf9fbf3453ff2",
+   "title": "Gotta Learn Fast: A New Benchmark for Generalization in RL",
+   "date": "2018-04-10"
+  },
+  {
+   "id": "217a85f667778567d7ffc8b56060783caf5803b0",
+   "title": "Implicit Regularization in Deep Matrix Factorization",
+   "date": "2019-05-31"
+  }
+ ],
+ "n_candidates": 60,
+ "sims": [
+  0.6755,
+  0.6687,
+  0.6576,
+  0.6504,
+  0.6461,
+  0.6382,
+  0.6233,
+  0.6056,
+  0.5978,
+  0.5717,
+  0.5653,
+  0.5611,
+  0.5556,
+  0.5499,
+  0.5354,
+  0.5327,
+  0.5307,
+  0.5239,
+  0.518
+ ]
+}

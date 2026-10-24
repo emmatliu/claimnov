@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_719af7de83ef30bb46815de20e5cee604ed7b9b8",
+   "title": "Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields",
+   "is_B": true
+  },
+  {
+   "id": "43b1e34451f783fed053c1d539d7560dc4ec16a9",
+   "title": "Implicit Neural Representations with Periodic Activation Functions",
+   "date": "2020-06-17"
+  },
+  {
+   "id": "eb7a6fdc3aa276e6d274af1cb4adc6adeb097e52",
+   "title": "Adversarial Generation of Continuous Images",
+   "date": "2020-11-24"
+  },
+  {
+   "id": "5a6732513a1dc0bea059543f208a7556e3e31067",
+   "title": "Convolutional Occupancy Networks",
+   "date": "2020-03-10"
+  },
+  {
+   "id": "694bdf6e5906992dad2987a3cc8d1a176de691c9",
+   "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes",
+   "date": "2020-11-27"
+  },
+  {
+   "id": "767a6054796e2e6c1de453afab0e05e55aadf825",
+   "title": "Learning Continuous Image Representation with Local Implicit Image Function",
+   "date": "2020-12-16"
+  },
+  {
+   "id": "b9d4a1ac5e41570082828b405b289aa6959252a4",
+   "title": "Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations",
+   "date": "2019-06-04"
+  },
+  {
+   "id": "ffd08400bc56ebed24aba3a3666429bbc6b48b25",
+   "title": "D2IM-Net: Learning Detail Disentangled Implicit Fields from Single Images",
+   "date": "2020-12-11"
+  },
+  {
+   "id": "6ca0a80111fed68b8a5b7eac5ecdc3d258f0fea6",
+   "title": "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes",
+   "date": "2021-01-26"
+  },
+  {
+   "id": "c3294425af6e2c059835ec7f0dca7290b48a8faf",
+   "title": "Learning Implicit Fields for Generative Shape Modeling",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "2e689bdce24cf3644432505ce2783f03a1445ed2",
+   "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
+   "date": "2018-12-10"
+  },
+  {
+   "id": "3d0148ea1425d87d3b812139599dff61bb09df9a",
+   "title": "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "a0f0c2940c6f8c36d8d7b03c48cb2af74770a2fe",
+   "title": "PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations",
+   "date": "2020-08-04"
+  },
+  {
+   "id": "a0dc3135c40e150f0271002a96b7c9680b6cac40",
+   "title": "Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "715a73290f260cf2196307e59fe0b6776841f170",
+   "title": "On the Spectral Bias of Neural Networks",
+   "date": "2018-06-22"
+  },
+  {
+   "id": "6162f4667d3ec8309767acc708be9c96e0dc7bf7",
+   "title": "Local Implicit Grid Representations for 3D Scenes",
+   "date": "2020-03-19"
+  },
+  {
+   "id": "8d17d62952f141fe5c4948eeafb8be5a8db9d054",
+   "title": "pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis",
+   "date": "2020-12-02"
+  },
+  {
+   "id": "bb3a9fad105717c62195e0c6b99093fd99b777f0",
+   "title": "Local Deep Implicit Functions for 3D Shape",
+   "date": "2019-12-12"
+  },
+  {
+   "id": "17d7767a6ea87f4ab24d9cfaa5039160af9cad76",
+   "title": "Neural Sparse Voxel Fields",
+   "date": "2020-07-22"
+  },
+  {
+   "id": "dd51c24c0c8d9a54ac2c792aa7f45a1beb5d3c87",
+   "title": "Understanding training and generalization in deep learning by Fourier analysis",
+   "date": "2018-08-13"
+  }
+ ],
+ "n_candidates": 40,
+ "sims": [
+  0.6422,
+  0.599,
+  0.5269,
+  0.5108,
+  0.5104,
+  0.505,
+  0.4968,
+  0.4772,
+  0.4769,
+  0.4711,
+  0.4644,
+  0.4609,
+  0.4492,
+  0.4487,
+  0.4399,
+  0.4378,
+  0.4325,
+  0.4265,
+  0.4217
+ ]
+}

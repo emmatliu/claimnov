@@ -1,0 +1,737 @@
+[
+ {
+  "id": "f4619d5918d7a25866dfe36749a22290636adf72",
+  "title": "VLM4D: Towards Spatiotemporal Awareness in Vision Language Models",
+  "date": "2025-08-04"
+ },
+ {
+  "id": "a66055e694725605f36b0eca9c7daa9631761876",
+  "title": "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "bcb3e1a7af9d559f1df488e28b10f177203a5d28",
+  "title": "Transfer between Modalities with MetaQueries",
+  "date": "2025-04-08"
+ },
+ {
+  "id": "cc2038510f2027fa504961e5268cf778487a67cc",
+  "title": "SpaceR: Reinforcing MLLMs in Video Spatial Reasoning",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "e8b35d86688818749e439a28540f59734c00628e",
+  "title": "STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?",
+  "date": "2025-03-30"
+ },
+ {
+  "id": "adb4c6ba0f305e0cc27bcace3f3cfc803ac0ea26",
+  "title": "Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models",
+  "date": "2025-03-21"
+ },
+ {
+  "id": "7dc90f30c716907b3da22a01d7755c374855c751",
+  "title": "TULIP: Towards Unified Language-Image Pretraining",
+  "date": "2025-03-19"
+ },
+ {
+  "id": "239f7bfb58628e2dd101062d5031a7d8a7939c82",
+  "title": "ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos",
+  "date": "2025-03-16"
+ },
+ {
+  "id": "4356b46e5dd1a4ebd579b1cd6eb3eeedddd5a65c",
+  "title": "VGGT: Visual Geometry Grounded Transformer",
+  "date": "2025-03-14"
+ },
+ {
+  "id": "f61cc9b5583c6295d5cd756ec0f34e4c003aab29",
+  "title": "Qwen2.5-VL Technical Report",
+  "date": "2025-02-19"
+ },
+ {
+  "id": "202aeee53ca54c589e8e66f8ac357df4527f53f2",
+  "title": "Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment",
+  "date": "2025-02-06"
+ },
+ {
+  "id": "055a5bb273aef22e40485746531c08b6fee2d2f7",
+  "title": "3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer",
+  "date": "2025-01-02"
+ },
+ {
+  "id": "28afc4d43909e6071fedbf4f29e02ddc81d29fe7",
+  "title": "GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models",
+  "date": "2025-01-02"
+ },
+ {
+  "id": "376461a2c049f6fa51a4303853fdc672e4d07a0d",
+  "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+  "date": "2024-12-18"
+ },
+ {
+  "id": "2bd7364a87e65c980d2c04c433d2d460a9cf95f5",
+  "title": "MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos",
+  "date": "2024-12-05"
+ },
+ {
+  "id": "6444cc06ba4556a2c81aeb463f9974515aac9347",
+  "title": "Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding",
+  "date": "2024-11-30"
+ },
+ {
+  "id": "7943ec4a67151a559b25cd34369e661c9a7924c8",
+  "title": "GPT-4o System Card",
+  "date": "2024-10-25"
+ },
+ {
+  "id": "85c514db4e90e1fd4200d858353f27a3cc2c29ad",
+  "title": "Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution",
+  "date": "2024-09-19"
+ },
+ {
+  "id": "a22b23b65cdbc0335b872ed7c7a7206c710f8997",
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "b8d405189f4b5556d2882c879454b65bfa66f443",
+  "title": "Multi-modal Situated Reasoning in 3D Scenes",
+  "date": "2024-09-04"
+ },
+ {
+  "id": "3f03876b23b491bdc161816024044e13b02b46e5",
+  "title": "LongVILA: Scaling Long-Context Visual Language Models for Long Videos",
+  "date": "2024-08-19"
+ },
+ {
+  "id": "1a71f7b216b710b936da666027014adb83af8e7a",
+  "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+  "date": "2024-08-06"
+ },
+ {
+  "id": "d081584960c42f7793502bb496e46f682e3e43b3",
+  "title": "Long Context Transfer from Language to Vision",
+  "date": "2024-06-24"
+ },
+ {
+  "id": "c6dd31c40836d616b50feab17aff569591c4262e",
+  "title": "VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs",
+  "date": "2024-06-11"
+ },
+ {
+  "id": "6df24cfb2ded90dfa443139c2e3fb6317179a358",
+  "title": "Streaming Long Video Understanding with Large Language Models",
+  "date": "2024-05-25"
+ },
+ {
+  "id": "c26c03cd1b7793be37b6dad4cd85e2d378a4c611",
+  "title": "Grounded 3D-LLM with Referent Tokens",
+  "date": "2024-05-16"
+ },
+ {
+  "id": "4956e8f57227ec8f642dc54e2c0c3742ebb388e7",
+  "title": "Long-CLIP: Unlocking the Long-Text Capability of CLIP",
+  "date": "2024-03-22"
+ },
+ {
+  "id": "e3c2c4104ca8923fd58508ab6cb52f5c579a77c9",
+  "title": "Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning",
+  "date": "2024-03-18"
+ },
+ {
+  "id": "567157a4722d79f5ac019142e5fb1ad10b4e86cb",
+  "title": "VideoAgent: Long-form Video Understanding with Large Language Model as Agent",
+  "date": "2024-03-15"
+ },
+ {
+  "id": "c811bedbe8f4c21d0cba9f9175f7c2eb203284a7",
+  "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+  "date": "2024-03-08"
+ },
+ {
+  "id": "35b142ea69598e6241f0011312128031df55895c",
+  "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+  "date": "2024-02-05"
+ },
+ {
+  "id": "a3ca77456142b78367dd5d53138b50dfac8086ca",
+  "title": "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities",
+  "date": "2024-01-22"
+ },
+ {
+  "id": "6a33e58ef961a3a0a5657518b2be86395eb7c8d0",
+  "title": "Intern VL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks",
+  "date": "2023-12-21"
+ },
+ {
+  "id": "5f82a81766cb78395a55b8fc697c2421a20f4a9e",
+  "title": "DUSt3R: Geometric 3D Vision Made Easy",
+  "date": "2023-12-21"
+ },
+ {
+  "id": "a5ecfe7f961ab9a65aab033692dff71f5c70c2b6",
+  "title": "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers",
+  "date": "2023-12-13"
+ },
+ {
+  "id": "2141ed804636a1cf339d606cd03fd3b3e9582133",
+  "title": "VILA: On Pre-training for Visual Language Models",
+  "date": "2023-12-12"
+ },
+ {
+  "id": "fc53f8f3a84f1fc4993689d8f98cf6551d07a22d",
+  "title": "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning",
+  "date": "2023-11-30"
+ },
+ {
+  "id": "13d12b26db345f62e8e512db181b96a7f8763b47",
+  "title": "An Embodied Generalist Agent in 3D World",
+  "date": "2023-11-18"
+ },
+ {
+  "id": "107fb6eec2febbae12db29bf3e311aaf5680027c",
+  "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+  "date": "2023-11-16"
+ },
+ {
+  "id": "f72be31de9f9a09d4410fd38bc717efe43444827",
+  "title": "SALMONN: Towards Generic Hearing Abilities for Large Language Models",
+  "date": "2023-10-20"
+ },
+ {
+  "id": "124d4d374fbef2016fa9880489871a58a7450644",
+  "title": "Improved Baselines with Visual Instruction Tuning",
+  "date": "2023-10-05"
+ },
+ {
+  "id": "10bd38673951f5d7729568284093cbd80482ab16",
+  "title": "Vision Transformers Need Registers",
+  "date": "2023-09-28"
+ },
+ {
+  "id": "fc96c4a7d4708bfd6138bfd16482229975404499",
+  "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes",
+  "date": "2023-08-22"
+ },
+ {
+  "id": "30cfc4e7174211aa48c965826d51db773f0d37c7",
+  "title": "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes",
+  "date": "2023-08-17"
+ },
+ {
+  "id": "64a80a33018a0fdc182b06111e32b2e08e186f6a",
+  "title": "3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment",
+  "date": "2023-08-08"
+ },
+ {
+  "id": "d3f79210b54e168c76b8c311488f42d7d1048b81",
+  "title": "PandaGPT: One Model To Instruction-Follow Them All",
+  "date": "2023-05-25"
+ },
+ {
+  "id": "2ad8183c72a90511383a32ccaeea313eb85f4085",
+  "title": "DetGPT: Detect What You Need via Reasoning",
+  "date": "2023-05-23"
+ },
+ {
+  "id": "d48cb91b9e555194f7494c4d4bb9815021d3ee45",
+  "title": "VideoChat: chat-centric video understanding",
+  "date": "2023-05-10"
+ },
+ {
+  "id": "f9570989919338079088270a9cf1a7afc8db8093",
+  "title": "DataComp: In search of the next generation of multimodal datasets",
+  "date": "2023-04-27"
+ },
+ {
+  "id": "8bc617c9139648d7a92991d70c671230bac7b2e2",
+  "title": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+  "date": "2023-04-25"
+ },
+ {
+  "id": "ca6a2bc279be5a3349a22bfd6866ed633d18734b",
+  "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+  "date": "2023-04-20"
+ },
+ {
+  "id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+  "title": "Visual Instruction Tuning",
+  "date": "2023-04-17"
+ },
+ {
+  "id": "3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
+  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+  "date": "2023-01-30"
+ },
+ {
+  "id": "c1a4fb211cf995b1af1247a152fcc145594ec13b",
+  "title": "SQA3D: Situated Question Answering in 3D Scenes",
+  "date": "2022-10-14"
+ },
+ {
+  "id": "26218bdcc3945c7edae7aa2adbfba4cd820a2df3",
+  "title": "Flamingo: a Visual Language Model for Few-Shot Learning",
+  "date": "2022-04-29"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "8f6c652a392995bd047a2f7b94474ab1e6e23ff0",
+  "title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+  "date": "2021-12-20"
+ },
+ {
+  "id": "19c68c1e0cf0d47b96bd448e0ade1c4add0601d6",
+  "title": "ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data",
+  "date": "2021-11-17"
+ },
+ {
+  "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "date": "2021-02-26"
+ },
+ {
+  "id": "2880ac931c11176aee6d42a7e7bb0703aacde3f9",
+  "title": "Open3D: A Modern Library for 3D Data Processing",
+  "date": "2018-01-30"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "e52e37cd91366f07df1f98e88f87010f494dd16e",
+  "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+  "date": "2017-02-14"
+ },
+ {
+  "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "date": "2014-12-22"
+ },
+ {
+  "id": "bc440a89e0d36158a063d944a8858ef8e0bfc78d",
+  "title": "SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "e92505fa3916856ac87712ad6b61d716b569262d",
+  "title": "MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "fd550ac376b700564472d432de985aa77ce96dfa",
+  "title": "ReMoT: Reinforcement Learning with Motion Contrast Triplets",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "6445fbf0d634310c2cd41a5b569707baccd1e1a6",
+  "title": "Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "dad90ef9f1b533f9e23ddb7930a0a99bb89013b1",
+  "title": "Direction-aware 3D Large Multimodal Models",
+  "date": "2026-02-22"
+ },
+ {
+  "id": "448121d970b0b150fcc62e4655cc427ab154e4c0",
+  "title": "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "330639c33888b726bcc59335f6b6bed92950ec7f",
+  "title": "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "d680f5a84b216a00613b4a23bd560f04eb9d8b37",
+  "title": "Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "16c65f905981b83edd41c61efc3686bbe5b93904",
+  "title": "Chatting with Images for Introspective Visual Thinking",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "7c0424afc74c1730e3b38f006422809c50cc9f8a",
+  "title": "From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "99fa71c3fea1940989d24c9728bfb34f8da99102",
+  "title": "MosaicThinker: On-Device Visual Spatial Reasoning for Embodied AI via Iterative Construction of Space Representation",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "89566007a4e2040487233b62af71b7f6c2993408",
+  "title": "Thinking with Geometry: Active Geometry Integration for Spatial Reasoning",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "43576f7b21b987a0d77fd3b0f7d10c9727aff8af",
+  "title": "Vision-aligned Latent Reasoning for Multi-modal Large Language Model",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "10ea77467d5617a5e64e34fc79e258697ba22432",
+  "title": "PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "2f54188660704785f0fa68d5af6169190b7a5181",
+  "title": "MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "e3de5f78849b38d8d04b7c1fac0f2ce8d0abe742",
+  "title": "Lost in Space? Vision-Language Models Struggle with Relative Camera Pose Estimation",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "c9b6774e8cd8eb9d6b01c510c3538d4dafe38509",
+  "title": "OnlineSI: Taming Large Language Model for Online 3D Understanding and Grounding",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "3a2355e0d059b363989134812fab5af796a87daf",
+  "title": "Think3D: Thinking with Space for Spatial Reasoning",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "c1224d9c089505d92b0b74223fe9b114ab5f59a1",
+  "title": "CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "7ff62c63afb6cbdc26ad2a34d653b537dcb1c01c",
+  "title": "Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps",
+  "date": "2026-01-16"
+ },
+ {
+  "id": "d40a7d64ac2e56f9895875e2d2fe08eaea7c2986",
+  "title": "CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "d194bce16c4b51068dfad3cffba01a0eadc93416",
+  "title": "Can LLMs See Without Pixels? Benchmarking Spatial Intelligence from Textual Descriptions",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "243a6d4abd27a5d15040fc63dbd93322249dc3b0",
+  "title": "Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "e24af7842ecbcf5f122813f0d83b4954959198f8",
+  "title": "Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "bbf612ae159beeac29418b63bc7832c779beca62",
+  "title": "4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "3c888be74cbef8ba706c6568ac518fca19486d40",
+  "title": "EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "da02e819db82c73ad95cb3663e2b8ffa27c6f1f7",
+  "title": "DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "1631dc6bb80cde74966ad722842f9c3a3edcfa3e",
+  "title": "MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "2d8ad37389dde915df68cf203cf972785446cbcf",
+  "title": "SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "25b90ece4ad307d8e42732b6298e53810c381006",
+  "title": "SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "e72a06c2223e3f878b9bc0dbaddcef5ae221898c",
+  "title": "COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "82e8db6d344fed44b12301c89b95f0d72f778b90",
+  "title": "ReasonX: MLLM-Guided Intrinsic Image Decomposition",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "a46cf6f4a20c0c6e1beefb2d397d5f422d1281ab",
+  "title": "Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "37551eb6269bd1b84b7c39d29654c5b0f0ad0011",
+  "title": "Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "a10b5ba859eae87d5017a649882c85893447780e",
+  "title": "S2-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "88df9aaf190e392fa64d19e0c0ae5932a9b643fd",
+  "title": "SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "79c76649dc5ada12340ca474b1089506b41b287f",
+  "title": "Geometrically-Constrained Agent for Spatial Reasoning",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "16f5a5823aa224e82e7b185b742eb67bd008c921",
+  "title": "SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "3e9b812ecf09ffb0a67473c3e19745e4137efd0d",
+  "title": "G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "b43daa4bae16dd4a94fa106a970debf4f896f736",
+  "title": "Vision-Language Memory for Spatial Reasoning",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "bf0543ebb9b067181c238af95857a552b12204c7",
+  "title": "MonoSR: Open-Vocabulary Spatial Reasoning from Monocular Images",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "3c845f091b33523dbcb4c4e04fe0aed92eb3bef0",
+  "title": "LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "73132224425d6a180d7ae6c81bd4223d28fc4378",
+  "title": "InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "01cb08361199d6e10a5b1ce1baae55b63a374b83",
+  "title": "A Multi-Agent Workflow for 3D Visualization Code Generation and Evaluation Based on Spatial-MLLM",
+  "date": "2025-11-21"
+ },
+ {
+  "id": "2e2106b1efb188ca9e10e9be69b7b30e357a7e16",
+  "title": "On the Promises and Challenges of AI-Powered XR Glasses as Embodied Software",
+  "date": "2025-11-19"
+ },
+ {
+  "id": "f35a8e0d8e80697fe1118c209305f980d422dfd5",
+  "title": "Video Spatial Reasoning with Object-Centric 3D Rollout",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "1c14b22e6852dd9e17062e697bfcb087753e1944",
+  "title": "Scaling Spatial Intelligence with Multimodal Foundation Models",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "3d66040e7325b25fc328775e2fd4b9a3fd7c0cf6",
+  "title": "Part-X-MLLM: Part-aware 3D Multimodal Large Language Model",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "02b2a9a90a11ee19fd379ec7bce79d570f7dd18c",
+  "title": "Spatial Reasoning in Multimodal Large Language Models: A Survey of Tasks, Benchmarks and Methods",
+  "date": "2025-11-14"
+ },
+ {
+  "id": "c3b5e68e244b0566d6f4da80a9fb89c7eda8adcd",
+  "title": "Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "b54862b8d98917c423ae5954e4ee31e2b158d9a8",
+  "title": "Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale",
+  "date": "2025-11-07"
+ },
+ {
+  "id": "8dcae214beed7e9f129e4021792965f2f904c9b8",
+  "title": "Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "9036a5ed6bc3c7cc3ff51bb15b073a7a0dd22f85",
+  "title": "A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "b19445c894634e1fbb2c61e3b6fd51a2a7fd47ae",
+  "title": "Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "72c82250b959bc1ae4fa8ed771b3f6587c6d0614",
+  "title": "Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "9a7fcc41c5da78aa961eb8225a55f1df6539b649",
+  "title": "From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "1f6838e76370c013e05e77b07544d5581fd16c25",
+  "title": "GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "3127e4b8dd53d5a6f34c598ed02705769fd5eb60",
+  "title": "Reasoning in Space via Grounding in the World",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "dac9379291452dd107d0ebefbae6443ffdd80e19",
+  "title": "Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "6cdf664d68d6362b3704156365387fab9fc319d4",
+  "title": "DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "b9bf676ac56fbbb09fcd5877fa7b6fe0899dd3d7",
+  "title": "SpaceVista: All-Scale Visual Spatial Reasoning from mm to km",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "d06e9888daa3f5c59d4fd49d58b53487e538e274",
+  "title": "SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "d7fab55747f876aaddf6a832b9f6ca9fab338eb7",
+  "title": "TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "53449b9e905065e2f812eff7dd1339b05a8b4ae2",
+  "title": "Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "ef2194e1be2363581697d69bd7700cbbc7da56b8",
+  "title": "Spatial CAPTCHA: Generatively Benchmarking Spatial Reasoning for Human-Machine Differentiation",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "ddfaea18593ad0b71c8e33fc009778ea27eae293",
+  "title": "GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "07ba7629ff0e2c9edb2eef8faaaf8478e156b347",
+  "title": "Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "4a80e9ccdfbc4fd97cea8d7cc15769d6d1a8fd7d",
+  "title": "VideoAnchor: Reinforcing Subspace-Structured Visual Cues for Coherent Visual-Spatial Reasoning",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "743473c549534d70e9d30332fede05fdceae6f78",
+  "title": "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "69133f7e0d69b07a20dd01366ad59d5f82c267ab",
+  "title": "How Far are VLMs from Visual Spatial Intelligence? A Benchmark-Driven Perspective",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "1ba3bed03e8a5761f6f3c0a8b2cdf316abf4fcf7",
+  "title": "Leveraging Geometric Priors for Unaligned Scene Change Detection",
+  "date": "2025-09-14"
+ },
+ {
+  "id": "6af99b63e9a2d59774ecdae51c1aa6fc900b9fb3",
+  "title": "Why Do MLLMs Struggle with Spatial Understanding? A Systematic Analysis from Data to Architecture",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "f9c7d9cec1ebddd753fd7a32ec56c313204c6a13",
+  "title": "Beyond Pixels: Introducing Geometric-Semantic World Priors for Video-based Embodied Models via Spatio-temporal Alignment",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "c8e4578b6ca4cd2494436db47052e0936ecdcf25",
+  "title": "RynnEC: Bringing MLLMs into Embodied World",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "6357bf246a818d4e9fb098dd4b475706f1d7d8f8",
+  "title": "Generalizable Operating Room Expert with Multimodal Enhancement",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "00108f2b138ea93b8276d66d962c5548f8f4719f",
+  "title": "Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "1bf05425e76748485f44750b5cb5b0bb298ca06f",
+  "title": "Position: Reasoning After Perception Means Reasoning Without Vision",
+  "date": "2025-07-21"
+ },
+ {
+  "id": "60b5fa0b0713ac46251a7781de6764d086dc0eba",
+  "title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling",
+  "date": "2025-07-10"
+ },
+ {
+  "id": "901409983f188a20231d7fb923519dce5b7a2fac",
+  "title": "Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "d06fc21256ba23dc62fd2d42790e20ccd3adc4bd",
+  "title": "AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "170c0c3f7d6dfa82752399f6698258a19d3cd52f",
+  "title": "E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "054b40c7582366866f0a35160469ead3750fcab1",
+  "title": "MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "d45adcfac2b0a6dbbed132d216e33833be4cdea3",
+  "title": "Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "ee6b83a857d6b454399c5752ec8b9be295f8f845",
+  "title": "SpatialScore: Towards Comprehensive Evaluation for Spatial Intelligence",
+  "date": "2025-05-22"
+ }
+]

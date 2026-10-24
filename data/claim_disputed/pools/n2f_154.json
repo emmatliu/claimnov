@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1b9c6022598085dd892f360122c0fa4c630b3f18",
+   "title": "Robustness May Be at Odds with Accuracy",
+   "is_B": true
+  },
+  {
+   "id": "d3c071dbbb4520ed5875f7e064a9da87240534db",
+   "title": "Spatially Transformed Adversarial Examples",
+   "date": "2018-01-08"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "d295a620fc10a7a656dc693e1b1bf668d1508a8e",
+   "title": "Robust Physical-World Attacks on Deep Learning Models",
+   "date": "2017-07-27"
+  },
+  {
+   "id": "e2a85a6766b982ff7c8980e57ca6342d22493827",
+   "title": "Adversarial Machine Learning at Scale",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "99cb08c76c120599abd1d1637e32aaf577f38d39",
+   "title": "Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods",
+   "date": "2017-05-20"
+  },
+  {
+   "id": "b544ca32b66b4c9c69bcfa00d63ee4b799d8ab6b",
+   "title": "Adversarial examples in the physical world",
+   "date": "2016-07-08"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "f4b434c3ab979ecdd71bbed894b34de77590c6dd",
+   "title": "Adversarial Risk and the Dangers of Evaluating Against Weak Attacks",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "7005fe514458b538b7516b41af5f5e1971154070",
+   "title": "Adversarial vulnerability for any classifier",
+   "date": "2018-02-23"
+  },
+  {
+   "id": "804fb9542f4f56e264dd2df57c255a9a2011c00f",
+   "title": "Adversarially Robust Generalization Requires More Data",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "966e3c7a65ec75a6359b55c0cecaf3896d318432",
+   "title": "Certified Defenses against Adversarial Examples",
+   "date": "2018-01-29"
+  },
+  {
+   "id": "f02441fccec9ed54dd7e21a17736933c84853011",
+   "title": "Analysis of classifiers\u2019 robustness to adversarial perturbations",
+   "date": "2015-02-09"
+  },
+  {
+   "id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+   "title": "Towards Evaluating the Robustness of Neural Networks",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "299a6815b8bb46355f8b8194b5705e62d753aed1",
+   "title": "Analyzing the Robustness of Nearest Neighbors to Adversarial Examples",
+   "date": "2017-06-13"
+  },
+  {
+   "id": "4b23012689e0f17912fb38d4984775e567cff8d6",
+   "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "818c52f4ba56cb8cf152ad614f2f4803057a5cfe",
+   "title": "Certifying Some Distributional Robustness with Principled Adversarial Training",
+   "date": "2017-10-29"
+  },
+  {
+   "id": "2c20e7220269b28fb1935a83d0e7f2db330aa691",
+   "title": "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning",
+   "date": "2017-12-08"
+  },
+  {
+   "id": "821fd5bed14d6d06c25fbf44123fd7be382f7b4e",
+   "title": "Is Robustness the Cost of Accuracy? - A Comprehensive Study on the Robustness of 18 Deep Image Classification Models",
+   "date": "2018-08-05"
+  },
+  {
+   "id": "ac8e45a0451ac578f17f631fc2663ee4b98b83a9",
+   "title": "Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients",
+   "date": "2017-11-26"
+  }
+ ],
+ "n_candidates": 46,
+ "sims": [
+  0.7443,
+  0.731,
+  0.6869,
+  0.6823,
+  0.6822,
+  0.6738,
+  0.6671,
+  0.6608,
+  0.6537,
+  0.6507,
+  0.6426,
+  0.6383,
+  0.6378,
+  0.6373,
+  0.634,
+  0.6293,
+  0.6177,
+  0.6084,
+  0.6037
+ ]
+}

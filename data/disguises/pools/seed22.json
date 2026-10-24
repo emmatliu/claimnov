@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_ed46843660ba48b88f70f0440ab76311853b1de4",
+   "title": "Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off",
+   "date": "2026-06-26",
+   "is_B": true
+  },
+  {
+   "id": "267fc8b926f00da22ed465cdc8d1db2b928f0ccc",
+   "title": "Fair and Optimal Classification via Post-Processing",
+   "date": "2022-11-03"
+  },
+  {
+   "id": "810b9fa1e50768a10367fa8787ecdac579ba72a4",
+   "title": "Fair Data Representation for Machine Learning at the Pareto Frontier",
+   "date": "2022-01-02"
+  },
+  {
+   "id": "caa2da5a4b5e0951ecbf0a0fcdf364f7ae3bfe34",
+   "title": "Accuracy and fairness trade-offs in machine learning: a stochastic multi-objective approach",
+   "date": "2020-08-03"
+  },
+  {
+   "id": "3423175b85be002563e8e6e3758adb27bf476527",
+   "title": "FairTrade: Achieving Pareto-Optimal Trade-Offs between Balanced Accuracy and Fairness in Federated Learning",
+   "date": "2024-03-24"
+  },
+  {
+   "id": "34b4ffb4d7e9a80cc56d3b49f328fb8ec8af3c46",
+   "title": "Achievable Fairness on Your Data With Utility Guarantees",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "c2c9d0c59433102625ee4889a3e99e8710616182",
+   "title": "Inherent Tradeoffs in Learning Fair Representation",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "84055584df915d91297e5af3e686c987dfc9ebc8",
+   "title": "Fair Bilevel Neural Network (FairBiNN): On Balancing fairness and accuracy via Stackelberg Equilibrium",
+   "date": "2024-10-21"
+  },
+  {
+   "id": "39b1988007f1a8d519bc1825b2dd9c6c7c6c5971",
+   "title": "Bayes-Optimal Classifiers under Group Fairness",
+   "date": "2022-02-20"
+  },
+  {
+   "id": "e3ab79bcc1a09faf4ef38e2e47dbaa5161e7f23a",
+   "title": "Flexible Regularization Approaches for Fairness in Deep Learning",
+   "date": "2020-12-14"
+  },
+  {
+   "id": "28930f1472417b25ca42d251c772e38c75395d84",
+   "title": "Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals",
+   "date": "2018-09-11"
+  },
+  {
+   "id": "0bdb738ea0f49b045a3232c61d3cc5734bcf1e93",
+   "title": "Empirical Risk Minimization under Fairness Constraints",
+   "date": "2018-02-01"
+  },
+  {
+   "id": "6bde314971104348c70960e20fb3c3bd6cf8271d",
+   "title": "Meta Optimality for Demographic Parity Constrained Regression via Post-Processing",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "a631367800bcacd28206fa70d4f7ba9abbc1d8de",
+   "title": "f-FERM: A Scalable Framework for Robust Fair Empirical Risk Minimization",
+   "date": "2023-12-06"
+  },
+  {
+   "id": "57797e2432b06dfbb7debd6f13d0aab45d374426",
+   "title": "Algorithmic Decision Making and the Cost of Fairness",
+   "date": "2017-01-28"
+  },
+  {
+   "id": "f71e894f8569084d17c2afba25a637c6fe839fea",
+   "title": "An adversarial training framework for mitigating algorithmic biases in clinical machine learning",
+   "date": "2023-03-29"
+  },
+  {
+   "id": "768a0b0c53681a2fe901660dc1596d4dc11cb125",
+   "title": "Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey",
+   "date": "2023-09-25"
+  },
+  {
+   "id": "55c2c80a7d16049f5d4f5df53d4af63653eba2ed",
+   "title": "A minimax framework for quantifying risk-fairness trade-off in regression",
+   "date": "2020-07-28"
+  },
+  {
+   "id": "d42b11ce90c9c69a20ed015b73dc33e0e4100a7b",
+   "title": "Equality of Opportunity in Supervised Learning",
+   "date": "2016-10-07"
+  },
+  {
+   "id": "d7614ce109ae6bbfac6fa5908f42186fea53c611",
+   "title": "A framework for bilevel optimization that enables stochastic and global variance reduction algorithms",
+   "date": "2022-01-31"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.7352,
+  0.7135,
+  0.6998,
+  0.6977,
+  0.6721,
+  0.6674,
+  0.6463,
+  0.6381,
+  0.6295,
+  0.5989,
+  0.5964,
+  0.5854,
+  0.584,
+  0.5825,
+  0.5658,
+  0.5637,
+  0.5566,
+  0.5292,
+  0.4363
+ ]
+}

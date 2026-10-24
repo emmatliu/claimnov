@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_4049b03a607d156416c80b143789713d5e43d6ad",
+   "title": "CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal",
+   "date": "2026-03-23",
+   "is_B": true
+  },
+  {
+   "id": "5a47e31bd29112f2fca89427022a671bd9866b84",
+   "title": "DiffSTR: Controlled Diffusion Models for Scene Text Removal",
+   "date": "2024-10-29"
+  },
+  {
+   "id": "f88b4cb3999cb2cb63d4414b7c046f67b79bdd89",
+   "title": "MiniMax-Remover: Taming Bad Noise Helps Video Object Removal",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "1206b05eae5a06ba662ae79fb291b50e359c4f42",
+   "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+   "date": "2023-11-25"
+  },
+  {
+   "id": "92b164c1e67017acb1051a6261d86bb3b842d4f0",
+   "title": "DiffuEraser: A Diffusion Model for Video Inpainting",
+   "date": "2025-01-17"
+  },
+  {
+   "id": "a31d99df10624f88329c1e725ca4bbfbcafb355b",
+   "title": "MTRNet++: One-stage Mask-based Scene Text Eraser",
+   "date": "2019-12-16"
+  },
+  {
+   "id": "38c29254113bbc6a98048fac368cb1914e2429c9",
+   "title": "VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control",
+   "date": "2025-03-07"
+  },
+  {
+   "id": "188feb685237ffbfd50aa2419e5ae30381cc967d",
+   "title": "EraseNet: End-to-End Text Removal in the Wild",
+   "date": "2020-08-28"
+  },
+  {
+   "id": "5d60e5e63a8009060ab5a3c1209e19e4dfa948cc",
+   "title": "EraserDiT: Fast Video Inpainting with Diffusion Transformer Model",
+   "date": "2025-06-15"
+  },
+  {
+   "id": "4e9866b3cb5921e061a810979979a9efe9311304",
+   "title": "MTRNet: A Generic Scene Text Eraser",
+   "date": "2019-03-11"
+  },
+  {
+   "id": "398c7947bb75cdd996194363d5bb602a883c3cf4",
+   "title": "Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing",
+   "date": "2024-05-07"
+  },
+  {
+   "id": "098b68fe34dba7fc4e206035ae2d149944bbca8f",
+   "title": "Learning Blind Video Temporal Consistency",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "17768b24cb1080bab84decacbb5852de14eaa6e7",
+   "title": "VIP: Video Inpainting Pipeline for Real World Human Removal",
+   "date": "2025-04-03"
+  },
+  {
+   "id": "3b2a675bb617ae1a920e8e29d535cdf27826e999",
+   "title": "Video Diffusion Models",
+   "date": "2022-04-07"
+  },
+  {
+   "id": "a14566822591ca00783e6c9b729b5425c81805de",
+   "title": "Understanding Attention Mechanism in Video Diffusion Models",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "6d585b9bf4fd001596c855d3a8f9e45666d5a6a4",
+   "title": "MTV-Inpaint: Multi-Task Long Video Inpainting",
+   "date": "2025-03-14"
+  },
+  {
+   "id": "1fa298e3f745099d39ca5bd088fcb62f87e8cc2f",
+   "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+   "date": "2024-12-03"
+  },
+  {
+   "id": "03eba5b503218d4b3691618fbf698314bdc69089",
+   "title": "Deep Learning-Based Image and Video Inpainting: A Survey",
+   "date": "2024-01-07"
+  },
+  {
+   "id": "b59233aab8364186603967bc12d88af48cc0992d",
+   "title": "Towards Accurate Generative Models of Video: A New Metric & Challenges",
+   "date": "2018-12-03"
+  },
+  {
+   "id": "be96ecfcff570ed022ef3c77870309ca3ef695c0",
+   "title": "ProPainter: Improving Propagation and Transformer for Video Inpainting",
+   "date": "2023-09-07"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.5723,
+  0.5714,
+  0.5664,
+  0.5595,
+  0.5568,
+  0.5552,
+  0.5358,
+  0.52,
+  0.5177,
+  0.5151,
+  0.5076,
+  0.5075,
+  0.5029,
+  0.4986,
+  0.4815,
+  0.4664,
+  0.4548,
+  0.4539,
+  0.4531
+ ]
+}

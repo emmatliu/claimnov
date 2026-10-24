@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1fe1ef8c2dceb376569c7fa6aac678b00c3fe449",
+   "title": "FrequencyLowCut Pooling - Plug & Play against Catastrophic Overfitting",
+   "is_B": true
+  },
+  {
+   "id": "21b192d3d4f092fdc06c8dd799d86fb83b3099cf",
+   "title": "Understanding Catastrophic Overfitting in Single-step Adversarial Training",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "2eda2921a8da4b325f9d05f556594a5884c398a7",
+   "title": "Overfitting in adversarially robust deep learning",
+   "date": "2020-02-26"
+  },
+  {
+   "id": "24cf86a418c9471e8001961c87697c825f0bba8f",
+   "title": "Understanding and Improving Fast Adversarial Training",
+   "date": "2020-07-06"
+  },
+  {
+   "id": "e2a85a6766b982ff7c8980e57ca6342d22493827",
+   "title": "Adversarial Machine Learning at Scale",
+   "date": "2016-11-03"
+  },
+  {
+   "id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+   "title": "Explaining and Harnessing Adversarial Examples",
+   "date": "2014-12-19"
+  },
+  {
+   "id": "1bcbf1efb3f81f0e777b4b754cf5b9789841d12f",
+   "title": "Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "6d4a87759917132913319960389f17fa1fe8b630",
+   "title": "Fast is better than free: Revisiting adversarial training",
+   "date": "2020-01-12"
+  },
+  {
+   "id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "date": "2017-06-19"
+  },
+  {
+   "id": "5c133ae0f33cb7a610a1026945358365937bcc0b",
+   "title": "Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?",
+   "date": "2021-12-02"
+  },
+  {
+   "id": "0563077a0dbd532c19e35e60e7188ba661fb886e",
+   "title": "Relating Adversarially Robust Generalization to Flat Minima",
+   "date": "2021-04-09"
+  },
+  {
+   "id": "762752eb9a9a92b028026b17c46d50474ddf3f06",
+   "title": "Fixing Data Augmentation to Improve Adversarial Robustness",
+   "date": "2021-03-02"
+  },
+  {
+   "id": "52693bcf4627bdbc31734e7f3dbcf5ea7eef4d35",
+   "title": "DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks",
+   "date": "2015-11-14"
+  },
+  {
+   "id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+   "title": "Towards Evaluating the Robustness of Neural Networks",
+   "date": "2016-08-16"
+  },
+  {
+   "id": "9c8d46b59e871e18d8d2e1ec1aa9b96d2f3d7342",
+   "title": "Improving Robustness using Generated Data",
+   "date": "2021-10-18"
+  },
+  {
+   "id": "18939eadc9c4460c8385e0591cde214a1ead067b",
+   "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+   "date": "2020-03-03"
+  },
+  {
+   "id": "99a599d8fe56529f47e78243ed61250190f96196",
+   "title": "Geometry-aware Instance-reweighted Adversarial Training",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "5ca131d97019ff1e40a92fa1c9c4c5179632744a",
+   "title": "Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses",
+   "date": "2018-11-23"
+  },
+  {
+   "id": "49b64383fe36268410c430352637ed23b16820c5",
+   "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+   "date": "2019-03-28"
+  },
+  {
+   "id": "17293cd36ee5e7ec37dcec1d5ab85f9b77ad65d5",
+   "title": "Do Adversarially Robust ImageNet Models Transfer Better?",
+   "date": "2020-07-16"
+  }
+ ],
+ "n_candidates": 39,
+ "sims": [
+  0.7565,
+  0.672,
+  0.6216,
+  0.606,
+  0.6049,
+  0.5931,
+  0.5917,
+  0.5905,
+  0.5849,
+  0.5826,
+  0.5809,
+  0.5634,
+  0.5616,
+  0.5331,
+  0.5298,
+  0.5245,
+  0.5238,
+  0.521,
+  0.5164
+ ]
+}

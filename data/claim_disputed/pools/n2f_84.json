@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_e0779bca8faec33918338f98c0014e387993d388",
+   "title": "Neural Storyboard Artist: Visualizing Stories with Coherent Image Sequences",
+   "is_B": true
+  },
+  {
+   "id": "3b87e795f1f501843f7f99e83e38f125f6af8600",
+   "title": "StoryGAN: A Sequential Conditional GAN for Story Visualization",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "a50edc0c1b68634b33770bd0220fb8c3f27503f5",
+   "title": "Show Me a Story: Towards Coherent Neural Story Illustration",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "7f1b111f0bb703b0bd97aba505728a9b0d9b2a54",
+   "title": "Deep Fragment Embeddings for Bidirectional Image Sentence Mapping",
+   "date": "2014-06-21"
+  },
+  {
+   "id": "927987a48c2a519bbc097d8b6c925b64a85b7d8e",
+   "title": "Visual Storytelling",
+   "date": "2016-04-13"
+  },
+  {
+   "id": "faa093a53b83f0e9c35a0bfbcacee0a16f8eb6d1",
+   "title": "VSE++: Improved Visual-Semantic Embeddings",
+   "date": "2017-07-18"
+  },
+  {
+   "id": "426ce52b0c4ac73e6226c532d4d8a2171f12e9fb",
+   "title": "Emotion Reinforced Visual Storytelling",
+   "date": "2019-06-05"
+  },
+  {
+   "id": "f322eef6a4c965910e03f6997b1bc2acd413e273",
+   "title": "Learning Semantic Concepts and Order for Image and Sentence Matching",
+   "date": "2017-12-06"
+  },
+  {
+   "id": "55e022fb7581bb9e1fce678d21fb25ffbb3fbb88",
+   "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+   "date": "2014-12-06"
+  },
+  {
+   "id": "b27e791e843c924ef052981b79490ab59fc0433d",
+   "title": "Learning Deep Structure-Preserving Image-Text Embeddings",
+   "date": "2015-11-19"
+  },
+  {
+   "id": "45dd2a3cd7c27f2e9509b023d702408f5ac11c9d",
+   "title": "Stacked Cross Attention for Image-Text Matching",
+   "date": "2018-03-21"
+  },
+  {
+   "id": "d1e3f6d69c1a7bb2bc97273fb18470df92b1c7a4",
+   "title": "Photographic Text-to-Image Synthesis with a Hierarchically-Nested Adversarial Network",
+   "date": "2018-02-26"
+  },
+  {
+   "id": "883224c3b28b0563a393746066738f52e6fcc70d",
+   "title": "To Create What You Tell: Generating Videos from Captions",
+   "date": "2017-10-23"
+  },
+  {
+   "id": "2e36ea91a3c8fbff92be2989325531b4002e2afc",
+   "title": "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models",
+   "date": "2014-11-10"
+  },
+  {
+   "id": "f6335a158a3f4fcfffe74f2df1d55d835bf95095",
+   "title": "A Retrieve-and-Edit Framework for Predicting Structured Outputs",
+   "date": "2018-12-04"
+  },
+  {
+   "id": "ea67d2d5f2a7d5760ec6b67ea93d11dd5affa921",
+   "title": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks",
+   "date": "2016-12-10"
+  },
+  {
+   "id": "6c7f040a150abf21dbcefe1f22e0f98fa184f41a",
+   "title": "Generative Adversarial Text to Image Synthesis",
+   "date": "2016-05-17"
+  },
+  {
+   "id": "e941e9a078a1fdbaba1d72af19a0b9800c6625d8",
+   "title": "Retrieve and Refine: Improved Sequence Generation Models For Dialogue",
+   "date": "2018-08-14"
+  },
+  {
+   "id": "afcf4dbd2ef300e5c4b35043d4fbe516807cdf7d",
+   "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+   "date": "2016-02-23"
+  },
+  {
+   "id": "f651593fa6c83d717fc961482696a53b6fca5ab5",
+   "title": "Dual Attention Networks for Multimodal Reasoning and Matching",
+   "date": "2016-11-02"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.6344,
+  0.6271,
+  0.6143,
+  0.6095,
+  0.5929,
+  0.5889,
+  0.5886,
+  0.5842,
+  0.5794,
+  0.571,
+  0.5706,
+  0.5439,
+  0.5394,
+  0.5249,
+  0.5146,
+  0.5122,
+  0.5118,
+  0.5086,
+  0.5057
+ ]
+}

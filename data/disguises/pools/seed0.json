@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_bd1cc3992c59e80a2e6acf2d8babe5fc73af34ad",
+   "title": "STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control",
+   "date": "2026-06-07",
+   "is_B": true
+  },
+  {
+   "id": "886c869be8aa43dcce51a204292d861545064400",
+   "title": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy",
+   "date": "2024-10-04"
+  },
+  {
+   "id": "29ccab4a37fa0082718308d33fef0ed6367d1ee7",
+   "title": "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration",
+   "date": "2025-05-30"
+  },
+  {
+   "id": "5bf89bd184891b890c693cd8e4e54e02a9c6ce10",
+   "title": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection",
+   "date": "2024-10-16"
+  },
+  {
+   "id": "f06f347b28656a5453af8239a705b02a13c8e28a",
+   "title": "Palu: KV-Cache Compression with Low-Rank Projection",
+   "date": "2024-07-30"
+  },
+  {
+   "id": "a3e000e0d7f64c1d094c2a8bf6f43992cbabe91b",
+   "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "b085968c4362fb286ad6c5ef71a5db9630da0498",
+   "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+   "date": "2024-01-31"
+  },
+  {
+   "id": "cadb8aa5ee529a865cdc90c22cddb2bcf6895217",
+   "title": "CommVQ: Commutative Vector Quantization for KV Cache Compression",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "6bae288e831c26e0fa8724578558daa2cd0f4780",
+   "title": "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression",
+   "date": "2024-08-10"
+  },
+  {
+   "id": "419ef8266bfd1edd75d96c7bc8c667ade3d689a9",
+   "title": "Accurate KV Cache Quantization with Outlier Tokens Tracing",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "4cbf0b9fd18a1850ce588244b073927c372a0d4f",
+   "title": "Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs",
+   "date": "2025-02-20"
+  },
+  {
+   "id": "83b90f4a0ae4cc214eb3cc140ccfef9cd99fac05",
+   "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+   "date": "2023-09-12"
+  },
+  {
+   "id": "fdc53c2c10742464087c0525f77e32604827a21d",
+   "title": "Efficient Streaming Language Models with Attention Sinks",
+   "date": "2023-09-29"
+  },
+  {
+   "id": "8fbf2eb4587b5c271979c3f96eee1b109496143e",
+   "title": "QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "661d142c23cb2a3207d5f1ba2ac7ff61f2d4fb2f",
+   "title": "Triton: an intermediate language and compiler for tiled neural network computations",
+   "date": "2019-06-22"
+  },
+  {
+   "id": "5d1ca53a0b41f4f5c960cd9997556d7180d6b88d",
+   "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+   "date": "2024-07-11"
+  },
+  {
+   "id": "823ca4778e1027f2f0b356df051d762dcecaaba0",
+   "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+   "date": "2023-07-17"
+  },
+  {
+   "id": "53a803388e83ae89261624099d7be4287ace67cb",
+   "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+   "date": "2024-05-07"
+  },
+  {
+   "id": "4c14b1c41cb0aaa68f5d3f4a432f55e7199657ea",
+   "title": "AI and Memory Wall",
+   "date": "2024-03-21"
+  },
+  {
+   "id": "c9603ec967879c24973b5bd48861df2e5555932e",
+   "title": "LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens",
+   "date": "2024-02-21"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.8025,
+  0.7608,
+  0.7569,
+  0.751,
+  0.7286,
+  0.7029,
+  0.7028,
+  0.6913,
+  0.6623,
+  0.6273,
+  0.5548,
+  0.5261,
+  0.5086,
+  0.4954,
+  0.4691,
+  0.4667,
+  0.4372,
+  0.4159,
+  0.4076
+ ]
+}

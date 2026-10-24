@@ -1,0 +1,22 @@
+{
+ "caption": "Claim retrieval vs reviewer-named anticipating work; distractors = target's own resolved references (~20 same-dim)",
+ "data": {
+  "overall": {
+   "n": 150,
+   "s@1": 0.25,
+   "s@5": 0.55,
+   "s@10": 0.79,
+   "s@13": 0.9
+  },
+  "by_dimension_s@10": {
+   "Problem": 0.87,
+   "Methodology": 0.8,
+   "Resource": 0.82,
+   "Result": 0.67
+  },
+  "uncited_vs_cited_top5": {
+   "uncited": 0.66,
+   "cited": 0.5
+  }
+ }
+}

@@ -1,0 +1,872 @@
+[
+ {
+  "id": "62c35559859ad9bd0a14891a2901f4f47d50ccaf",
+  "title": "Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree",
+  "date": "2024-12-17"
+ },
+ {
+  "id": "81039ad704a0c23059677d0bbf097b9bc90326ba",
+  "title": "Learning Harmonized Representations for Speculative Sampling",
+  "date": "2024-08-28"
+ },
+ {
+  "id": "40e8af970329135ec95057d73e239dab805ad128",
+  "title": "The Llama 3 Herd of Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "cab58a0263d454604896dce6b8fbf4df1dd99ff0",
+  "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees",
+  "date": "2024-06-24"
+ },
+ {
+  "id": "05bde17d7cfe69fff3ab574d2521b9d806fc901e",
+  "title": "SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices",
+  "date": "2024-06-04"
+ },
+ {
+  "id": "197482f191ef8bbb9c73e5e18289e736af59f709",
+  "title": "Nearest Neighbor Speculative Decoding for LLM Generation and Attribution",
+  "date": "2024-05-29"
+ },
+ {
+  "id": "d50c7d1287d93539f5c4cc312ae9cfaaaf570fe6",
+  "title": "Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting",
+  "date": "2024-04-29"
+ },
+ {
+  "id": "eee108b3e51e89d160d1116935e062c4d169b475",
+  "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+  "date": "2024-04-25"
+ },
+ {
+  "id": "d0deaec3e1f74701ac43600d9e64c5c969be7391",
+  "title": "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+  "date": "2024-04-18"
+ },
+ {
+  "id": "26128d9ec47f044de6f0186f86c0c7fb3ccef77f",
+  "title": "Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding",
+  "date": "2024-02-19"
+ },
+ {
+  "id": "d0b049018c9e21b7b95c179d33e1e2ac9113c85b",
+  "title": "Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding",
+  "date": "2024-02-07"
+ },
+ {
+  "id": "f1a9e0830bc36c048fa4659beaa62609869895b5",
+  "title": "Break the Sequential Dependency of LLM Inference Using Lookahead Decoding",
+  "date": "2024-02-03"
+ },
+ {
+  "id": "382d3b37f53fd6118ab979cb56f7f3d13eb0951d",
+  "title": "GliDe with a CaPE: A Low-Hassle Method to Accelerate Speculative Decoding",
+  "date": "2024-02-03"
+ },
+ {
+  "id": "1b5db3170c195508ff24fee8eda0d4987e806f0b",
+  "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+  "date": "2024-01-26"
+ },
+ {
+  "id": "57e7af0b69325fafb371ef5d502e39ef9c90ef7e",
+  "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+  "date": "2024-01-19"
+ },
+ {
+  "id": "0cee098244c9978032702862a43a09f468f691a4",
+  "title": "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+  "date": "2024-01-15"
+ },
+ {
+  "id": "eb95c327260725498404eb43ec370d419b8d92c7",
+  "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+  "date": "2023-12-12"
+ },
+ {
+  "id": "4067a6f57f708dec4459d3d4322373e06c2b168c",
+  "title": "PaSS: Parallel Speculative Sampling",
+  "date": "2023-11-22"
+ },
+ {
+  "id": "ea1f648988c632a6dbab6d8b88432456aa021cfb",
+  "title": "SpecTr: Fast Speculative Decoding via Optimal Transport",
+  "date": "2023-10-23"
+ },
+ {
+  "id": "f206d34afed6a5705757f96ea97c7bfb9e1a83cd",
+  "title": "SPEED: Speculative Pipelined Execution for Efficient Decoding",
+  "date": "2023-10-18"
+ },
+ {
+  "id": "83b90f4a0ae4cc214eb3cc140ccfef9cd99fac05",
+  "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+  "date": "2023-09-12"
+ },
+ {
+  "id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+  "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+  "date": "2023-07-18"
+ },
+ {
+  "id": "d988eb48e8b4e471f5df9d081bfc32db0781e6bf",
+  "title": "Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding",
+  "date": "2023-07-12"
+ },
+ {
+  "id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+  "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+  "date": "2023-06-09"
+ },
+ {
+  "id": "a122863d239643453195424c04067e89406246e1",
+  "title": "Enhancing Chat Language Models by Scaling High-quality Instructional Conversations",
+  "date": "2023-05-23"
+ },
+ {
+  "id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+  "title": "LLaMA: Open and Efficient Foundation Language Models",
+  "date": "2023-02-27"
+ },
+ {
+  "id": "a1f8082505c7e90b0a033e1b9da0a97d67aad66c",
+  "title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+  "date": "2023-02-02"
+ },
+ {
+  "id": "d8e9f8c8a37cb4cd26b92ad0d942d641cd512644",
+  "title": "Fast Inference from Transformers via Speculative Decoding",
+  "date": "2022-11-30"
+ },
+ {
+  "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+  "title": "Training Verifiers to Solve Math Word Problems",
+  "date": "2021-10-27"
+ },
+ {
+  "id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+  "title": "Evaluating Large Language Models Trained on Code",
+  "date": "2021-07-07"
+ },
+ {
+  "id": "3efd4b048dd7544333092332bccc3f0aea79f5c7",
+  "title": "Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding",
+  "date": "2021-06-09"
+ },
+ {
+  "id": "d06bda5e759c8e8569754d8f7235cf1a9a1e9985",
+  "title": "I-BERT: Integer-only BERT Quantization",
+  "date": "2021-01-05"
+ },
+ {
+  "id": "1b0c8b26affd13e10ace5770e85478d60dcc368e",
+  "title": "GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference",
+  "date": "2020-05-08"
+ },
+ {
+  "id": "ce106590145e89ea4b621c99665862967ccf5dac",
+  "title": "Q8BERT: Quantized 8Bit BERT",
+  "date": "2019-10-14"
+ },
+ {
+  "id": "745e4b36a1759177871288cae51fbae0b873b5e5",
+  "title": "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT",
+  "date": "2019-09-12"
+ },
+ {
+  "id": "5e04881e91bff952d102d967c4ffb498ec30d4af",
+  "title": "Blockwise Parallel Decoding for Deep Autoregressive Models",
+  "date": "2018-11-01"
+ },
+ {
+  "id": "d2e4147eecae6f914e9e1e9aece8fdd2eaed809f",
+  "title": "Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations",
+  "date": "2016-09-22"
+ },
+ {
+  "id": "f37076f426023241f19cdc2fb0a0fd733a6fa7fa",
+  "title": "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond",
+  "date": "2016-02-19"
+ },
+ {
+  "id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+  "title": "Distilling the Knowledge in a Neural Network",
+  "date": "2015-03-09"
+ },
+ {
+  "id": "30d79988d436291c5dcb05f1e8cf7a998dd03e82",
+  "title": "LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "60db55f82fe8f2f31fa924f945d90509bb957a37",
+  "title": "MineDraft: A Framework for Batch Parallel Speculative Decoding",
+  "date": "2026-02-24"
+ },
+ {
+  "id": "0cbf050bd3b32bb602e8bd1a8e006ae8fcdf4dd4",
+  "title": "Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding",
+  "date": "2026-02-19"
+ },
+ {
+  "id": "80d2a4b01a1c5f53e6a7abb10bc940dbb3bd445f",
+  "title": "MoE-Spec: Expert Budgeting for Efficient Speculative Decoding",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "71799b267e9c2ee18b7a12bbb03b63b78d38973c",
+  "title": "SMoLPU: 122.1\u00b5J/Token Sparse MoE-Based Speculative Decoding Language Processing Unit with Adaptive-Offload NPU-CIM Core",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "a949433a93e3150bbcd0d228acd2454c77dbb6e3",
+  "title": "Speculative Decoding with a Speculative Vocabulary",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "522a0e9b1726f0946cf235e2b2deb1b55e000b3e",
+  "title": "Training-free Dropout Sampling for Semantic Token Acceptance in Speculative Decoding",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "243214a2a2fbd8546762b79047b89e21a4f41d15",
+  "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "c845ad4e6b8e1eae739b3b1043024c6b5b61a305",
+  "title": "Benchmarking the Energy Savings with Speculative Decoding Strategies",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "16fbb7c8d722ba1e542ec8ba8b3c9955c4c5f1d8",
+  "title": "AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "4b723f4e16fc8e30480422f499afd13c9c0d8991",
+  "title": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "a5c80bad3b95f238137b81231eb5705980d8fb62",
+  "title": "RelayGen: Intra-Generation Model Switching for Efficient Reasoning",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "547ab1d1b94b3d9bb33b27274d725662235fc588",
+  "title": "DAWN: Dependency-Aware Fast Inference for Diffusion LLMs",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "c8d8137c272621d330e44254d9e8d1d953341c02",
+  "title": "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "ffeb2106358139857e9fe3bff51ec81a88515906",
+  "title": "XShare: Collaborative in-Batch Expert Sharing for Faster MoE Inference",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "1b627b698379e9effc5d62029eb68ebc57624d58",
+  "title": "Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "3b0375d7784230665b4a05f74f02dfb36c55ade4",
+  "title": "TIDE: Temporal Incremental Draft Engine for Self-Improving LLM Inference",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "a2f33c7a74b21be7200190d8df8d6b596a895180",
+  "title": "Multi-Token Prediction via Self-Distillation",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "fd3e5f474f033acba872b87638a79cae6be37ecf",
+  "title": "DFlash: Block Diffusion for Flash Speculative Decoding",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "b9aafc2ad1d4249865782e1570ea4f658086ed95",
+  "title": "Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "996186b9fa743093936bae789c2c01ebfea98f6a",
+  "title": "SimpleTool: Parallel Decoding for Real-Time LLM Function Calling",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "e8d19e138936cebc44861e00bebf8a60b3a023d2",
+  "title": "PRISM: Parametrically Refactoring Inference for Speculative Sampling Draft Models",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "9171fc5ae5ae6c99a0e2520afe2f60a968f6a9f6",
+  "title": "P-EAGLE: Parallel-Drafting EAGLE with Scalable Training",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "196efe5874849386c8f877a574397a8e19ae0fe4",
+  "title": "PROBE: Co-Balancing Computation and Communication in MoE Inference via Real-Time Predictive Prefetching",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "78e7e76af18c2b4ffdb1b0dece52e1defbc2cd5e",
+  "title": "Characterizing Cloud-Native LLM Inference at Bytedance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "05fe3663002e116c296f825d14c44815fe2fdbd8",
+  "title": "TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "0ea1042a8e14e5fd73f70ca50d4bd32b9bc95b36",
+  "title": "StarSD: One-for-Many Speculative Decoding",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "f828bd11c1bb94c687e5037f9d4c86c5f39340c1",
+  "title": "Temporal Guidance for Large Language Models",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "27ed2d2304de18e4819e7a673ee01331ef7bf55c",
+  "title": "ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "0f4938f167d252c7e4b2a84f404b9461560e801f",
+  "title": "Scaling Embeddings Outperforms Scaling Experts in Language Models",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "e0dd5c76dfc256d0b97e5263bbd53c89058e9009",
+  "title": "ConfSpec: Efficient Step-Level Speculative Reasoning via Confidence-Gated Verification",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "c5c45c07e95811d663ed87058aeda0b28c1c7db9",
+  "title": "TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "28c79e37b388b9987a0b143a95c16e1fe88a4998",
+  "title": "DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "46295f0ac974a620ac50d17e160dd3523817e69a",
+  "title": "MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification",
+  "date": "2026-01-21"
+ },
+ {
+  "id": "36588adef8115ddafe1d5aae19c8efb1c6a06b02",
+  "title": "A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "7f896406e50a701eef8d248a03f40c25f91a73ae",
+  "title": "Speculative Sampling with Reinforcement Learning",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "5a796c9efcc83492a678c41684cddf16e3272135",
+  "title": "EAGLIZE: Improving Stability of Knowledge Distillation",
+  "date": "2026-01-18"
+ },
+ {
+  "id": "cb93eb69cb5b3b7577caef4105b17e0e39456e2c",
+  "title": "HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding",
+  "date": "2026-01-13"
+ },
+ {
+  "id": "c5908653b52b24423cfe07270b0d737399feb68c",
+  "title": "d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "4994caa4094c6bb440497397bf56b9c5465c2032",
+  "title": "Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "c37d87b414a1cf830547eb6311f9e4f3e28d4182",
+  "title": "TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "3a62147bd34204ac88227dd8b54970978c202a0e",
+  "title": "Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "c8997140737433a09c4497b2fbd9bee689a761b0",
+  "title": "LAPS: A Length-Aware-Prefill LLM Serving System",
+  "date": "2026-01-04"
+ },
+ {
+  "id": "f5a9ae08b63873314c1defa0b121fe54962df741",
+  "title": "Speculative Decoding: Performance or Illusion?",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "cd3581f538fdcb15dd9b22835e5e19b5594c3249",
+  "title": "Entropy-Aware Token Rejection for Improving Speculative Decoding",
+  "date": "2025-12-29"
+ },
+ {
+  "id": "f72acc122e2b2abb83ee6cc6eebdbb604be5477e",
+  "title": "Accelerate Speculative Decoding with Sparse Computation in Verification",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "5f74b71d000e646daf965c736c0c7d8a7d63496d",
+  "title": "ASDT: Adaptive Speculative Decoding Tree Based on Token Acceptance Feedback",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "fa3fa343eccf90cae47f5dcd1f639e774a8c28c3",
+  "title": "Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs",
+  "date": "2025-12-23"
+ },
+ {
+  "id": "aece4f035159d6b4e59ead93c3843d684d6c606b",
+  "title": "DEER: Draft with Diffusion, Verify with Autoregressive Models",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "5204418313ba244eb2027b9694930d26639093ba",
+  "title": "RADAR: Accelerate Large Language Model Inference With RL-Based Dynamic Draft Trees",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "f94b93ec54ba5cc4f4911ccddef5d7bb11a07a0b",
+  "title": "Fast and Accurate Causal Parallel Decoding using Jacobi Forcing",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "46ccfaeb50c4aea832b17b1157bda30b7ca6824c",
+  "title": "TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "bc5e283087569e690ada114d2dd761638dc3794f",
+  "title": "Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "987b0d2bfe7402d8670f396bc9f7397e41c8ae53",
+  "title": "T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "4ae4f5e6574ad9fc7bc54934ceadaf0525429847",
+  "title": "Fast-ARDiff: An Entropy-informed Acceleration Framework for Continuous Space Autoregressive Generation",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "191ae7e71c19c570d794edf1a29a6f79c347ea2f",
+  "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "8f90d253d7196062d73d06782169a4ad2f04b82c",
+  "title": "SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "421e93d24fcea796fa7d96245858d65c56e56ef0",
+  "title": "Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "4317bcc97ac88696e848b5b12ba4245fb942e7fa",
+  "title": "SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "35274170c57338f0ad6b78ba04ca93013bbf98e2",
+  "title": "Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "e46fbef4246e9c45ab2f41913be5ebd6e15e7331",
+  "title": "Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "f30f53073a8a9eef50258692f8b7015e08d6abff",
+  "title": "DiFR: Inference Verification Despite Nondeterminism",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "085366ea390ce5e3c9a8acf57e78a7c808b3bf1e",
+  "title": "Fast LLM Post-training via Decoupled and Fastest-of-N Speculation",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "3b689c56be4945d6079429969458fe4571eede78",
+  "title": "Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning",
+  "date": "2025-11-18"
+ },
+ {
+  "id": "a1306932324998bb9cd9c916e22d1bb1109a17b2",
+  "title": "VVS: Accelerating Speculative Decoding for Visual Autoregressive Generation via Partial Verification Skipping",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "6fc270a997695116d13767d7a00c7ca6ad66735d",
+  "title": "Beat the long tail: Distribution-Aware Speculative Decoding for RL Training",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "fa8c10acd2b85e16125ade3424ef5366ef5dc801",
+  "title": "Steering Pretrained Drafters during Speculative Decoding",
+  "date": "2025-11-13"
+ },
+ {
+  "id": "a9fa2105799d18c8bf6f7e3ff49d431c0a7e8b77",
+  "title": "Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning",
+  "date": "2025-11-09"
+ },
+ {
+  "id": "2f66c88e8aff30fa9db0fa214b6b239cab055e78",
+  "title": "Verifying LLM Inference to Detect Model Weight Exfiltration",
+  "date": "2025-11-04"
+ },
+ {
+  "id": "fc14e370e454c29947bcdbbbfcd0b37ba945172f",
+  "title": "When, What, and How: Rethinking Retrieval-Enhanced Speculative Decoding",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "6466fe8d693ffc157ed9ebc5edb2c45d83bc749b",
+  "title": "SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "d704b61ff37a940f6ee9a2d8d60ed6fa9dc3de38",
+  "title": "ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "ffe88b42b31e08608d9ec50abfdfbf416a92f1d5",
+  "title": "CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "fd42d6d3c09a6d2d44f0e6f5f488d19db5290e6a",
+  "title": "Correctness Forensics for Batch Speculative Decoding: Diagnosing the Ragged Tensor Problem",
+  "date": "2025-10-26"
+ },
+ {
+  "id": "7ebcdae0e4b37a2c3690c49ae42f290559c2d51a",
+  "title": "KVSpec: Efficient KV-Cache Reuse for Speculative Decoding",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "19825d37f970ab9acb26307d0f09d1810e77af44",
+  "title": "Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "930519e8ab19ea000b7b7f016fc6aa6714412b62",
+  "title": "Reasoning Language Model Inference Serving Unveiled: An Empirical Study",
+  "date": "2025-10-21"
+ },
+ {
+  "id": "3a92f120f0d154871e59e4166f86962ae9ffff5a",
+  "title": "TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "e71150fd55ad7058a97f75868c01b19a250d9992",
+  "title": "STAR: Decode-Phase Rescheduling for LLM Inference",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "feaecf4e6b19e6faa684bda930d5c0866e0f6305",
+  "title": "Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "4a755b1d8b125a8164e24f50d4a8994b5b77dbf1",
+  "title": "A Survey on Parallel Reasoning",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "75ffb9886366a91f0275c0e405024e51dc1b5eae",
+  "title": "Direct Multi-Token Decoding",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "1836c28765828ce06c5e4bc41cad966f9f7b586c",
+  "title": "SP-MoE: Speculative Decoding and Prefetching for Accelerating MoE-based Model Inference",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "717299f32a893750218dda4c45c7c922622208a6",
+  "title": "OWL: Overcoming Window Length-Dependence in Speculative Decoding for Long-Context Inputs",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "39f0f4d7ad0ad8b792d8e4cdd441a6fc38ed9f1f",
+  "title": "Self Speculative Decoding for Diffusion Large Language Models",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "d9d2c3fb98a71a9e46a90f75599ac0c71ef30212",
+  "title": "SpecExit: Accelerating Large Reasoning Model via Speculative Exit",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "5913b974de7b4c604eec46778acabebed343e8df",
+  "title": "Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7ab357e8e8fa692d25580ab115c8f51f581468ce",
+  "title": "DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "d29c63863adb0b979e3ef7832dd422b6fc0a35fa",
+  "title": "FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "df70eb92d38a1f8d12568bbe900671a0dfdeb26c",
+  "title": "Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "d9373a64b94237ce06e81ad4917d83d0bb7a5b8e",
+  "title": "SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "bd58090f80ee1fd4413b7f9b4d2eeb318cdf72bf",
+  "title": "Enabling Approximate Joint Sampling in Diffusion LMs",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "64a81692b89dee2fb69d5c1b55471885deec4f7b",
+  "title": "FastEagle: Cascaded Drafting for Accelerating Speculative Decoding",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "1f4e490221a936e2d48f9a58053f9d5d1307bbdd",
+  "title": "SpecMamba: Accelerating Mamba Inference on FPGA with Speculative Decoding",
+  "date": "2025-09-24"
+ },
+ {
+  "id": "b31781f66c3b9fd05a5a79a62792dbd7d252a554",
+  "title": "Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "c90ce07746c626b8958f723e32bdc579c99e59ee",
+  "title": "Structuring The Future: Diffusion LLM Speculative Decoding via Calibrated Draft Graphs",
+  "date": "2025-09-22"
+ },
+ {
+  "id": "9fab64766d5ceaa1d3286b4f7e4f7873e8469d79",
+  "title": "Pipeline Parallelism is All You Need for Optimized Early-Exit Based Self-Speculative Decoding",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "1d6d84463357d635a537093c9bae12d5ab78a6be",
+  "title": "ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding",
+  "date": "2025-09-17"
+ },
+ {
+  "id": "75b3d0904720f1c10081516b11a43339574b07d0",
+  "title": "FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "065c9ac1ea5e8db2b64a64ef69c2da3122cffda4",
+  "title": "Batch Query Processing and Optimization for Agentic Workflows",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "78b818c189f81d9ab271fa955b4f653beb1d1251",
+  "title": "Universal Properties of Activation Sparsity in Modern Large Language Models",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "648dc50901fab935138bdc16025ad326d0ce9254",
+  "title": "Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "76c375722815e6c90a2a6d0f8508efb242e5c54a",
+  "title": "FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "2ee3c482c2d6498e0dae914d4597c0baf1adc239",
+  "title": "READER: Retrieval-Assisted Drafter for Efficient LLM Inference",
+  "date": "2025-08-12"
+ },
+ {
+  "id": "da3e4948c74c0d2e1590c3cdeb37a375372bc5e7",
+  "title": "Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "be4122966454037d1af4aa8d3339a3976523cc90",
+  "title": "CARD: A cache-assisted parallel speculative decoding framework via query-and-correct paradigm for accelerating LLM inference",
+  "date": "2025-08-06"
+ },
+ {
+  "id": "62bce1eb0a1d29a709c446530e89da51f4fd8c25",
+  "title": "Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance",
+  "date": "2025-07-30"
+ },
+ {
+  "id": "7590f4ccd65aef8822cf1cbbcfbac90bd895e27b",
+  "title": "R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning",
+  "date": "2025-07-23"
+ },
+ {
+  "id": "eb2ecffa7b8e6575f3da98835f3890a92835a4a8",
+  "title": "Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "64ca6066233fee380ffc19e7df137ab0605b9ea3",
+  "title": "LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation",
+  "date": "2025-07-02"
+ },
+ {
+  "id": "0472ec6c89f0216f9c5901a1a3a79b24fee248bc",
+  "title": "Scaling Speculative Decoding with Lookahead Reasoning",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "0d6cbc14fe91c2ed1418a1af369f55ad048d8f9f",
+  "title": "Utility-Driven Speculative Decoding for Mixture-of-Experts",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "c059189646ac8499574d861d2613c0d1b3baecc1",
+  "title": "Guided Speculative Inference for Efficient Test-Time Alignment of LLMs",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "58c829354ca13307bdf938013e81b7b3ce66d9e8",
+  "title": "Out-of-Vocabulary Sampling Boosts Speculative Decoding",
+  "date": "2025-06-02"
+ },
+ {
+  "id": "dd255ad3e569c9a8c28f8fb510f9f91323cb3b66",
+  "title": "Cross-Attention Speculative Decoding",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "00493d94a9f5571875475bef1d44e304991b7cdc",
+  "title": "Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "1ae72f127cc06c8dc88a2c060ecb143c43fe6f09",
+  "title": "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "04b381f6969fe378e08b40fff096aaf22762f74c",
+  "title": "Efficient Large Language Model Inference with Neural Block Linearization",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "c2c3113f3154e588daa3974e1fe17105351a8ab8",
+  "title": "R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing",
+  "date": "2025-05-27"
+ },
+ {
+  "id": "f07c90fb17c7d608e6724a1761596ad06d3dd6fa",
+  "title": "Faster and Better LLMs via Latency-Aware Test-Time Scaling",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "31fb133be737c27e5e42a1133cbbcf94ed64737e",
+  "title": "MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "88b7d68d84ba18d7c69c61f77d7e9aae6052e9a4",
+  "title": "DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding",
+  "date": "2025-05-25"
+ },
+ {
+  "id": "a18c7c979bd328f5f88a3a70f3286c313140d470",
+  "title": "HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding",
+  "date": "2025-05-19"
+ },
+ {
+  "id": "44975400334d536656a26254a670834fcea83fcc",
+  "title": "Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission",
+  "date": "2025-05-17"
+ },
+ {
+  "id": "2816cd3f4110879db2babc6889bd3dc70bcddb15",
+  "title": "SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models",
+  "date": "2025-05-12"
+ },
+ {
+  "id": "b5a636c16c076fdbb4adb39bf7a0fa4a880ba629",
+  "title": "Scaling Laws for Speculative Decoding",
+  "date": "2025-05-08"
+ },
+ {
+  "id": "9c2db91ea3795306d2a404b8f040a10ddea8b09a",
+  "title": "AutoJudge: Judge Decoding Without Manual Annotation",
+  "date": "2025-04-28"
+ },
+ {
+  "id": "e7bc935576e3303090e3bd5b1b062435c4a6091f",
+  "title": "PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation",
+  "date": "2025-04-23"
+ },
+ {
+  "id": "6f8e744993c8ca558d8db6ed80753765523094c7",
+  "title": "SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning",
+  "date": "2025-04-10"
+ },
+ {
+  "id": "f99e8749d98a966fbe22f35c0fc589073f899abc",
+  "title": "Model Hemorrhage and the Robustness Limits of Large Language Models",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "7d7ed5cf443166be3d3e95d4762307072ff186bc",
+  "title": "AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding",
+  "date": "2025-01-21"
+ },
+ {
+  "id": "0b4e28534319802e2a28db384c22f9c4b37867c6",
+  "title": "FastDraft: How to Train Your Draft",
+  "date": "2024-11-17"
+ },
+ {
+  "id": "f6d7d2eb033876daa2a97881a3a5e78abf220302",
+  "title": "SSSD: Simply-Scalable Speculative Decoding",
+  "date": "2024-11-08"
+ },
+ {
+  "id": "6b541c1fa224aae12667f71bdd3e5033a5689499",
+  "title": "SuffixDecoding: Extreme Speculative Decoding for Emerging AI Applications",
+  "date": "2024-11-07"
+ },
+ {
+  "id": "139aea58a13e615a7e466fe0c74273804372b746",
+  "title": "QSpec: Speculative Decoding with Complementary Quantization Schemes",
+  "date": "2024-10-15"
+ }
+]

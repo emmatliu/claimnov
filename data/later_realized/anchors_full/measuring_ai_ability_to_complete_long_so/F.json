@@ -1,0 +1,327 @@
+[
+ {
+  "id": "b92c8ca014acffa5acf374e1c891d3a32dcd5caf",
+  "title": "PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games",
+  "date": "2026-09-08"
+ },
+ {
+  "id": "9a6a89252ad6e347eed939251305840c68336952",
+  "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "75cb757867ddc8a4c39c19f3754996914b325777",
+  "title": "Capability-Gated Language Models: Security Composes, Utility Does Not",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "dcd303fb64b04104bf240ca550c3259db7f3cace",
+  "title": "Recursive Criticality of AI Self-Improvement",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "4cdafe2f1486935459188d3e3e6f5f958f8cdfcb",
+  "title": "Memory as Infrastructure: Reliability Engineering for Persistent Agent Memory in Months-Long LLM-Assisted Development",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "f00621d8fb23ac3cbd47e26f520e3b516cb7fbd9",
+  "title": "Resource Constraints and Performance in Agentic AI Systems",
+  "date": "2026-08-28"
+ },
+ {
+  "id": "98c0706a65d781a3b7b726811151d0176e1cefb6",
+  "title": "Can Agent Memory Systems Track Evolving State?",
+  "date": "2026-08-20"
+ },
+ {
+  "id": "cc29393493e277ad02ee663e76aca660bce15032",
+  "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "e19ade6115acc0854afe48b4d14dcd4a6078d931",
+  "title": "The Dynamics of Intelligence Explosions",
+  "date": "2026-08-14"
+ },
+ {
+  "id": "1d2edf43ece9ee6f829c135e23be2ff0cb6325ba",
+  "title": "Pricing Intelligence: Task-Based Learning and Labor Displacement in the AI Economy",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "c8d2fc93ec56b04f97bb9912a7da10e816f081e3",
+  "title": "Why Large Language Models Cannot Be Certified for Safety-Critical Systems",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "e29c2710cc5d23f0ad3683f813e66d68f9e89ba7",
+  "title": "The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "514eb52db2be0f0c60e873941fd1b6c7406c8d98",
+  "title": "Predicting Task Difficulty Without Rollouts",
+  "date": "2026-08-06"
+ },
+ {
+  "id": "6470042083a68bb97dd3da45c7fb938e38c23baa",
+  "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "1c89e068b100fe6a0f86a5b97c98f080adb5082d",
+  "title": "Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "7ae4028f076db710c914364124527469cb54289e",
+  "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "06e071bd7762848734e97fa459fda197be3fbf39",
+  "title": "Your Agentic LLMs Secretly Encode Indirect Prompt-Injection Exposure in Hidden States",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "2a30bfcd477a19ba3a63a2dc958ed4775910d423",
+  "title": "CurveShift: Is Agent Progress Scalar? Separating Level from Shape",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "02a69e1ff4598280f0a327a15ddc843d6a3d31b1",
+  "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "a2b5d282a3723600c31a56dc38082ea720315ac7",
+  "title": "AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration",
+  "date": "2026-07-30"
+ },
+ {
+  "id": "54ed4f199129b0f85645d47d2b5a53768e24b8e4",
+  "title": "Benchmarking the Residual: What Long-Horizon Evaluations Add Beyond Matched Short-Task Performance",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "3b2af6cea6a74a7639a1e5825d34b40d3df30a4e",
+  "title": "SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "b94d30cd234186116c0eabdf087657ae517590cb",
+  "title": "Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "abeef56481500f0cbfc8eef6c4820f7a380bf256",
+  "title": "Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "20117209d88a06b74d7babb9dcd27b95f7ceac3b",
+  "title": "Agentic AI Autonomy Assessment: A Decision-Support Framework Towards Governed Supply Chain Systems",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "6e31f7a1b684d95c3a061a42286cfea154fcc101",
+  "title": "NISPO: Open-source IUPAC name generation tool",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "58c4e048df11ef7c223de7589cd94f4f971711e2",
+  "title": "False Prophets: On the Security of World Models in Agentic Systems",
+  "date": "2026-07-25"
+ },
+ {
+  "id": "d86a0bdf2a2e048ef1d8d08aeb0a74618395b957",
+  "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+  "date": "2026-07-23"
+ },
+ {
+  "id": "699a6b0ca6e2333936aad509cfc43a17d6d5b83f",
+  "title": "GeneBench-Pro: Evaluating Multistage Statistical Reasoning in Genomics, Quantitative Biology, and Translational Biomedicine",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "4d0f0d0a16c1ffb8606d88e82de8af0a16e23569",
+  "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "3e98ef885c51bfbc2a87a724594ae3bb9b4f018f",
+  "title": "Agentic systems for breast cancer treatment recommendations",
+  "date": "2026-07-13"
+ },
+ {
+  "id": "cb514e6ebeb06d31fa26539beaedb6d27d65ed51",
+  "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "7e870d635fa722edefb94ff57bc9b3faadd92046",
+  "title": "RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "7e80836f38a65c6318c7d4da7f277982c481eb2c",
+  "title": "Two AI Metrics Diverged: Will it Make All the Difference?",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "2edf82a073732701f2390889bfca20b40431d32a",
+  "title": "Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "4795d71de6b5e0cda930086626ce60d6228b6d6e",
+  "title": "Real Science Is Harder Than Benchmarks: Evaluating Advanced AI Frameworks on Published Studies. I. Uncertainty Quantification, ML on Therapeutic Data Commons, and Agent-Based Modeling",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "4ff81db8e734fb96b943c6ab9860b87c7657476c",
+  "title": "Economic Evaluations of Language Models",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "514d135d1451cdde28ad5b3ed7bba823cd02ea3c",
+  "title": "Glite ARF: Verifier-Driven Research with Parallel LLM Coding Agents",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "fc4453bf4ac9099c293c84e8f67f099619031517",
+  "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "343cf31416152bb0e9d50833a4fad5c53d1562e2",
+  "title": "StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "7a3c09b2711b035c3e277873f5f5a5a20a4540c9",
+  "title": "The Agentic Web Requires New Normative Infrastructure",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "02d252c488f5a838d2be541029b1676c5bf5def7",
+  "title": "Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows",
+  "date": "2026-06-09"
+ },
+ {
+  "id": "e81786d453749fda10a5faa61ed0ce8cc6c48ace",
+  "title": "Scaffold Effects on GAIA: A Controlled Comparison",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "6b3f541d430d9d06e491cb815f9e5152d3ca3440",
+  "title": "Sycophancy Towards Researchers Drives Performative Misalignment",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "57dd5570fed6fb9eb9a44204f5cc3df06ecb7ec3",
+  "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+  "date": "2026-06-03"
+ },
+ {
+  "id": "a38fd63d1ee4a38ebe13f3bb00ba82e4574faf45",
+  "title": "The Influence of Human-Generated Prompts on Generative AI Bias and Its Impact on User Decision-Making",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "60a22547f079a491bc37a8a4f17fc094e0f6ad76",
+  "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "097513ea15b48043e48089d11d03713048b5709f",
+  "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "2caa2524ab54a25cf5d16730d00bf0202fab9d3b",
+  "title": "Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "75e707b6e95805061391f5337bc9cabd58c24fe1",
+  "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "b4f80e63fc68f6e51c19bbf45d5a573277996591",
+  "title": "MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "07424b1fc6d1ad28090e84bc7c95444fce806f45",
+  "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "473084950f3bdf3e47de7c7f783774e1e267fe3e",
+  "title": "SLEIGHT-Bench: A Benchmark of Evasion Attacks Against Agent Monitors",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "770ba6eedfca294ae5db25f43f15cd6b62630d22",
+  "title": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now Demands",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "8b1015240d6d9ba58571a1e55f0315d03b77db75",
+  "title": "How to Interpret Agent Behavior",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "1a9e1c18c9353aa1558e5aebd9816f7b94e44f57",
+  "title": "Classifier Context Rot: Monitor Performance Degrades with Context Length",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "e066fd330895f2e09638612e7a4bc1b6038c4c0f",
+  "title": "No More, No Less: Task Alignment in Terminal Agents",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "0668166f7d33e2aea883b7695da0e5fe4078f0b8",
+  "title": "Rollout Cards: A Reproducibility Standard for Agent Research",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "6d436d63f8825cdfa134ed194018d0b1af9d3f6b",
+  "title": "The Conversations Beneath the Code: Triadic Data for Long-Horizon Software Engineering Agents",
+  "date": "2026-05-04"
+ },
+ {
+  "id": "f40d01af18a719f5aaedc0b4067396a2de24a382",
+  "title": "Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "b943e6498fadde6fd2f26be7fbc9de87128dcf5b",
+  "title": "The Possibility of Artificial Intelligence Becoming a Subject and the Alignment Problem",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "cb5357aaa71a993f2966b71a002ab55631d4a034",
+  "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "f8e7e433c0db2709fa01ef9c2787c55b9d5ff8b6",
+  "title": "Agent psychometrics: Task-level performance prediction in agentic coding benchmarks",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "394966574f828694691a73ebbb0b8f5c081d9d2b",
+  "title": "Punctuated Equilibria in Artificial Intelligence: The Institutional Scaling Law and the Speciation of Sovereign AI",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "c064bba6df60ec43b3713eee3bf37ec28e62900f",
+  "title": "Can LLMs Perceive Time? An Empirical Investigation",
+  "date": "2026-03-09"
+ }
+]

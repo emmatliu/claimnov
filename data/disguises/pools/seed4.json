@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_22fb8894ac94ff40d30b031ace52bfd9d93e4f80",
+   "title": "Harnessing non-adversarial robustness in large language models",
+   "date": "2026-05-28",
+   "is_B": true
+  },
+  {
+   "id": "432065729891ba16f96195085c35d2fe894870bf",
+   "title": "When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs",
+   "date": "2025-08-15"
+  },
+  {
+   "id": "7c5aa120a582bd192b2be4952953040b41d3d503",
+   "title": "Certified Robustness for Large Language Models with Self-Denoising",
+   "date": "2023-07-14"
+  },
+  {
+   "id": "25c8a4df271129fb59d81fe06e35fdb220f7145f",
+   "title": "Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics",
+   "date": "2025-05-24"
+  },
+  {
+   "id": "57b7415577c0b81796de282b6c952e6cc5a6241e",
+   "title": "Robust LLM safeguarding via refusal feature adversarial training",
+   "date": "2024-09-30"
+  },
+  {
+   "id": "c3363ae93e48199601c4e28c6e86dc3eb5dbb17f",
+   "title": "Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering",
+   "date": "2023-09-29"
+  },
+  {
+   "id": "723ae07c5c8921eb94ac52528c8a53bec837c5a9",
+   "title": "Efficient Adversarial Training in LLMs with Continuous Attacks",
+   "date": "2024-05-24"
+  },
+  {
+   "id": "ac5925e0be9695c70e01aa87aa7cf49d2a7f3db4",
+   "title": "Large Margin Neural Language Model",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "dd3fabfc7b9c1e866661e777325674a4e96b2466",
+   "title": "Training Deep Learning Models with Norm-Constrained LMOs",
+   "date": "2025-02-11"
+  },
+  {
+   "id": "adb35a1d9ccb7d9582a54cd4e0d60885ba49a134",
+   "title": "Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements",
+   "date": "2024-01-12"
+  },
+  {
+   "id": "b6d96de1c5fcb0d81730b86f90cdeebd46e68560",
+   "title": "Certified Robustness to Text Adversarial Attacks by Randomized [MASK]",
+   "date": "2021-05-08"
+  },
+  {
+   "id": "b1fea3027cc5414265ee8b9add782db91a70aa28",
+   "title": "How are Prompts Different in Terms of Sensitivity?",
+   "date": "2023-11-13"
+  },
+  {
+   "id": "e2756f1f3742c5cae6e5938f3479f1ee1a962e14",
+   "title": "SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision Language Models",
+   "date": "2025-09-24"
+  },
+  {
+   "id": "f7f73185e3975bb62a3c42b2ba6bd4db57fee8ed",
+   "title": "Certified Adversarial Robustness via Randomized Smoothing",
+   "date": "2019-02-08"
+  },
+  {
+   "id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+   "date": "2021-06-17"
+  },
+  {
+   "id": "147d29efa3ba0daca709e0a7e8ec868d9269a7d9",
+   "title": "How adversarial attacks can disrupt seemingly stable accurate classifiers",
+   "date": "2023-09-07"
+  },
+  {
+   "id": "f657e68dde470641ba1a6cd7ab755e6359a32840",
+   "title": "Robust Large Margin Deep Neural Networks",
+   "date": "2016-05-26"
+  },
+  {
+   "id": "6ddeb26a3fca5f2a98350203bbb84fd563119542",
+   "title": "Learning Under Random Distributional Shifts",
+   "date": "2023-06-05"
+  },
+  {
+   "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+   "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+   "date": "2015-02-10"
+  },
+  {
+   "id": "948839277bface5780896e8e8791906818aa41ac",
+   "title": "Adversarial Examples Improve Image Recognition",
+   "date": "2019-11-21"
+  }
+ ],
+ "n_candidates": 24,
+ "sims": [
+  0.733,
+  0.7202,
+  0.7093,
+  0.6792,
+  0.6349,
+  0.6169,
+  0.5605,
+  0.5308,
+  0.5225,
+  0.5166,
+  0.5158,
+  0.5145,
+  0.5062,
+  0.5026,
+  0.4744,
+  0.4477,
+  0.4412,
+  0.436,
+  0.4277
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_518b827e340c26582b5093401283a4f5cff605b9",
+   "title": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+   "is_B": true
+  },
+  {
+   "id": "88dd6594c9ddd4c4bb7f9b407b162e283907f4f3",
+   "title": "Improving Sample Efficiency in Model-Free Reinforcement Learning from Images",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "56136aa0b2c347cbcf3d50821f310c4253155026",
+   "title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "69d1ee8a99f55e9228f33fdb3a0339541ad1201c",
+   "title": "Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "188dac491f04c56e1eb7d7b33ac6aa0b87303232",
+   "title": "DeepMDP: Learning Continuous Latent Space Models for Representation Learning",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "c50b9bf34bdd4b564712e29213056bb7955ff7f7",
+   "title": "Sparse Graphical Memory for Robust Planning",
+   "date": "2020-03-13"
+  },
+  {
+   "id": "36086ff255207cc1adb818c4d0cd62287d437d38",
+   "title": "Deep auto-encoder neural networks in reinforcement learning",
+   "date": "2010-07-01"
+  },
+  {
+   "id": "4625628163a2ee0e6cd320cd7a14b4ccded2a631",
+   "title": "Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "b227f3e4c0dc96e5ac5426b85485a70f2175a205",
+   "title": "Representation Learning with Contrastive Predictive Coding",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "2728ef33147b97ec9c38f5863c569f5dd207c115",
+   "title": "From Pixels to Torques: Policy Learning with Deep Dynamical Models",
+   "date": "2015-02-08"
+  },
+  {
+   "id": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+   "title": "Learning Latent Dynamics for Planning from Pixels",
+   "date": "2018-11-12"
+  },
+  {
+   "id": "9efb64f20ab1f157ca9f4050d4aaacf6c3f9b2b2",
+   "title": "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
+   "date": "2020-04-08"
+  },
+  {
+   "id": "53ff8d142b3ce64ac9649450ddb7be12cfaefcd6",
+   "title": "Natural Environment Benchmarks for Reinforcement Learning",
+   "date": "2018-11-14"
+  },
+  {
+   "id": "bfec7990ecda25be96291bb658ac16bd1193a08f",
+   "title": "Provably efficient RL with Rich Observations via Latent State Decoding",
+   "date": "2019-01-25"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "811df72e210e20de99719539505da54762a11c6d",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "date": "2018-01-04"
+  },
+  {
+   "id": "5895e3b847be6dcdca546e1b00ba8679a24b35d8",
+   "title": "Robustness to Out-of-Distribution Inputs via Task-Aware Generative Uncertainty",
+   "date": "2018-12-27"
+  },
+  {
+   "id": "54e1a1f3a60ce51eae5e27e1724294032cc60929",
+   "title": "Invariant Causal Prediction for Block MDPs",
+   "date": "2020-03-12"
+  },
+  {
+   "id": "bb1a17010254abfa5e1f2a17553582ce449f8e16",
+   "title": "Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images",
+   "date": "2015-06-24"
+  },
+  {
+   "id": "1cae417456711c4da184f5efcd1b7464a7a0661a",
+   "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding",
+   "date": "2019-05-22"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.6363,
+  0.5881,
+  0.584,
+  0.5817,
+  0.5561,
+  0.5505,
+  0.5393,
+  0.5384,
+  0.5353,
+  0.5284,
+  0.5213,
+  0.5106,
+  0.5105,
+  0.5035,
+  0.496,
+  0.4862,
+  0.4635,
+  0.4617,
+  0.4402
+ ]
+}

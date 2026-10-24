@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_deed7f967346071426fbfba9f97b399c680735f1",
+   "title": "Ratio-Variance Regularized Policy Optimization",
+   "date": "2026-05-26",
+   "is_B": true
+  },
+  {
+   "id": "1697986756b60598d90e9c46bef38ec5fa596e9f",
+   "title": "Simple Policy Optimization",
+   "date": "2024-01-29"
+  },
+  {
+   "id": "e7bb4419a88d15fa8e52c1f4f9cfd65ed58c7379",
+   "title": "V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control",
+   "date": "2019-09-26"
+  },
+  {
+   "id": "1f5b5bb4887d87cced5d3458144268b0c32f8942",
+   "title": "An Off-Policy Trust Region Policy Optimization Method With Monotonic Improvement Guarantee for Deep Reinforcement Learning",
+   "date": "2021-01-22"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "2732028656ffa7c240932d38a7e134747c2aefeb",
+   "title": "Provably Convergent Policy Optimization via Metric-aware Trust Region Methods",
+   "date": "2023-06-25"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "c26ff4cf55b76344c377ded7a345d14615cd1103",
+   "title": "A Stochastic Trust-Region Framework for Policy Optimization",
+   "date": "2019-11-26"
+  },
+  {
+   "id": "d415b724fbc35afcc8dd91738123edfa6a5db634",
+   "title": "Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO",
+   "date": "2020-05-25"
+  },
+  {
+   "id": "88f680fc5095d464119254476958fa483ac40ec3",
+   "title": "Matrix Low-Rank Trust Region Policy Optimization",
+   "date": "2023-12-10"
+  },
+  {
+   "id": "1b33d3bc2b9fc0ba875420f2a032083b59e6b5ae",
+   "title": "Quasi-Newton Trust Region Policy Optimization",
+   "date": "2019-12-26"
+  },
+  {
+   "id": "c8b69d519c625df3d6890b0253f4d8a05342d02a",
+   "title": "Guaranteed Trust Region Optimization via Two-Phase KL Penalization",
+   "date": "2023-12-08"
+  },
+  {
+   "id": "871c35376504be03a4a90fbcc72b5f9a1ff8a4d1",
+   "title": "Wasserstein Policy Optimization",
+   "date": "2025-05-01"
+  },
+  {
+   "id": "dc3e905bfb27d21675ee1720413e007b014b37d3",
+   "title": "Safe and Efficient Off-Policy Reinforcement Learning",
+   "date": "2016-06-08"
+  },
+  {
+   "id": "d2607cd3d6e04d1b13c6a5826d3f3b6bc4a7ff50",
+   "title": "Multiagent Trust Region Policy Optimization",
+   "date": "2020-10-15"
+  },
+  {
+   "id": "e0456b744af84f07cb5e750217463214f96c921e",
+   "title": "Relative Entropy Policy Search",
+   "date": "2010-07-05"
+  },
+  {
+   "id": "ae6f30f15a699b2b8cba027e6d89fa8c4340c19f",
+   "title": "Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "0efa2efa49a1923954d69eaa9f898af22f63a983",
+   "title": "Differentiable Trust Region Layers for Deep Reinforcement Learning",
+   "date": "2021-01-22"
+  },
+  {
+   "id": "1d92c345ff78631aa5509c84e6ff91d446e2c712",
+   "title": "What Can RL Bring to VLA Generalization? An Empirical Study",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+   "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+   "date": "2025-03-18"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7518,
+  0.7279,
+  0.6962,
+  0.6954,
+  0.694,
+  0.6919,
+  0.6771,
+  0.6766,
+  0.6625,
+  0.6524,
+  0.6511,
+  0.6314,
+  0.6288,
+  0.6184,
+  0.6136,
+  0.6071,
+  0.6049,
+  0.5998,
+  0.5907
+ ]
+}

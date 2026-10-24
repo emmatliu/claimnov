@@ -1,0 +1,1357 @@
+[
+ {
+  "id": "b50e850a58b6fc41bbbbf05d199aa43dc581c163",
+  "title": "Inductive Moment Matching",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "ed92a7be6b2acc36baf0ed43454a97dbade0c893",
+  "title": "Movie Gen: A Cast of Media Foundation Models",
+  "date": "2024-10-17"
+ },
+ {
+  "id": "e086a9009a857fbe26dd83a34854a4c317f575b8",
+  "title": "One Step Diffusion via Shortcut Models",
+  "date": "2024-10-16"
+ },
+ {
+  "id": "44e4a3a50df9ec80be096c8341ac5c81ecbea3e8",
+  "title": "Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models",
+  "date": "2024-10-14"
+ },
+ {
+  "id": "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+  "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+  "date": "2024-10-09"
+ },
+ {
+  "id": "dd531991c16b1f5f309371abb584a6a15d33f75d",
+  "title": "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency",
+  "date": "2024-07-02"
+ },
+ {
+  "id": "0a50087f7cdbfc31e9877888854961c82cdf68d3",
+  "title": "Consistency Models Made Easy",
+  "date": "2024-06-20"
+ },
+ {
+  "id": "e46a79cf7c2c9192639f9e1d12280650e06b9d56",
+  "title": "Autoregressive Image Generation without Vector Quantization",
+  "date": "2024-06-17"
+ },
+ {
+  "id": "d4f53b1c3f232f9a7828dd1ddad4d2dad123936f",
+  "title": "Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation",
+  "date": "2024-04-05"
+ },
+ {
+  "id": "76e8218f657c77c38da44daaed5bb54ab727a8fc",
+  "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+  "date": "2024-04-03"
+ },
+ {
+  "id": "a5e0cf204383f10c96f7dcee832b6e1addbe094c",
+  "title": "Multistep Consistency Models",
+  "date": "2024-03-11"
+ },
+ {
+  "id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+  "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+  "date": "2024-03-05"
+ },
+ {
+  "id": "1eac5d12f30697aa74d66f4026fb662c5d51bd43",
+  "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+  "date": "2024-01-16"
+ },
+ {
+  "id": "0e8f1bb91bb4502966fa5e91e0610832dfe4240e",
+  "title": "One-Step Diffusion Distillation via Deep Equilibrium Models",
+  "date": "2023-12-12"
+ },
+ {
+  "id": "516a4c05883d4dc130bb7a638ad8e427b6756aac",
+  "title": "One-Step Diffusion with Distribution Matching Distillation",
+  "date": "2023-11-30"
+ },
+ {
+  "id": "d730d42bb655b3b44727d71c147f9758612043a8",
+  "title": "Adversarial Diffusion Distillation",
+  "date": "2023-11-28"
+ },
+ {
+  "id": "b0d791cd8e9a87f37258832beaa321037048da26",
+  "title": "Improved Techniques for Training Consistency Models",
+  "date": "2023-10-22"
+ },
+ {
+  "id": "2ea9167ca0dd536923ea0968d6b89e2b6cc34f21",
+  "title": "Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion",
+  "date": "2023-10-01"
+ },
+ {
+  "id": "946fa1978b570407e082c61ed8334822f3da1740",
+  "title": "Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models",
+  "date": "2023-05-29"
+ },
+ {
+  "id": "0930fe943d7d9b5bb943613d87c4ca92850dd43a",
+  "title": "Scaling up GANs for Text-to-Image Synthesis",
+  "date": "2023-03-09"
+ },
+ {
+  "id": "ac974291d7e3a152067382675524f3e3c2ded11b",
+  "title": "Consistency Models",
+  "date": "2023-03-02"
+ },
+ {
+  "id": "6e3a3b7a8a0376d867cad72eedf2f9b746f29a33",
+  "title": "simple diffusion: End-to-end diffusion for high resolution images",
+  "date": "2023-01-26"
+ },
+ {
+  "id": "736973165f98105fec3729b7db414ae4d80fcbeb",
+  "title": "Scalable Diffusion Models with Transformers",
+  "date": "2022-12-19"
+ },
+ {
+  "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+  "title": "Flow Matching for Generative Modeling",
+  "date": "2022-10-06"
+ },
+ {
+  "id": "4e6244baf4236f4635e85f7dfb941a9a0a6c4a11",
+  "title": "Building Normalizing Flows with Stochastic Interpolants",
+  "date": "2022-09-30"
+ },
+ {
+  "id": "244054a4254a2147e43a3dad9c124b9b7eb4a04a",
+  "title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+  "date": "2022-09-07"
+ },
+ {
+  "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+  "title": "Classifier-Free Diffusion Guidance",
+  "date": "2022-07-26"
+ },
+ {
+  "id": "2f4c451922e227cbbd4f090b74298445bbd900d0",
+  "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+  "date": "2022-06-01"
+ },
+ {
+  "id": "7c597874535c1537d7ddff3b3723015b4dc79d30",
+  "title": "MaskGIT: Masked Generative Image Transformer",
+  "date": "2022-02-08"
+ },
+ {
+  "id": "82ba96443173da0b8b3e870c5ab8f41109a67203",
+  "title": "StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets",
+  "date": "2022-02-01"
+ },
+ {
+  "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "date": "2021-12-20"
+ },
+ {
+  "id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+  "title": "Diffusion Models Beat GANs on Image Synthesis",
+  "date": "2021-05-11"
+ },
+ {
+  "id": "47f7ec3d0a5e6e83b6768ece35206a94dc81919c",
+  "title": "Taming Transformers for High-Resolution Image Synthesis",
+  "date": "2020-12-17"
+ },
+ {
+  "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+  "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+  "date": "2020-11-26"
+ },
+ {
+  "id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "date": "2020-10-22"
+ },
+ {
+  "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+  "title": "Denoising Diffusion Probabilistic Models",
+  "date": "2020-06-19"
+ },
+ {
+  "id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+  "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+  "date": "2019-07-12"
+ },
+ {
+  "id": "22aab110058ebbd198edb1f1e7b4f69fb13c0613",
+  "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+  "date": "2018-09-27"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "0d57ba12a6d958e178d83be4c84513f7e42b24e5",
+  "title": "Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour",
+  "date": "2017-06-08"
+ },
+ {
+  "id": "0f899b92b7fb03b609fee887e4b6f3b633eaf30d",
+  "title": "Variational Inference with Normalizing Flows",
+  "date": "2015-05-21"
+ },
+ {
+  "id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+  "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+  "date": "2015-05-18"
+ },
+ {
+  "id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+  "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+  "date": "2015-03-11"
+ },
+ {
+  "id": "b426f00bd86a8cedf80d1b1eead01a4c0d181c8b",
+  "title": "ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "872f36f58b82739a44daeae3119263a1d8ac8021",
+  "title": "Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "a011b54d9a2f975d8c788a699ed8f3576c949379",
+  "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "4ada483a76af33c6ee4a0a0577339403c7634068",
+  "title": "Accelerating Masked Image Generation by Learning Controlled Latent Dynamics",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "d3e2550ef75f159ad3a47ca1e66dd8ec612d2266",
+  "title": "Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "741f8ad6d29a556ecea8e52421807c7ffa96dfd7",
+  "title": "Primary-Fine Decoupling for Action Generation in Robotic Imitation",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "985b5b6dd8a59a12700bd4a06252543726965cae",
+  "title": "Calibrated Test-Time Guidance for Bayesian Inference",
+  "date": "2026-02-25"
+ },
+ {
+  "id": "961af0f94ae5adafcc50d12566530c272cba8a28",
+  "title": "Compositional Planning with Jumpy World Models",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "be2217792263f6dc8cf26815c828b6e7ce0c1133",
+  "title": "MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "c3ff228889f05fcd35dbf46d689c4bc428d181dc",
+  "title": "Generative Model via Quantile Assignment",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "030953a880c91a4efcf68427f422882d253ffeca",
+  "title": "From Static Spectra to Operando Infrared Dynamics: Physics Informed Flow Modeling and a Benchmark",
+  "date": "2026-02-20"
+ },
+ {
+  "id": "4b2beb694c718b5411c862d3be76d1996800520e",
+  "title": "Steering Dynamical Regimes of Diffusion Models by Breaking Detailed Balance",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "8b264038f0647919e7df8685e12e61fc9dbc4aeb",
+  "title": "Image Generation with a Sphere Encoder",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "52aed03f8fbc24004588bd9b68993e9504f1f31c",
+  "title": "Elastic Diffusion Transformer",
+  "date": "2026-02-15"
+ },
+ {
+  "id": "8e695fb69a0e50b7cb89ce4164e27afc97f1e8b3",
+  "title": "HybridFlow: A Two-Step Generative Policy for Robotic Manipulation",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "e4f8d158a66e479ab7898a94950439fc69deafb7",
+  "title": "Mean Flow Policy with Instantaneous Velocity Constraint for One-step Action Generation",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "3371e7745e8ad225391c9393e0e7a3bf66757c35",
+  "title": "Categorical Flow Maps",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "70c9a96851c320c769e2ba83ab6e49437d1cb0ff",
+  "title": "Few-Step Diffusion Language Models via Trajectory Self-Distillation",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "66b931770d24e5ed90ca01c684e8bf06f4534fcf",
+  "title": "Dual-End Consistency Model",
+  "date": "2026-02-11"
+ },
+ {
+  "id": "c2f79e4b938e91cbdfba4bd6aeb34d9ab08ba946",
+  "title": "OSI: One-step Inversion Excels in Extracting Diffusion Watermarks",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "c9a31948d3945f9151a4ce069c5f480c4848a0ac",
+  "title": "Autoregressive Image Generation with Masked Bit Modeling",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "ffbe7369f650b61156b970ee98a3df6e7990b9f7",
+  "title": "Riemannian MeanFlow",
+  "date": "2026-02-08"
+ },
+ {
+  "id": "a85f050205c313865dc20ee939bc6178c1b21e79",
+  "title": "Action-to-Action Flow Matching",
+  "date": "2026-02-07"
+ },
+ {
+  "id": "2e96d5180b9a7e4485874e2761c50d9f37cf1727",
+  "title": "FlowConsist: Make Your Flow Consistent with Real Trajectory",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "039fc56fc3f12f5ef6df018c43ded8a4e53c4ec0",
+  "title": "DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "2db12fedd142517e9698619fe1c00365c186372d",
+  "title": "Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "94cdde651bdc4020dee81948b08c6ab9537ecc89",
+  "title": "Steering Large Reasoning Models towards Concise Reasoning via Flow Matching",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "149417f37260930551dec6b6e23b6648c91808c3",
+  "title": "Stable Velocity: A Variance Perspective on Flow Matching",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "2d0edbc7fd569c32b4e46647f0716e875a7fd9e5",
+  "title": "Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "b47e7627826a2e9b2a330dcb023bf255309c716d",
+  "title": "Duality Models: An Embarrassingly Simple One-step Generation Paradigm",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "da71d49479a34fa6f6e317cc477a9f8d8bb9f664",
+  "title": "Generative Modeling via Drifting",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "5924b5384cf9f4af7f75c38838b8efc45cb3e755",
+  "title": "Temporal Pair Consistency for Variance-Reduced Flow Matching",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "4095b5578c0659be6bdcf50b80014d75fe6de680",
+  "title": "ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "377ce16678c6dfd65dfe2e9536b211f969d1a0ba",
+  "title": "DSFlow: Dual Supervision and Step-Aware Architecture for One-Step Flow Matching Speech Synthesis",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "75ecdfbf31fead9feea8c37aa6230fad475fb38a",
+  "title": "Ultra Fast PDE Solving via Physics Guided Few-step Diffusion",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "a9f0ed219080dfbfb7f62af4baf14037c861b28f",
+  "title": "Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "41a99dad6adfb3af696894cb6bc7cd820e7d29bf",
+  "title": "CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "0e03d2d513159c6e57b39b9956f327573ee41be6",
+  "title": "Boosting Maximum Entropy Reinforcement Learning via One-Step Flow Matching",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "355c5908460d6abace3c4b6feeb743c7749e42c1",
+  "title": "FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "a60b183ff647ffb41090edfa66eddde9d8fbdbe8",
+  "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "a31a329b5208d8fd78b1736e6eac7f9a91047a5f",
+  "title": "Unlocking the Duality between Flow and Field Matching",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "59e815c0cc7fbb65f9cabe504ce0d8ad959a6d03",
+  "title": "PixelGen: Improving Pixel Diffusion with Perceptual Supervision",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "af73142fd329ab57393ccdb7fad9d440808266ce",
+  "title": "Trajectory Consistency for One-Step Generation on Euler Mean Flows",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "2fe13e2e9331196faf46bd6dcd6c4af9641e8fce",
+  "title": "RMFlow: Refined Mean Flow by a Noise-Injection Step for Multimodal Generation",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "4a8eeccbbdec29e96e5f2e5d39a388125430f849",
+  "title": "Zero-Flow Encoders",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "cbde6558de013a2903cf1e0e7c52a87b96119bf3",
+  "title": "Gradual Fine-Tuning for Flow Matching Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "85253efdfc2e0851a6aaae8bceff1c0992f851ae",
+  "title": "Corrected Samplers for Discrete Flow Models",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "8d273451308bbf8f03a24b31876b3fadfda761f0",
+  "title": "Stabilizing Consistency Training: A Flow Map Analysis and Self-Distillation",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "fc2303059c6d7318b3d0041c81f147aa67306d5c",
+  "title": "Solving Inverse Problems with Flow-based Models via Model Predictive Control",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "89d96379f01d3668c6a164434b9e1ce0e0fcd537",
+  "title": "Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "9315d9d3c83b0164411950fe09377218c762a22a",
+  "title": "One-step Latent-free Image Generation with Pixel Mean Flows",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "5dd860781fa013f67902663c80b08b8e314deff5",
+  "title": "Bi-Anchor Interpolation Solver for Accelerating Generative Modeling",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "d6942ed3f04ace694eed713df8f0808304d5d072",
+  "title": "WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "fdf4879ab51edd711465058780980d6fa2df4d7f",
+  "title": "One Step Is Enough: Dispersive MeanFlow Policy Optimization",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "62e19991b3a6983f1c633b30b6ad09eff5dde6f9",
+  "title": "MeanCache: From Instantaneous to Average Velocity for Accelerating Flow Matching Inference",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "02b5b6d210cbb05a377eb0541cddb407c2a0a4f2",
+  "title": "Two-Step Diffusion: Fast Sampling and Reliable Prediction for 3D Keller--Segel and KPP Equations in Fluid Flows",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "aecbbd8436966f77d68890150ead8ece0923f303",
+  "title": "OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion",
+  "date": "2026-01-26"
+ },
+ {
+  "id": "af6f00d962d57fbfa614af9888477c670a0a2d1d",
+  "title": "Fast, faithful and photorealistic diffusion-based image super-resolution with enhanced Flow Map models",
+  "date": "2026-01-23"
+ },
+ {
+  "id": "ce94013e49f495df45e77c11e6f8fef93b9db979",
+  "title": "Meta Flow Maps enable scalable reward alignment",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "cc6b39ccf1607371d317ed391dcf24da4af9d313",
+  "title": "Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models",
+  "date": "2026-01-15"
+ },
+ {
+  "id": "73174305b11bf7bfce4555bf36ad038749fcfff6",
+  "title": "Transition Matching Distillation for Fast Video Generation",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "5a9b3d13ff1e032724e48e7681a13529648c0b3e",
+  "title": "PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "fe0fa7b04f7fb03a40031bed990385526a6b0002",
+  "title": "Point-SRA: Self-Representation Alignment for 3D Representation Learning",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "da9a1bd258df1b3f09e9dda9230837e8df070739",
+  "title": "Assured autonomy: How operations research powers and orchestrates generative AI systems",
+  "date": "2025-12-30"
+ },
+ {
+  "id": "59d50e904099e32c96b98e4dba4e433c4598e350",
+  "title": "ReDiF: Reinforced Distillation for Few Step Diffusion",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "c15dc309d6f2cfda9ad3b199b10c9d256daa3d88",
+  "title": "Self-Evaluation Unlocks Any-Step Text-to-Image Generation",
+  "date": "2025-12-26"
+ },
+ {
+  "id": "28810965f79d467ed16bd6cb9140652a517a3178",
+  "title": "OMP: One-step Meanflow Policy with Directional Alignment",
+  "date": "2025-12-22"
+ },
+ {
+  "id": "07755b42ff572e6be979cd9b363ce57d3aad48b1",
+  "title": "MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow",
+  "date": "2025-12-21"
+ },
+ {
+  "id": "c4315c2eb3b31cf49f275e0f6f6fb5c553fbe6ea",
+  "title": "ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "9672787161fe2777f97fe1fd97b605d078397390",
+  "title": "SoFlow: Solution Flow Models for One-Step Generative Modeling",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "a9f54d863e217a83e4e442006423d36956c9a62c",
+  "title": "SuperFlow: Training Flow Matching Models with RL on the Fly",
+  "date": "2025-12-17"
+ },
+ {
+  "id": "ad7e6b9b1318585671f600c73c263f62a091603c",
+  "title": "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling",
+  "date": "2025-12-16"
+ },
+ {
+  "id": "0af126ad1cf32626e24f27af1efb7abb4539cb50",
+  "title": "Few-Step Distillation for Text-to-Image Generation: A Practical Guide",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "982eb181c7b9733b94ef207c9fd0880e406d6fc6",
+  "title": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "081a3ea51c9c261872754ec4ef367a36f82f8906",
+  "title": "ArbitraryFlow: Towards One Step Generative Biomedical Image Segmentation",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "ecfc651e6ace8fe8c554cd22270c410ec33e4ede",
+  "title": "Hierarchical Flow Matching For Probabilistic Time Series Forecasting",
+  "date": "2025-12-14"
+ },
+ {
+  "id": "4214cfd60b1925f738ac728fa4a5c8feaa489db0",
+  "title": "What matters for Representation Alignment: Global Information or Spatial Structure?",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "cd4f2b705c4d851a74634159c578117d6bdf95b9",
+  "title": "Bidirectional Normalizing Flow: From Data to Noise and Back",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "0e68a797d545ad0679b6f8ff14fb5201317c689b",
+  "title": "FALCON: Few-step Accurate Likelihoods for Continuous Flows",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "bf3fd3074ab6f9565dc6c29ca8fd87b4b247c2f7",
+  "title": "One-Step Generation in Traffic Forecasting with Flow-Based Models",
+  "date": "2025-12-08"
+ },
+ {
+  "id": "f68ff21c218195e6a8c071638d77f273b26539d7",
+  "title": "Pathway to O(\u221ad) Complexity bound under Wasserstein metric of flow-based models",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "eb1adc57b1da78b76a4c6f39fdc136ec6d9a9405",
+  "title": "One-Step Generative Channel Estimation via Average Velocity Field",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "f67dfd58ae9192cf7e71fbeb37d840e4734270ae",
+  "title": "ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "8abdbee2ad1aa5ac8a4e09eebb9f52259cd002fd",
+  "title": "TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "cd649ff8557468432fedcaf7906d3dfec32e39fc",
+  "title": "RELIC: Interactive Video World Model with Long-Horizon Memory",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "b98fc7d17d85177dada4dab71f3baba4e2dd7d57",
+  "title": "On the Design of One-step Diffusion via Shortcutting Flow Paths",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "c36f9ddbd19ca82d8f0bbd185c28d6324a7ca084",
+  "title": "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "769ec90a76f08cf97a7b31aa7ba58aefc0a19e11",
+  "title": "Glance: Accelerating Diffusion Models with 1 Sample",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "c61d45ca2d0c7b5d343a666bbb789b353f822bae",
+  "title": "From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity",
+  "date": "2025-12-02"
+ },
+ {
+  "id": "f8ca82f924f21683ffa606f878905e4aca0b249c",
+  "title": "EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "2cc9d6d644ef0169a767c5cc76a7eeec77333ff1",
+  "title": "Improved Mean Flows: On the Challenges of Fastforward Generative Models",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "dba4773b1ec9ca6182757a2677c7b496871a665c",
+  "title": "FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "32436d521ca89358f125ca3d1f8c33bc0c07f242",
+  "title": "Reversible Inversion for Training-Free Exemplar-guided Image Editing",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "6a338eb333c2b66b94baad57c1d155a4aab08a69",
+  "title": "Much Ado About Noising: Dispelling the Myths of Generative Robotic Control",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "bfd5511ae8b05a3900b3b42e3906ebaae6a66642",
+  "title": "Cosine-Similarity Methods for Efficient Training and Sampling in High-Dimensional Latent Spaces",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "4ede922d0d2380caa4f299809e3cf181ba01adae",
+  "title": "Overcoming the Curvature Bottleneck in MeanFlow",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "170f2e2ba63fc893b9b2461ebb7b341198591783",
+  "title": "Test-time scaling of diffusions with flow maps",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "8ff65a3262d34c0ef3aa2239cfb36455bf93d4a4",
+  "title": "Adversarial Flow Models",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "973627601b354eb0bff9a37a681e1ae87e0ed4d4",
+  "title": "StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "c6bd8c0e19bf2636c66759ba392e3b7e4989419a",
+  "title": "Rethinking Test Time Scaling for Flow-Matching Generative Models",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "a154b71bf6f5f64765c35bcbb8eb26c1682053a7",
+  "title": "FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "494e2b53f2cf708e782a6f048939c93ad96595d3",
+  "title": "Rectified SpaAttn: Revisiting Attention Sparsity for Efficient Video Generation",
+  "date": "2025-11-25"
+ },
+ {
+  "id": "b495754bf53118e75335ab410c2e1aeaf8b4dfec",
+  "title": "Terminal Velocity Matching",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "f8fa6a98a5492595efd94560e632ab276ecbc4bc",
+  "title": "Understanding, Accelerating, and Improving MeanFlow Training",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "e95273cd5664957d41e16ac5719ba5a883cf2171",
+  "title": "Flow Map Distillation Without Data",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "0de6bfca782b4999dfba9b90846fbf31d7522a12",
+  "title": "Efficient Transferable Optimal Transport via Min-Sliced Transport Plans",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "800233bc8fde6820aae172b25ba7ddda65ffe3f0",
+  "title": "L1 Sample Flow for Efficient Visuomotor Learning",
+  "date": "2025-11-22"
+ },
+ {
+  "id": "64a380ed66b669a7a397cb255179c1817caa5435",
+  "title": "LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "c9910490be4975b3958837eeb25d85aeac789b65",
+  "title": "Generative Augmented Reality: Paradigms, Technologies, and Future Applications",
+  "date": "2025-11-20"
+ },
+ {
+  "id": "c44b9063ea2f9378f8dd486a622c26ec8da2ca62",
+  "title": "One-Step Generative Policies with Q-Learning: A Reformulation of MeanFlow",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "ffda57c9c981517d9281356f7e1e21c995e9d608",
+  "title": "Functional Mean Flow in Hilbert Space",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "102b489de15b798924e570b685f101d7a6306021",
+  "title": "MeanFlow Transformers with Representation Autoencoders",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "d8362abff7c5c9173962ac61002a3200142e8091",
+  "title": "MFI-ResNet: Efficient ResNet Architecture Optimization via MeanFlow Compression and Selective Incubation",
+  "date": "2025-11-16"
+ },
+ {
+  "id": "d3faa85f1bea7612e372dae2108f5c91eb80acd3",
+  "title": "Learning Straight Flows: Variational Flow Matching for Efficient Generation",
+  "date": "2025-11-15"
+ },
+ {
+  "id": "2e113779a19ce2e8f08e513ad5f807ad0759183f",
+  "title": "WaveC2R: Wavelet-Driven Coarse-to-Refined Hierarchical Learning for Radar Retrieval",
+  "date": "2025-11-13"
+ },
+ {
+  "id": "4c4fd95689e08d1766a779848e49d01ae90e5c7c",
+  "title": "Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "8ab699247b701a703397fb15d81a21779b66e855",
+  "title": "Generative AI Meets 6G and Beyond: Diffusion Models for Semantic Communications",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "88d273360e77dd8efbaffc7f58aa69e5e757f1e3",
+  "title": "VEDA: 3D Molecular Generation via Variance-Exploding Diffusion with Annealing",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "0c6a2c8d31678afc99b0a43f1da2f6edd3c046cc",
+  "title": "TimeFlow: Towards Stochastic-Aware and Efficient Time Series Generation via Flow Matching Modeling",
+  "date": "2025-11-11"
+ },
+ {
+  "id": "0fd27c53013720f4805a9edebc98f84ad73f4aec",
+  "title": "Neodragon: Mobile Video Generation using Diffusion Transformer",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "82419135e055d4cf87d8cd674f9642fdd3244694",
+  "title": "COFM: Consistent Optimal Transport Flow Matching via Partially Input Convex Neural Networks",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "baf699ec53a2f29ea2b110cef6fafd1f0d4b5be9",
+  "title": "Simplex-to-Euclidean Bijections for Categorical Flow Matching",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "a2e95a360825c813788b3bc1a2201a066e0e4286",
+  "title": "Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "ca04f862b96766a9ff139a6a570fe11fbc5c583b",
+  "title": "Off-policy Reinforcement Learning with Model-based Exploration Augmentation",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "310f9b57c215b513d72818c460b4e2a1ea7c13e1",
+  "title": "Balanced conic rectified flow",
+  "date": "2025-10-29"
+ },
+ {
+  "id": "8c4a5f125de1d2aa1e30f0e4e3b9c8faac3ae1e4",
+  "title": "Decoupled MeanFlow: Turning Flow Models into Flow Maps for Accelerated Sampling",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "9a73fa59a491c943904611171c10adee1334ff28",
+  "title": "Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "146b15ce99abdac81c24ddeb0123599a0ebcf699",
+  "title": "Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "cc8ccb398b7d2768cd667ca77eb80fc39c48677b",
+  "title": "AlphaFlow: Understanding and Improving MeanFlow Models",
+  "date": "2025-10-23"
+ },
+ {
+  "id": "19ca475cabf8d79a41309eabe67303a70acb45ba",
+  "title": "Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "23f7dcddf1a5c510f7bc1d5cf84fa1316fa2d7c2",
+  "title": "One-step Diffusion Models with Bregman Density Ratio Matching",
+  "date": "2025-10-19"
+ },
+ {
+  "id": "99456bef4f04860be7d6440279c7da7de2bed1d7",
+  "title": "pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "ee245d8eebd77ccfca8cbc6f3edbbcaea555d1b0",
+  "title": "AlignFlow: Improving Flow-based Generative Models with Semi-Discrete Optimal Transport",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "b30f61eb3f41a811ff359864587e9a40c3455418",
+  "title": "Learning an Image Editing Model without Image Editing Pairs",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "6986c48a6e5bc0a939525c2ab2525c4c78964984",
+  "title": "Exploring Cross-Modal Flows for Few-Shot Learning",
+  "date": "2025-10-16"
+ },
+ {
+  "id": "bc808f9292ba4790e4684f5f4b0a4e04dabf9d5c",
+  "title": "A Generative Contextual Comprehension Paradigm for Takeout Ranking Model",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "5ddc91b6638d00430a71c4fa2192afaa38321ef3",
+  "title": "Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "702353805fce6a7d7ff4f06fedd06bd916a3395f",
+  "title": "Your VAR Model is Secretly an Efficient and Explainable Generative Classifier",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "224ac4388f8967244cebe8edbc08a7cf6bd57215",
+  "title": "Adapting Noise to Data: Generative Flows from 1D Processes",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "fd8c59ac1b739a82554392484782f0657fd1ed8b",
+  "title": "Offline Reinforcement Learning with Generative Trajectory Policies",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "2cb05883c7f6013e85f926161f7e9d9db24f18c3",
+  "title": "Y-shaped Generative Flows",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "8da3f14347e422f5c5a1c23c3eea46b973a9966d",
+  "title": "MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "b48f8a312be2e00e5e069deebc85c04ea45c74cc",
+  "title": "Deep Neural Networks Inspired by Differential Equations",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "da29cf3d0128590446c23398017a7bddd2346063",
+  "title": "Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "d1dadc1d7ce1d1fffb849bd95fcd557821a9435f",
+  "title": "DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "cebfc14ed60e00a24ad03c408b596a29a4f2ba2d",
+  "title": "IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "136d325ef90f951725ff43a19e30cc768fdf16f1",
+  "title": "SkipSR: Faster Super Resolution with Token Skipping",
+  "date": "2025-10-09"
+ },
+ {
+  "id": "33df98e033736d5b76eb8a99bfd77f381faad720",
+  "title": "SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization",
+  "date": "2025-10-06"
+ },
+ {
+  "id": "535770e8dc634d58b9c1c462cbc09632d1f5692e",
+  "title": "SoundReactor: Frame-level Online Video-to-Audio Generation",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "66563dd4187007ebe8aad29f300ebf3512525516",
+  "title": "Align Your Tangent: Training Better Consistency Models via Manifold-Aligned Tangents",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "7ebfe931e3e0f20d5b565f7c2b8f7bd685ac5b58",
+  "title": "EVODiff: Entropy-aware Variance Optimized Diffusion Inference",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "86326a1da0e07ea268adc48d7a513a3c28edc2d7",
+  "title": "CMT: Mid-Training for Efficient Learning of Consistency, Mean Flow, and Flow Map Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "9656e0b1ac3f6a83f1c2aaf05bec0a992269a169",
+  "title": "DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "0baf1b9e6f86395c86c25e68114692442838093f",
+  "title": "Scalable GANs with Transformers",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "54b04b955b49734acd64efc156ad131ca61aa3cb",
+  "title": "OAT-FM: Optimal Acceleration Transport for Improved Flow Matching",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "60b201c397f3569530ee8aea71f1b6b8ac1f2614",
+  "title": "SenSE: Semantic-Aware High-Fidelity Universal Speech Enhancement",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "8ba856e1c993f43f9c65bf7b9a5f00f157cc212c",
+  "title": "Training Agents Inside of Scalable World Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "0aa1bb65fad07375b2a9e56ef439ab7c28c8f540",
+  "title": "Flow Matching with Semidiscrete Couplings",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "2314435ef4949da67c4fe5727b89aa05379f8aea",
+  "title": "Hyperspherical Latents Improve Continuous-Token Autoregressive Generation",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "c97548581a6fa55e7a0364033e294f90c8e23412",
+  "title": "Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "1d0618f251fe79a7bbaa2a41a82b01a05459fe4c",
+  "title": "Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "efc8e1d11f17bbf5bbeebaf6a93238d51da0614f",
+  "title": "FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "63a53c188c03ffa572292ec958b949566d43cc22",
+  "title": "HunyuanImage 3.0 Technical Report",
+  "date": "2025-09-28"
+ },
+ {
+  "id": "3922a0302a1657eacdb2e59b09b8aa05b36d6a8a",
+  "title": "MeanFlowSE: One-Step Generative Speech Enhancement via MeanFlow",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "87923b7e5f76f2871ad90720e1c532a98aba2050",
+  "title": "Stochastic Interpolants via Conditional Dependent Coupling",
+  "date": "2025-09-27"
+ },
+ {
+  "id": "a849f0b4f9c22e4856d885f9bcd09edd9e668770",
+  "title": "OT-MeanFlow3D: Bridging Optimal Transport and Meanflow for Efficient 3D Point Cloud Generation",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "d383946423823c90a1fda60f70042610b8c3ed4f",
+  "title": "Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "7308f4b179b165783449985d64e656a260f393e4",
+  "title": "Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "5c68221c3d48044317f705376cd9c107d7185a6f",
+  "title": "MeanSE: Efficient Generative Speech Enhancement with Mean Flows",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "39193a7cfb225716e9b32c2bfbb58e2cbdf7f8b9",
+  "title": "Shortcut Flow Matching for Speech Enhancement: Step-Invariant flows via single stage training",
+  "date": "2025-09-25"
+ },
+ {
+  "id": "470384fb7f695f36b55b833b934ba3a1ae1693f8",
+  "title": "A Gradient Flow Approach to Solving Inverse Problems with Latent Diffusion Models",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "786f57f4b640f231ec56a4154d20cda176e26c06",
+  "title": "Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "2f09aebc780958b66c203cfb36ce735d62441b15",
+  "title": "A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "7c84a21d4c278b5cd3fe0cd321ae7a303d2eb941",
+  "title": "MeanFlowSE: one-step generative speech enhancement via conditional mean flow",
+  "date": "2025-09-18"
+ },
+ {
+  "id": "cfed5690764538a0abe59bd64b75442e794ced50",
+  "title": "Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images",
+  "date": "2025-09-12"
+ },
+ {
+  "id": "898217467d3488adc9f3731fa72d6211eec9a741",
+  "title": "MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation",
+  "date": "2025-09-08"
+ },
+ {
+  "id": "21de124d49394d266d6b90801aff0e026782d476",
+  "title": "Diffusion Secant Alignment for Score-Based Density Ratio Estimation",
+  "date": "2025-09-05"
+ },
+ {
+  "id": "b598d91178e95790a2ae1a6a812f07c640071f44",
+  "title": "Few-step Flow for 3D Generation via Marginal-Data Transport Distillation",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "b03d05fc0957c958f916c5afb93d851626686627",
+  "title": "Transition Models: Rethinking the Generative Learning Objective",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "969ad003156ba60d63f8470636cfd43c7a421a4f",
+  "title": "From Editor to Dense Geometry Estimator",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "26b4f6a61d8af8c19ce0ce030a5803f9b928c1ba",
+  "title": "Latent Space Single-Pixel Imaging Under Low-Sampling Conditions",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "c83b8bfec8bb8cecfa5d6ec146d9fa67ec9aae86",
+  "title": "FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance",
+  "date": "2025-08-30"
+ },
+ {
+  "id": "68ab475b088d3250004ade8f9c45369dcb02f58f",
+  "title": "Fractal Flow: Hierarchical and Interpretable Normalizing Flow via Topic Modeling and Recursive Strategy",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "6720ebdf260f041021c61dc69e169519255a2711",
+  "title": "Modular MeanFlow: Towards Stable and Scalable One-Step Generative Modeling",
+  "date": "2025-08-24"
+ },
+ {
+  "id": "c52418d7f0a9cecc106f1097911179c2726b938d",
+  "title": "Efficient identification of critical regions via flow matching-based Monte Carlo initialization",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "9c0fd20673fa12042e3cab5fe2c14e48a9a3f766",
+  "title": "One-Step Flow Q-Learning: Addressing the Diffusion Policy Bottleneck in Offline Reinforcement Learning",
+  "date": "2025-08-19"
+ },
+ {
+  "id": "4564d5f416030a988907374f54210bc58d8f5281",
+  "title": "UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling",
+  "date": "2025-08-11"
+ },
+ {
+  "id": "e1beb77cd65280fe1bacdf35978c15b849ba8f6d",
+  "title": "PureSample: Neural Materials Learned by Sampling Microgeometry",
+  "date": "2025-08-10"
+ },
+ {
+  "id": "9e9e17cafd27985fee0f0126ccd101940cde929a",
+  "title": "Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria",
+  "date": "2025-08-09"
+ },
+ {
+  "id": "56fe6f349b5ff450a7cbb9958355f81fb8a66636",
+  "title": "OM2P: Offline Multi-Agent Mean-Flow Policy",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "9908f9c2aeeb12f4309a7a9a3f2d543bfcde1747",
+  "title": "MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "0cb515c64fad79ebe8c4556c273f863517ec19f2",
+  "title": "SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment",
+  "date": "2025-08-08"
+ },
+ {
+  "id": "73cc0faee5cfe29a21064b07007010fc1434ade9",
+  "title": "MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow",
+  "date": "2025-08-07"
+ },
+ {
+  "id": "8bbcf88ca90b884e8e46f575c58b54b472647988",
+  "title": "LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing",
+  "date": "2025-08-05"
+ },
+ {
+  "id": "da504273a315e6bd279ad2d8b1051b98cd3f7857",
+  "title": "One-Step Flow Policy Mirror Descent",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "35c7d60da6449d7f4e80611434c6f173332f4fa5",
+  "title": "Next Tokens Denoising for Speech Synthesis",
+  "date": "2025-07-30"
+ },
+ {
+  "id": "16cf8e8b67b5a2a2c03c93d4b398404c2436687e",
+  "title": "Flow Matching Policy Gradients",
+  "date": "2025-07-28"
+ },
+ {
+  "id": "cc2bfc5e10033e239086276743308c4a2c24c2e0",
+  "title": "Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "5301b92341c8b706e3584b88465c806a834428c0",
+  "title": "SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "4e4ff3e0589747decab0113b15baa98a5d067610",
+  "title": "Generative Distribution Distillation",
+  "date": "2025-07-19"
+ },
+ {
+  "id": "4eb047094ca7b41def2dfb00b28304862cee9013",
+  "title": "Taming Diffusion Transformer for Efficient Mobile Video Generation in Seconds",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "9dfb222e96ec165cbc68b6080a12a734d88f80b1",
+  "title": "VITA: Vision-to-Action Flow Matching Policy",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "4665878d8f54aa7024ef50afb958270803524531",
+  "title": "MP1: MeanFlow Tames Policy Learning in 1-step for Robotic Manipulation",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "0366eb00386c0d35f969afcf6ef8aeba4e8be30b",
+  "title": "CoVAE: Consistency Training of Variational Autoencoders",
+  "date": "2025-07-12"
+ },
+ {
+  "id": "4850d8e7e04576802926f30fca005f87d77444d9",
+  "title": "Beyond Scores: Proximal Diffusion Models",
+  "date": "2025-07-11"
+ },
+ {
+  "id": "6aa3e12ff71965205c0348343e2d7c3694ee4624",
+  "title": "A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality",
+  "date": "2025-07-09"
+ },
+ {
+  "id": "1cbe271b2e5113b646919ef41d714884160feed3",
+  "title": "SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "6d80c5183b92e5c0aeeb4d7f60773d29c94ff7d9",
+  "title": "Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion",
+  "date": "2025-06-29"
+ },
+ {
+  "id": "1895c803a45194ef2ac39f2bd96dcdf9b8df4b27",
+  "title": "Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization",
+  "date": "2025-06-27"
+ },
+ {
+  "id": "1e17688873f92b61a18029a05dda3c54fadcfae5",
+  "title": "Align Your Flow: Scaling Continuous-Time Flow Map Distillation",
+  "date": "2025-06-17"
+ },
+ {
+  "id": "bafc9b6a6c135fa1abc16907ad52d5cd305a0554",
+  "title": "Diffuse and Disperse: Image Generation with Representation Regularization",
+  "date": "2025-06-10"
+ },
+ {
+  "id": "1b616258518bf81bb4802ad07984774de70d5685",
+  "title": "Efficient Regression-Based Training of Normalizing Flows for Boltzmann Generators",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "648495b844531dce7c581662bf90c339422bf16c",
+  "title": "How to build a consistency model: Learning flow maps via self-distillation",
+  "date": "2025-05-24"
+ },
+ {
+  "id": "cca8a56f858415cf126025de6be99f6078fd9eb2",
+  "title": "Toward Theoretical Insights into Diffusion Trajectory Distillation via Operator Merging",
+  "date": "2025-05-21"
+ },
+ {
+  "id": "e0267278ca95692a31a165421ede6daca922988a",
+  "title": "Learning to Integrate Diffusion ODEs by Averaging the Derivatives",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "9e3fd420cd59b6a30e90e6dc6b4ceaf41ea1c227",
+  "title": "Vid2World: Crafting Video Diffusion Models to Interactive World Models",
+  "date": "2025-05-20"
+ },
+ {
+  "id": "1746d7b2c5c9a0351d51acbc636ac9c4b0eefd9a",
+  "title": "Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms",
+  "date": "2025-03-10"
+ },
+ {
+  "id": "5c46c2399150aa33648f96771d683c34bf15d3be",
+  "title": "How far can we go with ImageNet for Text-to-Image generation?",
+  "date": "2025-02-28"
+ },
+ {
+  "id": "ee36759c6f197c33da1bca87399c1e319423047a",
+  "title": "Fair Foundation Models for Medical Image Analysis: Challenges and Perspectives",
+  "date": "2025-02-24"
+ },
+ {
+  "id": "bcff4a2b067cf59b459be77e35f39203cc81f74d",
+  "title": "A Survey on Pre-Trained Diffusion Model Distillations",
+  "date": "2025-02-12"
+ },
+ {
+  "id": "ad815bb00d9845c3ae71dbb2bf9af75698ac7f45",
+  "title": "DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision",
+  "date": "2025-02-11"
+ },
+ {
+  "id": "2321d4a5893ab9b15118f423d6438680ed06326e",
+  "title": "Generative Distribution Prediction: A Unified Approach to Multimodal Learning",
+  "date": "2025-02-10"
+ },
+ {
+  "id": "e005d447398de3830e122ac26bcdb943dd10bcc4",
+  "title": "Efficient Semi-Supervised Adversarial Training via Latent Clustering-Based Data Reduction",
+  "date": "2025-01-15"
+ },
+ {
+  "id": "0e68de12666d4c1d864352626eabc559b97002b3",
+  "title": "OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs",
+  "date": "2024-12-12"
+ },
+ {
+  "id": "dae28553b13d3c3e037cfce928d888aa2806aa2e",
+  "title": "Story-Iter: A Training-free Iterative Paradigm for Long Story Visualization",
+  "date": "2024-10-08"
+ },
+ {
+  "id": "369b01f13c6eadf7dc778e639c0da71d518e774d",
+  "title": "Local Flow Matching Generative Models",
+  "date": "2024-10-03"
+ },
+ {
+  "id": "6a1cbc4b8defdb10ab797fcb5a6f9bd0fbeb6bcb",
+  "title": "Pseudo-Nonlinear Data Augmentation: A Constrained Energy Minimization Viewpoint",
+  "date": "2024-10-01"
+ },
+ {
+  "id": "db1cd3514fa2baa0e780fb51ecadf4b37da9caac",
+  "title": "PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference",
+  "date": "2024-05-23"
+ }
+]

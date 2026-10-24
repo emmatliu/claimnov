@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_597bd2e45427563cdf025e53a3239006aa364cfc",
+   "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+   "is_B": true
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network with Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "6b010e07618eb36abe6def23d94488b2c81ecbf7",
+   "title": "Position-aware Graph Neural Networks",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "492f57ee9ceb61fb5a47ad7aebfec1121887a175",
+   "title": "Gated Graph Sequence Neural Networks",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "c2d40522eaa5523d67a0de5e4098e7031fdccb3d",
+   "title": "Pitfalls of Graph Neural Network Evaluation",
+   "date": "2018-11-14"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "cd8a9914d50b0ac63315872530274d158d6aff09",
+   "title": "Modeling Relational Data with Graph Convolutional Networks",
+   "date": "2017-03-17"
+  },
+  {
+   "id": "5aea95e1ae78a66474051a330ded374e199b658c",
+   "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+   "date": "2018-06-09"
+  },
+  {
+   "id": "ac225094aab9e7b629bc5b3343e026dea0200c70",
+   "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "7e9af8a6081dc00187bd4a6727751d1721bd7816",
+   "title": "Evaluating Logical Generalization in Graph Neural Networks",
+   "date": "2020-03-14"
+  },
+  {
+   "id": "789a7069d1a2d02d784e4821685b216cc63e6ec8",
+   "title": "Strategies for Pre-training Graph Neural Networks",
+   "date": "2019-05-29"
+  },
+  {
+   "id": "3db5fcb595492dcd64663c00d56f004dfafa689c",
+   "title": "A Fair Comparison of Graph Neural Networks for Graph Classification",
+   "date": "2019-12-20"
+  },
+  {
+   "id": "cb2722b202b2b0b1b9b87eb4a984dee9040f34c3",
+   "title": "Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks",
+   "date": "2019-02-04"
+  },
+  {
+   "id": "ecf6c42d84351f34e1625a6a2e4cc6526da45c74",
+   "title": "Representation Learning on Graphs: Methods and Applications",
+   "date": "2017-09-17"
+  },
+  {
+   "id": "0ca7d8c3250d43d14fdde46bf6fc299654d861ef",
+   "title": "Heterogeneous Graph Transformer",
+   "date": "2020-03-03"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  },
+  {
+   "id": "d2a8e1857dbfaef6713e33a1946ea7548f8209a3",
+   "title": "Learning Graph-Level Representation for Drug Discovery",
+   "date": "2017-09-12"
+  },
+  {
+   "id": "463883b2b15662c3f391b97c10843ee97a19d738",
+   "title": "Dimensional Reweighting Graph Convolutional Networks",
+   "date": "2019-07-04"
+  },
+  {
+   "id": "d18b48f77eb5c517a6d2c1fa434d2952a1b0a825",
+   "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+   "date": "2018-06-22"
+  }
+ ],
+ "n_candidates": 86,
+ "sims": [
+  0.6965,
+  0.6639,
+  0.6521,
+  0.639,
+  0.6011,
+  0.5997,
+  0.5861,
+  0.5757,
+  0.575,
+  0.5744,
+  0.5702,
+  0.5684,
+  0.5629,
+  0.5607,
+  0.5538,
+  0.552,
+  0.5491,
+  0.5481,
+  0.5419
+ ]
+}

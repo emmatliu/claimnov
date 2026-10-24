@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_092cda72f57378162fbcc3b9645922a356312e6d",
+   "title": "Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning",
+   "date": "2026-06-15",
+   "is_B": true
+  },
+  {
+   "id": "550006bea81e4ccb67743dd1b82a70b86b48d93a",
+   "title": "RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "e02478f97ed90766d87530b35647e55d1edf6f64",
+   "title": "Robot Policy Learning with Temporal Optimal Transport Reward",
+   "date": "2024-10-29"
+  },
+  {
+   "id": "81724b808ae215844bdd841236f4e903f97e335c",
+   "title": "Optimal Transport for Offline Imitation Learning",
+   "date": "2023-03-24"
+  },
+  {
+   "id": "ff0f7c80c9ecabf6986884b918626d431b9b6778",
+   "title": "Policy Learning from Large Vision-Language Model Feedback Without Reward Modeling",
+   "date": "2025-07-31"
+  },
+  {
+   "id": "8dccf45aa7b6d3e7ef8fe762751cb35c86778141",
+   "title": "Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models",
+   "date": "2025-06-15"
+  },
+  {
+   "id": "4f0bfeadd39e64456d15d400fda8ecc2197c3265",
+   "title": "Direct Preference-based Policy Optimization without Reward Modeling",
+   "date": "2023-01-30"
+  },
+  {
+   "id": "4749559e87d6a301a2ac61767d48ff4437fe4fd8",
+   "title": "Real-World Offline Reinforcement Learning from Vision Language Model Feedback",
+   "date": "2024-11-08"
+  },
+  {
+   "id": "d5119a781833d7e3aa74615d1ec5854b3b58536b",
+   "title": "What Matters to You? Towards Visual Representation Alignment for Robot Learning",
+   "date": "2023-10-11"
+  },
+  {
+   "id": "fb09b581589e1195ff018179c6a11668587c6d64",
+   "title": "Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning",
+   "date": "2023-10-19"
+  },
+  {
+   "id": "3990f2211e16fff86af9ad9f0c967b0fe37d3658",
+   "title": "Reward Generation via Large Vision-Language Model in Offline Reinforcement Learning",
+   "date": "2025-04-03"
+  },
+  {
+   "id": "18d750263f1dfe43374e8791cefa580a511c2098",
+   "title": "Few-Shot Preference Learning for Human-in-the-Loop RL",
+   "date": "2022-12-06"
+  },
+  {
+   "id": "4367911d9d28d83fafbcf6c908698dd981ddbe9e",
+   "title": "Inverse Preference Learning: Preference-based RL without a Reward Function",
+   "date": "2023-05-24"
+  },
+  {
+   "id": "45f573f302dc7e77cbc5d1a74ccbac3564bbebc8",
+   "title": "PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training",
+   "date": "2021-06-09"
+  },
+  {
+   "id": "8525434adbf25984e55c78063c71bcb958d364e4",
+   "title": "Listwise Reward Estimation for Offline Preference-based Reinforcement Learning",
+   "date": "2024-08-08"
+  },
+  {
+   "id": "5008574062623b3269ba9e39d37e319770101d6e",
+   "title": "SEQUEL: Semi-Supervised Preference-based RL with Query Synthesis via Latent Interpolation",
+   "date": "2024-05-13"
+  },
+  {
+   "id": "3211678bf2f01c5ea28bc67399b956b6273478cb",
+   "title": "PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation",
+   "date": "2023-06-06"
+  },
+  {
+   "id": "88ae720354fa4883be13e25e1cf92dcd4fed5f5d",
+   "title": "Benchmarks and Algorithms for Offline Preference-Based Reward Learning",
+   "date": "2023-01-03"
+  },
+  {
+   "id": "cc9f2fd320a279741403c4bfbeb91179803c428c",
+   "title": "Reward Uncertainty for Exploration in Preference-based Reinforcement Learning",
+   "date": "2022-05-24"
+  },
+  {
+   "id": "386cebdba39d2d5f2862a9ab43a8d807f3863dae",
+   "title": "Contrastive Preference Learning: Learning from Human Feedback without RL",
+   "date": "2023-10-20"
+  }
+ ],
+ "n_candidates": 89,
+ "sims": [
+  0.7258,
+  0.7203,
+  0.7119,
+  0.7088,
+  0.7042,
+  0.7023,
+  0.6904,
+  0.6804,
+  0.6753,
+  0.6741,
+  0.6682,
+  0.665,
+  0.664,
+  0.6568,
+  0.6519,
+  0.6505,
+  0.6501,
+  0.6463,
+  0.6416
+ ]
+}

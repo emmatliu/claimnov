@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_2f89445cffbeb5780e21f4d6c546034bf9ab24e8",
+   "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
+   "date": "2026-07-03",
+   "is_B": true
+  },
+  {
+   "id": "a8e2e3ff1770fd83228659e9e4d16114ddb9404b",
+   "title": "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "047f0dcc0c73edc222be828136e50c335137545f",
+   "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
+   "date": "2024-12-10"
+  },
+  {
+   "id": "9ca4f26f9c587f5fe0d49db897b2aa7426294095",
+   "title": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "3b2a675bb617ae1a920e8e29d535cdf27826e999",
+   "title": "Video Diffusion Models",
+   "date": "2022-04-07"
+  },
+  {
+   "id": "792ff877a38a72a6b647639c85dd4a30e7ffe795",
+   "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+   "date": "2025-10-02"
+  },
+  {
+   "id": "40d63dc2b465c9081e4efc5a19514da151e97fe7",
+   "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+   "date": "2024-07-01"
+  },
+  {
+   "id": "1206b05eae5a06ba662ae79fb291b50e359c4f42",
+   "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+   "date": "2023-11-25"
+  },
+  {
+   "id": "26c6090b7e7ba4513f82aa28d41360c60770c618",
+   "title": "VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation",
+   "date": "2023-03-15"
+  },
+  {
+   "id": "33c16c6fe889944f18e5119721a001715988b545",
+   "title": "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout",
+   "date": "2025-11-25"
+  },
+  {
+   "id": "e72efe88b16972f115f9dc85f0f2b165a9f4e6a9",
+   "title": "SkyReels-V2: Infinite-length Film Generative Model",
+   "date": "2025-04-17"
+  },
+  {
+   "id": "905ba940236b00bebb2fd348d4d932e7887b0c0a",
+   "title": "Photorealistic Video Generation with Diffusion Models",
+   "date": "2023-12-11"
+  },
+  {
+   "id": "735b7f4f91bcc5e9712df7f419eade672b1d3968",
+   "title": "Autoregressive Video Generation without Vector Quantization",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "492bc8339d8aac442c4ec13f8c1d59e980a3af2f",
+   "title": "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models",
+   "date": "2024-01-17"
+  },
+  {
+   "id": "73174305b11bf7bfce4555bf36ad038749fcfff6",
+   "title": "Transition Matching Distillation for Fast Video Generation",
+   "date": "2026-01-14"
+  },
+  {
+   "id": "7b248d78573ccf0dca6aa2cec2743d3eccaa9d1a",
+   "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+   "date": "2024-08-12"
+  },
+  {
+   "id": "498ac9b2e494601d20a3d0211c16acf2b7954a54",
+   "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+   "date": "2022-10-05"
+  },
+  {
+   "id": "f8e06a310fc99df5b76268fc38abb31f6de5a6f6",
+   "title": "LongLive: Real-time Interactive Long Video Generation",
+   "date": "2025-09-26"
+  },
+  {
+   "id": "457d4cffbb11666180507db21a86435941a69625",
+   "title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "94f7d8bce3bb848d127c8f113afc5bb0243579df",
+   "title": "Lumiere: A Space-Time Diffusion Model for Video Generation",
+   "date": "2024-01-23"
+  }
+ ],
+ "n_candidates": 47,
+ "sims": [
+  0.7903,
+  0.7672,
+  0.7348,
+  0.7273,
+  0.7046,
+  0.6872,
+  0.6871,
+  0.6846,
+  0.676,
+  0.6729,
+  0.6673,
+  0.6616,
+  0.6335,
+  0.6314,
+  0.6261,
+  0.6249,
+  0.6242,
+  0.6124,
+  0.6117
+ ]
+}

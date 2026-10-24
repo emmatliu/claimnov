@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_6ac5eb309dd937d801d180c830377e4d551699a2",
+   "title": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments",
+   "is_B": true
+  },
+  {
+   "id": "593678c350e955f9fe4e0b1ac7f51a74b026709a",
+   "title": "Multi-Agent Learning with Policy Prediction",
+   "date": "2010-07-04"
+  },
+  {
+   "id": "7c3ece1ba41c415d7e81cfa5ca33a8de66efd434",
+   "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+   "date": "2017-06-07"
+  },
+  {
+   "id": "2b292ff89d808fba10579871591a22f1649cd039",
+   "title": "Counterfactual Multi-Agent Policy Gradients",
+   "date": "2017-05-24"
+  },
+  {
+   "id": "1d92cf3f0c86bfde10238fcaf31182a245bc920b",
+   "title": "Learning with Opponent-Learning Awareness",
+   "date": "2017-09-13"
+  },
+  {
+   "id": "8978d7629fd90f0975656412793715961eeeafc7",
+   "title": "AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents",
+   "date": "2003-07-01"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "954b01151ff13aef416d27adc60cd9a076753b1a",
+   "title": "RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "c335ff618991f0a4cdde09271284172a7e5f6b7f",
+   "title": "Emergent Complexity via Multi-Agent Competition",
+   "date": "2017-10-10"
+  },
+  {
+   "id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+   "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "282a380fb5ac26d99667224cef8c630f6882704f",
+   "title": "Learning to reinforcement learn",
+   "date": "2016-11-17"
+  },
+  {
+   "id": "1298dae5751fb06184f6b067d1503bde8037bdb7",
+   "title": "Deep Reinforcement Learning for Dialogue Generation",
+   "date": "2016-06-05"
+  },
+  {
+   "id": "b6b8a1b80891c96c28cc6340267b58186157e536",
+   "title": "End-to-End Training of Deep Visuomotor Policies",
+   "date": "2015-04-02"
+  },
+  {
+   "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "date": "2017-03-09"
+  },
+  {
+   "id": "46b072cf918ec6f50403568a73d4347ea86b7e66",
+   "title": "Recasting Gradient-Based Meta-Learning as Hierarchical Bayes",
+   "date": "2018-01-26"
+  },
+  {
+   "id": "76dfb1ab698963f3776fe894b3743db4a5419a5f",
+   "title": "Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games",
+   "date": "2017-03-29"
+  },
+  {
+   "id": "a7c183abb9b044bfbe1f09199ee970ea3a01104f",
+   "title": "Nash Convergence of Gradient Dynamics in General-Sum Games",
+   "date": "2000-06-30"
+  },
+  {
+   "id": "be1bb4e4aa1fcf70281b4bd24d8cd31c04864bb6",
+   "title": "Matching Networks for One Shot Learning",
+   "date": "2016-06-13"
+  },
+  {
+   "id": "e5d27d25c906e89e753b2bb18645be3511b8a97c",
+   "title": "Supervision via competition: Robot adversaries for learning tasks",
+   "date": "2016-10-05"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.6774,
+  0.6193,
+  0.6183,
+  0.5977,
+  0.5505,
+  0.5489,
+  0.5466,
+  0.5294,
+  0.5264,
+  0.5203,
+  0.5156,
+  0.5078,
+  0.4892,
+  0.4789,
+  0.4743,
+  0.447,
+  0.4422,
+  0.4164,
+  0.4071
+ ]
+}

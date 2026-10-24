@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_54a0295ae21dbdb37e17f57337b120f6be264b7c",
+   "title": "Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding",
+   "date": "2026-03-12",
+   "is_B": true
+  },
+  {
+   "id": "5ac4c1a706d5bc49d483f5f8c63323b0fd780a82",
+   "title": "Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities",
+   "date": "2025-05-10"
+  },
+  {
+   "id": "e34348bcc333103fb11c4a2fd0f1cca88a602313",
+   "title": "Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "d4aced691a7c2e36cbd4ea5f0fad42ebd43ee0da",
+   "title": "Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek",
+   "date": "2025-05-23"
+  },
+  {
+   "id": "c8cda46d6a2e5ff24fa882406e292ca844df8759",
+   "title": "CAD Translator: An Effective Drive for Text to 3D Parametric Computer-Aided Design Generative Modeling",
+   "date": "2024-10-28"
+  },
+  {
+   "id": "2b91119b2ec0c72d3801e6c5586d1126879da583",
+   "title": "Generative AI meets CAD: enhancing engineering design to manufacturing processes with large language models",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "66d6f51244bcf1c7a3dfcd88fb1ef7a57cc5749d",
+   "title": "CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "dfd5941b9f60a97de58b6bc4da56c0a22b348580",
+   "title": "CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "51a8d15cb89f7a754cca514ffc32825ab5e5fa74",
+   "title": "CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs",
+   "date": "2024-12-27"
+  },
+  {
+   "id": "2cb1cb8107e84ff191b5f7fdbbf435ae97c26075",
+   "title": "BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry",
+   "date": "2024-01-28"
+  },
+  {
+   "id": "1b111d932d4bfb7b1112a550f04e25d9cf472e0d",
+   "title": "CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM",
+   "date": "2024-11-07"
+  },
+  {
+   "id": "301bf1ecb28ae1035e6dcef5ed67add79271c252",
+   "title": "SolidGen: An Autoregressive Model for Direct B-rep Synthesis",
+   "date": "2022-03-26"
+  },
+  {
+   "id": "27aff3445f8213e9dd090edf0e28b475001a1db9",
+   "title": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "5c085e6bd81d651cb5e9241af162a7d81ebfafbd",
+   "title": "AutoBrep : Autoregressive B-Rep Generation with Unified Topology and Geometry",
+   "date": "2025-12-02"
+  },
+  {
+   "id": "4d9dd7f00d20da0de8b6e2e04b02fb9449664fe0",
+   "title": "DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "57d71b30f2ff68bde4a0c50322bb93a5c3358ee0",
+   "title": "DeepCAD: A Deep Generative Network for Computer-Aided Design Models",
+   "date": "2021-05-20"
+  },
+  {
+   "id": "6629d249c1e35fbd5053208cf975e9c2bae98305",
+   "title": "HoLa: B-Rep Generation using a Holistic Latent Representation",
+   "date": "2025-04-19"
+  },
+  {
+   "id": "05bd4fe6c0ace2cb6bd51a433bf97f03218bdcef",
+   "title": "CAD-Recode: Reverse Engineering CAD Code From Point Clouds",
+   "date": "2024-12-18"
+  },
+  {
+   "id": "c9e611fc406852097fa3d8c75261b547b9c43f04",
+   "title": "NamingCAD: A Naming Method for Unique Identification toward CAD Modeling Learning",
+   "date": "2025-12-06"
+  },
+  {
+   "id": "946a15c0877bc6a95f3620fc6c24350e4a92d95e",
+   "title": "A parametric and feature-based CAD dataset to support human-computer interaction for advanced 3D shape learning",
+   "date": "2024-08-10"
+  }
+ ],
+ "n_candidates": 34,
+ "sims": [
+  0.7163,
+  0.7053,
+  0.7048,
+  0.7024,
+  0.7011,
+  0.698,
+  0.6936,
+  0.6922,
+  0.6789,
+  0.675,
+  0.6605,
+  0.6581,
+  0.6558,
+  0.6391,
+  0.6323,
+  0.6262,
+  0.6227,
+  0.6172,
+  0.6171
+ ]
+}

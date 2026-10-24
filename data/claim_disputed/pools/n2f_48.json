@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2006.14514",
+   "title": "Taming neural networks with TUSLA: Non-convex learning via adaptive stochastic gradient Langevin algorithms",
+   "is_B": true
+  },
+  {
+   "id": "a7927798b3fe0350746095260e125a545a76effe",
+   "title": "The tamed unadjusted Langevin algorithm",
+   "date": "2017-10-16"
+  },
+  {
+   "id": "6f7cdcf98f559d93f33c8b6f0f376f0c8c8cfab2",
+   "title": "Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "c215b9ac79f07c8a43782b224f4416943837ffa8",
+   "title": "On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization",
+   "date": "2018-08-08"
+  },
+  {
+   "id": "9cb7103bfe0f3074113edd995a5425cc32e90467",
+   "title": "Nonasymptotic Estimates for Stochastic Gradient Langevin Dynamics Under Local Conditions in Nonconvex Optimization",
+   "date": "2019-10-04"
+  },
+  {
+   "id": "2d1913bfcf3be65666c759babc9060e0468d09de",
+   "title": "Higher order Langevin Monte Carlo algorithm",
+   "date": "2018-08-02"
+  },
+  {
+   "id": "a4df7e302f77f1fe0a1398589e7ed8fe4b61467d",
+   "title": "Non-asymptotic convergence analysis for the Unadjusted Langevin Algorithm",
+   "date": "2015-07-17"
+  },
+  {
+   "id": "08824783c25c8680231e635a09104b440d5d26de",
+   "title": "The promises and pitfalls of Stochastic Gradient Langevin Dynamics",
+   "date": "2018-11-25"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "83dfd3b0e077d816e9f7506dd12552c18bbdb790",
+   "title": "Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis",
+   "date": "2017-02-13"
+  },
+  {
+   "id": "0c2c11db8a43964e139c65b23e02af31deb81be8",
+   "title": "User-friendly guarantees for the Langevin Monte Carlo with inaccurate gradient",
+   "date": "2017-09-29"
+  },
+  {
+   "id": "f84c7a92190ea0702af6a1ee1744c7094472df65",
+   "title": "Convergence and Dynamical Behavior of the ADAM Algorithm for Nonconvex Stochastic Optimization",
+   "date": "2018-10-04"
+  },
+  {
+   "id": "e242caa5e60776ab2df1ed758df66b4020ae4ded",
+   "title": "High-dimensional Bayesian inference via the unadjusted Langevin algorithm",
+   "date": "2016-05-05"
+  },
+  {
+   "id": "ed371b0babb896c400228bab6b2298287ca5a818",
+   "title": "Sharp Convergence Rates for Langevin Dynamics in the Nonconvex Setting",
+   "date": "2018-05-04"
+  },
+  {
+   "id": "da4ff14c8c4f945996734f1ec2f1d9dd8005f27e",
+   "title": "On stochastic gradient Langevin dynamics with dependent data streams in the logconcave case",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "47c5017a2b1fc27886c5b83ab787152f5ebe6845",
+   "title": "A note on tamed Euler approximations",
+   "date": "2013-03-22"
+  },
+  {
+   "id": "1d4878b0876a678f261b320d4abc115c0e8b3db5",
+   "title": "On stochastic gradient Langevin dynamics with dependent data streams: the fully non-convex case",
+   "date": "2019-05-30"
+  },
+  {
+   "id": "3e7168e81d854e0b4858afed916be1bb5749a548",
+   "title": "Euler approximations with varying coefficients: The case of superlinearly growing diffusion coefficients",
+   "date": "2013-08-08"
+  },
+  {
+   "id": "4a1768d9f5f90c669af875524704d6f262fb9ebf",
+   "title": "Couplings and quantitative contraction rates for Langevin dynamics",
+   "date": "2017-03-05"
+  },
+  {
+   "id": "33742f3504e55d6ca8fd89a0965937fb43320c1a",
+   "title": "Strong and weak divergence in finite time of Euler's method for stochastic differential equations with non-globally Lipschitz continuous coefficients",
+   "date": "2009-05-04"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.6636,
+  0.6575,
+  0.614,
+  0.6125,
+  0.6122,
+  0.5972,
+  0.5899,
+  0.5795,
+  0.576,
+  0.5698,
+  0.5602,
+  0.5585,
+  0.5381,
+  0.5351,
+  0.5262,
+  0.5246,
+  0.5215,
+  0.5172,
+  0.493
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_7faefdcbe864f82f70aa987ba4336e4bd9db273b",
+   "title": "Is Support Set Diversity Necessary for Meta-Learning?",
+   "is_B": true
+  },
+  {
+   "id": "4bf9f88d438c7d978fb854eba686cf3933879df1",
+   "title": "Meta-Learning without Memorization",
+   "date": "2019-12-09"
+  },
+  {
+   "id": "38e2f851b705faa0d0a698ed9885bd6834440073",
+   "title": "Probabilistic Model-Agnostic Meta-Learning",
+   "date": "2018-06-07"
+  },
+  {
+   "id": "fc437af6204008647ea49f81058d5fdaddf75ead",
+   "title": "Meta-Learning With Differentiable Convex Optimization",
+   "date": "2019-04-07"
+  },
+  {
+   "id": "be1bb4e4aa1fcf70281b4bd24d8cd31c04864bb6",
+   "title": "Matching Networks for One Shot Learning",
+   "date": "2016-06-13"
+  },
+  {
+   "id": "e6a83abec5cffb0bf1669f2f2c1efdf2b15cb171",
+   "title": "TADAM: Task dependent adaptive metric for improved few-shot learning",
+   "date": "2018-05-23"
+  },
+  {
+   "id": "04f739a0c29b75877243731aeead512bf0ed1dff",
+   "title": "Meta-Learning with Latent Embedding Optimization",
+   "date": "2018-07-16"
+  },
+  {
+   "id": "2bdebf2fb0f5c21907fcaae6d87c7ba5811e778a",
+   "title": "Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "a2933c8d0e152264d1cd25ca8248b25d4b49038b",
+   "title": "Meta-Learning with Implicit Gradients",
+   "date": "2019-09-10"
+  },
+  {
+   "id": "94f24b06a8d6d92b20cba206079b37c3e3466a28",
+   "title": "Task Augmentation by Rotating for Meta-Learning",
+   "date": "2020-02-08"
+  },
+  {
+   "id": "ccbe37b5c4d8a5687153df6fedbb44d6f1c46d7d",
+   "title": "Charting the Right Manifold: Manifold Mixup for Few-shot Learning",
+   "date": "2019-07-28"
+  },
+  {
+   "id": "9d5ec23154fb278a765f47ba5ee5150bd441d0de",
+   "title": "A Closer Look at Few-shot Classification",
+   "date": "2019-04-08"
+  },
+  {
+   "id": "c269858a7bb34e8350f2442ccf37797856ae9bca",
+   "title": "Prototypical Networks for Few-shot Learning",
+   "date": "2017-03-15"
+  },
+  {
+   "id": "bfe284e4338e62f0a61bb33398353efd687f206f",
+   "title": "Learning to Compare: Relation Network for Few-Shot Learning",
+   "date": "2017-11-16"
+  },
+  {
+   "id": "208cd4b25768f0096fb2e80e7690473da0e2a563",
+   "title": "Meta-learning with differentiable closed-form solvers",
+   "date": "2018-05-21"
+  },
+  {
+   "id": "3ee19426b9d5acd3b975708845e518277627ec59",
+   "title": "Leveraging the Feature Distribution in Transfer-based Few-Shot Learning",
+   "date": "2020-06-06"
+  },
+  {
+   "id": "8ec5896b4490c6e127d1718ffc36a3439d84cb81",
+   "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+   "date": "2016-09-15"
+  },
+  {
+   "id": "58123025178256279bb060ca5da971b62bc329ee",
+   "title": "Sharp Minima Can Generalize For Deep Nets",
+   "date": "2017-03-15"
+  },
+  {
+   "id": "6baca6351dc55baac44f0416e74a7e0ba2bfd03e",
+   "title": "Visualizing the Loss Landscape of Neural Nets",
+   "date": "2017-12-28"
+  },
+  {
+   "id": "b8989afff14fb630ca58b6afa917fb42574228ee",
+   "title": "Averaging Weights Leads to Wider Optima and Better Generalization",
+   "date": "2018-03-14"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.7354,
+  0.7012,
+  0.6453,
+  0.6184,
+  0.6152,
+  0.5875,
+  0.5773,
+  0.5763,
+  0.5712,
+  0.5546,
+  0.5472,
+  0.5395,
+  0.5314,
+  0.5312,
+  0.482,
+  0.4599,
+  0.45,
+  0.4445,
+  0.4412
+ ]
+}

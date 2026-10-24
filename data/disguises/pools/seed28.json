@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d959e01d46a07117d4f8e390b4dc6260e44a2204",
+   "title": "Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning",
+   "date": "2026-03-03",
+   "is_B": true
+  },
+  {
+   "id": "384b658132b3ac7d810b4595c0afff7695935f6f",
+   "title": "Reinforcement Learning with Delayed, Composite, and Partially Anonymous Reward",
+   "date": "2023-05-04"
+  },
+  {
+   "id": "993e8f2c96ae33ba66c242dd30808a21d6e6d003",
+   "title": "Optimism and Delays in Episodic Reinforcement Learning",
+   "date": "2021-11-15"
+  },
+  {
+   "id": "6599196617bf1611b8c69da0ad761553163e3a2b",
+   "title": "Blind Decision Making: Reinforcement Learning with Delayed Observations",
+   "date": "2020-11-16"
+  },
+  {
+   "id": "67d10cea808937089d6492acff14ad9ef156e3c5",
+   "title": "Minimax Regret Bounds for Reinforcement Learning",
+   "date": "2017-03-16"
+  },
+  {
+   "id": "f14ea2243fe74cbf1a4ea86cebed1fb9547c3a7c",
+   "title": "Tighter Problem-Dependent Regret Bounds in Reinforcement Learning without Domain Knowledge using Value Function Bounds",
+   "date": "2019-01-01"
+  },
+  {
+   "id": "b0dd1fdef92896c2bbe4a9e6036fc8a8cb605ef2",
+   "title": "Delay-Adapted Policy Optimization and Improved Regret for Adversarial MDP with Delayed Bandit Feedback",
+   "date": "2023-05-13"
+  },
+  {
+   "id": "ec2aecde467988f67b6d190479cf4b7ae7806b8c",
+   "title": "Posterior Sampling with Delayed Feedback for Reinforcement Learning with Linear Function Approximation",
+   "date": "2023-10-29"
+  },
+  {
+   "id": "4c3bdd75992aaa51950d8da12cfa2b4f4e0165cc",
+   "title": "Settling the Sample Complexity of Online Reinforcement Learning",
+   "date": "2023-07-25"
+  },
+  {
+   "id": "790ea537eb8c7dfaa45d0b42484cd1af7efdcac0",
+   "title": "A Best-of-Both-Worlds Algorithm for Bandits with Delayed Feedback",
+   "date": "2022-06-29"
+  },
+  {
+   "id": "0b0c82e33d3328246b6adc3ef2b55be9b606a0cd",
+   "title": "Episodic Reinforcement Learning in Finite MDPs: Minimax Lower Bounds Revisited",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "3a9fa3c32913db21bf831fb00afa790f0660ec12",
+   "title": "Stochastic Multi-Armed Bandits with Unrestricted Delay Distributions",
+   "date": "2021-06-04"
+  },
+  {
+   "id": "93e5b29890d3fbd7f8732bafbcad310e0c78078e",
+   "title": "Is Reinforcement Learning More Difficult Than Bandits? A Near-optimal Algorithm Escaping the Curse of Horizon",
+   "date": "2020-09-28"
+  },
+  {
+   "id": "fe4e688a3fdfd1de6809ac0be99f005ae3e9e593",
+   "title": "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "3911102ff2bdba42d003ef4c9660796c6f36b355",
+   "title": "Delayed Feedback in Generalised Linear Bandits Revisited",
+   "date": "2022-07-21"
+  },
+  {
+   "id": "85cd1064f7b82d52c1864d35223d5f45144721ff",
+   "title": "From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses",
+   "date": "2022-05-16"
+  },
+  {
+   "id": "f5e4bd8df3e07672f7b2246364059deb50b86774",
+   "title": "A Reduction-based Framework for Sequential Decision Making with Delayed Feedback",
+   "date": "2023-02-03"
+  },
+  {
+   "id": "7fd230fb1b2a30b360b2dbf95b712ac4ec668b53",
+   "title": "Directly Forecasting Belief for Reinforcement Learning with Delays",
+   "date": "2025-05-01"
+  },
+  {
+   "id": "a1282f8334e781ed33d7479fcde32956d7e9c0dc",
+   "title": "When Is Partially Observable Reinforcement Learning Not Scary?",
+   "date": "2022-04-19"
+  },
+  {
+   "id": "189a040285c672115bee028f9e42484397430862",
+   "title": "Optimistic MLE: A Generic Model-Based Algorithm for Partially Observable Sequential Decision Making",
+   "date": "2023-06-02"
+  }
+ ],
+ "n_candidates": 29,
+ "sims": [
+  0.7298,
+  0.7202,
+  0.7198,
+  0.7171,
+  0.6853,
+  0.6817,
+  0.6711,
+  0.6699,
+  0.6654,
+  0.6511,
+  0.6422,
+  0.6358,
+  0.6354,
+  0.6289,
+  0.6277,
+  0.6267,
+  0.6131,
+  0.609,
+  0.6064
+ ]
+}

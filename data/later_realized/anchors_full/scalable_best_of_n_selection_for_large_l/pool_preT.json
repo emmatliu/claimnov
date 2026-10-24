@@ -1,0 +1,622 @@
+[
+ {
+  "id": "4a7e1870fa76329da369211ab0630ce4960402f6",
+  "title": "The Lessons of Developing Process Reward Models in Mathematical Reasoning",
+  "date": "2025-01-13"
+ },
+ {
+  "id": "0e63a3aebf14fc7a68c0df7a922770bde5b77360",
+  "title": "Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought",
+  "date": "2025-01-08"
+ },
+ {
+  "id": "11dd2fc88747d20629f5aafab72ba649d93e969c",
+  "title": "Qwen2.5-Coder Technical Report",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "8292083dd8f6ae898ea0ee54a6b97997d1a51c9d",
+  "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+  "date": "2024-08-06"
+ },
+ {
+  "id": "40e8af970329135ec95057d73e239dab805ad128",
+  "title": "The Llama 3 Herd of Models",
+  "date": "2024-07-31"
+ },
+ {
+  "id": "3a588665fb59801fcbdce825ed7a4cf59984567f",
+  "title": "Internal Consistency and Self-Feedback in Large Language Models: A Survey",
+  "date": "2024-07-19"
+ },
+ {
+  "id": "93765da00ae8f14bb7675b95fc55a8a57fff091f",
+  "title": "Can Perplexity Reflect Large Language Model's Ability in Long Text Understanding?",
+  "date": "2024-05-09"
+ },
+ {
+  "id": "afe0998d191f3ea8490c7df100a3ffc5dcc62c5e",
+  "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+  "date": "2024-03-12"
+ },
+ {
+  "id": "0bf8f5f0ea8bae43264a3fb9db2108809172ecbd",
+  "title": "TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness",
+  "date": "2024-02-19"
+ },
+ {
+  "id": "4701914bc77dedef9e0a001687277103fb3ddfc6",
+  "title": "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+  "date": "2024-01-05"
+ },
+ {
+  "id": "4ba57555bef02f988f2ed3bab2f102733dc55221",
+  "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+  "date": "2023-12-14"
+ },
+ {
+  "id": "04365f0f1db4c659c3297cb8e70c39b38ed3b487",
+  "title": "Self-Evaluation Improves Selective Generation in Large Language Models",
+  "date": "2023-12-14"
+ },
+ {
+  "id": "b4afc7b4a6836054c1b4568ce9d49993afbb0461",
+  "title": "Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking",
+  "date": "2023-12-14"
+ },
+ {
+  "id": "5f66d1a667eec13b5d337c3fc5619bcef95092bd",
+  "title": "Universal Self-Consistency for Large Language Model Generation",
+  "date": "2023-11-29"
+ },
+ {
+  "id": "6aa6003c7d7b3d275ae981aa6200014968c32430",
+  "title": "A Survey of Confidence Estimation and Calibration in Large Language Models",
+  "date": "2023-11-14"
+ },
+ {
+  "id": "023d462ec6ff84cee0d0716a34d11efc7cde8534",
+  "title": "Reward Model Ensembles Help Mitigate Overoptimization",
+  "date": "2023-10-04"
+ },
+ {
+  "id": "c01c7c1f903dfaa78812fb20a6cb2db25e4712e3",
+  "title": "Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness",
+  "date": "2023-08-30"
+ },
+ {
+  "id": "be8db99310602d66bba64bcf41a572c45816fbfc",
+  "title": "Let's Verify Step by Step",
+  "date": "2023-05-31"
+ },
+ {
+  "id": "6d7b8a478801bd9d21df82d5f33ae6eced90da5e",
+  "title": "Solving math word problems with process- and outcome-based feedback",
+  "date": "2022-11-25"
+ },
+ {
+  "id": "0286b2736a114198b25fb5553c671c33aed5d477",
+  "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+  "date": "2022-04-12"
+ },
+ {
+  "id": "5f19ae1135a9500940978104ec15a5b8751bc7d2",
+  "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+  "date": "2022-03-21"
+ },
+ {
+  "id": "d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+  "title": "Training language models to follow instructions with human feedback",
+  "date": "2022-03-04"
+ },
+ {
+  "id": "1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+  "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+  "date": "2022-01-28"
+ },
+ {
+  "id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+  "title": "Training Verifiers to Solve Math Word Problems",
+  "date": "2021-10-27"
+ },
+ {
+  "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+  "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+  "date": "2021-03-05"
+ },
+ {
+  "id": "3ed06aca3b25a9af89f08b949753372d29647a10",
+  "title": "Trading Off Diversity and Quality in Natural Language Generation",
+  "date": "2020-04-22"
+ },
+ {
+  "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+  "title": "Attention is All you Need",
+  "date": "2017-06-12"
+ },
+ {
+  "id": "6948a1937c64d151009b4028c21ff9a91cd80dfc",
+  "title": "Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "c15d40434e64f0f7231a5078f029c7b97f39f8d7",
+  "title": "Reliable Thinking with Images",
+  "date": "2026-02-13"
+ },
+ {
+  "id": "f97eddd5360d4e0440e4756fa9f177f18b90fe5f",
+  "title": "Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning",
+  "date": "2026-02-12"
+ },
+ {
+  "id": "e37c71453f7fff58da991a4a3d47e71afce79895",
+  "title": "MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "d9683b161e04de850508ea8ae99f5d9f1d2b0c90",
+  "title": "CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "954dfc684df2753b0d60e3fbab6a1aaa0299e1b6",
+  "title": "HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "a2f33c7a74b21be7200190d8df8d6b596a895180",
+  "title": "Multi-Token Prediction via Self-Distillation",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "6411dfe92e500c10bd10dbb94d2ecd5340449710",
+  "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "2b4219d9926c7229684ceba796b6eaeffa7fab8e",
+  "title": "Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "1429acc6ee41208884344cdca5a3a83654a25cef",
+  "title": "Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention",
+  "date": "2026-02-03"
+ },
+ {
+  "id": "1a6939701dc742fd3892e796fb9f40581c8445aa",
+  "title": "How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning",
+  "date": "2026-02-02"
+ },
+ {
+  "id": "891c74b0abcbe5e95b8d499f806f4eee9d07dec0",
+  "title": "Chronos: Learning Temporal Dynamics of Reasoning Chains for Test-Time Scaling",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "9a16877b686605075305e8554e54b57207682863",
+  "title": "EDIS: Diagnosing LLM Reasoning via Entropy Dynamics",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "67e3803dbfc2b60f204684582ee886a2f0ee7edc",
+  "title": "Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards",
+  "date": "2026-01-30"
+ },
+ {
+  "id": "72802eb0c91747a24bc06b70954c0e63a584d147",
+  "title": "FunPRM: Function-as-Step Process Reward Model with Meta Reward Correction for Code Generation",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "d74f88d0605003461a1b0dd98cd7e657dbf46ea3",
+  "title": "Do Not Waste Your Rollouts: Recycling Search Experience for Efficient Test-Time Scaling",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "27ed2d2304de18e4819e7a673ee01331ef7bf55c",
+  "title": "ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "7499d73bef078e605781dc6388a97ad5f0adf1aa",
+  "title": "On the Overscaling Curse of Parallel Thinking: System Efficacy Contradicts Sample Efficiency",
+  "date": "2026-01-29"
+ },
+ {
+  "id": "fde035b6ab2e3e497d73f4f167ec635546263cea",
+  "title": "Policy of Thoughts: Scaling Test-Time Training for LLM Reasoning via Online Policy Evolution",
+  "date": "2026-01-28"
+ },
+ {
+  "id": "0615f3198fe0b694ae50515b4201602480c6f4a7",
+  "title": "Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation",
+  "date": "2026-01-27"
+ },
+ {
+  "id": "0b457a087fa7c01f37de67065be19f3aa8583aa8",
+  "title": "Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders",
+  "date": "2026-01-22"
+ },
+ {
+  "id": "05a1d398d75287a68aa6adb8592650814d7ec63e",
+  "title": "Reasoning or Fluency? Dissecting Probabilistic Confidence in Best-of-N Selection",
+  "date": "2026-01-20"
+ },
+ {
+  "id": "e610c5b1addd5479a7f8cc7de418a4fca8ce04f1",
+  "title": "Hidden States as Early Signals: Step-level Trace Evaluation and Pruning for Efficient Test-Time Scaling",
+  "date": "2026-01-14"
+ },
+ {
+  "id": "f35c893e796fbe770d3b2af5bd19ee70d1cec514",
+  "title": "Distributional Clarity: The Hidden Driver of RL-Friendliness in Large Language Models",
+  "date": "2026-01-11"
+ },
+ {
+  "id": "80e0e6541171421bc5cdc48a719772279b52991d",
+  "title": "Dual-Phase LLM Reasoning: Self-Evolved Mathematical Frameworks",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "4117ecfc54b8b1aa085e7d79363eb9bd580f18fe",
+  "title": "PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "7bb6019a6ff20028f399ac8dd9d5dc293bb456df",
+  "title": "Decide Then Retrieve: A Training-Free Framework with Uncertainty-Guided Triggering and Dual-Path Retrieval",
+  "date": "2026-01-07"
+ },
+ {
+  "id": "4368cbe6a7a10ed4f304108a850073910d1c2a82",
+  "title": "Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "ec22d57217704dd6e555330a64971a70d291c86e",
+  "title": "DIP: Dynamic In-Context Planner For Diffusion Language Models",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "63b42b74459d5a1cf91aa1742a86a3c4c37b37c6",
+  "title": "ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "8cf2d3a5e2df98dd70d631513c741f4a7d0af2b7",
+  "title": "Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency",
+  "date": "2026-01-05"
+ },
+ {
+  "id": "cfb4f0705a08241d0c8641f50dae1aefa4e35711",
+  "title": "Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction",
+  "date": "2025-12-21"
+ },
+ {
+  "id": "21669046fc347b3e786b10f7e9751c201b7e7a5d",
+  "title": "Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "0b5fd2bdae7ef7a561c8219f3d0f0656bd172c8d",
+  "title": "MARINE: Theoretical Optimization and Design for Multi-Agent Recursive IN-context Enhancement",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "5035aebb12d7c52b0ff745f2779a3df11a531baf",
+  "title": "Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "8844f75dd2289e144f6ed8b4258bf1113986f9d7",
+  "title": "On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference",
+  "date": "2025-12-04"
+ },
+ {
+  "id": "c640680bf08f0c5d3d650874d8b1e38c84783e32",
+  "title": "MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?",
+  "date": "2025-11-28"
+ },
+ {
+  "id": "13200e9263eb94b16cdf1fb144e567baf9dc3651",
+  "title": "ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning",
+  "date": "2025-11-26"
+ },
+ {
+  "id": "cf8eaf4bc698d64c7a9ce2a373036123e31f388e",
+  "title": "From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models",
+  "date": "2025-11-13"
+ },
+ {
+  "id": "9295efd5c8050466c5cc16c58c7b97287ac8af24",
+  "title": "Enhancing Best-of-N Decoding by Speculative Rejection and Self-Certainty",
+  "date": "2025-11-12"
+ },
+ {
+  "id": "c6e75d7a1540f70fd51e47cf61567ab70134a2b7",
+  "title": "Self-Evaluating LLMs for Multi-Step Tasks: Stepwise Confidence Estimation for Failure Detection",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "7f538029c0be0764321f5a97a467d27013d481e8",
+  "title": "ReProbe: Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models",
+  "date": "2025-11-09"
+ },
+ {
+  "id": "cf25bd0127bc48e40feec0b64580064ba3066c5d",
+  "title": "Klear-AgentForge: Forging Agentic Intelligence through Posttraining Scaling",
+  "date": "2025-11-08"
+ },
+ {
+  "id": "fc14e370e454c29947bcdbbbfcd0b37ba945172f",
+  "title": "When, What, and How: Rethinking Retrieval-Enhanced Speculative Decoding",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "6d27b9d1b15a2283ceb61770ed05233f3b3b343e",
+  "title": "Inference-Time Chain-of-Thought Pruning with Latent Informativeness Signals",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "7931d301573f4e494f5f8aebc4093ecbfa33b83e",
+  "title": "Do LLMs Signal When They're Right? Evidence from Neuron Agreement",
+  "date": "2025-10-30"
+ },
+ {
+  "id": "fad657fe5f6b31b8a198346cf7ed772f912bf814",
+  "title": "Latent Chain-of-Thought for Visual Reasoning",
+  "date": "2025-10-27"
+ },
+ {
+  "id": "3c1bc026933afb891514431d7b5a1f0772d2dcc9",
+  "title": "See, Think, Act: Online Shopper Behavior Simulation with VLM Agents",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "763b6f4a9e0d84cd7a6a7f1f665a7546beb05fe1",
+  "title": "Automated HIV Screening on Dutch Electronic Health Records with Large Language Models",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "18b489159df456f43ec657bd2dac6d07cc6acfa5",
+  "title": "Certified Self-Consistency: Statistical Guarantees and Test-Time Training for Reliable Reasoning in LLMs",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "fc26671b16f76455edd667786dd38b3bddc1f512",
+  "title": "Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations",
+  "date": "2025-10-14"
+ },
+ {
+  "id": "d4cc9fcfe29d7c0676583a6ed779b05a4ef7ee73",
+  "title": "Enhancing LLM Reasoning via Non-Human-Like Reasoning Path Preference Optimization",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "b1af29decd74f6868fbfbce10b1a580110009588",
+  "title": "EAGER: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "74b80bc9ceccb7cdd63ca07af16bbb7d8ea116a7",
+  "title": "A Survey on Agentic Multimodal Large Language Models",
+  "date": "2025-10-13"
+ },
+ {
+  "id": "d7ac061611abcda1bd7f651e15728c59e6a143ed",
+  "title": "Unlocking Exploration in RLVR: Uncertainty-aware Advantage Shaping for Deeper Reasoning",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "6958af165f70983cd8800a036dc7e56994eec515",
+  "title": "Harnessing Consistency for Robust Test-Time LLM Ensemble",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "91662b1fee400b1ba3da84662c9d65fce90f3cda",
+  "title": "Tracing the Traces: Latent Temporal Signals for Efficient and Accurate Reasoning",
+  "date": "2025-10-12"
+ },
+ {
+  "id": "4de851f939e228e069e4070244ac63c1e9662aae",
+  "title": "MatryoshkaThinking: Recursive Test-Time Scaling Enables Efficient Reasoning",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "0166cdcb806a8dbaf1ed1e8e5a8bbf64e967658d",
+  "title": "Revisiting the UID Hypothesis in LLM Reasoning Traces",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "236fbae7395638158649383a0462845b644ee96f",
+  "title": "When Retrieval Succeeds and Fails: Rethinking Retrieval-Augmented Generation for LLMs",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "05f603391e574952794e4463373ad20d446fdd59",
+  "title": "LLP: LLM-based Product Pricing in E-commerce",
+  "date": "2025-10-10"
+ },
+ {
+  "id": "24032ff4a079e53be015edde1158a52ec7609459",
+  "title": "Revisiting the Uniform Information Density Hypothesis in LLM Reasoning",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "cea0ee673209f2ad7350edfa3f5ed073530cdcd4",
+  "title": "Verifier-free Test-Time Sampling for Vision Language Action Models",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "68a1b9016a1d420ac3312aed47fd601c693cffbb",
+  "title": "MixReasoning: Switching Modes to Think",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "316d8a70c7d32796bba57a5551ed8828d4a014f8",
+  "title": "Sample Smart, Not Hard: Correctness-First Decoding for Better Reasoning in LLMs",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "495bf8126d33e11d67762718f3b12b9f2dc5eb62",
+  "title": "Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "cb0f1ddbf072e1595c4c34539bc161f21826d308",
+  "title": "Best of mini-N in-loop Sampling: A Contextual Quality Reward Model for Reliable and Efficient Best-of-N Sampling",
+  "date": "2025-10-05"
+ },
+ {
+  "id": "f8c74724977d04366ab8010328c8e096b1688389",
+  "title": "Does higher interpretability imply better utility? A Pairwise Analysis on Sparse Autoencoders",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "063450e52300005763b7242223d90806e00f50eb",
+  "title": "On the Role of Temperature Sampling in Test-Time Scaling",
+  "date": "2025-10-02"
+ },
+ {
+  "id": "2a1216965c49bfa1622881a23de547f3dc82333c",
+  "title": "Uncertainty-Aware Answer Selection for Improved Reasoning in Multi-LLM Systems",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "b5e146ee235097162f0577d58e7228fec66cda87",
+  "title": "ScalingAR: Scaling Confidence for Autoregressive Image Generation",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "e5018e699df56684dae9d6b35f515cf5b030704c",
+  "title": "IRIS: Intrinsic Reward Image Synthesis",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "439dfba3da8026559ab8ba5d088c2e601c11de74",
+  "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+  "date": "2025-09-20"
+ },
+ {
+  "id": "ecff875e3846c88ecbf4721362a11b1b0cb73e6e",
+  "title": "Video Parallel Scaling: Aggregating Diverse Frame Subsets for VideoLLMs",
+  "date": "2025-09-09"
+ },
+ {
+  "id": "4c0129962ccc9e2e3b432d5800ce5888ab62fd4b",
+  "title": "Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology",
+  "date": "2025-09-04"
+ },
+ {
+  "id": "3e60652a07f25db9fb713b61081798b44195fcd2",
+  "title": "PiCSAR: Probabilistic Confidence Selection and Ranking for Reasoning Chains",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "974784443bc46fdbd0a66becae859511b39887b2",
+  "title": "Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning",
+  "date": "2025-08-29"
+ },
+ {
+  "id": "09d55928aeff4f9967809a333313ede2870a4b93",
+  "title": "Deep Think with Confidence",
+  "date": "2025-08-21"
+ },
+ {
+  "id": "ccb43b438c6b1b1cd096cbf4b14ee18bdc006940",
+  "title": "Maximizing Prefix-Confidence at Test-Time Efficiently Improves Mathematical Reasoning",
+  "date": "2025-07-24"
+ },
+ {
+  "id": "d328f83edc8f9ff6ee80f480937f6359ac8a2698",
+  "title": "Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring",
+  "date": "2025-07-23"
+ },
+ {
+  "id": "9249a15283059a2370bf84f2cc0c7bb882bd3038",
+  "title": "Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning",
+  "date": "2025-07-23"
+ },
+ {
+  "id": "3efcafca6a9283b0265d2f55f333c113d3ae9055",
+  "title": "Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty",
+  "date": "2025-07-22"
+ },
+ {
+  "id": "b7015927974ae5994af8e479bf37f87b729a079d",
+  "title": "Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework",
+  "date": "2025-07-09"
+ },
+ {
+  "id": "ce981d3750e401d0a3c5d454747e45871dd00b71",
+  "title": "DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling",
+  "date": "2025-06-19"
+ },
+ {
+  "id": "dc176fb36ded5d925e8bdca4db295c1670855987",
+  "title": "Training-free LLM Verification via Recycling Few-shot Examples",
+  "date": "2025-06-08"
+ },
+ {
+  "id": "36829dd0c59edead71bf117df268ea1b246dfdb2",
+  "title": "CyclicReflex: Improving Reasoning Models via Cyclical Reflection Token Scheduling",
+  "date": "2025-06-04"
+ },
+ {
+  "id": "0477db73b33bb07dc10238cec22638e3e7ff02e3",
+  "title": "Reinforcing Video Reasoning with Focused Thinking",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "ba90af2e22c358724e6796e95543fe4e9ebba3dd",
+  "title": "AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time",
+  "date": "2025-05-30"
+ },
+ {
+  "id": "89e3017e1ffdf5f7cedd3b5bb08fcc0ab48200ba",
+  "title": "Learning to Reason without External Rewards",
+  "date": "2025-05-26"
+ },
+ {
+  "id": "708c20a9be218bde438686fb107c62cf4e8fd87f",
+  "title": "Batched Self-Consistency Improves LLM Relevance Assessment and Ranking",
+  "date": "2025-05-18"
+ },
+ {
+  "id": "3b6663e63e2a7fe6ce3d7492d5639581308c2d1c",
+  "title": "Token-Level Uncertainty Estimation for Large Language Model Reasoning",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "5e4b34e3084b089fa973ea67d9bff5c44b9ee553",
+  "title": "Dist2ill: Distributional Distillation for One-Pass Uncertainty Estimation in Large Language Models",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "ac8d1e4c86266770571df0f412bbe89d8a003c77",
+  "title": "Reasoning Models Can Be Effective Without Thinking",
+  "date": "2025-04-14"
+ },
+ {
+  "id": "f26fcc2b9fc8944e054425d19c12b9d5cca64fcb",
+  "title": "A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?",
+  "date": "2025-03-31"
+ },
+ {
+  "id": "1fd282ff3a034ff6113f076b02769c46a7159476",
+  "title": "A Survey of Test-Time Compute: From Intuitive Inference to Deliberate Reasoning",
+  "date": "2025-01-05"
+ },
+ {
+  "id": "eb877eef59bf132090479bcf8b5c3b36169355df",
+  "title": "A Neurosymbolic Fast and Slow Architecture for Graph Coloring",
+  "date": "2024-12-02"
+ },
+ {
+  "id": "816312c1515d2cbe7771c1eddc2f8c1f19411853",
+  "title": "Cool-Fusion: Fuse Large Language Models without Training",
+  "date": "2024-07-29"
+ }
+]

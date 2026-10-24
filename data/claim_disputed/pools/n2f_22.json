@@ -1,0 +1,120 @@
+{
+ "pool": [
+  {
+   "id": "B_f4c5a3ee3ca4435f558b2ec248eb0afb501d8f12",
+   "title": "An Automatic Finite-Sample Robustness Metric: When Can Dropping a Little Data Make a Big Difference?",
+   "is_B": true
+  },
+  {
+   "id": "795dcc714d0c53d718ba0e0cce5fe4f930186a3e",
+   "title": "Stability",
+   "date": "1973-09-01"
+  },
+  {
+   "id": "42527f11ae243c44666a9956f1a7d4faab77be13",
+   "title": "A Swiss Army Infinitesimal Jackknife",
+   "date": "2018-06-01"
+  },
+  {
+   "id": "e7ab235383d8bf6f2fe88e645372deed153d8847",
+   "title": "Approximate Cross-validation: Guarantees for Model Assessment and Selection",
+   "date": "2020-03-01"
+  },
+  {
+   "id": "9a8f6725fb78dcf95675e718c48e4b9e1eaa9345",
+   "title": "A Higher-Order Swiss Army Infinitesimal Jackknife",
+   "date": "2019-07-28"
+  },
+  {
+   "id": "783ff77c7a5fe961c09c3b7d2a1c9ddc261ec87a",
+   "title": "Consistency without Inference: Instrumental Variables in Practical Application",
+   "date": "2019-04-01"
+  },
+  {
+   "id": "5aa3cf4da31eb4bdd9eedf83f01ca677e3095f64",
+   "title": "Design-Based Confidence Sequences: A General Approach to Risk Mitigation in Panel Experiments",
+   "date": "2022-10-16"
+  },
+  {
+   "id": "4a0e8dab25714d3ce246976d48d879770f458d83",
+   "title": "Covariances, Robustness, and Variational Bayes",
+   "date": "2017-09-08"
+  },
+  {
+   "id": "8d23d6432c27843040f51dcf0191877f7a9994e9",
+   "title": "Robust Statistics",
+   "date": "2018-11-19"
+  },
+  {
+   "id": "30691d2a4eb1a6e88116c357e95b49f9573bcdae",
+   "title": "Automatic Differentiation Variational Inference",
+   "date": "2016-03-02"
+  },
+  {
+   "id": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+   "title": "Understanding Black-box Predictions via Influence Functions",
+   "date": "2017-03-14"
+  },
+  {
+   "id": "6f24d7a6e1c88828e18d16c6db20f5329f6a6827",
+   "title": "Variational Inference: A Review for Statisticians",
+   "date": "2016-01-04"
+  },
+  {
+   "id": "f8110d834fcc9a3a1c4416d4b165984219fe26f4",
+   "title": "Stan: A Probabilistic Programming Language",
+   "date": "2017-01-11"
+  },
+  {
+   "id": "7feff94bdadca99964bd4f828d41dec875ffcac3",
+   "title": "Inference on breakdown frontiers",
+   "date": "2017-05-12"
+  },
+  {
+   "id": "ebcfdf0fe27166304082f86d93b9f4f3d51c1722",
+   "title": "Evaluating Sensitivity to the Stick-Breaking Prior in Bayesian Nonparametrics",
+   "date": "2018-10-15"
+  },
+  {
+   "id": "643da4c4de1954daeac571a82367241db012a8bf",
+   "title": "Automatic differentiation in machine learning: a survey",
+   "date": "2015-02-20"
+  },
+  {
+   "id": "2f4c3d897a6ed0864a9bdf7ec8fd5f04f5e611e2",
+   "title": "Aggregating Distributional Treatment Effects: A Bayesian Hierarchical Analysis of the Microcredit Literature",
+   "date": "2017-09-01"
+  },
+  {
+   "id": "cb1ebd913c3724c599f6b276b14b5c6253da68f3",
+   "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
+   "date": "2013-04-10"
+  },
+  {
+   "id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+   "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+   "date": "2019-12-03"
+  }
+ ],
+ "n_candidates": 18,
+ "sims": [
+  0.667,
+  0.5204,
+  0.4847,
+  0.4834,
+  0.4731,
+  0.4599,
+  0.4412,
+  0.4408,
+  0.43,
+  0.4294,
+  0.4221,
+  0.4175,
+  0.3909,
+  0.3882,
+  0.3491,
+  0.344,
+  0.2542,
+  0.2171
+ ]
+}

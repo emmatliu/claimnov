@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_193beadf6062ac9c498f2da3dc4d013a76083330",
+   "title": "A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle",
+   "date": "2026-05-17",
+   "is_B": true
+  },
+  {
+   "id": "671526b38fdf5cc2a8097666d86ca96edaf39c8b",
+   "title": "Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models",
+   "date": "2024-04-03"
+  },
+  {
+   "id": "07c7f73f9f291c521603cd9fad514c219fb26d6b",
+   "title": "DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models",
+   "date": "2025-10-16"
+  },
+  {
+   "id": "32a4013f36b2526faa723698e246ed0c3ae51a6d",
+   "title": "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry",
+   "date": "2025-10-08"
+  },
+  {
+   "id": "ae540e8cc44c78cf58d96767acc78107b9b660a9",
+   "title": "VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow",
+   "date": "2025-03-28"
+  },
+  {
+   "id": "d83a51ae59a7c47922cfa12c56e2a8c5a5f11172",
+   "title": "A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation",
+   "date": "2023-06-11"
+  },
+  {
+   "id": "d58c92fed5069840ab18fcac9f538358645d2260",
+   "title": "Making Sense of Dependence: Efficient Black-box Explanations Using Dependence Measure",
+   "date": "2022-06-13"
+  },
+  {
+   "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "682b9d2212258fd5edbfca589c86390c31a956b0",
+   "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "1b5a24639fa80056d1a17b15f6997d10e76cc731",
+   "title": "Understanding Neural Networks Through Deep Visualization",
+   "date": "2015-06-22"
+  },
+  {
+   "id": "6aec0fef84abd0a9c5fa1acc07bbf421077becd3",
+   "title": "Saliency strikes back: How filtering out high frequencies improves white-box explanations",
+   "date": "2023-07-18"
+  },
+  {
+   "id": "8d5d3ca4ec7e4eb0b7d0c482f96ef06e43b53613",
+   "title": "Visualizing Deep Convolutional Neural Networks Using Natural Pre-images",
+   "date": "2015-12-07"
+  },
+  {
+   "id": "3a09f8a8d64955c0bab002c08579ba3ff567b6c5",
+   "title": "Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning",
+   "date": "2023-04-25"
+  },
+  {
+   "id": "61e46884567be7cad12e999365b16a8d3414b678",
+   "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+   "date": "2022-09-29"
+  },
+  {
+   "id": "50977500f2144a07a354f28c4e1ec1f818bdc4c4",
+   "title": "Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery",
+   "date": "2024-07-19"
+  },
+  {
+   "id": "32a4ab7b0be093e6ac9c4c146f0b82524bd7a92c",
+   "title": "Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment",
+   "date": "2024-03-17"
+  },
+  {
+   "id": "3c6da6f1601aee99b8e5b8dcf2d21c42d9252b04",
+   "title": "Transcoders Find Interpretable LLM Feature Circuits",
+   "date": "2024-06-17"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71",
+   "title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "3b748d1f2b314f8bb2ab4123946bd58c607738f3",
+   "title": "Sparse autoencoders reveal selective remapping of visual concepts during adaptation",
+   "date": "2024-12-06"
+  }
+ ],
+ "n_candidates": 32,
+ "sims": [
+  0.6215,
+  0.5741,
+  0.5415,
+  0.5383,
+  0.5361,
+  0.5205,
+  0.5021,
+  0.4951,
+  0.495,
+  0.4843,
+  0.4807,
+  0.4666,
+  0.4609,
+  0.457,
+  0.4441,
+  0.4423,
+  0.44,
+  0.4331,
+  0.4325
+ ]
+}

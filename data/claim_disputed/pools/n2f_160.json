@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+   "title": "Masked Autoencoders Are Scalable Vision Learners",
+   "is_B": true
+  },
+  {
+   "id": "739ceacfafb1c4eaa17509351b647c773270b3ae",
+   "title": "An Empirical Study of Training Self-Supervised Vision Transformers",
+   "date": "2021-04-05"
+  },
+  {
+   "id": "0f8aa47ff8c6c49a347e192debe20ce4e5a4caea",
+   "title": "Self-supervised Pretraining of Visual Features in the Wild",
+   "date": "2021-03-02"
+  },
+  {
+   "id": "20ee3dc902706d8dffcbc08f8cc89ce749abc8b0",
+   "title": "Benchmarking Detection Transfer Learning with Vision Transformers",
+   "date": "2021-11-22"
+  },
+  {
+   "id": "722ad6ac92286507437b31486f47987d6ece05c9",
+   "title": "BEiT: BERT Pre-Training of Image Transformers",
+   "date": "2021-06-15"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+   "title": "Emerging Properties in Self-Supervised Vision Transformers",
+   "date": "2021-04-29"
+  },
+  {
+   "id": "ad7ddcc14984caae308c397f1a589aae75d4ab71",
+   "title": "Training data-efficient image transformers & distillation through attention",
+   "date": "2020-12-23"
+  },
+  {
+   "id": "7d0effebfa4bed19b6ba41f3af5b7e5b6890de87",
+   "title": "Context Encoders: Feature Learning by Inpainting",
+   "date": "2016-04-25"
+  },
+  {
+   "id": "aab368284210c1bb917ec2d31b84588e3d2d7eb4",
+   "title": "Unsupervised Representation Learning by Predicting Image Rotations",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "0e23d2f14e7e56e81538f4a63e11689d8ac1eb9d",
+   "title": "Exploring Simple Siamese Representation Learning",
+   "date": "2020-11-20"
+  },
+  {
+   "id": "1a0912bb76777469295bb2c059faee907e7f3258",
+   "title": "Mask R-CNN",
+   "date": "2017-03-20"
+  },
+  {
+   "id": "38f93092ece8eee9771e61c1edaf11b1293cae1b",
+   "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning",
+   "date": "2020-06-13"
+  },
+  {
+   "id": "b227f3e4c0dc96e5ac5426b85485a70f2175a205",
+   "title": "Representation Learning with Contrastive Predictive Coding",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+   "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+   "date": "2019-11-13"
+  },
+  {
+   "id": "f466157848d1a7772fb6d02cdac9a7a5e7ef982e",
+   "title": "Neural Discrete Representation Learning",
+   "date": "2017-11-02"
+  },
+  {
+   "id": "155b7782dbd713982a4133df3aee7adfd0b6b304",
+   "title": "Unsupervised Feature Learning via Non-parametric Instance Discrimination",
+   "date": "2018-05-05"
+  },
+  {
+   "id": "fc1b1c9364c58ec406f494dd944b609a6a038ba6",
+   "title": "Unsupervised Visual Representation Learning by Context Prediction",
+   "date": "2015-05-19"
+  },
+  {
+   "id": "87f6a7c014ce206ac5b57299c07e10667d194b39",
+   "title": "Randaugment: Practical automated data augmentation with a reduced search space",
+   "date": "2019-09-30"
+  },
+  {
+   "id": "4feef0fd284feb1233399b400eb897f59ec92755",
+   "title": "mixup: Beyond Empirical Risk Minimization",
+   "date": "2017-10-25"
+  }
+ ],
+ "n_candidates": 54,
+ "sims": [
+  0.5704,
+  0.5592,
+  0.5407,
+  0.5389,
+  0.5229,
+  0.5224,
+  0.5143,
+  0.5006,
+  0.4958,
+  0.4939,
+  0.4921,
+  0.4898,
+  0.472,
+  0.4665,
+  0.4621,
+  0.4613,
+  0.4587,
+  0.4549,
+  0.451
+ ]
+}

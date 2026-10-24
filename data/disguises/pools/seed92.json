@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_cadb4e40426bc68abca79cf7783d0e20535065a6",
+   "title": "Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification",
+   "date": "2026-04-13",
+   "is_B": true
+  },
+  {
+   "id": "7aa801b907b59b8ee4cfb1296d9dac22c5164c5d",
+   "title": "What learning algorithm is in-context learning? Investigations with linear models",
+   "date": "2022-11-28"
+  },
+  {
+   "id": "a7fa71dc6856ebef79f354597128d1c68b19b6e4",
+   "title": "Transformers as Algorithms: Generalization and Stability in In-context Learning",
+   "date": "2023-01-17"
+  },
+  {
+   "id": "525d93a382f6e7873b5d8a2e0713eb3dff7fb250",
+   "title": "Transformers learn in-context by gradient descent",
+   "date": "2022-12-15"
+  },
+  {
+   "id": "31ca9175ad5042a09046bf91e1bb414ef0ae0513",
+   "title": "Permutation Equivariance of Transformers and its Applications",
+   "date": "2023-04-16"
+  },
+  {
+   "id": "4a7530bbaee7563ee244f3ffed6b706bd96f08a8",
+   "title": "Trained Transformers Learn Linear Models In-Context",
+   "date": "2023-06-16"
+  },
+  {
+   "id": "de32da8f5c6a50a6c311e9357ba16aa7d05a1bc9",
+   "title": "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+   "date": "2022-08-01"
+  },
+  {
+   "id": "f483c00cc45dd387364dc485794c27afae9289bb",
+   "title": "The mechanistic basis of data dependence and abrupt learning in an in-context classification task",
+   "date": "2023-12-03"
+  },
+  {
+   "id": "f5e9337477d7a9eb6267d0310549fdefafbb7fe2",
+   "title": "Transformers learn to implement preconditioned gradient descent for in-context learning",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "146e9e1238ff6caf18f0bd936ffcfbe1e65d2afd",
+   "title": "Data Distributional Properties Drive Emergent In-Context Learning in Transformers",
+   "date": "2022-04-22"
+  },
+  {
+   "id": "87a0b992da8f449a8be52626c4c3d91948e3ca64",
+   "title": "Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "3718cfdb2012713c6981fcd81ba1b31221e21cb6",
+   "title": "Unlabeled Data Can Provably Enhance In-Context Learning of Transformers",
+   "date": "2026-01-15"
+  },
+  {
+   "id": "419a7e9df13a3a03234aba0f05f48291261b8e59",
+   "title": "Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models",
+   "date": "2023-11-01"
+  },
+  {
+   "id": "210246d4dc3cd40a4a3507bbc31b384739796e1d",
+   "title": "Linear Transformers Implicitly Discover Unified Numerical Algorithms",
+   "date": "2025-09-24"
+  },
+  {
+   "id": "f32fb177deec417b825eb7b2b64fdf08357ecede",
+   "title": "A Closer Look at In-Context Learning under Distribution Shifts",
+   "date": "2023-05-26"
+  },
+  {
+   "id": "269256a1fb1520abd6d9a70957f82dfb83283543",
+   "title": "In-Context Semi-Supervised Learning",
+   "date": "2025-12-17"
+  },
+  {
+   "id": "c90a99eeb57019732a6cc996bb9eaf13faedf00f",
+   "title": "In-context Learning and Induction Heads",
+   "date": "2022-09-24"
+  },
+  {
+   "id": "4487bdcf1eb42bdec83709ba0df5b32dcf388976",
+   "title": "What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization",
+   "date": "2023-05-30"
+  },
+  {
+   "id": "af24ba6fb14b64d6f9a4ef4751a4838994869096",
+   "title": "Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions",
+   "date": "2025-11-03"
+  },
+  {
+   "id": "dcc9925aca8faad35e0a91c9d2f81cd52150c0d3",
+   "title": "When and How Unlabeled Data Provably Improve In-Context Learning",
+   "date": "2025-06-18"
+  }
+ ],
+ "n_candidates": 41,
+ "sims": [
+  0.7355,
+  0.7314,
+  0.7208,
+  0.7152,
+  0.7079,
+  0.7072,
+  0.6935,
+  0.6927,
+  0.6924,
+  0.6808,
+  0.6753,
+  0.6734,
+  0.6577,
+  0.6568,
+  0.6552,
+  0.6394,
+  0.6297,
+  0.629,
+  0.6279
+ ]
+}

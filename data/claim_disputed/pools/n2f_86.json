@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_9ad367922821b20701dd79164f9319d8864d1af0",
+   "title": "Reinforcement Learning with Efficient Active Feature Acquisition",
+   "is_B": true
+  },
+  {
+   "id": "16cf745d3005e1d5fef22dca3209fe4cb8ca0aec",
+   "title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "a9597f3bb790c607ce0a87277523226feac5a8d7",
+   "title": "Handling Incomplete Heterogeneous Data using VAEs",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "dc480c69bc71b797b4e09cfe82de362a871b7870",
+   "title": "Maximizing Information Gain in Partially Observable Environments via Prediction Reward",
+   "date": "2020-05-05"
+  },
+  {
+   "id": "7cd12c64940d2ee4bd5fce4b959e49bbe9a92c39",
+   "title": "Counterfactual Off-Policy Evaluation with Gumbel-Max Structural Causal Models",
+   "date": "2019-05-14"
+  },
+  {
+   "id": "4974aadd122607b9dd54ffd77af9587c95bce39f",
+   "title": "VAEM: a Deep Generative Model for Heterogeneous Mixed Type Data",
+   "date": "2020-06-10"
+  },
+  {
+   "id": "8a3bf4d403a39ed33f0fa8cf78dc906d6130595f",
+   "title": "Semantic Image Inpainting with Deep Generative Models",
+   "date": "2016-07-26"
+  },
+  {
+   "id": "a2141a5ec0c65ea0a9861ae562f4c9fb8020d197",
+   "title": "DARLA: Improving Zero-Shot Transfer in Reinforcement Learning",
+   "date": "2017-07-26"
+  },
+  {
+   "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+   "title": "Auto-Encoding Variational Bayes",
+   "date": "2013-12-20"
+  },
+  {
+   "id": "801eb90352e603b1573a04a36804417d1c9496f0",
+   "title": "Learning latent state representation for speeding up exploration",
+   "date": "2019-05-27"
+  },
+  {
+   "id": "9d671a4de50b98c3f00623ee597e37c9f00ba0cc",
+   "title": "Temporal Difference Variational Auto-Encoder",
+   "date": "2018-06-08"
+  },
+  {
+   "id": "69e76e16740ed69f4dc55361a3d319ac2f1293dd",
+   "title": "Asynchronous Methods for Deep Reinforcement Learning",
+   "date": "2016-02-04"
+  },
+  {
+   "id": "9884d18f265f9178ff9862d53cacbbc9957ddc4c",
+   "title": "Advances in Variational Inference",
+   "date": "2017-11-15"
+  },
+  {
+   "id": "c18df1edc0a45891806d44896a8f666944e93d01",
+   "title": "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning",
+   "date": "2017-03-20"
+  },
+  {
+   "id": "04162cb8cfaa0f7e37586823ff4ad0bff09ed21d",
+   "title": "Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization",
+   "date": "2016-03-01"
+  },
+  {
+   "id": "235b783e5e0dbfeb604d20209d116e12bfdf5d42",
+   "title": "Hierarchical Reinforcement Learning with Optimal Level Synchronization Based on Flow-Based Deep Generative Model",
+   "date": "2021-07-17"
+  },
+  {
+   "id": "e75271c7f985752a8dcce2347ce922d7f4cd3df1",
+   "title": "SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning",
+   "date": "2018-08-28"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "2319a491378867c7049b3da055c5df60e1671158",
+   "title": "Playing Atari with Deep Reinforcement Learning",
+   "date": "2013-12-19"
+  },
+  {
+   "id": "82b8146c62c621f0b3a36939a590ba2ffa450046",
+   "title": "Action-Driven Visual Object Tracking With Deep Reinforcement Learning",
+   "date": "2018-03-02"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.5325,
+  0.4678,
+  0.4515,
+  0.4339,
+  0.4336,
+  0.4146,
+  0.4073,
+  0.4063,
+  0.4031,
+  0.3988,
+  0.3927,
+  0.3897,
+  0.3848,
+  0.3847,
+  0.3777,
+  0.3734,
+  0.3699,
+  0.3691,
+  0.3454
+ ]
+}

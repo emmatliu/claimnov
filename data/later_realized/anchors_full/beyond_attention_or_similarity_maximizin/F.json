@@ -1,0 +1,297 @@
+[
+ {
+  "id": "9da551017279fdf7843c278fd979e803cc9cf90f",
+  "title": "STAR-Pro: Stage-Wise Token Adaptive Reduction with Progressive Refinement for Efficient Large Vision-Language Models",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "b8489a57f37d545520c3df5814e1c9c924e23f90",
+  "title": "Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "613f2d55a193eb6ffbb688204eb4fe6bfeb1ec72",
+  "title": "S$^2$Prune: Spatially Structured Visual Token Pruning for Multimodal Large Language Models",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "3529e1ac0c4c8b94eb4a9afb21cdf1412c0c0f29",
+  "title": "Centering before Pruning: Lightweight Geometry Correction for Diversity-Based Visual Token Pruning in LVLMs",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "9ae06e67a9010753ba529f3ab66c904f18a5daea",
+  "title": "PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference",
+  "date": "2026-08-27"
+ },
+ {
+  "id": "f9b30bfba8a00db4b39ebc1ab3d919aec6a62cb5",
+  "title": "Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "dfa1dc7ef59e5ca30ece294a873e8f54b186fb3c",
+  "title": "HAP: Head-Adaptive Visual Token Pruning via Cross-Modal Alignment",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "e4e427652d600541f561e71a5939ba1fc7568d38",
+  "title": "CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding",
+  "date": "2026-08-05"
+ },
+ {
+  "id": "959ce3f6a02a469d9b0676cf694916fbc2235ba9",
+  "title": "GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "76ee3ab6386faaeca1a22c30c05c47d56960184f",
+  "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "fb535f4eb54f579ff0de8567829c8f644201bcac",
+  "title": "Messages, Not Tokens: Grounded Coresets for Faithful VLM Compression",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "8f32f0cb12108d82b9c6d6d94abe7f150f1f1094",
+  "title": "Beyond Accuracy: Auditing Spatial Provenance in Visual Token Pruning for OCR-Critical MLLM Inference",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "f0910f1c8dc4fe0348c933d63648864f4ea1bf53",
+  "title": "SepPrune:A Separator-based Pruning Framework for Efficient Multimodal Large Language Models",
+  "date": "2026-07-28"
+ },
+ {
+  "id": "fb64ca2f849800e5067b6084eab3112853c95004",
+  "title": "GOTS: Greedy Orthogonal Token Selection for High-Resolution Vision-Language Models",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "4dec4ad34346947e690a5c173ee21e1b89c14824",
+  "title": "PathSelect: Sequential Token Selection for Whole Slide Pathology",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "4c66e2cb9ecdbd7dc452dbb0f319242fe476e2ea",
+  "title": "Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs",
+  "date": "2026-07-25"
+ },
+ {
+  "id": "42b352263cae96964443fee74e5db023f8e9eb70",
+  "title": "WaveZip: Wavelet-Driven Space-Time Decoupling for Video Token Condensation",
+  "date": "2026-07-25"
+ },
+ {
+  "id": "9534e9cd24b7947051e995eaa4555532b8bd0eaf",
+  "title": "AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning",
+  "date": "2026-07-08"
+ },
+ {
+  "id": "bf37d58a91d83a0983a23c1ba98702448c530f40",
+  "title": "RADIO1D: Elastic Representations for Condensed Vision Modeling",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "4a4619b33b494797314c8cc5d4c0c7e0a0574d18",
+  "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "3153a8f86eecb8c9dd8220f12efc4d409ad1608e",
+  "title": "ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "ae34ed00bdcfeffb22f820ae7267a56acc8b06f1",
+  "title": "Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "bb410f57f4a289f40fba11829288f94bc5ea3300",
+  "title": "Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation",
+  "date": "2026-06-26"
+ },
+ {
+  "id": "56cb36380aaf40042e08b4ea0c1236c2cbd95961",
+  "title": "TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference",
+  "date": "2026-06-25"
+ },
+ {
+  "id": "3575339540d853afe7732c5f9598d2b467b62e7d",
+  "title": "Skim and Skip: Hierarchical Adaptive Inference for Efficient Multimodal Retrieval",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "d6df4fd5c5d7a940bc470807c99dab2c0628e701",
+  "title": "Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "4284458c5a9a19ab41fdcc7131846e54149be698",
+  "title": "Moving Beyond Diversity: Visual Token Pruning as Subspace Reconstruction for Efficient VLMs",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "9374d4a495716da0ae3b55e94ae081a109445afb",
+  "title": "AVIS: Adaptive Test-Time Scaling for Vision-Language Models",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "b5b72d246c868c112fc99081339e2d76a7760d74",
+  "title": "Learnable Token Sparsification for Efficient Gigapixel Whole Slide Image Reasoning",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "c695e4f8c0c58b75cd8592bcc9b591175c6733b2",
+  "title": "TGV-KV: Text-Grounded KV Eviction for Vision-Language Models",
+  "date": "2026-06-02"
+ },
+ {
+  "id": "444f5abc5212548e23db242a4c298d7d91a462c3",
+  "title": "X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "40f37c471d01dda63dc533e9645877466c81a3f1",
+  "title": "SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "cfe479dbe63f8f550d3589858d66754488ce4983",
+  "title": "OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "5865585d29f0c9c83b717729ec3f82edc705bed4",
+  "title": "Beyond Surrogate Gradients: Fully Differentiable Token Pruning for Vision-Language Models",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "d6b178cfef9038157beb9450f9ac8f6358197236",
+  "title": "Focus-then-Context: Subject-Centric Progressive Visual Token Reduction for Vision-Language Models",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "71d9e29886675b2a33fee6d0a24110461a82b47a",
+  "title": "LDDR: Linear-DPP-Based Dynamic-Resolution Frame Sampling for Video MLLMs",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "6ec88d9f735b90ac3b15c9f3aa6eb5e76c590b0b",
+  "title": "EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "86a0f7b63f606ffc55770acb48b9dc76b10fa9c3",
+  "title": "ERASE: Eliminating Redundant Visual Tokens via Adaptive Two-Stage Token Pruning",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "f1aa3f6f529ea87e07610140453a9256ef81ba4e",
+  "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "e2c2b8b0980d67dcb624e13ff7c753f7052c0a9f",
+  "title": "Fre-Res: Frequency-Residual Video Token Compression for Efficient Video MLLMs",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "cfd5851e0b56e2663af25b527e03520c86bbd5f2",
+  "title": "How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token Pruning with F^3A",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "1a6f171b2e88a2ff761c2345b5ccbdebfe884865",
+  "title": "RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fdefe7fbfca15c2910b7441178366e198b1b449e",
+  "title": "Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs",
+  "date": "2026-04-22"
+ },
+ {
+  "id": "28ab5cefde5a1e3342917a99a3d75289247d62e7",
+  "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "62701cdd23c61632fef8acb5569ebe627ad4f2b4",
+  "title": "When Does Visual Token Pruning Improve Calibration? The Role of Evidence Coverage in MLLMs",
+  "date": "2026-04-13"
+ },
+ {
+  "id": "3dde95b945f3fcb3b08abe6720c947b9277aa4ae",
+  "title": "HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "1663c8f5e8e66e403d67d2836ebf6993cc366b86",
+  "title": "ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "40fa6ab44d5b664d84006ccbe40853aec5086dab",
+  "title": "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "c85dc53a7258caaf5e6b40dc643cdb4b81985452",
+  "title": "QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "306b3195ab528acb81003fbd8301a64f4d4a252f",
+  "title": "MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "32f6799dd5ecf56d2e2ea37ca8f4baeee04ceeec",
+  "title": "HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "cce8b8153c03fe053209e4f2a4c993b13f049d2b",
+  "title": "IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "f85adbb085942d116d40cedcbda0c5b0ea7204fb",
+  "title": "Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "b7a76407c50ac51fe240ffbb8f4e764434e544fd",
+  "title": "ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs",
+  "date": "2026-03-25"
+ },
+ {
+  "id": "1da5a4b0413969deb6b4e8fd165baacfb4c196db",
+  "title": "Clue Matters: Leveraging Latent Visual Clues to Empower Video Reasoning",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "7671c66f8f764b2b5c7b66aafb0d71d8f2a175c9",
+  "title": "ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "fb4a51018a007c94fa4295756527da871b5cd84f",
+  "title": "SaPaVe: Towards Active Perception and Manipulation in Vision-Language-Action Models for Robotics",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "2ed7e8b84b7df190701e23d83c4ce8c95f931956",
+  "title": "Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal Models",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "b1bce63eb2ea1fea0b5decb2194a489f8c370ac5",
+  "title": "EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs",
+  "date": "2026-03-04"
+ }
+]

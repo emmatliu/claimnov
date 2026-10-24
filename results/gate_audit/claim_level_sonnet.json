@@ -1,0 +1,65 @@
+{
+ "v1": {
+  "rej_n": 96,
+  "rej": 38,
+  "n": 160,
+  "pass": 89,
+  "namedB": 32,
+  "acc_n": 62,
+  "acc": 33,
+  "unk_n": 2,
+  "unk": 0
+ },
+ "coi": {
+  "rej_n": 96,
+  "rej": 11,
+  "n": 160,
+  "pass": 143,
+  "acc_n": 62,
+  "acc": 6,
+  "unk_n": 2,
+  "unk": 0,
+  "namedB": 9
+ },
+ "si": {
+  "rej_n": 96,
+  "rej": 75,
+  "n": 160,
+  "pass": 33,
+  "namedB": 75,
+  "acc_n": 62,
+  "acc": 50,
+  "unk_n": 2,
+  "unk": 2
+ },
+ "ra": {
+  "rej_n": 96,
+  "rej": 63,
+  "n": 160,
+  "pass": 66,
+  "acc_n": 62,
+  "acc": 29,
+  "unk_n": 2,
+  "unk": 2
+ },
+ "scholareval": {
+  "rej_n": 96,
+  "rej": 0,
+  "n": 160,
+  "pass": 160,
+  "acc_n": 62,
+  "acc": 0,
+  "unk_n": 2,
+  "unk": 0
+ },
+ "v2_reflection": {
+  "rej_n": 96,
+  "rej": 13,
+  "n": 160,
+  "pass": 137,
+  "acc_n": 62,
+  "acc": 10,
+  "unk_n": 2,
+  "unk": 0
+ }
+}

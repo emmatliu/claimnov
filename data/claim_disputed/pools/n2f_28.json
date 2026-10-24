@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2106.09226",
+   "title": "Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning",
+   "is_B": true
+  },
+  {
+   "id": "4e00843bc5f60d2b9116abc4320af6d184422291",
+   "title": "Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little",
+   "date": "2021-04-14"
+  },
+  {
+   "id": "5f11dfa7cd146b456dceed19923f5ed6214fcc44",
+   "title": "On the Inductive Bias of Masked Language Modeling: From Statistical to Syntactic Dependencies",
+   "date": "2021-04-12"
+  },
+  {
+   "id": "518cb6d4247bdebf21e2811f296b0c7372602a0a",
+   "title": "PMI-Masking: Principled masking of correlated spans",
+   "date": "2020-10-05"
+  },
+  {
+   "id": "01400290c7db96c4d665d1c29519c42ba47401e0",
+   "title": "A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "7cf8510d5905bd8a63f1e098e05ab591d689e0fd",
+   "title": "Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction",
+   "date": "2020-01-30"
+  },
+  {
+   "id": "209f9bde2dee7cf1677801586562ffe56d435d38",
+   "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts",
+   "date": "2021-04-14"
+  },
+  {
+   "id": "f2885c6a25756cf81aa23b41bc62696a5be5c94d",
+   "title": "Factual Probing Is [MASK]: Learning vs. Learning to Recall",
+   "date": "2021-04-12"
+  },
+  {
+   "id": "a75649771901a4881b44c0ceafa469fcc6e6f968",
+   "title": "How Can We Know What Language Models Know?",
+   "date": "2019-11-28"
+  },
+  {
+   "id": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+   "title": "Deep Contextualized Word Representations",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "f30444fbb6ad806168e2564db4815cd27faa7fd9",
+   "title": "It\u2019s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+   "date": "2020-09-15"
+  },
+  {
+   "id": "8ae9a17c87a4518b513e860683a0ef7824be994d",
+   "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+   "date": "2020-01-21"
+  },
+  {
+   "id": "85e7d63f75c0916bd350a229e040c5fbb1472e7a",
+   "title": "Making Pre-trained Language Models Better Few-shot Learners",
+   "date": "2021-01-01"
+  },
+  {
+   "id": "81f5810fbbab9b7203b9556f4ce3c741875407bc",
+   "title": "SpanBERT: Improving Pre-training by Representing and Predicting Spans",
+   "date": "2019-07-24"
+  },
+  {
+   "id": "a504b45e2cff77abcc9d78cc95159c08305e44d1",
+   "title": "Predicting What You Already Know Helps: Provable Self-Supervised Learning",
+   "date": "2020-08-03"
+  },
+  {
+   "id": "5a2e45ce35fb26ab70a61b424a49f8e5b4532a8e",
+   "title": "WARP: Word-level Adversarial ReProgramming",
+   "date": "2021-01-01"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "a01ac66f5f66a2b23152f631b920972e4407275c",
+   "title": "Self-supervised Learning is More Robust to Dataset Imbalance",
+   "date": "2021-10-11"
+  },
+  {
+   "id": "5a41200eeee536e101b6e462014e7396f4841c28",
+   "title": "Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data",
+   "date": "2020-10-07"
+  },
+  {
+   "id": "97906df07855b029b7aae7c2a1c6c5e8df1d531c",
+   "title": "BERT Rediscovers the Classical NLP Pipeline",
+   "date": "2019-05-15"
+  }
+ ],
+ "n_candidates": 33,
+ "sims": [
+  0.7618,
+  0.7529,
+  0.6889,
+  0.5952,
+  0.56,
+  0.5445,
+  0.5259,
+  0.5049,
+  0.5025,
+  0.5021,
+  0.501,
+  0.4983,
+  0.4815,
+  0.4774,
+  0.4723,
+  0.463,
+  0.4626,
+  0.4625,
+  0.4598
+ ]
+}

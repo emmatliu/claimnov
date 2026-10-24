@@ -1,0 +1,18 @@
+You are the final novelty judge for a proposed research IDEA. A claim-level analysis has already been run: the idea's contribution claims were extracted, and for each claim the most similar existing claims were retrieved from a pool of prior papers and rated for how far they cover the idea's claim (1 = unrelated, 2 = weak topical overlap, 3 = partial coverage with important details differing, 4 = strong coverage with minor differences, 5 = full coverage of the claim's substantive content).
+
+Decide whether the IDEA is already done: is there a paper in the profile that does substantially what the idea proposes, same core problem AND same core approach? Judge the idea as a whole: an anticipated peripheral claim does not make the idea non-novel, but an anticipated core contribution does, even if side claims are new. Superficial topic overlap or related prior work that the idea builds on = novel.
+
+IDEA:
+{idea}
+
+NOVELTY PROFILE:
+{profile}
+
+PAPERS IN THE PROFILE:
+{papers}
+
+NEAREST PRIOR PAPERS (title and abstract):
+{nearest}
+
+Return JSON only:
+{{"decision": "novel" | "not_novel", "anticipating_paper": "<exact paper title or null>", "established_claims": [<claim indices the paper already establishes>], "why": "<one or two sentences>"}}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_7f7061c71fd64b430780a936dfe8f10a29535377",
+   "title": "Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch",
+   "date": "2026-05-05",
+   "is_B": true
+  },
+  {
+   "id": "80f3b44a17710369ac6a3248f51cd2d6bbfcf137",
+   "title": "Dimension-Accuracy Tradeoffs in Contrastive Embeddings for Triplets, Terminals & Top-k Nearest Neighbors",
+   "date": "2023-12-20"
+  },
+  {
+   "id": "4c7d52358156e598e069f651271bd11f49b23f79",
+   "title": "On the Theoretical Limitations of Embedding-Based Retrieval",
+   "date": "2025-08-28"
+  },
+  {
+   "id": "80ccdeb75c5633dc02c2807bdca8b4b6214c9622",
+   "title": "Optimal Sample Complexity of Contrastive Learning",
+   "date": "2023-12-01"
+  },
+  {
+   "id": "15bc3f1878895709a96cb2b3ab82b0f7d9342cfc",
+   "title": "Insights into Ordinal Embedding Algorithms: A Systematic Evaluation",
+   "date": "2019-12-03"
+  },
+  {
+   "id": "df479efe88304864ea4a9a895a2b2de28e10b555",
+   "title": "Randomly Removing 50% of Dimensions in Text Embeddings has Minimal Impact on Retrieval and Classification Tasks",
+   "date": "2025-08-25"
+  },
+  {
+   "id": "baa87b9fbcda41de2d73b6eaf37acc6093488dcc",
+   "title": "Monotone maps, sphericity and bounded second eigenvalue",
+   "date": "2004-01-22"
+  },
+  {
+   "id": "81443e2ac86f7907d7e5c5dde4056324c32d8c1c",
+   "title": "Redundancy, Isotropy, and Intrinsic Dimensionality of Prompt-based Text Embeddings",
+   "date": "2025-06-02"
+  },
+  {
+   "id": "fa5853fdef7d2f6bb68203d187ddacbbddc63a8b",
+   "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+   "date": "2020-09-24"
+  },
+  {
+   "id": "c2095e2ef28373a96e7a091f66b57cf518679681",
+   "title": "Triplet Reconstruction and all other Phylogenetic CSPs are Approximation Resistant",
+   "date": "2022-12-24"
+  },
+  {
+   "id": "e64914f9d4d2eabf3fa1352e2d132364a5539aaa",
+   "title": "Understanding Contrastive Learning Requires Incorporating Inductive Biases",
+   "date": "2022-02-28"
+  },
+  {
+   "id": "aa676125041cd284b4a1313d70143ba6f77c074b",
+   "title": "Matryoshka Representation Learning",
+   "date": "2022-05-26"
+  },
+  {
+   "id": "403227333329b36183004f04db72362b604adef3",
+   "title": "A Theoretical Analysis of Contrastive Unsupervised Representation Learning",
+   "date": "2019-02-25"
+  },
+  {
+   "id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+   "title": "Representation Learning: A Review and New Perspectives",
+   "date": "2012-06-24"
+  },
+  {
+   "id": "3909227f94f8f1a6e1b6cf8690b6dabcf7b20060",
+   "title": "Ordinal embeddings of minimum relaxation: general properties, trees, and ultrametrics",
+   "date": "2005-01-23"
+  },
+  {
+   "id": "8fe7c14cd9cc2c83cd420810a2f23ca19926834f",
+   "title": "Learning Lines with Ordinal Constraints",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "5aa26299435bdf7db874ef1640a6c3b5a4a2c394",
+   "title": "FaceNet: A unified embedding for face recognition and clustering",
+   "date": "2015-03-12"
+  },
+  {
+   "id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
+   "title": "Efficient Estimation of Word Representations in Vector Space",
+   "date": "2013-01-16"
+  },
+  {
+   "id": "0ad1a70a28a3248cf8df212e9389ddbf228b86d8",
+   "title": "Optimality of the Johnson-Lindenstrauss Lemma",
+   "date": "2016-09-07"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.6684,
+  0.581,
+  0.5807,
+  0.5732,
+  0.5464,
+  0.5421,
+  0.5313,
+  0.5163,
+  0.4882,
+  0.4852,
+  0.477,
+  0.473,
+  0.4671,
+  0.4652,
+  0.4602,
+  0.4432,
+  0.4285,
+  0.428,
+  0.426
+ ]
+}

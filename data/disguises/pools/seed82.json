@@ -1,0 +1,61 @@
+{
+ "pool": [
+  {
+   "id": "B_6dec956d3b120ac49d6e48a5a69413b55314e6cb",
+   "title": "Beyond First-order Asymptotics in Sequential Mean Testing",
+   "date": "2026-06-03",
+   "is_B": true
+  },
+  {
+   "id": "557a2111fee1d9dd8f0a7a3c5d8419c3f3fb3536",
+   "title": "On Stopping Times of Power-one Sequential Tests: Tight Lower and Upper Bounds",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "a4f458bb1dbce1f04c6e0c2ec1bffd5a9e7c83a2",
+   "title": "Asymptotic Normality of Sequential Stopping Times with Applications: Confidence Intervals for an Exponential Mean",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "4a7490e16b0bb7f76cc98519e14dd826516c9e5f",
+   "title": "Asymptotic optimality theory of confidence intervals of the mean",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "eae921ba74d6bfbd9246130438483fd1450e6f4a",
+   "title": "Almost sure null bankruptcy of testing-by-betting strategies",
+   "date": "2026-02-09"
+  },
+  {
+   "id": "27887fe952fc1b27cba958e5dfe309d5cc1d2eea",
+   "title": "Optimal Best-Arm Identification Methods for Tail-Risk Measures",
+   "date": "2020-08-17"
+  },
+  {
+   "id": "5aa0a667c9e11a1d9251c5a1fb0d0c1991c64faa",
+   "title": "Regret Minimization in Heavy-Tailed Bandits",
+   "date": "2021-02-07"
+  },
+  {
+   "id": "9009beb4f205b354b3b8ffafa0af4887dafd677b",
+   "title": "Top Two Algorithms Revisited",
+   "date": "2022-06-13"
+  },
+  {
+   "id": "ec2ce18fd91af79f441b982957016bc6d5ea986d",
+   "title": "The Application",
+   "date": "2020-11-19"
+  }
+ ],
+ "n_candidates": 8,
+ "sims": [
+  0.6902,
+  0.6407,
+  0.598,
+  0.4953,
+  0.434,
+  0.4288,
+  0.3843,
+  0.1296
+ ]
+}

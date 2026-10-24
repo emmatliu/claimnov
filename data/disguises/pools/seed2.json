@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_99e167cad2c7181023297901be4745f76a18398f",
+   "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+   "date": "2026-06-26",
+   "is_B": true
+  },
+  {
+   "id": "2b01cbe125ed13ccb3ef02e9536582825f2afd57",
+   "title": "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States",
+   "date": "2024-06-09"
+  },
+  {
+   "id": "2139e414bdf6a5ea7ec4052d3f65a8d49991494b",
+   "title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding",
+   "date": "2024-02-14"
+  },
+  {
+   "id": "ac27dd71af3ee93e1129482ceececbae7dd0d0e8",
+   "title": "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation",
+   "date": "2023-10-11"
+  },
+  {
+   "id": "8cf9b49698fdb1b754df2556576412a7b44929f6",
+   "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
+   "date": "2023-10-05"
+  },
+  {
+   "id": "4637f79ddfaf923ce569996ffa5b6cda1996faa1",
+   "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+   "date": "2023-10-12"
+  },
+  {
+   "id": "2d984e97cd7efabf2f968dae7826946d5cad1443",
+   "title": "WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models",
+   "date": "2024-06-26"
+  },
+  {
+   "id": "60f653b14da8cc6866e5062a9700bb5f85a387ca",
+   "title": "Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes",
+   "date": "2024-03-01"
+  },
+  {
+   "id": "43bb364bfad4d1adf8e7abb78d9a19608ae1181f",
+   "title": "Safety Layers in Aligned Large Language Models: The Key to LLM Security",
+   "date": "2024-08-30"
+  },
+  {
+   "id": "c2bb84fbd2e9ec75e275f049353ed5d867ad5748",
+   "title": "On the Role of Attention Heads in Large Language Model Safety",
+   "date": "2024-10-17"
+  },
+  {
+   "id": "e2756f1f3742c5cae6e5938f3479f1ee1a962e14",
+   "title": "SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision Language Models",
+   "date": "2025-09-24"
+  },
+  {
+   "id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+   "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+   "date": "2023-07-27"
+  },
+  {
+   "id": "ae16c93bf3a33c43e8f57293530069e77c89bcaa",
+   "title": "Improving Alignment and Robustness with Circuit Breakers",
+   "date": "2024-06-06"
+  },
+  {
+   "id": "b82ccc66c14f531a444c74d2a9a9d86a86a8be99",
+   "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "b8b8d5655df1c6a71bbb713387863e34cc055332",
+   "title": "Detecting Language Model Attacks with Perplexity",
+   "date": "2023-08-27"
+  },
+  {
+   "id": "868fcbc6127e9cf79990e92116ec482051d470f3",
+   "title": "SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models",
+   "date": "2024-02-07"
+  },
+  {
+   "id": "6bf7e0506d24a3b3e7c0476ab30128286fc149f5",
+   "title": "Understanding Refusal in Language Models with Sparse Autoencoders",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "deb3fccb5b68041ea0f5c724f08b2d840fa51eaa",
+   "title": "WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs",
+   "date": "2024-06-26"
+  },
+  {
+   "id": "c8691974e7459989d0b9c8da027599b582910c0c",
+   "title": "Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails",
+   "date": "2025-01-15"
+  },
+  {
+   "id": "88f9af8b0a28e14c42d4f70ce2d911b51a06cd16",
+   "title": "Refusal in Language Models Is Mediated by a Single Direction",
+   "date": "2024-06-17"
+  }
+ ],
+ "n_candidates": 36,
+ "sims": [
+  0.7501,
+  0.6945,
+  0.6733,
+  0.6729,
+  0.6715,
+  0.6357,
+  0.6343,
+  0.6242,
+  0.6215,
+  0.6184,
+  0.6145,
+  0.5709,
+  0.562,
+  0.5572,
+  0.5495,
+  0.5468,
+  0.5324,
+  0.5303,
+  0.5265
+ ]
+}

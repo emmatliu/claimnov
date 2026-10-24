@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_d5b2ee09dff3eab3392dc6cadf5b04e9d2e04b56",
+   "title": "FOCUS&RePAIR: Mitigating Text Degeneration via Token-Level Guidance for Pruned Large Language Models",
+   "date": "2026-08-27",
+   "is_B": true
+  },
+  {
+   "id": "6151ee4af6a3fe78f2df7c605598cd9e02b23c5b",
+   "title": "Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation",
+   "date": "2022-06-06"
+  },
+  {
+   "id": "c8adc15c2c93719ff6c43174ec9f2d92063fcd2b",
+   "title": "Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models",
+   "date": "2023-10-19"
+  },
+  {
+   "id": "13973d5a2ac7b1eda3e7a9c5ec2d2121cd72ec43",
+   "title": "Accurate Retraining-free Pruning for Pretrained Encoder-based Language Models",
+   "date": "2023-08-07"
+  },
+  {
+   "id": "ef775ebfc8b20ad28e834d243f6d8162a2ff869d",
+   "title": "Late Breaking Results: Dynamically Scalable Pruning for Transformer-Based Large Language Models",
+   "date": "2025-03-31"
+  },
+  {
+   "id": "ec046dbabba62d2c8a40223047a1328d3f3c349f",
+   "title": "ToDi: Token-wise Distillation via Fine-Grained Divergence Control",
+   "date": "2025-05-22"
+  },
+  {
+   "id": "909ad57ce8caa6b390a65ae09db352d27d8f3996",
+   "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+   "date": "2023-01-02"
+  },
+  {
+   "id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+   "title": "The Curious Case of Neural Text Degeneration",
+   "date": "2019-04-22"
+  },
+  {
+   "id": "5a28b5b0d0b90bf9e5b8066f5e61f3cee672130c",
+   "title": "Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation",
+   "date": "2021-06-14"
+  },
+  {
+   "id": "0d1c76d45afa012ded7ab741194baf142117c495",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "date": "2023-05-29"
+  },
+  {
+   "id": "7fccc31defc8833ee9900cfdbfc744ea3e1a04f5",
+   "title": "FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation",
+   "date": "2024-08-22"
+  },
+  {
+   "id": "49b7baceecd32f81a08aa8e84e2fe71c2b879ee6",
+   "title": "DistiLLM: Towards Streamlined Distillation for Large Language Models",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "23105044e407780191de1dac47d1a3ebce06216e",
+   "title": "Lost in Pruning: The Effects of Pruning Neural Networks beyond Test Accuracy",
+   "date": "2021-03-04"
+  },
+  {
+   "id": "daa41c777708ee9b446402cbe6f067ffa96aa59f",
+   "title": "The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation",
+   "date": "2023-02-14"
+  },
+  {
+   "id": "fa96b5ee5c81a5389db95eee0bac24424863dfbf",
+   "title": "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models",
+   "date": "2025-09-17"
+  },
+  {
+   "id": "602f041b7ba9f1bc0bd30d9f26c8227026e812be",
+   "title": "Revisiting Knowledge Distillation for Autoregressive Language Models",
+   "date": "2024-02-19"
+  },
+  {
+   "id": "53a77e8f73f2ca422d6e38fa9ecc490231ac044c",
+   "title": "Neural Text Generation with Unlikelihood Training",
+   "date": "2019-08-12"
+  },
+  {
+   "id": "dea61556322e8aa45941f45b27da491994d4e1e3",
+   "title": "On the Effect of Pruning on Adversarial Robustness",
+   "date": "2021-08-10"
+  },
+  {
+   "id": "c8b18682965ff9dccc0130dab3d679f78cefa617",
+   "title": "A Survey on Large Language Models for Code Generation",
+   "date": "2024-06-01"
+  },
+  {
+   "id": "59756f4e786d3212f793b8b709a3d37ebbc16d94",
+   "title": "Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models",
+   "date": "2024-04-03"
+  }
+ ],
+ "n_candidates": 31,
+ "sims": [
+  0.6681,
+  0.6527,
+  0.5875,
+  0.5792,
+  0.5715,
+  0.5577,
+  0.5575,
+  0.5487,
+  0.5406,
+  0.5376,
+  0.537,
+  0.537,
+  0.5361,
+  0.5359,
+  0.5352,
+  0.535,
+  0.5078,
+  0.4921,
+  0.4918
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_667faaae364b2aa2404276fe1f71d52e24f07f04",
+   "title": "Dynamic Slimmable Network",
+   "is_B": true
+  },
+  {
+   "id": "4a1004ecd34118116344633c7cdcc34493c423ee",
+   "title": "Rethinking the Value of Network Pruning",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "c2a1cb1612ba21e067a5c3ba478a8d73b796b77a",
+   "title": "Pruning Filters for Efficient ConvNets",
+   "date": "2016-08-31"
+  },
+  {
+   "id": "049fd80f52c0b1fa4d532945d95a24734b62bdf3",
+   "title": "ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "ee53c9480132fc0d09b1192226cb2c460462fd6d",
+   "title": "Channel Pruning for Accelerating Very Deep Neural Networks",
+   "date": "2017-07-19"
+  },
+  {
+   "id": "bd3df472bc848083068a76e9ce2b2ab49543dc78",
+   "title": "MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning",
+   "date": "2019-03-25"
+  },
+  {
+   "id": "90a16f34d109b63d95ab4da2d491cbe3a1c8b656",
+   "title": "Learning Efficient Convolutional Networks through Network Slimming",
+   "date": "2017-08-22"
+  },
+  {
+   "id": "38a6d0c2f5231b95d626a24435f18134b4254898",
+   "title": "EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning",
+   "date": "2020-07-06"
+  },
+  {
+   "id": "9309ddee47f24660690b5cb4be4fd1918189785f",
+   "title": "Channel Gating Neural Networks",
+   "date": "2018-05-29"
+  },
+  {
+   "id": "a055b9917759dd75811edbc8500ca247b457c5b2",
+   "title": "Dynamic Channel Pruning: Feature Boosting and Suppression",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "120ffccea4787b88f78b55b9302891ff96cb4228",
+   "title": "Slimmable Neural Networks",
+   "date": "2018-12-21"
+  },
+  {
+   "id": "d08b35243edc5be07387a9ed218070b31e502901",
+   "title": "Group Normalization",
+   "date": "2018-03-22"
+  },
+  {
+   "id": "52ff452c2c38d082c07eb434996e07a8c242a692",
+   "title": "Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks",
+   "date": "2018-07-01"
+  },
+  {
+   "id": "450a99659e083f5ac2f0fef9abbd9336b3470c3b",
+   "title": "Universally Slimmable Networks and Improved Training Techniques",
+   "date": "2019-03-12"
+  },
+  {
+   "id": "8210e1c42487b2e1183ab537a470dc3f310df068",
+   "title": "SHUFFLESPARSE: Learned Shuffles for Structured Sparse Networks",
+   "date": "2025-10-16"
+  },
+  {
+   "id": "d0156126edbfc524c8d108bdc0cf811cfe3129aa",
+   "title": "FractalNet: Ultra-Deep Neural Networks without Residuals",
+   "date": "2016-05-24"
+  },
+  {
+   "id": "4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9",
+   "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "9fa283d4f9c2ed991383c0434ef6043bee0dc8e2",
+   "title": "Glance and Focus: a Dynamic Approach to Reducing Spatial Redundancy in Image Classification",
+   "date": "2020-10-11"
+  },
+  {
+   "id": "eefbea4b80b766ad23e1e3c450a79f95a0e87cc0",
+   "title": "Anytime Neural Prediction via Slicing Networks Vertically",
+   "date": "2018-07-07"
+  },
+  {
+   "id": "8604f376633af8b347e31d84c6150a93b11e34c2",
+   "title": "FitNets: Hints for Thin Deep Nets",
+   "date": "2014-12-19"
+  }
+ ],
+ "n_candidates": 66,
+ "sims": [
+  0.7355,
+  0.7077,
+  0.6753,
+  0.6538,
+  0.6529,
+  0.6313,
+  0.6301,
+  0.6284,
+  0.6279,
+  0.5895,
+  0.5805,
+  0.5719,
+  0.5678,
+  0.5593,
+  0.5549,
+  0.5478,
+  0.5428,
+  0.5362,
+  0.5315
+ ]
+}

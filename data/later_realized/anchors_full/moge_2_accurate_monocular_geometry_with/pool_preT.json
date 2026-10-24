@@ -1,0 +1,812 @@
+[
+ {
+  "id": "c39971a25aaeb9ac4b94febe22b3bda2607aff12",
+  "title": "Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "762860e930b55034eb8e7ce3f85de4343a0d2f2b",
+  "title": "UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler",
+  "date": "2025-02-27"
+ },
+ {
+  "id": "10301766e5686bda76722ef2af1362213b934cc0",
+  "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model",
+  "date": "2025-01-27"
+ },
+ {
+  "id": "27f7b0699f536e2c92c6f624799c513255017e75",
+  "title": "Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation",
+  "date": "2024-12-18"
+ },
+ {
+  "id": "2bd7364a87e65c980d2c04c433d2d460a9cf95f5",
+  "title": "MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos",
+  "date": "2024-12-05"
+ },
+ {
+  "id": "5354957b11727f2ec86abe4587ce7dfa18de795d",
+  "title": "MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+  "date": "2024-10-24"
+ },
+ {
+  "id": "44fe1c6263aa3b87b95be6bfba2ef03c79d550a6",
+  "title": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
+  "date": "2024-10-02"
+ },
+ {
+  "id": "e94aa0aeda5d98c6c771ce20c1d2e05591892fcb",
+  "title": "RePLAy: Remove Projective LiDAR Depthmap Artifacts via Exploiting Epipolar Geometry",
+  "date": "2024-07-27"
+ },
+ {
+  "id": "4f997c404e97087194d2df538deb82b2c5428c1e",
+  "title": "Grounding Image Matching in 3D with MASt3R",
+  "date": "2024-06-14"
+ },
+ {
+  "id": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7",
+  "title": "WonderWorld: Interactive 3D Scene Generation from a Single Image",
+  "date": "2024-06-13"
+ },
+ {
+  "id": "2091dcd7c80bc27ba7d1fdc0087748bb1e293e2f",
+  "title": "Depth Anything V2",
+  "date": "2024-06-13"
+ },
+ {
+  "id": "60bdb4c44136fc452170cc65fbd9cd8ad73ca425",
+  "title": "UniDepth: Universal Monocular Metric Depth Estimation",
+  "date": "2024-03-27"
+ },
+ {
+  "id": "ee531657945a58a1b4b456a6834917c0bc4025e1",
+  "title": "Metric3D v2: A Versatile Monocular Geometric Foundation Model for Zero-Shot Metric Depth and Surface Normal Estimation",
+  "date": "2024-03-22"
+ },
+ {
+  "id": "c04926fbdb9476967e84fdc008b0e78e99fe8444",
+  "title": "DepthFM: Fast Monocular Depth Estimation with Flow Matching",
+  "date": "2024-03-20"
+ },
+ {
+  "id": "8092f6a18c525f7c6eacee2a842e80985b177e74",
+  "title": "GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image",
+  "date": "2024-03-18"
+ },
+ {
+  "id": "c59a0562f67ed20791ee3501c6e175b951f90dc2",
+  "title": "Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors",
+  "date": "2024-03-18"
+ },
+ {
+  "id": "e788d5c6dc79f106296f8ad296bcbe512028d5f0",
+  "title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+  "date": "2024-03-14"
+ },
+ {
+  "id": "afea54c7f17f4fac0f71bebed6bc782ed69d8bd0",
+  "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+  "date": "2024-01-19"
+ },
+ {
+  "id": "5f82a81766cb78395a55b8fc697c2421a20f4a9e",
+  "title": "DUSt3R: Geometric 3D Vision Made Easy",
+  "date": "2023-12-21"
+ },
+ {
+  "id": "c896257eea2cb25dc36dfc4d0d1f8812e68c8ce3",
+  "title": "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation",
+  "date": "2023-12-04"
+ },
+ {
+  "id": "d8aca097ddc0062828948655d3a97e4204881582",
+  "title": "Towards Learning a Generalist Model for Embodied Navigation",
+  "date": "2023-12-04"
+ },
+ {
+  "id": "712ad867a51ffdcecc9c91295cf1b792600c0e49",
+  "title": "PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+  "date": "2023-12-04"
+ },
+ {
+  "id": "861593f632f98aa597802b95056a05b37e8955f8",
+  "title": "MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond",
+  "date": "2023-09-28"
+ },
+ {
+  "id": "fc96c4a7d4708bfd6138bfd16482229975404499",
+  "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes",
+  "date": "2023-08-22"
+ },
+ {
+  "id": "133508edc7c4e4ebf95f005a17caf2003f64527f",
+  "title": "MiDaS v3.1 - A Model Zoo for Robust Monocular Relative Depth Estimation",
+  "date": "2023-07-26"
+ },
+ {
+  "id": "bdd2972730730844d0366a5e5f596b1aeaa7c3ed",
+  "title": "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image",
+  "date": "2023-07-20"
+ },
+ {
+  "id": "3b72bb98ee4fdf9f8819fa6b507dd4a0f35505ef",
+  "title": "Towards Zero-Shot Scale-Aware Monocular Depth Estimation",
+  "date": "2023-06-29"
+ },
+ {
+  "id": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891",
+  "title": "DINOv2: Learning Robust Visual Features without Supervision",
+  "date": "2023-04-14"
+ },
+ {
+  "id": "9eafa581e0268d471b9c61c87db79710dab9274e",
+  "title": "Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields",
+  "date": "2023-04-13"
+ },
+ {
+  "id": "7470a1702c8c86e6f28d32cfa315381150102f5b",
+  "title": "Segment Anything",
+  "date": "2023-04-05"
+ },
+ {
+  "id": "4b4ea34d944f0bcba5d5f8f3169c75beecb33aed",
+  "title": "On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks",
+  "date": "2023-03-26"
+ },
+ {
+  "id": "d8d099fb047a3a47579dadc23d346d1abb85aaec",
+  "title": "Spring: A High-Resolution High-Detail Dataset and Benchmark for Scene Flow, Optical Flow and Stereo",
+  "date": "2023-03-03"
+ },
+ {
+  "id": "ebe2a5a186fa08e4e1b5d225d7a253d444d2c396",
+  "title": "ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth",
+  "date": "2023-02-23"
+ },
+ {
+  "id": "efbe97d20c4ffe356e8826c01dc550bacc405add",
+  "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+  "date": "2023-02-10"
+ },
+ {
+  "id": "048056c0321876c0d582c3bf40b1883cda9260d5",
+  "title": "Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting",
+  "date": "2023-01-02"
+ },
+ {
+  "id": "1b31dbf44e68b698120552366df03e6e35a1e428",
+  "title": "Objaverse: A Universe of Annotated 3D Objects",
+  "date": "2022-12-15"
+ },
+ {
+  "id": "f40c0afe3551cd8cf624868f51b82f0b70dd1605",
+  "title": "Guided Depth Super-Resolution by Deep Anisotropic Diffusion",
+  "date": "2022-11-21"
+ },
+ {
+  "id": "188ff1267b43568580b8b5cbaaa277fef3bf3c9d",
+  "title": "Towards Accurate Reconstruction of 3D Scene Shape From A Single Monocular Image",
+  "date": "2022-08-28"
+ },
+ {
+  "id": "35e6c2d1749f41476ee75e852f316faae287ba15",
+  "title": "Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection",
+  "date": "2022-05-30"
+ },
+ {
+  "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "date": "2021-12-20"
+ },
+ {
+  "id": "19c68c1e0cf0d47b96bd448e0ade1c4add0601d6",
+  "title": "ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data",
+  "date": "2021-11-17"
+ },
+ {
+  "id": "67515d1f7df144683b059e684da7974e40aeaca1",
+  "title": "DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras",
+  "date": "2021-08-24"
+ },
+ {
+  "id": "88f868de54c7207368006fe056ebe4713c9fb33d",
+  "title": "Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging",
+  "date": "2021-05-28"
+ },
+ {
+  "id": "83a1f38b58003b6fe4648821b067e6feaf134eee",
+  "title": "Discrete Cosine Transform Network for Guided Depth Map Super-Resolution",
+  "date": "2021-04-14"
+ },
+ {
+  "id": "5b95063f3ecdb8883550120c44d98f7e0e783f4f",
+  "title": "SMD-Nets: Stereo Mixture Density Networks",
+  "date": "2021-04-08"
+ },
+ {
+  "id": "8e33914d6051dd031a5e096962b9398fc1d16067",
+  "title": "Vision Transformers for Dense Prediction",
+  "date": "2021-03-24"
+ },
+ {
+  "id": "4ac318309807b5a7a50a1a292ced43e6f5f0ffbb",
+  "title": "Learning to Recover 3D Scene Shape from a Single Image",
+  "date": "2020-12-17"
+ },
+ {
+  "id": "9717f7d873859ca0080caf944f7a2d9b456be121",
+  "title": "AdaBins: Depth Estimation Using Adaptive Bins",
+  "date": "2020-11-28"
+ },
+ {
+  "id": "84c40cf28afdf84ec6941d92cacd49fed3c7ef9a",
+  "title": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+  "date": "2020-11-04"
+ },
+ {
+  "id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "date": "2020-10-22"
+ },
+ {
+  "id": "07e3db9c2034b522c3cf04399602cc7124964306",
+  "title": "A2D2: Audi Autonomous Driving Dataset",
+  "date": "2020-04-14"
+ },
+ {
+  "id": "34981c96dda64943625404cdb2deda296af75842",
+  "title": "TartanAir: A Dataset to Push the Limits of Visual SLAM",
+  "date": "2020-03-31"
+ },
+ {
+  "id": "c70159db558c4fb3f9a597bbe1beb610b0f84309",
+  "title": "Comparison of monocular depth estimation methods using geometrically relevant metrics on the IBims-1 dataset",
+  "date": "2020-02-01"
+ },
+ {
+  "id": "0b7518a88b003a975c399902206b486617c33340",
+  "title": "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation",
+  "date": "2019-12-20"
+ },
+ {
+  "id": "8406903fd2f0eb25349bf071ccfaae3947e2a9cd",
+  "title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset",
+  "date": "2019-12-10"
+ },
+ {
+  "id": "e32541301130923df1ae4a83cb8037bd459e5254",
+  "title": "BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks",
+  "date": "2019-11-22"
+ },
+ {
+  "id": "23e02a090fe235dedf853b7b671573a00998227a",
+  "title": "Flow-Motion and Depth Network for Monocular Stereo and Beyond",
+  "date": "2019-09-12"
+ },
+ {
+  "id": "c6ff787a0190e5275e193c9bf57f672c48011d33",
+  "title": "3D Ken Burns effect from a single image",
+  "date": "2019-09-12"
+ },
+ {
+  "id": "e5eba5d952c8ce7124e090b4adbb08700ebd6411",
+  "title": "Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling",
+  "date": "2019-08-01"
+ },
+ {
+  "id": "7406e5c8341b9e8a72080edc15ee3317ce38de22",
+  "title": "DIODE: A Dense Indoor and Outdoor DEpth Dataset",
+  "date": "2019-08-01"
+ },
+ {
+  "id": "b7a2d31bf89ae5d9204dd2ce75db9dfa23e8b1ac",
+  "title": "Enforcing Geometric Constraints of Virtual Normal for Depth Prediction",
+  "date": "2019-07-29"
+ },
+ {
+  "id": "7bd83b055702bc178aa26def5b6df463f8eab7b9",
+  "title": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+  "date": "2019-07-02"
+ },
+ {
+  "id": "d9f1f536c67e650992ec4afd66166740f860c99b",
+  "title": "A Survey of Autonomous Driving: Common Practices and Emerging Technologies",
+  "date": "2019-06-12"
+ },
+ {
+  "id": "980e4cf80e09261232ab0489e455ff5eb64c0487",
+  "title": "Mid-Air: A Multi-Modal Dataset for Extremely Low Altitude Drone Flights",
+  "date": "2019-06-01"
+ },
+ {
+  "id": "8ef6983143e8999595def5b668f2f0140fde1185",
+  "title": "BAD SLAM: Bundle Adjusted Direct RGB-D SLAM",
+  "date": "2019-06-01"
+ },
+ {
+  "id": "43fcb6cf679cd2ae412d7cb53e85312600cc20dd",
+  "title": "3D Packing for Self-Supervised Monocular Depth Estimation",
+  "date": "2019-05-06"
+ },
+ {
+  "id": "1373195c26eab581138579f7389cdf8b7a94a4bb",
+  "title": "Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing",
+  "date": "2018-10-19"
+ },
+ {
+  "id": "63b059cdad77906ff381515b3cfac21757e5e64c",
+  "title": "Deep Ordinal Regression Network for Monocular Depth Estimation",
+  "date": "2018-06-01"
+ },
+ {
+  "id": "ba2e6dddf14fb5facef8e2cbbe845ed7bd26c462",
+  "title": "Evaluation of CNN-based Single-Image Depth Estimation Methods",
+  "date": "2018-05-03"
+ },
+ {
+  "id": "2fe2cfd98e232f1396f01881853ed6b3d5e37d65",
+  "title": "Taskonomy: Disentangling Task Transfer Learning",
+  "date": "2018-04-23"
+ },
+ {
+  "id": "3395de3126d9b6b9d75f0d85d8c4ebab8ff84686",
+  "title": "MegaDepth: Learning Single-View Depth Prediction from Internet Photos",
+  "date": "2018-04-02"
+ },
+ {
+  "id": "11ca3e9fc044b2e1afe86b2c659daf9c016f7792",
+  "title": "DeepMVS: Learning Multi-view Stereopsis",
+  "date": "2018-04-02"
+ },
+ {
+  "id": "90c80317fa68784a3fe4fc3136bb188895b09fa4",
+  "title": "Sparsity Invariant CNNs",
+  "date": "2017-08-22"
+ },
+ {
+  "id": "f98788f32b0d33d200c9bc7d900d0ef39519c927",
+  "title": "Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+  "date": "2017-05-19"
+ },
+ {
+  "id": "e52e37cd91366f07df1f98e88f87010f494dd16e",
+  "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes",
+  "date": "2017-02-14"
+ },
+ {
+  "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+  "title": "Deep Residual Learning for Image Recognition",
+  "date": "2015-12-10"
+ },
+ {
+  "id": "dd2cf76ae78a3262a094ac865aa9f60c55472c5d",
+  "title": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network",
+  "date": "2014-06-09"
+ },
+ {
+  "id": "e92505fa3916856ac87712ad6b61d716b569262d",
+  "title": "MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "ab0f990ec3558feffe59e05c2c8073416141a1f5",
+  "title": "ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models",
+  "date": "2026-02-28"
+ },
+ {
+  "id": "ca8cb9c754f5605526e5eb39747171ce4832a1c3",
+  "title": "AoE: Always-on Egocentric Human Video Collection for Embodied AI",
+  "date": "2026-02-27"
+ },
+ {
+  "id": "e55d3ad48dbce35bce7567e071fb46d751d9b069",
+  "title": "UniScale: Unified Scale-Aware 3D Reconstruction for Multi-View Understanding via Prior Injection for Robotic Perception",
+  "date": "2026-02-26"
+ },
+ {
+  "id": "08b59b6b33a3332060064245ec0eda1eecd16c32",
+  "title": "NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning",
+  "date": "2026-02-23"
+ },
+ {
+  "id": "f8f72afd48f6a3bdce45162b63fe2e23935b9fe6",
+  "title": "Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates",
+  "date": "2026-02-21"
+ },
+ {
+  "id": "318afaf9adbe2741d30f86d944bedea5d9ad24be",
+  "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
+  "date": "2026-02-17"
+ },
+ {
+  "id": "4e1da2b764663d29083dd850d0f62c0bd671ba3a",
+  "title": "Depth Completion as Parameter-Efficient Test-Time Adaptation",
+  "date": "2026-02-16"
+ },
+ {
+  "id": "3811233ed0f2c5658603afe4c2295a598ef296ab",
+  "title": "Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting",
+  "date": "2026-02-14"
+ },
+ {
+  "id": "312925278eac957abec7dc8169e1bdf02249e202",
+  "title": "NavDreamer: Video Models as Zero-Shot 3D Navigators",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "2095ac4fc18124d5fd45b066ca6982fdf657c6d3",
+  "title": "Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction",
+  "date": "2026-02-10"
+ },
+ {
+  "id": "23ea0a41888d7d6aabe2defcffc51dfc35e921f0",
+  "title": "Dexterous Manipulation Policies from RGB Human Videos via 3D Hand-Object Trajectory Reconstruction",
+  "date": "2026-02-09"
+ },
+ {
+  "id": "30452788cbe0b9a26b365d584fee11ce748f4662",
+  "title": "DreamHome-Pano: Design-Aware and Conflict-Free Panoramic Interior Generation",
+  "date": "2026-02-06"
+ },
+ {
+  "id": "fbd9f33755ed9162b48975616e8d35e2e01c079c",
+  "title": "MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors",
+  "date": "2026-02-05"
+ },
+ {
+  "id": "054649f6dacd4ae0a266072b1c5e8fdec5a7f531",
+  "title": "TrajVG: 3D Trajectory-Coupled Visual Geometry Learning",
+  "date": "2026-02-04"
+ },
+ {
+  "id": "b1b9fe90904910eea35df32d31e8e2791ec70ad5",
+  "title": "Interacted Planes Reveal 3D Line Mapping",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "32fb101a354ccc09bacbc6d37aabd6e1e8c17406",
+  "title": "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation",
+  "date": "2026-01-31"
+ },
+ {
+  "id": "0e90207e6f0b58815e7b50a87f721f364d8905ac",
+  "title": "Masked Depth Modeling for Spatial Perception",
+  "date": "2026-01-25"
+ },
+ {
+  "id": "0a131792aac81216e32f4d32566d759bc2b2bb9f",
+  "title": "DC-VLAQ: Query-Residual Aggregation for Robust Visual Place Recognition",
+  "date": "2026-01-19"
+ },
+ {
+  "id": "7bf43ce5146fd6664fcbc7ad51d838fd1f851c73",
+  "title": "Pixel-Perfect Visual Geometry Estimation",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "ea26eecc880bc12d806a507ca7021c065534b10e",
+  "title": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "4e0f255e00c9710cb693f80a09c07f50323f491c",
+  "title": "MoE3D: A Mixture-of-Experts Module for 3D Reconstruction",
+  "date": "2026-01-08"
+ },
+ {
+  "id": "9973870aae7767ae46fb7dd45f9c3304a5634f22",
+  "title": "InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "14d7d39b7b48e418226410b8e9b1ab8f4e338ab4",
+  "title": "Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views",
+  "date": "2026-01-06"
+ },
+ {
+  "id": "6c4c223b7f5fb7c333bc54ee36a009aaa691d05b",
+  "title": "DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network",
+  "date": "2026-01-03"
+ },
+ {
+  "id": "04f6adac92d98a86f1a1cac402080d2662b2a424",
+  "title": "Depth Anything in $360^\\circ$: Towards Scale Invariance in the Wild",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "29b3d023eee05f70d809cc2f31020b2568631431",
+  "title": "ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning",
+  "date": "2025-12-28"
+ },
+ {
+  "id": "705ebc628a339a4ff7172d7dee64bb24fe5eefad",
+  "title": "N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "37ec333f5fb4e694a09ef6573637b0277184d50b",
+  "title": "Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "c852f9740cadbef02ae787ccd8a0012e679f1241",
+  "title": "DVGT: Driving Visual Geometry Transformer",
+  "date": "2025-12-18"
+ },
+ {
+  "id": "54772e871e369bfb8d7ee0d7d596d79daec29889",
+  "title": "Lighting in Motion: Spatiotemporal HDR Lighting Estimation",
+  "date": "2025-12-15"
+ },
+ {
+  "id": "5ef1a17cc5a7fd85d459857e0d8e41a43bdc91d7",
+  "title": "Boosting Monocular Metric Depth Estimation via Bokeh Rendering",
+  "date": "2025-12-13"
+ },
+ {
+  "id": "56b2db0230c19abea861b612a97c43155e93a57e",
+  "title": "CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "cc9f61df9ff645466bcb04d9d1530dd4bd2e1ae6",
+  "title": "StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "5a64acc0b439ba13c031109d9babc741284dba55",
+  "title": "VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation",
+  "date": "2025-12-11"
+ },
+ {
+  "id": "00fa9afbc06aaed357ee7791646c98ff8f3a390c",
+  "title": "UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision",
+  "date": "2025-12-10"
+ },
+ {
+  "id": "832554e1825a0069700d674dfde73cfa1f4c45e1",
+  "title": "No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "4b384de0b13338ed368512257ebc1b7ef78679f7",
+  "title": "EgoX: Egocentric Video Generation from a Single Exocentric Video",
+  "date": "2025-12-09"
+ },
+ {
+  "id": "0461024fe4a274b7a0fb42ecf21677b55a8ed0d5",
+  "title": "Generalized Geometry Encoding Volume for Real-time Stereo Matching",
+  "date": "2025-12-07"
+ },
+ {
+  "id": "4947ff5640d162e6cfcc42bb41526eac1d8d5518",
+  "title": "Embedding Physical Reasoning into Diffusion-Based Shadow Generation",
+  "date": "2025-12-05"
+ },
+ {
+  "id": "e7014be9542a656e85cf0800597af9cd0bcd6076",
+  "title": "Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications",
+  "date": "2025-12-03"
+ },
+ {
+  "id": "7c2e9198f28b5d414fa0d33b48df76fa6b519d12",
+  "title": "Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model",
+  "date": "2025-11-30"
+ },
+ {
+  "id": "97e9f4a74ff1e40e8a9112138189167131ab00de",
+  "title": "Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "79c76649dc5ada12340ca474b1089506b41b287f",
+  "title": "Geometrically-Constrained Agent for Spatial Reasoning",
+  "date": "2025-11-27"
+ },
+ {
+  "id": "e83fb0ae92006d9c6800c6bf8b00744734b70161",
+  "title": "MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes",
+  "date": "2025-11-24"
+ },
+ {
+  "id": "d7bae21f8609bbb60066387e31e268555ed7a458",
+  "title": "UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Vehicles",
+  "date": "2025-11-23"
+ },
+ {
+  "id": "95f64f9c5e751a83af780da7dafff6f417917bd2",
+  "title": "Refracting Reality: Generating Images with Realistic Transparent Objects",
+  "date": "2025-11-21"
+ },
+ {
+  "id": "84e6b953b5baa31ad5e4d63b458f55940191bc0e",
+  "title": "Geometry Meets Light: Leveraging Geometric Priors for Universal Photometric Stereo under Limited Multi-Illumination Cues",
+  "date": "2025-11-17"
+ },
+ {
+  "id": "0ebda80eebf66bb66c01b4efac544737c914d167",
+  "title": "Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images",
+  "date": "2025-11-06"
+ },
+ {
+  "id": "0a1f05d84bf420e2d529c8f13dbdb9ce9622932f",
+  "title": "UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction",
+  "date": "2025-11-06"
+ },
+ {
+  "id": "c5322d8b67555cd603d1ce4366e5db9061722c74",
+  "title": "MotionStream: Real-Time Video Generation with Interactive Motion Controls",
+  "date": "2025-11-03"
+ },
+ {
+  "id": "ed90e30b06244348c57c97cd0f8d826c8eb76fd8",
+  "title": "Panoramic Image Driven Point Cloud Initialization for 3D Reconstruction",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "05fb16e34aec7ba88b6a92dd782e52edd685211f",
+  "title": "MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts",
+  "date": "2025-10-31"
+ },
+ {
+  "id": "9b04a0e3ab963e7cdbd31216db36553846468508",
+  "title": "Kineo: Calibration-Free Metric Motion Capture From Sparse RGB Cameras",
+  "date": "2025-10-28"
+ },
+ {
+  "id": "2c0b76b8cb9d702fc81444006623859bc65f2810",
+  "title": "Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos",
+  "date": "2025-10-24"
+ },
+ {
+  "id": "eb9eac541f79117fea4dbf9082e1a60e05792fc3",
+  "title": "Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "0b41d22eb67b84a6e90094bb75b1fa6d6cbac772",
+  "title": "Toward A Better Understanding of Monocular Depth Evaluation",
+  "date": "2025-10-22"
+ },
+ {
+  "id": "1f6838e76370c013e05e77b07544d5581fd16c25",
+  "title": "GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "e629a5105e0ab2a54b861b7fc9500b93d1663a7c",
+  "title": "Self-Supervised Learning to Fly using Efficient Semantic Segmentation and Metric Depth Estimation for Low-Cost Autonomous UAVs",
+  "date": "2025-10-18"
+ },
+ {
+  "id": "10002406866f51f7fa0fa830c6659afabf2be7bf",
+  "title": "SHARE: Scene-Human Aligned Reconstruction",
+  "date": "2025-10-17"
+ },
+ {
+  "id": "3127e4b8dd53d5a6f34c598ed02705769fd5eb60",
+  "title": "Reasoning in Space via Grounding in the World",
+  "date": "2025-10-15"
+ },
+ {
+  "id": "7602b13455b4d0ec89ff87886a53462565e1cff5",
+  "title": "Bridging Perspectives: Foundation Model Guided BEV Maps for 3D Object Detection and Tracking",
+  "date": "2025-10-11"
+ },
+ {
+  "id": "d7fab55747f876aaddf6a832b9f6ca9fab338eb7",
+  "title": "TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics",
+  "date": "2025-10-08"
+ },
+ {
+  "id": "eb7bc7a3325ab01ea3d5eb5f61c2064f3791e32e",
+  "title": "SIGMA-GEN: Structure and Identity Guided Multi-subject Assembly for Image Generation",
+  "date": "2025-10-07"
+ },
+ {
+  "id": "ddfaea18593ad0b71c8e33fc009778ea27eae293",
+  "title": "GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert",
+  "date": "2025-10-04"
+ },
+ {
+  "id": "84b8a219ad1b161da9d33a9978fe5438be80d305",
+  "title": "DA2: Depth Anything in Any Direction",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "7e52da41ab6d430f038c95bb3d147fc5ca3244bf",
+  "title": "Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-view Videos",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "7ae0a3aab6889e9edd593eef063bb7e5dc410727",
+  "title": "DepthLM: Metric Depth From Vision Language Models",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "730602eaca51b14c0b4653bc2115997905bcaca7",
+  "title": "EgoDemoGen: Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation",
+  "date": "2025-09-26"
+ },
+ {
+  "id": "4f87f0845675d97d27594294e120d30d9005334f",
+  "title": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "f129551bfd614ba7c8c62dbabc0482cbe0b745f8",
+  "title": "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "116d0aa7773c240d6d7a948b5c615d62e071d670",
+  "title": "Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots",
+  "date": "2025-09-02"
+ },
+ {
+  "id": "df7531d219e0a45e8238ff37926013a7e1612264",
+  "title": "MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery",
+  "date": "2025-08-27"
+ },
+ {
+  "id": "6f6b49a207a5566c8d3e23614e44dd8109981a8c",
+  "title": "iLRM: An Iterative Large 3D Reconstruction Model",
+  "date": "2025-07-31"
+ },
+ {
+  "id": "5bcba424f2d550a8321fa50a43bebe8751e2d2a5",
+  "title": "$\\pi^3$: Permutation-Equivariant Visual Geometry Learning",
+  "date": "2025-07-17"
+ },
+ {
+  "id": "1c047e6bb2a9bc1079637648cebf6979b345c98a",
+  "title": "Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation",
+  "date": "2025-07-15"
+ },
+ {
+  "id": "c64f693c269cc51a8fbd64d32b68b72330c11b90",
+  "title": "PLOT: Pseudo-Labeling via Object Tracking for Monocular 3D Object Detection",
+  "date": "2025-07-03"
+ },
+ {
+  "id": "55308d34424f9409040734519d1e1642b79c1d52",
+  "title": "RoboTransfer: Controllable Geometry-Consistent Video Diffusion for Manipulation Policy Transfer",
+  "date": "2025-05-29"
+ },
+ {
+  "id": "ed33f7ceccf642fb933b471bf2c0baf8c54de599",
+  "title": "ShowMak3r: Compositional TV Show Reconstruction",
+  "date": "2025-04-28"
+ },
+ {
+  "id": "81c45c74ab1dbf5f7ae4c9a77dd57889412880df",
+  "title": "Spatial Polarization Multiplexing: Single-Shot Invisible Shape and Reflectance Recovery",
+  "date": "2025-04-17"
+ },
+ {
+  "id": "09189e8055f518e18f346fb3fd6a712e35507a5e",
+  "title": "UniCalib: Targetless LiDAR-camera Calibration via Probabilistic Flow on Unified Depth Representations",
+  "date": "2025-04-02"
+ },
+ {
+  "id": "9852e1fd04b1f095374474f7bdef3d6cbb4e1b19",
+  "title": "Physically Grounded Monocular Depth via Nanophotonic Wavefront Encoding",
+  "date": "2025-03-20"
+ },
+ {
+  "id": "298bbeccef082d74057864e8f8ec6ed13896380b",
+  "title": "MonSter++: Unified Stereo Matching, Multi-View Stereo, and Real-Time Stereo With Monodepth Priors.",
+  "date": "2025-01-15"
+ },
+ {
+  "id": "a3057ecbec444de0fc160b182b386a1967bbca01",
+  "title": "PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion",
+  "date": "2024-12-06"
+ },
+ {
+  "id": "580bbfd7f9c7927aae41fc3c60d7031a519b55b3",
+  "title": "High-Resolution Open-Vocabulary Object 6D Pose Estimation",
+  "date": "2024-06-24"
+ }
+]

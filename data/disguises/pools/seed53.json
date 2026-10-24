@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_afcbde839d4d84f51f3c8371c473642bc7976855",
+   "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+   "date": "2026-03-04",
+   "is_B": true
+  },
+  {
+   "id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "date": "2024-06-13"
+  },
+  {
+   "id": "90e04f3ae23ca7df5f59b11453341e3db943b6f4",
+   "title": "A Continual Learning Survey: Defying Forgetting in Classification Tasks",
+   "date": "2019-09-18"
+  },
+  {
+   "id": "838cd69a0b6c9c244a6eebb0f4742c0625132de6",
+   "title": "An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning",
+   "date": "2023-08-17"
+  },
+  {
+   "id": "ce828f9986b196308a3e40b1de58af1e8e68d728",
+   "title": "Towards Continual Knowledge Learning of Language Models",
+   "date": "2021-10-07"
+  },
+  {
+   "id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+   "title": "Overcoming catastrophic forgetting in neural networks",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "9ea50b3408f993853f1c5e374690e5fbe73c2a3c",
+   "title": "Continual Lifelong Learning with Neural Networks: A Review",
+   "date": "2018-02-21"
+  },
+  {
+   "id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+   "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+   "date": "2023-07-28"
+  },
+  {
+   "id": "8f3b80ddc0dd62e6c3369fabb1715990c29e9b9a",
+   "title": "Learning without Forgetting",
+   "date": "2016-06-29"
+  },
+  {
+   "id": "98cfd7b1b29453c4e82536f5afdc6ddc58bbb1b3",
+   "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+   "date": "2023-06-05"
+  },
+  {
+   "id": "d304d0bdfa81fd10b187aa0e4f41d410eb19d6e3",
+   "title": "Fine-tuned Language Models are Continual Learners",
+   "date": "2022-05-24"
+  },
+  {
+   "id": "118fae4b4d07453561f1eded88654f812c7c61ec",
+   "title": "Gradient Episodic Memory for Continual Learning",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "23329e60e39e777e5ce0ba7211bd51b9cfb1cfe0",
+   "title": "Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging",
+   "date": "2025-12-09"
+  },
+  {
+   "id": "53c9443e4e667170acc60ca1b31a0ec7151fe753",
+   "title": "Progressive Neural Networks",
+   "date": "2016-06-15"
+  },
+  {
+   "id": "38fe8f324d2162e63a967a9ac6648974fc4c66f3",
+   "title": "PaLM-E: An Embodied Multimodal Language Model",
+   "date": "2023-03-06"
+  },
+  {
+   "id": "f8034b8bed96179b261c47db2ec75292cef92627",
+   "title": "LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery",
+   "date": "2023-11-03"
+  },
+  {
+   "id": "471e6735f47e3899a67f1270889cdacd0e990ad8",
+   "title": "Drinking From a Firehose: Continual Learning With Web-Scale Natural Language",
+   "date": "2020-07-18"
+  },
+  {
+   "id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+   "title": "Learning Transferable Visual Models From Natural Language Supervision",
+   "date": "2021-02-26"
+  },
+  {
+   "id": "1d803f07e4591bd67c358eef715bcd443e821894",
+   "title": "BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning",
+   "date": "2022-02-04"
+  },
+  {
+   "id": "b6b8a1b80891c96c28cc6340267b58186157e536",
+   "title": "End-to-End Training of Deep Visuomotor Policies",
+   "date": "2015-04-02"
+  }
+ ],
+ "n_candidates": 25,
+ "sims": [
+  0.6883,
+  0.6861,
+  0.6768,
+  0.6711,
+  0.6508,
+  0.64,
+  0.6191,
+  0.6123,
+  0.6076,
+  0.6056,
+  0.6028,
+  0.6022,
+  0.5867,
+  0.5512,
+  0.545,
+  0.5435,
+  0.536,
+  0.5356,
+  0.5343
+ ]
+}

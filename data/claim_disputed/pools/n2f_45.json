@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_766f25e1e6adb4d76403e2a59733257b77d5db12",
+   "title": "Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games",
+   "is_B": true
+  },
+  {
+   "id": "387c0ff98a36e817992ed2896962bc796b17118a",
+   "title": "Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-horizon Competitive Markov Games",
+   "date": "2021-02-08"
+  },
+  {
+   "id": "8d4f046956bc52715225ad2f190317703a2abf2a",
+   "title": "Independent Policy Gradient Methods for Competitive Reinforcement Learning",
+   "date": "2021-01-11"
+  },
+  {
+   "id": "702418da7e5402414e030389c55c4489fdd68589",
+   "title": "Stochastic Potential Games",
+   "date": "2020-05-27"
+  },
+  {
+   "id": "6509486691e16dbe6cbe13a4fffa8112acae1af3",
+   "title": "Optimality and Approximation with Policy Gradient Methods in Markov Decision Processes",
+   "date": "2019-08-01"
+  },
+  {
+   "id": "4f56eadb6312770fbd190ac7b0f86b70bd928ba7",
+   "title": "Learning Parametric Closed-Loop Policies for Markov Potential Games",
+   "date": "2018-02-03"
+  },
+  {
+   "id": "49984bc327ef6952118c4b871eeef2a907f7a4ed",
+   "title": "Fast Convergence of Regularized Learning in Games",
+   "date": "2015-07-02"
+  },
+  {
+   "id": "792500c6590f9af2c92f9248fc69abb563944628",
+   "title": "Learning in Nonzero-Sum Stochastic Games with Potentials",
+   "date": "2021-03-16"
+  },
+  {
+   "id": "fc7c1ba7c6f85bdb1adc6024dea673bed2f32ed8",
+   "title": "Learning in Matrix Games can be Arbitrarily Complex",
+   "date": "2021-03-05"
+  },
+  {
+   "id": "f058b9ad5b8cf14988b25590f849518cd033c570",
+   "title": "No-regret learning and mixed Nash equilibria: They do not mix",
+   "date": "2020-10-19"
+  },
+  {
+   "id": "a7d559659184d847afb1823aa674463ef1d07e1d",
+   "title": "Stochastic games",
+   "date": "2019-07-31"
+  },
+  {
+   "id": "dd3eefc22d78467971b28f0b0f9b5b09e838fd56",
+   "title": "Cycles in adversarial regularized learning",
+   "date": "2017-09-08"
+  },
+  {
+   "id": "f7df1f65713e11c0c5c8e8baf09c9bf612b99575",
+   "title": "Stochastic subgradient method converges at the rate O(k-1/4) on weakly convex functions",
+   "date": "2018-02-08"
+  },
+  {
+   "id": "54d4a221db5a91a2487b1610374843fafff5a23d",
+   "title": "Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms",
+   "date": "2019-11-24"
+  },
+  {
+   "id": "075f328ef87a076151feb4d5b1f97b66aa597a90",
+   "title": "Convex Optimization: Algorithms and Complexity",
+   "date": "2014-05-20"
+  },
+  {
+   "id": "5980e73908b319d36ec5075f89da7fdd1ae12d10",
+   "title": "Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always",
+   "date": "2018-10-12"
+  },
+  {
+   "id": "f9717d29840f4d8f1cc19d1b1e80c5d12ec40608",
+   "title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+   "date": "2018-12-07"
+  },
+  {
+   "id": "0a80317ad3054584ee48d86863453d49e24100ee",
+   "title": "Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Updates Algorithm and a Conjecture of Haploid Genetics [Working Paper Abstract]",
+   "date": "2014-08-26"
+  },
+  {
+   "id": "2a1573cfa29a426c695e2caf6de0167a12b788ef",
+   "title": "Open Problems in Cooperative AI",
+   "date": "2020-12-15"
+  },
+  {
+   "id": "2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
+   "title": "Superhuman AI for multiplayer poker",
+   "date": "2019-07-11"
+  }
+ ],
+ "n_candidates": 19,
+ "sims": [
+  0.7387,
+  0.7276,
+  0.6906,
+  0.6822,
+  0.6573,
+  0.6317,
+  0.6266,
+  0.5826,
+  0.5703,
+  0.5246,
+  0.5178,
+  0.5059,
+  0.4997,
+  0.4893,
+  0.4816,
+  0.4529,
+  0.4502,
+  0.3283,
+  0.3086
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_2fe2cfd98e232f1396f01881853ed6b3d5e37d65",
+   "title": "Taskonomy: Disentangling Task Transfer Learning",
+   "is_B": true
+  },
+  {
+   "id": "2976605dc3b73377696537291d45f09f1ab1fbf5",
+   "title": "Cross-Stitch Networks for Multi-task Learning",
+   "date": "2016-04-12"
+  },
+  {
+   "id": "684fe9e2d4f7b9b108b9305f7a69907b5e541725",
+   "title": "Multi-task Self-Supervised Visual Learning",
+   "date": "2017-08-25"
+  },
+  {
+   "id": "1b02204b210f822dabf8d68b7e3ea7ac14ee1268",
+   "title": "Identifying beneficial task relations for multi-task learning in deep neural networks",
+   "date": "2017-02-27"
+  },
+  {
+   "id": "02c270487bd68afb0cc9224d2102118f42ee1d59",
+   "title": "Integrated perception with recurrent multi-task neural networks",
+   "date": "2016-06-06"
+  },
+  {
+   "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "date": "2017-03-09"
+  },
+  {
+   "id": "6e1b2e05fe043046ccda1d5065e113f035c3c98b",
+   "title": "Multi-task Learning with Labeled and Unlabeled Tasks",
+   "date": "2016-02-21"
+  },
+  {
+   "id": "f8599ad5332cdf2c9919988ba300bb4b438b5834",
+   "title": "Transitive Invariance for Self-Supervised Visual Representation Learning",
+   "date": "2017-08-09"
+  },
+  {
+   "id": "922197906907dc0a5e1b51fae40d3149333ecacf",
+   "title": "UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory",
+   "date": "2016-09-07"
+  },
+  {
+   "id": "54ddb00fa691728944fd8becea90a373d21597cf",
+   "title": "Understanding deep learning requires rethinking generalization",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "ca2f3a290bc24bc1c602389207ee86f9e01779e7",
+   "title": "Label Efficient Learning of Transferable Representations acrosss Domains and Tasks",
+   "date": "2017-11-30"
+  },
+  {
+   "id": "71683e224ab91617950956b5005ed0439a733a71",
+   "title": "Learning to learn by gradient descent by gradient descent",
+   "date": "2016-06-14"
+  },
+  {
+   "id": "2f7ae3361b2aafa24fc289252a9cad8f1135edae",
+   "title": "Deeper Depth Prediction with Fully Convolutional Residual Networks",
+   "date": "2016-06-01"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+   "title": "Distilling the Knowledge in a Neural Network",
+   "date": "2015-03-09"
+  },
+  {
+   "id": "4603f26093d64fc4107d3ec49667003f60210654",
+   "title": "Generalizing Skills with Semi-Supervised Reinforcement Learning",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "b8de958fead0d8a9619b55c7299df3257c624a96",
+   "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
+   "date": "2013-10-05"
+  },
+  {
+   "id": "dacaf094b2c6d67a8e60a572cb935bf2a48336d0",
+   "title": "CRF Learning with CNN Features for Image Segmentation",
+   "date": "2015-03-27"
+  },
+  {
+   "id": "8201e6e687f2de477258e9be53ba7b73ee30d7de",
+   "title": "Colorful Image Colorization",
+   "date": "2016-03-28"
+  }
+ ],
+ "n_candidates": 58,
+ "sims": [
+  0.5956,
+  0.5675,
+  0.5255,
+  0.5173,
+  0.5113,
+  0.4945,
+  0.4777,
+  0.4746,
+  0.4639,
+  0.4622,
+  0.4502,
+  0.4486,
+  0.4478,
+  0.4452,
+  0.4384,
+  0.4368,
+  0.4259,
+  0.4224,
+  0.4187
+ ]
+}

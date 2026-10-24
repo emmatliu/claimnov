@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_18f44e11e7586202c6d15775089f7b3f6cbbfd57",
+   "title": "Emergent Communication Pretraining for Few-Shot Machine Translation",
+   "is_B": true
+  },
+  {
+   "id": "c669f052c509c1c80a8c413fcb96b2b324d2f3ca",
+   "title": "Emergent Translation in Multi-Agent Communication",
+   "date": "2017-10-12"
+  },
+  {
+   "id": "f91d1db0fa2ac12e0262a8f5e6a371da29a3c100",
+   "title": "Multi-Agent Cooperation and the Emergence of (Natural) Language",
+   "date": "2016-11-04"
+  },
+  {
+   "id": "d70af4990cba2574c41b1235030f7a5b702e2d70",
+   "title": "Compositionality and Generalization In Emergent Languages",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "cf96b99f4d35b452d4679b664b74aa255e000b8c",
+   "title": "Capacity, Bandwidth, and Compositionality in Emergent Language Learning",
+   "date": "2019-10-24"
+  },
+  {
+   "id": "2297c559ac3509b3ab456229f7032b2a0fbf23c1",
+   "title": "Pretraining on Non-linguistic Structure as a Tool for Analyzing Learning Bias in Language Models",
+   "date": "2020-04-30"
+  },
+  {
+   "id": "dff700e9d4602ecc62ba68a2f7efd7c692343f9e",
+   "title": "Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning",
+   "date": "2020-05-14"
+  },
+  {
+   "id": "2f7778f455e953a88efec032cef755b839e48cec",
+   "title": "Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "c0617490e0ea57b28b89d4ca92e069f538609603",
+   "title": "Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "2caa021d85d4878d3369000e0068f617576d6cca",
+   "title": "Natural Language Does Not Emerge \u2018Naturally\u2019 in Multi-Agent Dialog",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "5d2f5c2dc11c18c0d45203e2b980fe375a56d774",
+   "title": "Emergence of Grounded Compositional Language in Multi-Agent Populations",
+   "date": "2017-03-15"
+  },
+  {
+   "id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "date": "2019-10-23"
+  },
+  {
+   "id": "300896cd4fb518b67b796e9eef7c94c64661ec37",
+   "title": "Emergent Language Generalization and Acquisition Speed are not tied to Compositionality",
+   "date": "2020-04-01"
+  },
+  {
+   "id": "6e916f19e88e64f450f01d9d274a17e181722004",
+   "title": "Emergent Linguistic Phenomena in Multi-Agent Communication Games",
+   "date": "2019-01-25"
+  },
+  {
+   "id": "0f509cf3445d1afce307d1eea66a411242147d90",
+   "title": "From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "c1b927710dba925f81220318f0eab262397e99ec",
+   "title": "Ease-of-Teaching and Language Structure from Emergent Communication",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+   "title": "Unsupervised Cross-lingual Representation Learning at Scale",
+   "date": "2019-11-05"
+  },
+  {
+   "id": "e24e44515b15e1326dd25ab092a152a067c63fc1",
+   "title": "Word-order Biases in Deep-agent Emergent Communication",
+   "date": "2019-05-01"
+  },
+  {
+   "id": "ec4eba83f6b3266d9ae7cabb2b2cb1518f727edc",
+   "title": "Cross-lingual Language Model Pretraining",
+   "date": "2019-01-22"
+  },
+  {
+   "id": "5b45714e4a302353bb78382886cc82c959f7b817",
+   "title": "How agents see things: On visual representations in an emergent language game",
+   "date": "2018-08-31"
+  }
+ ],
+ "n_candidates": 75,
+ "sims": [
+  0.7177,
+  0.6511,
+  0.643,
+  0.6354,
+  0.6278,
+  0.6248,
+  0.6242,
+  0.6117,
+  0.608,
+  0.6068,
+  0.6063,
+  0.5989,
+  0.595,
+  0.5927,
+  0.5789,
+  0.5767,
+  0.575,
+  0.5714,
+  0.5627
+ ]
+}

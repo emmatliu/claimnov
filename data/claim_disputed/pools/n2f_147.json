@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_065d77e46d3f7f06527b504cafdc44130cfb730a",
+   "title": "Large-scale Robust Deep AUC Maximization: A New Surrogate Loss and Empirical Studies on Medical Image Classification",
+   "is_B": true
+  },
+  {
+   "id": "a340c8a03880881169f60e039a60c5a555851891",
+   "title": "Federated Deep AUC Maximization for Heterogeneous Data with a Constant Communication Complexity",
+   "date": "2021-02-09"
+  },
+  {
+   "id": "9dee2ec358840bfd75c11a00007d1989af456d88",
+   "title": "Stochastic AUC Maximization with Deep Neural Networks",
+   "date": "2019-08-28"
+  },
+  {
+   "id": "5e79233985c35ae9742fec06247775ffc7124112",
+   "title": "Communication-Efficient Distributed Stochastic AUC Maximization with Deep Neural Networks",
+   "date": "2020-05-05"
+  },
+  {
+   "id": "72884248a94bddaa200437a2dbe94828ab0ded73",
+   "title": "One-Pass AUC Optimization",
+   "date": "2013-05-06"
+  },
+  {
+   "id": "abe2c29bdb512e78f191cc31e83d112b4a25ea08",
+   "title": "On the Consistency of AUC Pairwise Optimization",
+   "date": "2012-08-03"
+  },
+  {
+   "id": "c73e3ee16fe603775aed1341cc6ba3741a7c7ecc",
+   "title": "Weakly Supervised Lesion Localization With Probabilistic-CAM Pooling",
+   "date": "2020-05-29"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "25e7811b3d0a3faca39c665e3c93d4ca570169cc",
+   "title": "Deep Neural Networks Improve Radiologists\u2019 Performance in Breast Cancer Screening",
+   "date": "2019-03-20"
+  },
+  {
+   "id": "c4d639b56136b0c12977621c16975f830449bfce",
+   "title": "Identifying Melanoma Images using EfficientNet Ensemble: Winning Solution to the SIIM-ISIC Melanoma Classification Challenge",
+   "date": "2020-10-11"
+  },
+  {
+   "id": "dcc4c760c3f1cb17f953c487190b735030c33b78",
+   "title": "Decoupling Representation and Classifier for Long-Tailed Recognition",
+   "date": "2019-10-21"
+  },
+  {
+   "id": "4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9",
+   "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "b5c26ab8767d046cb6e32d959fdf726aee89bb62",
+   "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
+   "date": "2016-02-23"
+  },
+  {
+   "id": "5694e46284460a648fe29117cbc55f6c9be3fa3c",
+   "title": "Densely Connected Convolutional Networks",
+   "date": "2016-08-25"
+  },
+  {
+   "id": "eb42cf88027de515750f230b23b1a057dc782108",
+   "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+   "date": "2014-09-04"
+  },
+  {
+   "id": "014986ade7e67cb8d45f039796ce4bcfbab75f4d",
+   "title": "Ranking and empirical minimization of U-statistics",
+   "date": "2006-03-05"
+  },
+  {
+   "id": "b92165a16b508a69d4da62b9873dbfd0f49e8d72",
+   "title": "Interpreting Chest X-rays via CNNs that Exploit Hierarchical Disease Dependencies and Uncertainty Labels",
+   "date": "2020-01-25"
+  },
+  {
+   "id": "e1ec11a1cb3d9745fb18d3bf74247f95a6663d08",
+   "title": "Dermatologist\u2013level classification of skin cancer with deep neural networks",
+   "date": "2017-01-25"
+  },
+  {
+   "id": "2a96afaf3261a87f0daa51699b4b3cf169e092c4",
+   "title": "Rotation Equivariant CNNs for Digital Pathology",
+   "date": "2018-06-08"
+  },
+  {
+   "id": "89a816719613e220a64ab2590c938c23bbfe187e",
+   "title": "CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison",
+   "date": "2019-01-21"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.6873,
+  0.6872,
+  0.6429,
+  0.5624,
+  0.5428,
+  0.4639,
+  0.4527,
+  0.4482,
+  0.4402,
+  0.4397,
+  0.423,
+  0.4216,
+  0.4014,
+  0.3862,
+  0.3854,
+  0.3772,
+  0.3636,
+  0.3524,
+  0.3482
+ ]
+}

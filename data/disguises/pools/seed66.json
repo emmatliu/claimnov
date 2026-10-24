@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_dc708f49ccadce46583ee6eb855ab8d028b92725",
+   "title": "Learning Biophysical Models of Large-Scale Multineuronal Data to Enable Precise Neurostimulation",
+   "date": "2026-07-05",
+   "is_B": true
+  },
+  {
+   "id": "7b7e3188125d7ac3f11bb0efce2e1bd18ca4827f",
+   "title": "Identifying multi-compartment Hodgkin-Huxley models with high-density extracellular voltage recordings",
+   "date": "2025-06-25"
+  },
+  {
+   "id": "53989eeb9046dd74c5137609ce7b94a549584dfc",
+   "title": "Generation of biophysical neuron model parameters from recorded electrophysiological responses",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "8f26542257eadaa36b45687672c88442e539cd46",
+   "title": "Inference of Electrical Neural Stimulation Sensitivity from Recorded Spiking Activity Using Artificial Neural Networks",
+   "date": "2025-11-11"
+  },
+  {
+   "id": "ecd07672a087e1f05b4e1366a9416fe3f17db4ff",
+   "title": "Leveraging current steering and the biophysics of spike generation for cellular-resolution electrical stimulation of neurons",
+   "date": "2025-03-17"
+  },
+  {
+   "id": "b3f659ecc50bbc72111dbac2f7a3888dc2caa795",
+   "title": "Properties and application of a multichannel integrated circuit for low-artifact, patterned electrical stimulation of neural tissue",
+   "date": "2012-11-16"
+  },
+  {
+   "id": "490c7d78a44e3b81dce7451ba4114851c5be2eef",
+   "title": "Inference of Electrical Stimulation Sensitivity from Recorded Activity of Primate Retinal Ganglion Cells",
+   "date": "2021-10-27"
+  },
+  {
+   "id": "720316bc13068447ece543507541bb879c3b9ede",
+   "title": "Repeatable, low-drift recordings in behaving non-human primates using flexible microelectrodes",
+   "date": "2026-01-10"
+  },
+  {
+   "id": "223a2486ad7e7071f5179c4f16b1dc888ba381a4",
+   "title": "Smoothing of, and Parameter Estimation from, Noisy Biophysical Recordings",
+   "date": "2009-05-01"
+  },
+  {
+   "id": "d74d7a1056400d9e438cddb33364fe861546f943",
+   "title": "Efficient identification of informative features in simulation-based inference",
+   "date": "2022-10-21"
+  },
+  {
+   "id": "d14f0f7afae523a5c06645b492de4797d6358885",
+   "title": "Modeling extracellular stimulation of retinal ganglion cells: theoretical and practical aspects",
+   "date": "2023-02-27"
+  },
+  {
+   "id": "82f1a7fe471beed1297e7f1468dbd3b5000a2313",
+   "title": "Partitioned Temporal Dithering for Efficient Epiretinal Electrical Stimulation",
+   "date": "2023-04-24"
+  },
+  {
+   "id": "d4a43997a7794bb9775e8ccc07d62b003fba8a8b",
+   "title": "Decomposition of retinal ganglion cell electrical images for cell type and functional inference",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "ad2f3169b56dcd26a3c1c68c006b8d9709612c47",
+   "title": "Jaxley: differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "98a4f073957bdb45706cd98fb9efb9d46d4d55ff",
+   "title": "Combined statistical-biophysical modeling links ion channel genes to physiology of cortical neuron types",
+   "date": "2025-08-01"
+  },
+  {
+   "id": "a15933e788f610481f0d15393fe32517c7d9671a",
+   "title": "Precise control of neural activity using dynamically optimized electrical stimulation",
+   "date": "2024-06-25"
+  },
+  {
+   "id": "d1fd27982796e2fb3f585207a531aa7661f5e6e4",
+   "title": "Systematic generation of biophysically detailed models with generalization capability for non-spiking neurons",
+   "date": "2022-05-13"
+  },
+  {
+   "id": "dc5abdd4ffda99a4caec8531ce9f376fa1c118ed",
+   "title": "Simulation-Based Inference: A Practical Guide",
+   "date": "2025-08-18"
+  },
+  {
+   "id": "f84f2cc648a338a6b1317d039c018dbfb8989b9b",
+   "title": "sbi: A toolkit for simulation-based inference",
+   "date": "2020-08-21"
+  },
+  {
+   "id": "381774fdb1e214e29ba96bd0e662b3f243e87e86",
+   "title": "Event-driven eligibility propagation in large sparse networks",
+   "date": "2025-11-26"
+  }
+ ],
+ "n_candidates": 20,
+ "sims": [
+  0.7727,
+  0.6796,
+  0.6515,
+  0.6406,
+  0.632,
+  0.6269,
+  0.6176,
+  0.6103,
+  0.599,
+  0.5927,
+  0.5926,
+  0.5881,
+  0.5866,
+  0.5838,
+  0.5647,
+  0.5521,
+  0.5057,
+  0.4927,
+  0.4511
+ ]
+}

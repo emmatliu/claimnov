@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8d7a7214e57486dd2abe12de8e11a87ecdc0b153",
+   "title": "Asymptotics of Ridge(less) Regression under General Source Condition",
+   "is_B": true
+  },
+  {
+   "id": "e26aa4b56e43a6d1360413f205aa79aa2386fda3",
+   "title": "High-Dimensional Asymptotics of Prediction: Ridge Regression and Classification",
+   "date": "2015-07-10"
+  },
+  {
+   "id": "f8a5278d4142215b33b516db5df1d9eb0d1d066e",
+   "title": "Two models of double descent for weak features",
+   "date": "2019-03-18"
+  },
+  {
+   "id": "77320ccfac7bca6f535a8da87d427451c4d7425e",
+   "title": "Multiple Descent: Design Your Own Generalization Curve",
+   "date": "2020-08-03"
+  },
+  {
+   "id": "c41097fcfa4d1eaf181e1776f8847295ead16f16",
+   "title": "Ridge regression and asymptotic minimax estimation over spheres of growing dimension",
+   "date": "2016-01-15"
+  },
+  {
+   "id": "4df60eaad8933ae16eb8744fe2cc7229fbe4879a",
+   "title": "Optimal Regularization Can Mitigate Double Descent",
+   "date": "2020-03-04"
+  },
+  {
+   "id": "8cddc6a372e68bdfe9764170aa7c9836486bcc93",
+   "title": "RANDOM MATRICES AND HIGH-DIMENSIONAL STATISTICS: BEYOND COVARIANCE MATRICES",
+   "date": "2019-05-01"
+  },
+  {
+   "id": "41c0be3adfd33cb6d0cb24c6fb1de109929276ca",
+   "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+   "date": "2019-08-14"
+  },
+  {
+   "id": "8571d3a1b4253420ae742a8827d0ac238d9fbaff",
+   "title": "Asymptotic errors for convex penalized linear regression beyond Gaussian matrices.",
+   "date": "2020-02-11"
+  },
+  {
+   "id": "864ccab6d1ade1c110c7fd35cbc0879ceff4f916",
+   "title": "Implicit Regularization of Random Feature Models",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "a11c0f52307631289ee07a5b6e6079b994dda372",
+   "title": "Asymptotic behavior of unregularized and ridge-regularized high-dimensional robust regression estimators : rigorous results",
+   "date": "2013-11-11"
+  },
+  {
+   "id": "cd7514226e699fafc716adb0d322a4682dff7c3e",
+   "title": "Geometric sensitivity of random matrix results: consequences for shrinkage estimators of covariance and related statistical methods",
+   "date": "2011-05-07"
+  },
+  {
+   "id": "47149cbfee9dac6c092462bbe13cf18cf9cc9314",
+   "title": "Just Interpolate: Kernel \"Ridgeless\" Regression Can Generalize",
+   "date": "2018-08-01"
+  },
+  {
+   "id": "6104568e318f140d7adcf646412f182906db69b1",
+   "title": "High-dimensional dynamics of generalization error in neural networks",
+   "date": "2017-10-10"
+  },
+  {
+   "id": "761e530efea87acab453e6ca9b3926bc83e39ccd",
+   "title": "On the Optimal Weighted $\\ell_2$ Regularization in Overparameterized Linear Regression",
+   "date": "2020-06-10"
+  },
+  {
+   "id": "d43983700c99dc272b42d0a993679fd429c106cf",
+   "title": "SURPRISES IN HIGH-DIMENSIONAL RIDGELESS LEAST SQUARES INTERPOLATION",
+   "date": "2019-03-19"
+  },
+  {
+   "id": "b01415647c2d8eb82e16200ad724a73963d5882c",
+   "title": "Understanding overfitting peaks in generalization error: Analytical risk curves for l2 and l1 penalized interpolation",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "a32447cda76ad30e345d2f3ff18bc33859052880",
+   "title": "Linearized two-layers neural networks in high dimension",
+   "date": "2019-04-27"
+  },
+  {
+   "id": "0b5f8ef60b3a3e630eccad4211f875dfa3d02a6d",
+   "title": "A Large Dimensional Analysis of Least Squares Support Vector Machines",
+   "date": "2017-01-11"
+  },
+  {
+   "id": "95f986412a70429c0ce5ff4bb8a7c6b4df3e93d3",
+   "title": "Efficient Computation of Limit Spectra of Sample Covariance Matrices",
+   "date": "2015-07-07"
+  }
+ ],
+ "n_candidates": 39,
+ "sims": [
+  0.7036,
+  0.6383,
+  0.6205,
+  0.6168,
+  0.6091,
+  0.6026,
+  0.6008,
+  0.5842,
+  0.5776,
+  0.5692,
+  0.5666,
+  0.5653,
+  0.5579,
+  0.5422,
+  0.5381,
+  0.5323,
+  0.5304,
+  0.5293,
+  0.5289
+ ]
+}

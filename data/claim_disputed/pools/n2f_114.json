@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_567dec55115a5b4792ce30c44d7838467d6e8748",
+   "title": "Effective Evaluation of Deep Active Learning on Image Classification Tasks",
+   "is_B": true
+  },
+  {
+   "id": "1a38b98ac150d96b4ccfa6ee346e35bb864043a5",
+   "title": "Towards Robust and Reproducible Active Learning using Neural Networks",
+   "date": "2020-02-21"
+  },
+  {
+   "id": "affd0a8391ce0941f148bf768b8132217119bbb0",
+   "title": "Variational Adversarial Active Learning",
+   "date": "2019-03-31"
+  },
+  {
+   "id": "cd545daa24d4a05db40c12efcd4114dfa76f205b",
+   "title": "Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision",
+   "date": "2019-01-01"
+  },
+  {
+   "id": "114c1ed1ae2e2a4b3d775c5a55d2c916f9d85972",
+   "title": "Adversarial Active Learning for Deep Networks: a Margin Based Approach",
+   "date": "2018-02-27"
+  },
+  {
+   "id": "cf5a21684aefb1b8db6e0490167636d245396095",
+   "title": "Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds",
+   "date": "2019-06-09"
+  },
+  {
+   "id": "ad3a75fa2a26e6f69b7059466828f49492d31789",
+   "title": "BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "1ecc2bd0bc6ffa0a2f466a058589c20593e3e57c",
+   "title": "The Marginal Value of Adaptive Gradient Methods in Machine Learning",
+   "date": "2017-05-23"
+  },
+  {
+   "id": "7486e148260329785fb347ac6725bd4123d8dad6",
+   "title": "Bayesian Active Learning for Classification and Preference Learning",
+   "date": "2011-12-24"
+  },
+  {
+   "id": "1f6c3f1def78919f06efe050e9403e85d5fa3ac9",
+   "title": "The Effectiveness of Data Augmentation in Image Classification using Deep Learning",
+   "date": "2017-12-01"
+  },
+  {
+   "id": "87f6a7c014ce206ac5b57299c07e10667d194b39",
+   "title": "Randaugment: Practical automated data augmentation with a reduced search space",
+   "date": "2019-09-30"
+  },
+  {
+   "id": "b38491eee785b6312e386b2fb2090805e4d7ff0f",
+   "title": "Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning",
+   "date": "2020-10-12"
+  },
+  {
+   "id": "b8989afff14fb630ca58b6afa917fb42574228ee",
+   "title": "Averaging Weights Leads to Wider Optima and Better Generalization",
+   "date": "2018-03-14"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "f723eb3e7159f07b97464c8d947d15e78612abe4",
+   "title": "AutoAugment: Learning Augmentation Policies from Data",
+   "date": "2018-05-24"
+  },
+  {
+   "id": "52693bcf4627bdbc31734e7f3dbcf5ea7eef4d35",
+   "title": "DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks",
+   "date": "2015-11-14"
+  },
+  {
+   "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+   "title": "Adam: A Method for Stochastic Optimization",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "8b0aa743007100b7cd59e7315156cce6fe53b6db",
+   "title": "DCSCR: a class-specific collaborative representation based network for few-shot image set classification",
+   "date": "2025-08-18"
+  },
+  {
+   "id": "37c5a90619eb4bfd7c41b674e4fdf2317622e0f7",
+   "title": "Deep Layer Aggregation",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "eb42cf88027de515750f230b23b1a057dc782108",
+   "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+   "date": "2014-09-04"
+  }
+ ],
+ "n_candidates": 26,
+ "sims": [
+  0.6843,
+  0.6553,
+  0.6292,
+  0.6133,
+  0.5499,
+  0.5285,
+  0.5147,
+  0.491,
+  0.4726,
+  0.4646,
+  0.4518,
+  0.4352,
+  0.4342,
+  0.4238,
+  0.4146,
+  0.4067,
+  0.3984,
+  0.3938,
+  0.3659
+ ]
+}

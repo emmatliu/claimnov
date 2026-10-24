@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_42320db2fdf5413f81ffea9e4214227571dedff8",
+   "title": "Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization",
+   "date": "2026-07-15",
+   "is_B": true
+  },
+  {
+   "id": "542905f5fc96bce7572f6ded7f56aedfa62270c1",
+   "title": "Understanding plasticity in neural networks",
+   "date": "2023-03-02"
+  },
+  {
+   "id": "2a0a49d69b854b66e22a9176d77984cca112d9d3",
+   "title": "Loss of plasticity in deep continual learning",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "39be2eab576bbe918da77e56f8e8771a0b1afb8c",
+   "title": "Maintaining Plasticity in Continual Learning via Regenerative Regularization",
+   "date": "2023-08-23"
+  },
+  {
+   "id": "4c4bc4e9f9d6ab6b476ae582574e9532529be443",
+   "title": "Loss of Plasticity in Continual Deep Reinforcement Learning",
+   "date": "2023-03-13"
+  },
+  {
+   "id": "6c282567e9c452f81416214933b9b1e45ab3add4",
+   "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning",
+   "date": "2023-02-24"
+  },
+  {
+   "id": "d7b52442618b9724954e5a9332bce2ef45df787c",
+   "title": "Loss Landscape Degeneracy and Stagewise Development in Transformers",
+   "date": "2024-02-04"
+  },
+  {
+   "id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+   "title": "Overcoming catastrophic forgetting in neural networks",
+   "date": "2016-12-02"
+  },
+  {
+   "id": "3f06d02513a2763e472d2b5d5db08e9061081b9e",
+   "title": "Linear Mode Connectivity and the Lottery Ticket Hypothesis",
+   "date": "2019-12-11"
+  },
+  {
+   "id": "d9ff7a9344dd5d6653bd7a02bfd704422bb29951",
+   "title": "Experience Replay for Continual Learning",
+   "date": "2018-11-28"
+  },
+  {
+   "id": "bc8c31fb824ebf653f2a067bcd55c8d90751a1ac",
+   "title": "Information-theoretic analysis of generalization capability of learning algorithms",
+   "date": "2017-05-22"
+  },
+  {
+   "id": "63b4843f3789838331168315ea6fa406f0f973b1",
+   "title": "Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning",
+   "date": "2020-10-27"
+  },
+  {
+   "id": "ae4fe487ccca0086c1866a523ff5ecae1dfa4477",
+   "title": "Reasoning About Generalization via Conditional Mutual Information",
+   "date": "2020-01-24"
+  },
+  {
+   "id": "53c9443e4e667170acc60ca1b31a0ec7151fe753",
+   "title": "Progressive Neural Networks",
+   "date": "2016-06-15"
+  },
+  {
+   "id": "17157c636591f396ebfe54b333a7bc348b972105",
+   "title": "A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints",
+   "date": "2024-10-08"
+  },
+  {
+   "id": "5e23a28063b395bdaf784dc548a046885cb90cf2",
+   "title": "Understanding intermediate layers using linear classifier probes",
+   "date": "2016-10-05"
+  },
+  {
+   "id": "69b80ce5ab6c2263b145b1eaa23664145938f351",
+   "title": "The Primacy Bias in Deep Reinforcement Learning",
+   "date": "2022-05-16"
+  },
+  {
+   "id": "4371b54eb5808b4eedb08ffae11c7e12386b64fd",
+   "title": "Dynamical versus Bayesian Phase Transitions in a Toy Model of Superposition",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "189ef6bea81fe8ee3ed3214b9394f7e2027eff98",
+   "title": "New Insights and Perspectives on the Natural Gradient Method",
+   "date": "2014-12-03"
+  },
+  {
+   "id": "5e19eba1e6644f7c83f607383d256deea71f87ae",
+   "title": "Searching for MobileNetV3",
+   "date": "2019-05-06"
+  }
+ ],
+ "n_candidates": 22,
+ "sims": [
+  0.6915,
+  0.6083,
+  0.5915,
+  0.5608,
+  0.5357,
+  0.5281,
+  0.5277,
+  0.5174,
+  0.5141,
+  0.514,
+  0.5139,
+  0.4753,
+  0.466,
+  0.4485,
+  0.441,
+  0.438,
+  0.4319,
+  0.4186,
+  0.3908
+ ]
+}

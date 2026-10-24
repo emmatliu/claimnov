@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_169fc06bbdadf008cb72a80762b5050bc5756ee4",
+   "title": "Offline Reinforcement Learning with Pseudometric Learning",
+   "is_B": true
+  },
+  {
+   "id": "dea0f1c5949f8d898b9b6ff68226a781558e413c",
+   "title": "MOPO: Model-based Offline Policy Optimization",
+   "date": "2020-05-27"
+  },
+  {
+   "id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+   "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+   "date": "2020-06-08"
+  },
+  {
+   "id": "309c2c5ee60e725244da09180f913cd8d4b8d4e9",
+   "title": "MOReL : Model-Based Offline Reinforcement Learning",
+   "date": "2020-05-12"
+  },
+  {
+   "id": "3cb8e96faba73efa027fa858e2a78cd1fc3c6e4d",
+   "title": "Model-Based Offline Planning",
+   "date": "2020-08-12"
+  },
+  {
+   "id": "57daffd65a5d73a439903f3e50950c21c9eba687",
+   "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+   "date": "2019-06-30"
+  },
+  {
+   "id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+   "title": "Behavior Regularized Offline Reinforcement Learning",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+   "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+   "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+   "date": "2020-05-04"
+  },
+  {
+   "id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+   "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+   "date": "2020-04-15"
+  },
+  {
+   "id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+   "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+   "date": "2018-12-07"
+  },
+  {
+   "id": "82b4b03a4659d6e04bd7cbf51d6e08fde1348dbd",
+   "title": "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction",
+   "date": "2019-06-03"
+  },
+  {
+   "id": "518b827e340c26582b5093401283a4f5cff605b9",
+   "title": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+   "date": "2020-06-18"
+  },
+  {
+   "id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+   "title": "Trust Region Policy Optimization",
+   "date": "2015-02-19"
+  },
+  {
+   "id": "ad14227e4f51276892ffc37aa43fd8750bb5eba8",
+   "title": "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "fa9c6c6fade247fec415407c2d4b4ea950924272",
+   "title": "Safe Policy Improvement with Soft Baseline Bootstrapping",
+   "date": "2019-07-11"
+  },
+  {
+   "id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+   "title": "Continuous control with deep reinforcement learning",
+   "date": "2015-09-09"
+  },
+  {
+   "id": "d6d2183c79c226129805652c0195cf39896ce8a0",
+   "title": "Metrics and continuity in reinforcement learning",
+   "date": "2021-02-02"
+  },
+  {
+   "id": "7eb0db941fbf19857631ec1c907f2888ea308779",
+   "title": "Safe Policy Improvement with Baseline Bootstrapping",
+   "date": "2017-12-19"
+  },
+  {
+   "id": "811df72e210e20de99719539505da54762a11c6d",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "date": "2018-01-04"
+  }
+ ],
+ "n_candidates": 38,
+ "sims": [
+  0.7112,
+  0.6827,
+  0.6715,
+  0.6693,
+  0.6396,
+  0.6223,
+  0.6186,
+  0.5964,
+  0.5962,
+  0.5679,
+  0.5353,
+  0.5301,
+  0.5254,
+  0.5226,
+  0.5156,
+  0.5152,
+  0.509,
+  0.507,
+  0.4995
+ ]
+}

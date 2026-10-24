@@ -1,0 +1,21 @@
+item_id,annotator,done_by_listed_paper,paper_number,contribution_established,contribution_text,contribution_paper_number,confidence,notes
+Q03,A2,no,,yes,real-time step-level error detection with correction in MAS,1,3,P1 uses unsupervised anomaly scoring not MAST-taxonomy classifier
+Q04,A2,yes,6,,,,2,SWE-Hub: multi-language containerized envs + cross-language synthesized bug-fix tasks
+Q06,A2,no,,yes,joint inter-frame and intra-frame diversity token pruning for video LLMs,3,2,
+Q11,A2,no,,yes,joint inter-frame and intra-frame diversity token pruning for video LLMs,2,2,
+Q15,A2,no,,yes,detecting drifted cached tokens to mitigate AR video drift,14,2,P16 MAG compressed KV memory and P12 BIFE also overlap partially
+Q16,A2,no,,yes,,2,2,
+Q18,A2,no,,yes,geometry-encoder MLLM for evolving spatial relations with temporal benchmark,9,2,
+Q21,A2,no,,yes,lossless speculative draft-verify decoding for dLLMs,2,3,P2 uses self-drafting not a separate small draft dLLM
+Q27,A2,yes,1,,,,2,Video-R2: timestamp-aware SFT + GRPO with temporal alignment reward; P12 Open-o3 Video also close
+Q31,A2,no,,yes,lossless speculative draft-verify decoding for dLLMs,2,3,
+Q32,A2,no,,yes,injecting 4D perception from a frozen expert model into an MLLM,16,2,
+Q35,A2,no,,yes,,3,2,no listed paper uses an AR drafter with a dLLM verifier
+Q40,A2,no,,yes,,2,3,
+Q41,A2,no,,no,,,2,all listed papers treat GUI grounding as static single-frame
+Q45,A2,no,,yes,lossless speculative draft-verify decoding for dLLMs,2,2,
+Q47,A2,no,,no,,,2,
+Q52,A2,no,,yes,speculative draft-verify decoding for dLLMs,9,1,P2 also uses a smaller MDLM to replace the large one at some steps
+Q54,A2,no,,yes,RLVR on a distilled checkpoint expands solvable problems,10,2,reinforcement learning on top of a distilled model
+Q55,A2,no,,no,,,2,
+Q57,A2,no,,yes,tactile encoder tokens integrated into a VLA backbone for contact-rich manipulation,1,2,none use distributed skin arrays for deformables

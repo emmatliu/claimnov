@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_07f5bae91cd45eafe82f3548a43268eb5c84df7a",
+   "title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-\u0141ojasiewicz Condition",
+   "is_B": true
+  },
+  {
+   "id": "62ec387be14e4bb9e35ce595b10aec1cd3311888",
+   "title": "Gradient methods for convex minimization: better rates under weaker conditions",
+   "date": "2013-03-19"
+  },
+  {
+   "id": "1a3eef35df17306ec60180a7214567b3e4dc388e",
+   "title": "Fast global convergence of gradient methods for high-dimensional statistical recovery",
+   "date": "2011-04-25"
+  },
+  {
+   "id": "4a5f67b92f39284562b82ca92529bb7538ded5e3",
+   "title": "The restricted strong convexity revisited: analysis of equivalence to error bound and quadratic growth",
+   "date": "2015-11-05"
+  },
+  {
+   "id": "a872a4c0b526c7e5ec207697fbeea10e96779156",
+   "title": "Linear Convergence of Variance-Reduced Stochastic Gradient without Strong Convexity",
+   "date": "2014-06-04"
+  },
+  {
+   "id": "0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+   "title": "Stochastic dual coordinate ascent methods for regularized loss",
+   "date": "2012-09-10"
+  },
+  {
+   "id": "34d5677a71691b09533040a76787d944e72d1f9d",
+   "title": "Non-strongly-convex smooth stochastic approximation with convergence rate O(1/n)",
+   "date": "2013-06-10"
+  },
+  {
+   "id": "acffbcb997ce73bf63e2b5a8d928b287357d4f4f",
+   "title": "Stochastic Variance Reduction for Nonconvex Optimization",
+   "date": "2016-03-19"
+  },
+  {
+   "id": "a8048db26cb78e785e82f06645da3f79d729528e",
+   "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+   "date": "2011-07-14"
+  },
+  {
+   "id": "301bc0a33a7a2fcaf5401e14e741178bc561d836",
+   "title": "Fast Stochastic Methods for Nonsmooth Nonconvex Optimization",
+   "date": "2016-05-23"
+  },
+  {
+   "id": "ec6b358348f7a1e75131bf5de7f1161f930e0437",
+   "title": "Convergence Rates of Inexact Proximal-Gradient Methods for Convex Optimization",
+   "date": "2011-09-12"
+  },
+  {
+   "id": "2fd24fbe5c6b83b1de96eceff95f6bc2d4aade11",
+   "title": "An asynchronous parallel stochastic coordinate descent algorithm",
+   "date": "2013-11-08"
+  },
+  {
+   "id": "ed6c7a50173e1299277a322ff0d300249fd52d3c",
+   "title": "Error Bounds, Quadratic Growth, and Linear Convergence of Proximal Methods",
+   "date": "2016-02-22"
+  },
+  {
+   "id": "760a2ef68eb08aad617e4f9d569684d020e48427",
+   "title": "Faster Rates for the Frank-Wolfe Method over Strongly-Convex Sets",
+   "date": "2014-06-05"
+  },
+  {
+   "id": "f9c3a58c65e235e5fceacde5d93df813015b8ab8",
+   "title": "On the Linear Convergence of the Approximate Proximal Splitting Method for Non-smooth Convex Optimization",
+   "date": "2014-04-21"
+  },
+  {
+   "id": "ae2bd8f2c8334f97854d7b4417dae5d67939d7d7",
+   "title": "Asynchronous Stochastic Coordinate Descent: Parallelism and Convergence Properties",
+   "date": "2014-03-15"
+  },
+  {
+   "id": "c9dd271813319d3092c0568214b3b187c24eedac",
+   "title": "A unified approach to error bounds for structured convex optimization problems",
+   "date": "2015-12-11"
+  },
+  {
+   "id": "b9005db9bfae1826da2b02ed475af8cb097cb839",
+   "title": "Calculus of the Exponent of Kurdyka\u2013\u0141ojasiewicz Inequality and Its Applications to Linear Convergence of First-Order Methods",
+   "date": "2016-02-09"
+  },
+  {
+   "id": "383f692f0c8d9a163fb920fbb012c4d7e9b1305e",
+   "title": "Fast Incremental Method for Nonconvex Optimization",
+   "date": "2016-03-19"
+  },
+  {
+   "id": "6e5616703dbf5438dfece7441a88c28a1d5e7340",
+   "title": "From error bounds to the complexity of first-order descent methods for convex functions",
+   "date": "2015-10-28"
+  }
+ ],
+ "n_candidates": 28,
+ "sims": [
+  0.6542,
+  0.644,
+  0.6152,
+  0.6128,
+  0.5876,
+  0.5801,
+  0.5726,
+  0.572,
+  0.561,
+  0.5531,
+  0.5398,
+  0.5367,
+  0.5339,
+  0.5318,
+  0.531,
+  0.5299,
+  0.5279,
+  0.5199,
+  0.5193
+ ]
+}

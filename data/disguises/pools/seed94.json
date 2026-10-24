@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_651292fcbbb880c07d89761babfeda6b5fd97211",
+   "title": "Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance",
+   "date": "2026-03-12",
+   "is_B": true
+  },
+  {
+   "id": "d28254a00141c4b83ade90af10ec432665a6ccdb",
+   "title": "Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models",
+   "date": "2024-10-03"
+  },
+  {
+   "id": "3ae4720a05249a77b2c827d1787b79790023e07f",
+   "title": "CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models",
+   "date": "2024-06-12"
+  },
+  {
+   "id": "757bd58782db1f9046fa04866c2bb9be887f0996",
+   "title": "Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "a0e528e2a3a14f0eeeddc228ab86ea8b847d66bf",
+   "title": "Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "c0b1bd58c6297b844661ba178a3ab606618a6e6f",
+   "title": "Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance",
+   "date": "2024-04-08"
+  },
+  {
+   "id": "d11bf3bf22827568dd8fd3eed1fe422e2073e847",
+   "title": "Rectified Diffusion Guidance for Conditional Generation",
+   "date": "2024-10-24"
+  },
+  {
+   "id": "770c28af824fc021fe6323ad569d8bffd7653176",
+   "title": "Variational Control for Guidance in Diffusion Models",
+   "date": "2025-02-06"
+  },
+  {
+   "id": "04b0c289607d408f5c89743552157c3c20ec3d3b",
+   "title": "Guidance with Spherical Gaussian Constraint for Conditional Diffusion",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+   "title": "Classifier-Free Diffusion Guidance",
+   "date": "2022-07-26"
+  },
+  {
+   "id": "f733a8280d5da71f7046460e7e6b9eae863376ac",
+   "title": "Guiding a Diffusion Model with a Bad Version of Itself",
+   "date": "2024-06-04"
+  },
+  {
+   "id": "0a49a190498e9f592e696b72203f0810466fe6e3",
+   "title": "Manifold-Guided Lyapunov Control with Diffusion Models",
+   "date": "2024-03-26"
+  },
+  {
+   "id": "7d2ff802094eb24bed1faa363a8d07947905be3e",
+   "title": "Riemannian Score-Based Generative Modeling",
+   "date": "2022-02-06"
+  },
+  {
+   "id": "3b2a675bb617ae1a920e8e29d535cdf27826e999",
+   "title": "Video Diffusion Models",
+   "date": "2022-04-07"
+  },
+  {
+   "id": "5003fdf35af631d4cb17fd3c1ce2469f665064f1",
+   "title": "Common Diffusion Noise Schedules and Sample Steps are Flawed",
+   "date": "2023-05-15"
+  },
+  {
+   "id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "date": "2020-06-19"
+  },
+  {
+   "id": "d383dd8ced85d7898d8b1546c514a34fb626ea16",
+   "title": "Improved Precision and Recall Metric for Assessing Generative Models",
+   "date": "2019-04-15"
+  },
+  {
+   "id": "633e2fbfc0b21e959a244100937c5853afca4853",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "date": "2020-11-26"
+  },
+  {
+   "id": "f58acfeb022ba15282ec5fc047c98010311fa9da",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "date": "2021-12-20"
+  },
+  {
+   "id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+   "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+   "date": "2024-03-05"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.7747,
+  0.7648,
+  0.7114,
+  0.7059,
+  0.7034,
+  0.7011,
+  0.666,
+  0.6655,
+  0.6599,
+  0.5988,
+  0.5669,
+  0.4983,
+  0.4689,
+  0.4592,
+  0.4485,
+  0.4436,
+  0.4343,
+  0.4343,
+  0.4188
+ ]
+}

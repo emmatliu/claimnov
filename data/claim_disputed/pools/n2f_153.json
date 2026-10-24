@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_1e76e2fbf27198986271a672f462dc38d790d00f",
+   "title": "The Risks of Invariant Risk Minimization",
+   "is_B": true
+  },
+  {
+   "id": "753b7a701adc1b6072378bd048cfa8567885d9c7",
+   "title": "Invariant Risk Minimization",
+   "date": "2019-07-05"
+  },
+  {
+   "id": "0ad5f44fc605d1d2759a22c05a4883b9ec05b234",
+   "title": "Domain Extrapolation via Regret Minimization",
+   "date": "2020-06-06"
+  },
+  {
+   "id": "af4ec9e525671319fab3feb19b6f9306d94e5dd9",
+   "title": "Risk Variance Penalization: From Distributional Robustness to Causality",
+   "date": "2020-06-13"
+  },
+  {
+   "id": "2f0b9e8e1aed4d4c112164d04f10ddbeb27da55f",
+   "title": "Support and Invertibility in Domain-Invariant Representations",
+   "date": "2019-03-08"
+  },
+  {
+   "id": "2b5a8e6fd214e1471c5d61bf80e4ff9f774765b6",
+   "title": "Domain Generalization using Causal Matching",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "79c286bf03ed97fb94d33511f3355770dcee0aec",
+   "title": "Domain Generalization via Invariant Feature Representation",
+   "date": "2013-01-10"
+  },
+  {
+   "id": "edfd20c25581b08138b4e0cc0ce4b3227a441123",
+   "title": "Invariant Causal Prediction for Nonlinear Models",
+   "date": "2017-06-26"
+  },
+  {
+   "id": "8ea41c671ffe66fa22e2e4c1af99d5f8ef9233b1",
+   "title": "Learning Causal Structures Using Regression Invariance",
+   "date": "2017-05-26"
+  },
+  {
+   "id": "dd8261996dabdee37e23228ed5dd9434cb193c90",
+   "title": "An Online Learning Approach to Interpolation and Extrapolation in Domain Generalization",
+   "date": "2021-02-25"
+  },
+  {
+   "id": "a2bf2e83df0c8b3257a8a809cb96c3ea58ec04b3",
+   "title": "Causal inference by using invariant prediction: identification and confidence intervals",
+   "date": "2015-01-06"
+  },
+  {
+   "id": "66d398aeaeb7ec24ededb1adaa4b4f09a6c1bcde",
+   "title": "A theory of learning from different domains",
+   "date": "2010-05-01"
+  },
+  {
+   "id": "3621fff4a1c791901ea4a1359c10575193ec712d",
+   "title": "Out-of-Distribution Generalization via Risk Extrapolation (REx)",
+   "date": "2020-03-02"
+  },
+  {
+   "id": "26e858cf3c82b66bbd539bb79356b0e885bdc694",
+   "title": "An Investigation of Why Overparameterization Exacerbates Spurious Correlations",
+   "date": "2020-05-09"
+  },
+  {
+   "id": "a808c16fca8c8336753382626c24afef6cc250f3",
+   "title": "A Causal Framework for Distribution Generalization",
+   "date": "2020-06-12"
+  },
+  {
+   "id": "88a08035419fcb362f6f30c202d51920268f49d2",
+   "title": "Domain Adaptation with Conditional Transferable Components",
+   "date": "2016-06-01"
+  },
+  {
+   "id": "804fb9542f4f56e264dd2df57c255a9a2011c00f",
+   "title": "Adversarially Robust Generalization Requires More Data",
+   "date": "2018-04-01"
+  },
+  {
+   "id": "cc01e553052a502c9f7697e90296eb9bbf7f32df",
+   "title": "Generalizing to Unseen Domains via Adversarial Data Augmentation",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "1d5972b32a9b5a455a6eef389de5b7fca25771ad",
+   "title": "Domain-Adversarial Training of Neural Networks",
+   "date": "2015-05-28"
+  },
+  {
+   "id": "47f1eb0dc42189ba7cf21b76598c8217eb1b6e05",
+   "title": "Learning the Difference that Makes a Difference with Counterfactually-Augmented Data",
+   "date": "2019-09-26"
+  }
+ ],
+ "n_candidates": 30,
+ "sims": [
+  0.7877,
+  0.6716,
+  0.6181,
+  0.5732,
+  0.5583,
+  0.5559,
+  0.5516,
+  0.5346,
+  0.5041,
+  0.5039,
+  0.4868,
+  0.4742,
+  0.4709,
+  0.4673,
+  0.4401,
+  0.4363,
+  0.4338,
+  0.425,
+  0.4206
+ ]
+}

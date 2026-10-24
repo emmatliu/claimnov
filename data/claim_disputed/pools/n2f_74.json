@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_639206a9a32d91386924f1c94e9760dfb43df72e",
+   "title": "Towards Deeper Graph Neural Networks",
+   "is_B": true
+  },
+  {
+   "id": "c2d40522eaa5523d67a0de5e4098e7031fdccb3d",
+   "title": "Pitfalls of Graph Neural Network Evaluation",
+   "date": "2018-11-14"
+  },
+  {
+   "id": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+   "title": "How Powerful are Graph Neural Networks?",
+   "date": "2018-10-01"
+  },
+  {
+   "id": "b9fd0679899fdf258cfc360d96d2d6a83811c6dc",
+   "title": "DeltaGNN: Graph Neural Network with Information Flow Control",
+   "date": "2025-01-10"
+  },
+  {
+   "id": "36652428740cd30d245d55889f01a7fb04a91c93",
+   "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+   "date": "2018-01-22"
+  },
+  {
+   "id": "d81fc968196e06ccafd7ea4c008b13e1cad1be64",
+   "title": "An End-to-End Deep Learning Architecture for Graph Classification",
+   "date": "2018-04-29"
+  },
+  {
+   "id": "94194703e83b5447f519fd8bcbb903916e05aaf9",
+   "title": "Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View",
+   "date": "2019-09-07"
+  },
+  {
+   "id": "04f3203f1214063436d81ce0c2ad7623204da488",
+   "title": "Geom-GCN: Geometric Graph Convolutional Networks",
+   "date": "2020-02-13"
+  },
+  {
+   "id": "0dc14473859b1cb56c82d9e388a575c3e7813603",
+   "title": "Non-Local Graph Neural Networks",
+   "date": "2020-05-29"
+  },
+  {
+   "id": "d18b48f77eb5c517a6d2c1fa434d2952a1b0a825",
+   "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+   "date": "2018-06-22"
+  },
+  {
+   "id": "8ccbd4898fd7cecac6823e7caa15c74fca670fbe",
+   "title": "Graph Convolutional Networks with EigenPooling",
+   "date": "2019-04-30"
+  },
+  {
+   "id": "7e71eedb078181873a56f2adcfef9dddaeb95602",
+   "title": "Simplifying Graph Convolutional Networks",
+   "date": "2019-02-19"
+  },
+  {
+   "id": "ee8b1603c79a4f9c3bdc0d6633b595aa93ff3a0f",
+   "title": "Self-Attention Graph Pooling",
+   "date": "2019-04-17"
+  },
+  {
+   "id": "ac225094aab9e7b629bc5b3343e026dea0200c70",
+   "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "f09f7888aa5aeaf88a2a44aea768d9a8747e97d2",
+   "title": "Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs",
+   "date": "2016-11-25"
+  },
+  {
+   "id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+   "title": "Graph Attention Networks",
+   "date": "2017-10-30"
+  },
+  {
+   "id": "f1964cc1b343f907462cd7fbfaf88c2679d61f59",
+   "title": "Graph U-Nets",
+   "date": "2019-05-11"
+  },
+  {
+   "id": "d5aefe86b1ba8c773a6bd0e84812ace161b8c0db",
+   "title": "Large-Scale Learnable Graph Convolutional Networks",
+   "date": "2018-07-19"
+  },
+  {
+   "id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+   "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+   "date": "2016-09-09"
+  },
+  {
+   "id": "ddc50b4d191b428a9c6942e9633a9aa41c6d453b",
+   "title": "A Multi-Scale Approach for Graph Link Prediction",
+   "date": "2020-04-03"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.7769,
+  0.738,
+  0.7099,
+  0.6612,
+  0.6515,
+  0.6488,
+  0.6469,
+  0.6354,
+  0.6197,
+  0.6133,
+  0.6072,
+  0.5808,
+  0.5805,
+  0.5775,
+  0.5758,
+  0.5646,
+  0.5628,
+  0.5621,
+  0.5438
+ ]
+}

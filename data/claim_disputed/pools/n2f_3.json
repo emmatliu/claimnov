@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_dea0f1c5949f8d898b9b6ff68226a781558e413c",
+   "title": "MOPO: Model-based Offline Policy Optimization",
+   "is_B": true
+  },
+  {
+   "id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+   "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+   "date": "2020-02-19"
+  },
+  {
+   "id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+   "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+   "date": "2020-04-15"
+  },
+  {
+   "id": "57daffd65a5d73a439903f3e50950c21c9eba687",
+   "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+   "date": "2019-06-30"
+  },
+  {
+   "id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+   "title": "Behavior Regularized Offline Reinforcement Learning",
+   "date": "2019-09-25"
+  },
+  {
+   "id": "cc4435c2c1ea079721f48d08d0ae3436599d1533",
+   "title": "Striving for Simplicity in Off-policy Deep Reinforcement Learning",
+   "date": "2019-07-10"
+  },
+  {
+   "id": "309c2c5ee60e725244da09180f913cd8d4b8d4e9",
+   "title": "MOReL : Model-Based Offline Reinforcement Learning",
+   "date": "2020-05-12"
+  },
+  {
+   "id": "6b9244068973eedf4e79df1a1c48cb45a85a5aaf",
+   "title": "Enhancing Offline Model-Based RL via Active Model Selection: A Bayesian Optimization Perspective",
+   "date": "2025-02-17"
+  },
+  {
+   "id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+   "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+   "date": "2018-12-07"
+  },
+  {
+   "id": "2fdb536da39a014c598ea67b0db88431fcd852a8",
+   "title": "Doubly Robust Off-policy Value Evaluation for Reinforcement Learning",
+   "date": "2015-11-11"
+  },
+  {
+   "id": "27dfecb6bb0308c7484e13dcaefd5eeebba677d3",
+   "title": "Model-Ensemble Trust-Region Policy Optimization",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "d333f99881b09426283a9c7a1d25f7ac30d63062",
+   "title": "Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees",
+   "date": "2018-07-10"
+  },
+  {
+   "id": "4ee70fb32981f84f9dddc57bd59a69e677c91759",
+   "title": "Benchmarking Model-Based Reinforcement Learning",
+   "date": "2019-07-03"
+  },
+  {
+   "id": "27d78a26ddb9698b9cefcf6cdeafa4f834466103",
+   "title": "AlgaeDICE: Policy Gradient from Arbitrary Experience",
+   "date": "2019-12-04"
+  },
+  {
+   "id": "ad14227e4f51276892ffc37aa43fd8750bb5eba8",
+   "title": "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning",
+   "date": "2019-10-01"
+  },
+  {
+   "id": "9001698e033524864d4d45f051a5ba362d4afd9e",
+   "title": "When to Trust Your Model: Model-Based Policy Optimization",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "749d4dbe27b1a587c8827af6659e954db8081080",
+   "title": "Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning",
+   "date": "2017-06-01"
+  },
+  {
+   "id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+   "title": "Proximal Policy Optimization Algorithms",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "56136aa0b2c347cbcf3d50821f310c4253155026",
+   "title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models",
+   "date": "2018-05-30"
+  },
+  {
+   "id": "f14ea2243fe74cbf1a4ea86cebed1fb9547c3a7c",
+   "title": "Tighter Problem-Dependent Regret Bounds in Reinforcement Learning without Domain Knowledge using Value Function Bounds",
+   "date": "2019-01-01"
+  }
+ ],
+ "n_candidates": 56,
+ "sims": [
+  0.7679,
+  0.7648,
+  0.7586,
+  0.7551,
+  0.7237,
+  0.7034,
+  0.6911,
+  0.6817,
+  0.5849,
+  0.5711,
+  0.5624,
+  0.5616,
+  0.5511,
+  0.5505,
+  0.5494,
+  0.5386,
+  0.533,
+  0.5325,
+  0.5306
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_c074adebbe6e8008dae646d3e1db4010c67e0ad6",
+   "title": "Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection",
+   "date": "2026-05-09",
+   "is_B": true
+  },
+  {
+   "id": "6e76cb2c9c43bc910827bacc95aa78139449ae08",
+   "title": "TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection",
+   "date": "2023-08-21"
+  },
+  {
+   "id": "53c0a4acf4fe13c828c1b501b31e4ea24470effe",
+   "title": "Privacy-Preserving Deep Action Recognition: An Adversarial Learning Framework and A New Dataset",
+   "date": "2020-09-28"
+  },
+  {
+   "id": "7c27ea23b44c689855aaaf49cd1a913e4268e66a",
+   "title": "Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection",
+   "date": "2023-06-26"
+  },
+  {
+   "id": "1edf989afe6d009932bc2c006ea712e3fc398505",
+   "title": "SPAct: Self-supervised Privacy Preservation for Action Recognition",
+   "date": "2022-03-29"
+  },
+  {
+   "id": "f7717f4ded90ef4f05d3cb9bae36c9542651801b",
+   "title": "Orthogonal Projection Loss",
+   "date": "2021-03-25"
+  },
+  {
+   "id": "617cf77bcfffaa86f6215928400a4c190f181210",
+   "title": "Advancing Video Anomaly Detection: A Concise Review and a New Dataset",
+   "date": "2024-02-07"
+  },
+  {
+   "id": "956652a63be554acf882862ba2fe8765717ce8e7",
+   "title": "Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight",
+   "date": "2024-12-24"
+  },
+  {
+   "id": "5c66e1b4e65bd4c0cd834768295e7c4e05910f85",
+   "title": "Feature Prediction Diffusion Model for Video Anomaly Detection",
+   "date": "2023-10-01"
+  },
+  {
+   "id": "a58a1eb932372f70039dbfb0b49af84de855d18e",
+   "title": "VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection",
+   "date": "2023-08-22"
+  },
+  {
+   "id": "965a0ff397ff33dbb9ee9a5b725472af4ffe0892",
+   "title": "Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection",
+   "date": "2023-02-10"
+  },
+  {
+   "id": "9c3637141bc020b308ae28cc9d6a7afd9cf047b4",
+   "title": "Convolutional autoencoder based on latent subspace projection for anomaly detection.",
+   "date": "2023-04-01"
+  },
+  {
+   "id": "8a6acba7fb2aad1299fcf35701417e063d410ed4",
+   "title": "Future Frame Prediction for Anomaly Detection - A New Baseline",
+   "date": "2017-12-28"
+  },
+  {
+   "id": "14765433d0636e73ae81a49dea4672fa585d4b3b",
+   "title": "TEVAD: Improved video anomaly detection with captions",
+   "date": "2023-06-01"
+  },
+  {
+   "id": "96ed8ce9ef9fc475db9e02c79f984dc110409b62",
+   "title": "Real-World Anomaly Detection in Surveillance Videos",
+   "date": "2018-01-12"
+  },
+  {
+   "id": "6af5a5fab6d96e016b932ef8bb07e06e7820ecba",
+   "title": "Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection",
+   "date": "2023-03-23"
+  },
+  {
+   "id": "9d60265ea72d0344e991e71dfb13b4e1f15d4d4d",
+   "title": "MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection",
+   "date": "2022-11-28"
+  },
+  {
+   "id": "18f207d8dab7357f4f674211ec4f150de1c93a0e",
+   "title": "Learning Memory-Guided Normality for Anomaly Detection",
+   "date": "2020-03-30"
+  },
+  {
+   "id": "014d37092b52bd2874759679d780e1286478ba03",
+   "title": "PrivacyNet: Semi-Adversarial Networks for Multi-Attribute Face Privacy",
+   "date": "2020-01-02"
+  },
+  {
+   "id": "9abc86569ddb6b610ff65668ccb8dc2d296c7bf3",
+   "title": "Fairness by Learning Orthogonal Disentangled Representations",
+   "date": "2020-03-12"
+  }
+ ],
+ "n_candidates": 51,
+ "sims": [
+  0.7176,
+  0.661,
+  0.6507,
+  0.6412,
+  0.6232,
+  0.6139,
+  0.6123,
+  0.6106,
+  0.603,
+  0.5933,
+  0.5903,
+  0.5881,
+  0.5802,
+  0.5791,
+  0.5757,
+  0.575,
+  0.5713,
+  0.5566,
+  0.5416
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "caption": "S2/S3 on rebuilt pools, judge swept across tiers; extractor+embedder fixed per pre-registration",
+ "data": {
+  "auc": {
+   "gpt-4o-mini": {
+    "base": 0.516,
+    "d4k5": 0.551,
+    "d4k10": 0.546
+   },
+   "haiku-4.5": {
+    "base": 0.539,
+    "d4k5": 0.564,
+    "d4k10": 0.527
+   },
+   "sonnet-4.6": {
+    "base": 0.589,
+    "d4k5": 0.606,
+    "d4k10": 0.611
+   },
+   "embedding_only": {
+    "base": 0.607
+   },
+   "opus-4.6": {
+    "base": 0.576,
+    "d4k5": 0.601,
+    "d4k10": 0.594
+   },
+   "gpt-5-nano": {
+    "base": 0.46,
+    "d4k5": 0.451,
+    "d4k10": 0.44
+   },
+   "gpt-5-mini": {
+    "base": 0.438,
+    "d4k5": 0.503,
+    "d4k10": 0.443
+   }
+  },
+  "gold_mean_base": {
+   "gpt-4o-mini": 2.96,
+   "haiku-4.5": 2.91,
+   "sonnet-4.6": 3.0,
+   "opus-4.6": 3.2,
+   "gpt-5-nano": 3.07
+  },
+  "gold_at_topk_base_to_d4k10": [
+   0.49,
+   0.82
+  ],
+  "n": {
+   "pos": 66,
+   "neg": "158-162"
+  }
+ }
+}

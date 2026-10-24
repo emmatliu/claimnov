@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_dfd075b9eb9b9cc2550d4716b6f0a1e385a75478",
+   "title": "Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees",
+   "date": "2026-06-15",
+   "is_B": true
+  },
+  {
+   "id": "6739d4a10a39bd4376cac8ab0c110331d7364d6c",
+   "title": "Theoretical guarantees in KL for Diffusion Flow Matching",
+   "date": "2024-09-12"
+  },
+  {
+   "id": "4a2af705f93a57a39d19dd75eb13d392c72dec60",
+   "title": "KL Convergence Guarantees for Score Diffusion Models under Minimal Data Assumptions",
+   "date": "2023-08-23"
+  },
+  {
+   "id": "7b6a2d2da66995db38f54568bfbc93782740d880",
+   "title": "Non-asymptotic error bounds for probability flow ODEs under weak log-concavity",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "ff48fe65f8fb07780d62fb5f086b3f12d3b6e7d7",
+   "title": "Exponential Convergence Guarantees for Iterative Markovian Fitting",
+   "date": "2025-10-23"
+  },
+  {
+   "id": "93e13d702f6ffbd31b05051504041bf4b3b28c9e",
+   "title": "On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates",
+   "date": "2023-11-22"
+  },
+  {
+   "id": "6ed021e4ab42358cf4a24c38303fb59573ae8e3b",
+   "title": "Wasserstein Convergence of Critically Damped Langevin Diffusions",
+   "date": "2025-11-04"
+  },
+  {
+   "id": "bd591709846616a1c81a9641928e1e0533f4e1fd",
+   "title": "Assessing the Quality of Denoising Diffusion Models in Wasserstein Distance: Noisy Score and Optimal Bounds",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "f68ff21c218195e6a8c071638d77f273b26539d7",
+   "title": "Pathway to O(\u221ad) Complexity bound under Wasserstein metric of flow-based models",
+   "date": "2025-12-07"
+  },
+  {
+   "id": "270de06288fbe734d78bd4dedd4a5a1225e3fb53",
+   "title": "Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients",
+   "date": "2025-05-06"
+  },
+  {
+   "id": "38c3acbe4531a123acde40c9d93abc63d804c3f9",
+   "title": "Flow map matching with stochastic interpolants: A mathematical framework for consistency models",
+   "date": "2024-06-11"
+  },
+  {
+   "id": "9bcba35a654da5301cb4a7bb4ae8aea997782ed4",
+   "title": "Projected Langevin dynamics and a gradient flow for entropic optimal transport",
+   "date": "2023-09-15"
+  },
+  {
+   "id": "6e151152406ac4a28a9a51ec4d0a05b328adaac7",
+   "title": "Wasserstein Convergence Guarantees for a General Class of Score-Based Generative Models",
+   "date": "2023-11-18"
+  },
+  {
+   "id": "2f2ccd50e3652246c63d23973066de52a251116d",
+   "title": "The probability flow ODE is provably fast",
+   "date": "2023-05-19"
+  },
+  {
+   "id": "cd7427ba511c126ed0cf32ba9404b6aa53da0153",
+   "title": "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions",
+   "date": "2023-03-15"
+  },
+  {
+   "id": "0194f6e7ca46976c5c2aedbf7ee51d8f254f76cb",
+   "title": "Improved Analysis of Score-based Generative Modeling: User-Friendly Bounds under Minimal Smoothness Assumptions",
+   "date": "2022-11-03"
+  },
+  {
+   "id": "7366feac888a03cf2955db91bb855009b1854d64",
+   "title": "Beyond Log-Concavity and Score Regularity: Improved Convergence Bounds for Score-Based Generative Models in W2-distance",
+   "date": "2025-01-04"
+  },
+  {
+   "id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+   "title": "Flow Matching for Generative Modeling",
+   "date": "2022-10-06"
+  },
+  {
+   "id": "7309bf7607f4b4339f4ae288f3ad4fc36d139b5a",
+   "title": "Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions",
+   "date": "2022-09-22"
+  },
+  {
+   "id": "4e6244baf4236f4635e85f7dfb941a9a0a6c4a11",
+   "title": "Building Normalizing Flows with Stochastic Interpolants",
+   "date": "2022-09-30"
+  }
+ ],
+ "n_candidates": 39,
+ "sims": [
+  0.7908,
+  0.7587,
+  0.6979,
+  0.6664,
+  0.6644,
+  0.6604,
+  0.6597,
+  0.636,
+  0.6349,
+  0.6304,
+  0.607,
+  0.606,
+  0.6041,
+  0.6006,
+  0.5977,
+  0.5938,
+  0.5887,
+  0.5877,
+  0.5596
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4904a1d0271086115c402d797c6262c62546fa94",
+   "title": "GANalyze: Toward Visual Definitions of Cognitive Image Properties",
+   "is_B": true
+  },
+  {
+   "id": "40d1b940be13da80b79424aa9d7e5049cef1515b",
+   "title": "Modifying the Memorability of Face Photographs",
+   "date": "2013-12-01"
+  },
+  {
+   "id": "db9c047ae848713e04069c180caa31359e1d1e86",
+   "title": "Changing the Image Memorability: From Basic Photo Editing to GANs",
+   "date": "2018-11-09"
+  },
+  {
+   "id": "8c360be9017efc69991e008bd63f0b64a30f031d",
+   "title": "How to Make an Image More Memorable?: A Deep Style Transfer Approach",
+   "date": "2017-04-06"
+  },
+  {
+   "id": "0e89a45cb30f3e488fa14f74cc8ee7a209199638",
+   "title": "Understanding and Predicting Image Memorability at a Large Scale",
+   "date": "2015-12-07"
+  },
+  {
+   "id": "0ad8de486181c8e31e92ec9ff7139aec13c59484",
+   "title": "What Makes a Photograph Memorable?",
+   "date": "2014-07-01"
+  },
+  {
+   "id": "ca0d27a1ecb3976cf57256af91d7543b2b3b61a5",
+   "title": "Intrinsic and extrinsic effects on image memorability.",
+   "date": "2015-11-01"
+  },
+  {
+   "id": "d8d89a0a1eca983512247af701a9e5596c903a16",
+   "title": "Interpreting the Latent Space of GANs for Semantic Face Editing",
+   "date": "2019-07-25"
+  },
+  {
+   "id": "ceb2ebef0b41e31c1a21b28c2734123900c005e2",
+   "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+   "date": "2018-12-12"
+  },
+  {
+   "id": "9fac2ad81a561398506ce566d897f7169583b4f8",
+   "title": "On the \"steerability\" of generative adversarial networks",
+   "date": "2019-07-16"
+  },
+  {
+   "id": "571b0750085ae3d939525e62af510ee2cee9d5ea",
+   "title": "Improved Techniques for Training GANs",
+   "date": "2016-06-10"
+  },
+  {
+   "id": "744fe47157477235032f7bb3777800f9f2f45e52",
+   "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation",
+   "date": "2017-10-27"
+  },
+  {
+   "id": "4c4db93ea130ba18bd2c53de2b22e213c6823ec8",
+   "title": "Photo Aesthetics Ranking Network with Attributes and Content Adaptation",
+   "date": "2016-06-06"
+  },
+  {
+   "id": "22aab110058ebbd198edb1f1e7b4f69fb13c0613",
+   "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+   "date": "2018-09-27"
+  },
+  {
+   "id": "a8f3dc53e321fbb2565f5925def4365b9f68d1af",
+   "title": "Self-Attention Generative Adversarial Networks",
+   "date": "2018-05-21"
+  },
+  {
+   "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+   "title": "Deep Residual Learning for Image Recognition",
+   "date": "2015-12-10"
+  },
+  {
+   "id": "17fa1c2a24ba8f731c8b21f1244463bc4b465681",
+   "title": "Deep multi-scale video prediction beyond mean square error",
+   "date": "2015-11-17"
+  },
+  {
+   "id": "c43d954cf8133e6254499f3d68e45218067e4941",
+   "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+   "date": "2017-03-30"
+  },
+  {
+   "id": "1a0912bb76777469295bb2c059faee907e7f3258",
+   "title": "Mask R-CNN",
+   "date": "2017-03-20"
+  },
+  {
+   "id": "744464cd6fa8341633cd3b5d378faab18a3b543a",
+   "title": "Network Dissection: Quantifying Interpretability of Deep Visual Representations",
+   "date": "2017-04-19"
+  }
+ ],
+ "n_candidates": 23,
+ "sims": [
+  0.804,
+  0.8002,
+  0.7463,
+  0.6726,
+  0.6627,
+  0.627,
+  0.6231,
+  0.5852,
+  0.5614,
+  0.56,
+  0.5372,
+  0.4904,
+  0.4781,
+  0.4722,
+  0.4068,
+  0.4061,
+  0.4002,
+  0.3795,
+  0.3528
+ ]
+}

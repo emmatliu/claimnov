@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_8620b942d3e31261971ce7b5d50f652a09e0aa62",
+   "title": "Is Pseudo-Lidar needed for Monocular 3D Object detection?",
+   "is_B": true
+  },
+  {
+   "id": "47bc780a92f6b94d8d683b50a2b4dc9b926de05f",
+   "title": "Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud",
+   "date": "2019-03-23"
+  },
+  {
+   "id": "c76a6669ee83cd2ce80fcbe0cfcbdd43aecfc542",
+   "title": "Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving",
+   "date": "2019-03-27"
+  },
+  {
+   "id": "573e1ab1d368d16fd1404b639912610d900da9ad",
+   "title": "MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships",
+   "date": "2020-03-01"
+  },
+  {
+   "id": "918d37959ce6a1edc3ecab439044f0681c91cb34",
+   "title": "Monocular 3D Object Detection via Geometric Reasoning on Keypoints",
+   "date": "2019-05-14"
+  },
+  {
+   "id": "8841036470c24823c2f33dcfbff855f12761876e",
+   "title": "Learning Depth-Guided Convolutions for Monocular 3D Object Detection",
+   "date": "2019-12-10"
+  },
+  {
+   "id": "ceb056ed2512e988a0b3786193a690b42e3e4af0",
+   "title": "Triangulation Learning Network: From Monocular to Stereo 3D Object Detection",
+   "date": "2019-06-01"
+  },
+  {
+   "id": "b4924d967c13036cb77403986edb2bc08d86673f",
+   "title": "RefinedMPL: Refined Monocular PseudoLiDAR for 3D Object Detection in Autonomous Driving",
+   "date": "2019-11-21"
+  },
+  {
+   "id": "7e9904733fade435d9dec646c58854139badc29b",
+   "title": "Kinematic 3D Object Detection in Monocular Video",
+   "date": "2020-07-19"
+  },
+  {
+   "id": "c48e57da4b5fa44819329f71b49497d08ccc8468",
+   "title": "Disentangling Monocular 3D Object Detection: From Single to Multi-Class Recognition",
+   "date": "2020-09-18"
+  },
+  {
+   "id": "8c328bc048449131d98b545eaa3c99f8356c5620",
+   "title": "Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving",
+   "date": "2018-12-18"
+  },
+  {
+   "id": "303108725216724ca07167da5580ba4783d12bcc",
+   "title": "Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction",
+   "date": "2019-04-02"
+  },
+  {
+   "id": "a2aa685792c86fd7f71eeb26c733440ad46fc9bf",
+   "title": "Learning 2D to 3D Lifting for Object Detection in 3D for Autonomous Vehicles",
+   "date": "2019-03-27"
+  },
+  {
+   "id": "9e08fff0a66020bc72bd48685f87d21d2ff78d66",
+   "title": "Disentangling Monocular 3D Object Detection",
+   "date": "2019-05-29"
+  },
+  {
+   "id": "993e389503ad2e4a473b5b0db3abe90f094c811d",
+   "title": "FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection",
+   "date": "2021-04-22"
+  },
+  {
+   "id": "7de7b708089b1cd9c3cbdaf58ac208e9430cd9a3",
+   "title": "M3D-RPN: Monocular 3D Region Proposal Network for Object Detection",
+   "date": "2019-07-13"
+  },
+  {
+   "id": "6338628d7499b3a438f92b01b05d7a621e80b29c",
+   "title": "ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape",
+   "date": "2018-12-06"
+  },
+  {
+   "id": "dfc700032ec2ec0b393c850fed61aa065ce7bb61",
+   "title": "Orthographic Feature Transform for Monocular 3D Object Detection",
+   "date": "2018-11-20"
+  },
+  {
+   "id": "21a5b8705e4c5d095365a173c8f4750e16cf0abb",
+   "title": "Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss",
+   "date": "2019-06-19"
+  },
+  {
+   "id": "d19356ce442d9c04625b3a253f370feaf00ea6a0",
+   "title": "GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving",
+   "date": "2019-03-26"
+  }
+ ],
+ "n_candidates": 68,
+ "sims": [
+  0.8387,
+  0.7873,
+  0.773,
+  0.7726,
+  0.7717,
+  0.7687,
+  0.7666,
+  0.7654,
+  0.7644,
+  0.7584,
+  0.755,
+  0.7542,
+  0.7541,
+  0.7519,
+  0.7312,
+  0.7272,
+  0.7245,
+  0.7171,
+  0.7097
+ ]
+}

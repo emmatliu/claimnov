@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_3409b52ecba75acd3c5eababa3cdd21bb2232429",
+   "title": "Multi-block Min-max Bilevel Optimization with Applications in Multi-task Deep AUC Maximization",
+   "is_B": true
+  },
+  {
+   "id": "d6c868da77c4d9d22312541ab5af3aefda886932",
+   "title": "Min-Max Multi-objective Bilevel Optimization with Applications in Robust Machine Learning",
+   "date": "2022-03-03"
+  },
+  {
+   "id": "d7614ce109ae6bbfac6fa5908f42186fea53c611",
+   "title": "A framework for bilevel optimization that enables stochastic and global variance reduction algorithms",
+   "date": "2022-01-31"
+  },
+  {
+   "id": "e61360d231002b7d75f623d23c3a30c60b97add5",
+   "title": "Randomized Stochastic Variance-Reduced Methods for Multi-Task Stochastic Bilevel Optimization",
+   "date": "2021-05-05"
+  },
+  {
+   "id": "eb86366c09a5656affb14f4b767884d6d976a2aa",
+   "title": "A Near-Optimal Algorithm for Stochastic Bilevel Optimization via Double-Momentum",
+   "date": "2021-02-15"
+  },
+  {
+   "id": "03d6c7cd4e118d278ea692e5eb95ea645ea1d04d",
+   "title": "Local Stochastic Bilevel Optimization with Momentum-Based Variance Reduction",
+   "date": "2022-05-03"
+  },
+  {
+   "id": "142a8610d6c1428784a7d0901ce3fce6b896c5c5",
+   "title": "Approximation Methods for Bilevel Programming",
+   "date": "2018-02-06"
+  },
+  {
+   "id": "38ed8b629da7871c0fe1aec81170b355585e1888",
+   "title": "Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems",
+   "date": "2020-01-11"
+  },
+  {
+   "id": "3aabc760636a13a6b14f591ce590d5d93487e715",
+   "title": "The Complexity of Nonconvex-Strongly-Concave Minimax Optimization",
+   "date": "2021-03-29"
+  },
+  {
+   "id": "dd6b4b7a1f9d220baaa3256f2fb0976b09ad7cfe",
+   "title": "A Fully Single Loop Algorithm for Bilevel Optimization without Hessian Inverse",
+   "date": "2021-12-09"
+  },
+  {
+   "id": "afd9786a6fb9c79fc6d41bacbe73607e73044950",
+   "title": "On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems",
+   "date": "2019-06-02"
+  },
+  {
+   "id": "f45a55b688d2cb7587132b4ce71bf220e8a43896",
+   "title": "Online and Stochastic Gradient Methods for Non-decomposable Loss Functions",
+   "date": "2014-10-24"
+  },
+  {
+   "id": "83bd68882b3ee351849c7f31e52c38c6e526a8a8",
+   "title": "Tighter Analysis of Alternating Stochastic Gradient Method for Stochastic Nested Problems",
+   "date": "2021-06-25"
+  },
+  {
+   "id": "1448562ccd5bf4bab01d4cae4b2e4549ad3b8e8a",
+   "title": "Lower bounds for non-convex stochastic optimization",
+   "date": "2019-12-05"
+  },
+  {
+   "id": "2fb9f4c46c1acb4fdd38aa39868bfdc451409d58",
+   "title": "Large-scale Stochastic Optimization of NDCG Surrogates for Deep Learning with Provable Convergence",
+   "date": "2022-02-24"
+  },
+  {
+   "id": "3159603e93a2d14f365164a9a521c990a04592d6",
+   "title": "When AUC meets DRO: Optimizing Partial AUC for Deep Learning with Non-Convex Convergence Guarantee",
+   "date": "2022-03-01"
+  },
+  {
+   "id": "9dee2ec358840bfd75c11a00007d1989af456d88",
+   "title": "Stochastic AUC Maximization with Deep Neural Networks",
+   "date": "2019-08-28"
+  },
+  {
+   "id": "0e16fb12330e653a251b7cb825d677d1af294b7c",
+   "title": "Stochastic compositional gradient descent: algorithms for minimizing compositions of expected-value functions",
+   "date": "2014-11-14"
+  },
+  {
+   "id": "90afc52bbacf37e6d3ca16ead35499f661222d7d",
+   "title": "Momentum-Based Variance Reduction in Non-Convex SGD",
+   "date": "2019-05-24"
+  },
+  {
+   "id": "c66014aaaf0d38f8186edd3566fdd594b046030c",
+   "title": "Advanced graph and sequence neural networks for molecular property prediction and drug discovery",
+   "date": "2020-12-02"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.9907,
+  0.7018,
+  0.65,
+  0.6292,
+  0.6241,
+  0.6207,
+  0.5845,
+  0.5728,
+  0.569,
+  0.5432,
+  0.5187,
+  0.5092,
+  0.4992,
+  0.488,
+  0.4847,
+  0.4732,
+  0.4524,
+  0.4517,
+  0.4178
+ ]
+}

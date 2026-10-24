@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_7edeef56129e481429f97b86bdaf9e26c6f4447a",
+   "title": "Welfare-Optimal Classification with Accuracy Auctions",
+   "date": "2026-06-01",
+   "is_B": true
+  },
+  {
+   "id": "c7a65092319a2698f39be15f466b2b94bcbbcbcf",
+   "title": "Welfare as a Guiding Principle for Machine Learning -- From Compass, to Lens, to Roadmap",
+   "date": "2025-02-17"
+  },
+  {
+   "id": "6d72c886ece7eb9df0d0aec428219858e1437e34",
+   "title": "Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning",
+   "date": "2020-03-15"
+  },
+  {
+   "id": "fdbace224f37c2331593b7bba1b9c54dcf9cd72a",
+   "title": "Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making",
+   "date": "2018-06-13"
+  },
+  {
+   "id": "aa8f21216beffa5990386d0677c982245b13e1ef",
+   "title": "Allocation Requires Prediction Only if Inequality Is Low",
+   "date": "2024-06-19"
+  },
+  {
+   "id": "4b6f309dafac7219c05c7585c380c595524de59a",
+   "title": "The Value of Prediction in Identifying the Worst-Off",
+   "date": "2025-01-31"
+  },
+  {
+   "id": "167273526caeae8439b2c08630f984b758f76dab",
+   "title": "An Economic Approach to Regulating Algorithms",
+   "date": "2020-05-01"
+  },
+  {
+   "id": "e6731b78a64836e9ea89a7d18699ccbc4710cf99",
+   "title": "Fair classification and social welfare",
+   "date": "2019-05-01"
+  },
+  {
+   "id": "a2d68ef956830a23d845295b0246a3535ce8e9dc",
+   "title": "Information Discrepancy in Strategic Learning",
+   "date": "2021-03-01"
+  },
+  {
+   "id": "06fa91e9ee74cf26cbf8616b0d3ed9d7ce1e678e",
+   "title": "Truthful mechanisms with implicit payment computation",
+   "date": "2010-04-20"
+  },
+  {
+   "id": "81fd20c2b903d979075e0c6a59258b0a84213095",
+   "title": "Strategic Classification",
+   "date": "2015-06-23"
+  },
+  {
+   "id": "259aa7ce3d742e3e0a1072b504504cf42843f1c2",
+   "title": "Learning Classifiers That Induce Markets",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "f4186a28f6b33057cdb1a45eb7cb4a4eb3e21d73",
+   "title": "Generalized Strategic Classification and the Case of Aligned Incentives",
+   "date": "2022-02-09"
+  },
+  {
+   "id": "adaa0523a5c9d5f92aa2009a51226391d8e62380",
+   "title": "Fairness through awareness",
+   "date": "2011-04-19"
+  },
+  {
+   "id": "c0d997676429e61cd370dd136a9541d23fa7619c",
+   "title": "Strategic Representation",
+   "date": "2022-06-17"
+  },
+  {
+   "id": "8a0d3d5e4e953be3a1af831c718cf7374001f52e",
+   "title": "Classification Under Strategic Self-Selection",
+   "date": "2024-02-23"
+  },
+  {
+   "id": "0de99821aacd4a458fd9edbe5ad8bfb9e1d405e0",
+   "title": "Algorithms for strategyproof classification",
+   "date": "2012-07-01"
+  },
+  {
+   "id": "a47ad2fdc640db6c55690def4fa3bc59a3aafdc4",
+   "title": "PAC-Learning for Strategic Classification",
+   "date": "2020-12-06"
+  },
+  {
+   "id": "ed6297433cfc580837e87592f550cc96296c7d0a",
+   "title": "Inherent Trade-Offs in the Fair Determination of Risk Scores",
+   "date": "2016-09-19"
+  },
+  {
+   "id": "affab5e10ab4baf4b8633af4ec773f61a948df82",
+   "title": "Optimal mechanism design and money burning",
+   "date": "2008-04-13"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.6921,
+  0.6722,
+  0.6174,
+  0.6063,
+  0.6013,
+  0.5833,
+  0.5763,
+  0.5476,
+  0.5299,
+  0.5255,
+  0.5221,
+  0.4898,
+  0.4843,
+  0.4812,
+  0.4752,
+  0.4695,
+  0.4643,
+  0.4607,
+  0.4605
+ ]
+}

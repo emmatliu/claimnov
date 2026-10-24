@@ -1,0 +1,127 @@
+{
+ "pool": [
+  {
+   "id": "B_864e701f0658f19079b6e917f8659563d71eddd2",
+   "title": "HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation",
+   "date": "2026-05-04",
+   "is_B": true
+  },
+  {
+   "id": "b6bb6ddc751fab326af1ff7145c8097601958b79",
+   "title": "ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation",
+   "date": "2023-12-04"
+  },
+  {
+   "id": "41780e237ff6a6685eec7bf3b5316e1ff0cc18d1",
+   "title": "SAITS: Self-Attention-based Imputation for Time Series",
+   "date": "2022-02-17"
+  },
+  {
+   "id": "820b8c5e2630e663c191467a7654a377a83cdc55",
+   "title": "GP-VAE: Deep Probabilistic Time Series Imputation",
+   "date": "2019-07-01"
+  },
+  {
+   "id": "33cb7b4d3b1e849748f4163cee821bf1306a118b",
+   "title": "BRITS: Bidirectional Recurrent Imputation for Time Series",
+   "date": "2018-05-01"
+  },
+  {
+   "id": "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+   "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "2e08a508fa9c6ae7195aa14dfe6c9e695e19aa33",
+   "title": "Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks",
+   "date": "2021-07-31"
+  },
+  {
+   "id": "2a487ca3f9a1431f2a21a70d97e12dd955985d88",
+   "title": "Deep Learning for Multivariate Time Series Imputation: A Survey",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "fd0992ca157f3ce642d278d387cf95cc3e72bdde",
+   "title": "TSI-Bench: Benchmarking Time Series Imputation",
+   "date": "2024-06-18"
+  },
+  {
+   "id": "c37abecdb8e93e4769204e1a6fa6f99f9e4f5d38",
+   "title": "Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations",
+   "date": "2022-05-26"
+  },
+  {
+   "id": "bd723bc768baa78b7bd3e6f28a401d6d5cfe87f8",
+   "title": "Recurrent Neural Networks for Multivariate Time Series with Missing Values",
+   "date": "2016-06-06"
+  },
+  {
+   "id": "84871a1d5d6c734b5ed1e4001c0b846ab6727f3f",
+   "title": "PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation",
+   "date": "2023-02-20"
+  },
+  {
+   "id": "75e924bd79d27a23f3f93d9b1ab62a779505c8d2",
+   "title": "Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks",
+   "date": "2020-05-24"
+  },
+  {
+   "id": "47696145b3f88c4cc3f3c22035286b5d7ebce09d",
+   "title": "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis",
+   "date": "2022-10-05"
+  },
+  {
+   "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+   "title": "Attention is All you Need",
+   "date": "2017-06-12"
+  },
+  {
+   "id": "8982bb695dcebdacbfd079c62cd7acca8a8b48dc",
+   "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+   "date": "2021-07-07"
+  },
+  {
+   "id": "06353b9112ab14c26ce9d3c851c01ebe4b798177",
+   "title": "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting",
+   "date": "2024-05-23"
+  },
+  {
+   "id": "aabfdbd9db5ce9b1d598eae44e0d6250e7f0fc00",
+   "title": "MOMENT: A Family of Open Time-series Foundation Models",
+   "date": "2024-02-06"
+  },
+  {
+   "id": "fae129338c0899576524506008427f64477d3967",
+   "title": "Graph WaveNet for Deep Spatial-Temporal Graph Modeling",
+   "date": "2019-05-31"
+  },
+  {
+   "id": "fc46ccb83dc121c33de7ab6bdedab7d970780b2f",
+   "title": "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting",
+   "date": "2021-06-24"
+  }
+ ],
+ "n_candidates": 27,
+ "sims": [
+  0.5668,
+  0.564,
+  0.5595,
+  0.5499,
+  0.5438,
+  0.5396,
+  0.5222,
+  0.5126,
+  0.5036,
+  0.4873,
+  0.481,
+  0.4646,
+  0.4515,
+  0.4473,
+  0.4447,
+  0.4433,
+  0.44,
+  0.4354,
+  0.4352
+ ]
+}

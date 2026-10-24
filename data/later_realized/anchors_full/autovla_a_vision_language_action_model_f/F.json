@@ -1,0 +1,847 @@
+[
+ {
+  "id": "4a78f264511a1bfb71e430cbe59e6349206fe6d2",
+  "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "dc2dcc4bf4b997ebeaf8192e120a7ae01f09c7c1",
+  "title": "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "860b31c66d97dfc59c9fa9e350921d1504525497",
+  "title": "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "f70c7fe0a3fa027a2910d30ad8404daaacc2ff84",
+  "title": "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
+  "date": "2026-09-03"
+ },
+ {
+  "id": "536cadcf7657984fcfd65b2405b778aae32d1644",
+  "title": "Towards Zero-Shot Transfer Across Embodiments For Driving VLAs",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "f11954b1f65342548e7dbddc39313d96106031d7",
+  "title": "VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation",
+  "date": "2026-09-02"
+ },
+ {
+  "id": "9df36e5e8c98a294b349d94743f5788bb14a77db",
+  "title": "Driving on Memory",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "9e797d6df99576093659cddfd68de0ef0e6ce75f",
+  "title": "CoLT-Drive: Counterfactual Long-Tail Benchmarking and Knowledge-Preserving Adaptation for Driving Affordance Prediction",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "b4d41d224ee808b1c5b5ed7dc7fab2ab5277fb06",
+  "title": "Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "d8505c888adfe27aa0587344d31ece384dc94a3b",
+  "title": "Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "60829aec2d7273a28d94f372b5b3c18a7e4c9985",
+  "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "59b3721bfcecf60e521edcd040141346b6a5d3fc",
+  "title": "Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving",
+  "date": "2026-08-31"
+ },
+ {
+  "id": "a922ace7c4b71dc6108b8764cc24983f3ccfcfa3",
+  "title": "RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving",
+  "date": "2026-08-25"
+ },
+ {
+  "id": "90179e16e2347e7b463a657aedeadd5062997a15",
+  "title": "MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "6ba98b2ff2d36a7a41aca27437211014077f237b",
+  "title": "BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "646a663ae2d2d2a4ec349d0eeaa3e4cd14a061ea",
+  "title": "A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "3ddd90a292dfd09b06890e90026b980b67602025",
+  "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+  "date": "2026-08-19"
+ },
+ {
+  "id": "17d043c9c49eff1c478d8bdfd785e3d23ac5dad3",
+  "title": "Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "35b221d0ad8878db7bc32f6858f31e0c6e6e5b68",
+  "title": "FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "e078d3a3105d23e889be910f1725d145b973c6fe",
+  "title": "BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving",
+  "date": "2026-08-13"
+ },
+ {
+  "id": "a9064909eebe16c1ebac309632f98365245e9e21",
+  "title": "DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "f41b40043ce60cd15805c1c71e064027d28a1d89",
+  "title": "XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving",
+  "date": "2026-08-11"
+ },
+ {
+  "id": "ad036404cefef06b3ebace4cf9aa09fc43623081",
+  "title": "FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "63481a740cb8d9c7fd4ebb9051e307b992a06ebd",
+  "title": "DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving",
+  "date": "2026-08-10"
+ },
+ {
+  "id": "ad5658acdd300ae302346c4163b79e279fe8c436",
+  "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "8818fc96092ebfa967bed76beb13add8481a85de",
+  "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
+  "date": "2026-08-07"
+ },
+ {
+  "id": "9322da56b4805938a9681da5a18dfa464822a8c5",
+  "title": "SUV: Future Scene Understanding as Video Generation for End-to-End Driving",
+  "date": "2026-08-04"
+ },
+ {
+  "id": "afad451a076f5231872ac2f0f7ec4f91caca945d",
+  "title": "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs",
+  "date": "2026-08-03"
+ },
+ {
+  "id": "051c1083d119706c8de405436fec16a428bea016",
+  "title": "STAR-VLM: Spatiotemporal Grounding Vision-Language Models for Motion and Velocity Estimation via Automotive Radar Supervision",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "8fd6915acc5f91df7c056d363773881390da0005",
+  "title": "WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "669cfc7141b751eef5892e4de3b610a1f96673a2",
+  "title": "A Survey on Interaction-Aware Decision-Making for Autonomous Driving: Challenges, Solutions, and Perspectives",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "4782919ea2484632a69b46b104f99c6f9f259a4d",
+  "title": "Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "47b559ffe1a9dfd06a1b4f950ae2e91cdc761341",
+  "title": "Development of Vision-Language Model-based GNSS Spoofing Detection for Autonomous Vehicle Navigation",
+  "date": "2026-07-27"
+ },
+ {
+  "id": "8ec9eab48af4b9d817aabeadd1553f99ff4e6119",
+  "title": "MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving",
+  "date": "2026-07-26"
+ },
+ {
+  "id": "4bd3377ee67d61e7f8ce4693a128347681625f4c",
+  "title": "Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "12fb56ef7e024d586b5c9bf4138206041a5dc841",
+  "title": "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving",
+  "date": "2026-07-22"
+ },
+ {
+  "id": "dd8fef109e43b18e3e62d63f5c659f9e7dec88f4",
+  "title": "Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency",
+  "date": "2026-07-21"
+ },
+ {
+  "id": "1b987be6a42aeaf5b113bb86e816412fcc9d708f",
+  "title": "GeoWorldAD: Geometry World Action Model for Autonomous Driving",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "133fe8f31ac2398492041e2a0a22588a31eaf9f9",
+  "title": "What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning",
+  "date": "2026-07-18"
+ },
+ {
+  "id": "290f85a3bc840d61d9a13fea3da0ec516a9f6ff9",
+  "title": "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
+  "date": "2026-07-15"
+ },
+ {
+  "id": "b89f557ced301b77e446777ff0a09c20793c2159",
+  "title": "MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "da61be53f52d47e97691a441bc0962e38bb08473",
+  "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+  "date": "2026-07-10"
+ },
+ {
+  "id": "774ef5b4630bdf3dc41ee2729b9328b58f531aad",
+  "title": "Post-Training in End-to-End Autonomous Driving",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "0a61a9d9afffe4089f986e6b031cfe87e3db47a8",
+  "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
+  "date": "2026-07-09"
+ },
+ {
+  "id": "213bbf7df2fa90b4bfa62f6ae326e98c1332b4db",
+  "title": "Driving the Wrong Way: Leveraging Interpretability in End2End Autonomous Driving Models",
+  "date": "2026-07-07"
+ },
+ {
+  "id": "4d1a85d5a2cfa75238883e6cb07a2d167f641b10",
+  "title": "PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "2f3159de2ea49cfa17e70c7f6639b3dfb9587c24",
+  "title": "VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "2e9bf99afd1c52dc05fea1fea862e1d3a470fc59",
+  "title": "Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "d54034cd06fadae68f7fa9745615400aafab4f2f",
+  "title": "Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "617d6c36b2eff092f77d9e70e065c6f16f447b9c",
+  "title": "CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving",
+  "date": "2026-07-05"
+ },
+ {
+  "id": "f7cdcb8cef77e0ea354353bccb831d309d7cc2cc",
+  "title": "CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "365e4ad75f85da3cc5151fe0682f2a9894869b16",
+  "title": "AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning",
+  "date": "2026-07-03"
+ },
+ {
+  "id": "81591272d893029ee8cad43383fdc993795aa5ef",
+  "title": "Teaching Vision-Language-Action Models What to See and Where to Look",
+  "date": "2026-07-02"
+ },
+ {
+  "id": "aebe8603d5c02559ccad06681bedac1f47e9d689",
+  "title": "DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "6dcf21662401c045fb5a00e97bfab5fe82f2fa19",
+  "title": "LASA: Latency-Aware Safety Arbitration for Vision-Language-Action Autonomous Driving",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "92d49afdb97fed35e27b7a86a9a6af4696728c21",
+  "title": "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "5f2c25fd69490ded00b771d145d405b77b296020",
+  "title": "LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "0dacf89f3496b3c85158f44950a17520af587a34",
+  "title": "Learning from Mistakes: Rollout-Retrieval Lifelong Policy Learning for Autonomous Driving",
+  "date": "2026-06-29"
+ },
+ {
+  "id": "ac052a8aa52a8a7550660bcbd49325827d9e0752",
+  "title": "X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving",
+  "date": "2026-06-27"
+ },
+ {
+  "id": "dba8fbbec054b751a02e71f06a7e97de7a50cfad",
+  "title": "ASSCG: Just-Right Gating over Chattering for Fast-Slow LLM Planning in Autonomous Driving",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "5b8bd4d6d129a43422ac3ac640c1e93c48f17e1c",
+  "title": "UniTeD: Unified Temporal Diffusion for Joint Perception and Planning in Autonomous Driving",
+  "date": "2026-06-24"
+ },
+ {
+  "id": "47b9213a940ceb95f2c40ebeb578f403327f9c5b",
+  "title": "DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "e857dc4b7e20eb40b8086e94dca24ad4017378a6",
+  "title": "World-model-driven multi-target distilled evaluation for end-to-end autonomous driving",
+  "date": "2026-06-23"
+ },
+ {
+  "id": "2f3df63fc20b6cae36b582d6ec63fa939483cb97",
+  "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+  "date": "2026-06-22"
+ },
+ {
+  "id": "d30fc4fa59cf0fd35be20004135529ecc4f60ca2",
+  "title": "Efficient Block-Layer Parallel Inference for Vision-Language-Action on Hybrid Architectures",
+  "date": "2026-06-19"
+ },
+ {
+  "id": "443b4d52e9b107b40c3a27c8992cd7dc63743c20",
+  "title": "Robusto-2: Benchmarking Humans & VLMs for Autonomous Driving in Lima & New York City",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "7e77b7f90e61be8a72f10d550a234544fc866fc8",
+  "title": "World Engine: Towards the Era of Post-Training for Autonomous Driving",
+  "date": "2026-06-18"
+ },
+ {
+  "id": "32dd0d5edd87779983ef9f9b584928623bce3f27",
+  "title": "Scaling Self-Play for End-to-End Driving",
+  "date": "2026-06-17"
+ },
+ {
+  "id": "546f8393f0d6613201d6872522f2f134afaba512",
+  "title": "Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System",
+  "date": "2026-06-16"
+ },
+ {
+  "id": "7184522915de360c358f3c0484b69b73f0ac180c",
+  "title": "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "4eb33dac94ba7d38fd1576397d2a6ba3afaf5380",
+  "title": "Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation",
+  "date": "2026-06-14"
+ },
+ {
+  "id": "e67b4cd8d100738ab89c718425735da0f3f37fdc",
+  "title": "RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation",
+  "date": "2026-06-12"
+ },
+ {
+  "id": "69e488cb6ed3a55046d0d0ca0c70e4279b765e49",
+  "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "dee0034b2aa9fca3becfb0ade073f637add79241",
+  "title": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
+  "date": "2026-06-10"
+ },
+ {
+  "id": "1e975b0a9294db0f805ad990980ec2f3c7f2ee0d",
+  "title": "BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "79c80da0952decec28fc48a37deb04c2b992c5e6",
+  "title": "DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving",
+  "date": "2026-06-07"
+ },
+ {
+  "id": "cd44f1c7e6b771809dec5ec77b86bc2b15ff847d",
+  "title": "Test-Time Trajectory Optimization for Autonomous Driving",
+  "date": "2026-06-05"
+ },
+ {
+  "id": "1a7acd39dc4be5b06e3ec9921bfcf6b5fb7410e3",
+  "title": "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "bfd7eee820568ca5fe66863d5a55b0b1529fa926",
+  "title": "LiAuto-GeoX: Efficient Grounded Driving Transformer",
+  "date": "2026-06-04"
+ },
+ {
+  "id": "a4fedc7bab8a99d95ec22a356e70103ff6f7d3fb",
+  "title": "GeoDrive-Bench: Benchmarking Region-Specific Multimodal Reasoning in Autonomous Driving",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "78d24eaa6a5ecda507e5fa0d2f82839d47f59133",
+  "title": "D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "e08837ca1ae20724368379989872db21d80ac94a",
+  "title": "A Physical Hardware-in-the-Loop for End-to-End Driving Evaluation in Safety-Critical Scenarios",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "a5d508c58c40318a997d64d7caa8248bb5ea8991",
+  "title": "Efficiency and Comfort Optimization for VLA-Based Autonomous Driving",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "0001b0332b063d90bcfcffee3fdca963b87968de",
+  "title": "DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "43ff9dd8015267e0a902d901a10312739f64df0f",
+  "title": "Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "a11a88ad4af131ec8330611ca7ee5eadc50f9ac3",
+  "title": "NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "30f6b3466c8a2a017e0c68b7fe7987b02875e42b",
+  "title": "nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving",
+  "date": "2026-05-29"
+ },
+ {
+  "id": "1e1bea362b21273614312a6fd608fc3f1a3a3058",
+  "title": "VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models",
+  "date": "2026-05-28"
+ },
+ {
+  "id": "20af48f5f8410e8d74ed2bd68b3210dea01df153",
+  "title": "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "ee05e9cf918dab143e3659a54aff748611fb4188",
+  "title": "ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving",
+  "date": "2026-05-27"
+ },
+ {
+  "id": "e70c64ca11cba51c400d8b757544842c234ec091",
+  "title": "TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving",
+  "date": "2026-05-26"
+ },
+ {
+  "id": "d42d6da8600849f086ac9e1d71554a97a7483dce",
+  "title": "AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond",
+  "date": "2026-05-25"
+ },
+ {
+  "id": "dcbbdfbf1baa643878da978fba9298f5fd0a5e69",
+  "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "ea0091fd694fe6bfb7897ae6d3249a2691c87565",
+  "title": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
+  "date": "2026-05-22"
+ },
+ {
+  "id": "641b029b7cbb3e871137117ad32527512c96203d",
+  "title": "Recent Advances in Autonomous Driving Safety",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "69ef3e9c8638ef40e976408d5f524aa62c2e07f0",
+  "title": "LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model",
+  "date": "2026-05-21"
+ },
+ {
+  "id": "bcc89bdb21d692cae1efe2e47795b6ca5f95e812",
+  "title": "DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "4c2969cbf437fddd9c498df2b00625c67c3ce8b8",
+  "title": "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "6b8e67bc1d7db6b7c04baca2036a0a9d5771cd5b",
+  "title": "Grounding Driving VLA via Inverse Kinematics",
+  "date": "2026-05-20"
+ },
+ {
+  "id": "444f78bbb34d41afa4c7212e13a66a8385329625",
+  "title": "SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "1b65a00f8c16bf65e718f0c821d6c862534466ac",
+  "title": "Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "acd8ec713bae43711b15fedbc7f21802bc2baf50",
+  "title": "Reason-Imagine-Act: Closed-Loop LLM Decision Making with World Models for Autonomous Driving",
+  "date": "2026-05-19"
+ },
+ {
+  "id": "e8ccc6f3369e75084cef9128b6b497487448a278",
+  "title": "4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "aed889c125afdbd2453271dbaa5dcb94a79d45d8",
+  "title": "Bench2Drive-Robust: Benchmarking Closed-Loop Autonomous Driving under Deployment Perturbations",
+  "date": "2026-05-18"
+ },
+ {
+  "id": "03e14d6bd9db407b76dbec71080916837f53378a",
+  "title": "CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving",
+  "date": "2026-05-17"
+ },
+ {
+  "id": "5dd40a18dae91c91cae4d5cb3b5dca827da5c37b",
+  "title": "DriveSafer: End-to-End Autonomous Driving with Safety Guidance",
+  "date": "2026-05-16"
+ },
+ {
+  "id": "4ac58acf9cce64f7bbc298e8caf335b7e986efac",
+  "title": "EponaV2: Driving World Model with Comprehensive Future Reasoning",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "330e71f6b86574fb48926927e789fab5bb2a009b",
+  "title": "CLOVER: Closed-Loop Value Estimation and Ranking for End-to-End Autonomous Driving Planning",
+  "date": "2026-05-14"
+ },
+ {
+  "id": "bd3c22b2ad3992b8a1c9fe2be0e4b8a6e67ee2bd",
+  "title": "MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving",
+  "date": "2026-05-13"
+ },
+ {
+  "id": "b76923374ba3bd0870a55a0a48c93ceff3bbad75",
+  "title": "Driving Intents Amplify Planning-Oriented Reinforcement Learning",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "b9578e45ee4af3502bcfa63a56b93c90121a5886",
+  "title": "MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "04e494ac80232b3909b06aa8348f5184ce7b5e3e",
+  "title": "Action Emergence from Streaming Intent",
+  "date": "2026-05-12"
+ },
+ {
+  "id": "8a3e284902a987592ebb744601b28cfc38035095",
+  "title": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "51aee3682a28ff47a0abd5a245c0211f1e6cb04f",
+  "title": "MDrive: Benchmarking Closed-Loop Cooperative Driving for End-to-End Multi-agent Systems",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "38c43dd715df19100a82ce2d9b178e7abe3dd41d",
+  "title": "Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "513dcc7b6bbabe43738d51bb59d02905e00a428d",
+  "title": "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving",
+  "date": "2026-05-11"
+ },
+ {
+  "id": "65f36b0737cb4c21fe98e3f479fd4531b0ca33c0",
+  "title": "DriveFuture: Future-Aware Latent World Models for Autonomous Driving",
+  "date": "2026-05-10"
+ },
+ {
+  "id": "bb7db69d18bca7c6eb6a65cb528a4f957d23ef46",
+  "title": "VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "f6fb461d622215a26d88b8b8c7bfc0ee9525a82c",
+  "title": "Latency Analysis and Optimization of Alpamayo 1 via Efficient Trajectory Generation",
+  "date": "2026-05-09"
+ },
+ {
+  "id": "77258374cf405e6350f2e96688528a72c76dfd95",
+  "title": "Vision Language Action for TurtleBot Mobile Robot Path Planning",
+  "date": "2026-05-08"
+ },
+ {
+  "id": "c748596ce201d10ffbbdb230ba8945aad2fdec47",
+  "title": "Can Attribution Predict Risk? From Multi-View Attribution to Planning Risk Signals in End-to-End Autonomous Driving",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "2a33b77ae2c16a623e3ea085795f74a6046514ce",
+  "title": "ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "4d8621982122520882f7210f2ef57c16c55b1d11",
+  "title": "CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies",
+  "date": "2026-05-06"
+ },
+ {
+  "id": "9457de3da4100f17982a1fa3d3338573c4b98e75",
+  "title": "Towards Lawful Autonomous Driving: Deriving Scenario-Aware Driving Requirements from Traffic Laws and Regulations",
+  "date": "2026-04-27"
+ },
+ {
+  "id": "b625b9e6c22de6d9866855fac98fced2818f066d",
+  "title": "Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset",
+  "date": "2026-04-24"
+ },
+ {
+  "id": "e48a663d584e3cff8935987ebeb1615909cfbeb2",
+  "title": "SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model",
+  "date": "2026-04-21"
+ },
+ {
+  "id": "a9d7768738577750341706ee517c4f48933fa07c",
+  "title": "OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "94f229ff9fe8c2f8899fe7fffd15dfe8e097919f",
+  "title": "ST-\u03c0: Structured SpatioTemporal VLA for Robotic Manipulation",
+  "date": "2026-04-20"
+ },
+ {
+  "id": "60e6fb845a4bdadcc4b3a64c004a0d3831176ad9",
+  "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+  "date": "2026-04-16"
+ },
+ {
+  "id": "8b65320590c8c8b32f1226dd788cfbd2fc8547a8",
+  "title": "Unveiling the Surprising Efficacy of Navigation Understanding in End-to-End Autonomous Driving",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "5a497d77adfb193ae17715fd7827692eb4eec09e",
+  "title": "FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving",
+  "date": "2026-04-14"
+ },
+ {
+  "id": "e44e845e57159b8807872376a196f9196e3fdafe",
+  "title": "BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving",
+  "date": "2026-04-12"
+ },
+ {
+  "id": "639aa28e42496a2b90bc0d9d55b980c0150fee39",
+  "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
+  "date": "2026-04-10"
+ },
+ {
+  "id": "3a6f6ad12830d953403bc245713ffeec3afdfb73",
+  "title": "Fail2Drive: Benchmarking Closed-Loop Driving Generalization",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "7697439a2da0e3ca6096ef54eba4a10cc61b1e3c",
+  "title": "Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles",
+  "date": "2026-04-09"
+ },
+ {
+  "id": "81e379a4c9ae2847ca61b27f7b64d692739e975a",
+  "title": "CrowdVLA: Embodied Vision-Language-Action Agents for Context-Aware Crowd Simulation",
+  "date": "2026-04-07"
+ },
+ {
+  "id": "86e0dfee5bd3344298234b42c0953efcc233c1ca",
+  "title": "The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models",
+  "date": "2026-04-06"
+ },
+ {
+  "id": "c8a64d8b94c93164c4323b961cb6c32cd5855121",
+  "title": "DriveVA: Video Action Models are Zero-Shot Drivers",
+  "date": "2026-04-05"
+ },
+ {
+  "id": "6e04be88ac45a6a0466609359fd551d64d638efd",
+  "title": "ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "ea3faabb881f7f3e7461fd1a159a7b343a04982c",
+  "title": "Sim2Real-AD: A Modular Sim-to-Real Framework for Deploying VLM-Guided Reinforcement Learning in Real-World Autonomous Driving",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "6a19ead3f804c4b5cd0a4cb70d7c32e1552cfed1",
+  "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+  "date": "2026-04-02"
+ },
+ {
+  "id": "f73a657f03c411b1c7f6dbf26538140d91c5a460",
+  "title": "DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "ea1b430f1898fc21e72317c8b127ccaec97bf383",
+  "title": "Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language Models",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "5075b660619c65cc576be5e828494f33f5e26c95",
+  "title": "AutoDrive-P3: Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "4505969510f3d7e00d562cdb4fc0d4a80c3bc777",
+  "title": "RAD-LAD: Rule and Language Grounded Autonomous Driving in Real-Time",
+  "date": "2026-03-30"
+ },
+ {
+  "id": "417a8415a5165c8bd4a4b522201494aa40db7735",
+  "title": "Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving",
+  "date": "2026-03-28"
+ },
+ {
+  "id": "bbbc226ab363110995774a6f538714fe7feeb168",
+  "title": "Vega: Learning to Drive with Natural Language Instructions",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "4653abb1c8b39a8be6f56aca3d8f79ada9fd2ca2",
+  "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+  "date": "2026-03-26"
+ },
+ {
+  "id": "bc6f4335097b76e1d24e3cd90d5247c0af0c874e",
+  "title": "Reasoning models do not yet follow their reasoning in autonomous driving: The KITScenes LongTail Dataset",
+  "date": "2026-03-24"
+ },
+ {
+  "id": "5aed6ae12ef0a3392fa70fa5b184542401f8593a",
+  "title": "DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+  "date": "2026-03-19"
+ },
+ {
+  "id": "a5e0c8adae3ce23703d53a8440d9a5b5186de64c",
+  "title": "DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving",
+  "date": "2026-03-18"
+ },
+ {
+  "id": "ff0def4dd32ba854041f0f7df9a9771a887d81d5",
+  "title": "Learning from Mistakes: Post-Training for Driving VLA with Takeover Data",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "90b69157963a7ddbe23ac8e48da7e7775ded6772",
+  "title": "AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "8e9ff8fd7f63d064c06da68b4f8eb84920bbea01",
+  "title": "Safety Case Patterns for VLA-based driving systems: Insights from SimLingo",
+  "date": "2026-03-16"
+ },
+ {
+  "id": "239fbaf21a3f48115d290d769ccc7be91f5ddc88",
+  "title": "Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving",
+  "date": "2026-03-14"
+ },
+ {
+  "id": "e06cb6037c6f33a604e05e5c8fe3ea1743da88bc",
+  "title": "One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies",
+  "date": "2026-03-12"
+ },
+ {
+  "id": "8595a0b8136176bd376e01cfe6d9395565ea2d60",
+  "title": "DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "293fa3aacce0b4b826bebf5f918142acd2aa0b0a",
+  "title": "WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "f0978835f506c9c7ee67c7a4541318194bed95f1",
+  "title": "Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning",
+  "date": "2026-03-11"
+ },
+ {
+  "id": "a9a109b80610c2d6d015fb14bc168a9bbde917f5",
+  "title": "Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "27bd15d61e194278b4655f75d95bbd08799c8709",
+  "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
+  "date": "2026-03-06"
+ },
+ {
+  "id": "0a77eadf2c478c4808586851c1c1c4a5d86a0649",
+  "title": "K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "2709a66f8c8820a4b43db8a777ef34d23e851120",
+  "title": "AnchorDrive: LLM Scenario Rollout with Anchor-Guided Diffusion Regeneration for Safety-Critical Scenario Generation",
+  "date": "2026-03-03"
+ },
+ {
+  "id": "68bb6281827dbe1afaa43bcfdac822f333220716",
+  "title": "Unifying Language-Action Understanding and Generation for Autonomous Driving",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "d97df63ebb306612a30c8ebf1748ed5cbb4af50b",
+  "title": "LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "c1e3f33380ad9dd68c0de06ed23e385bfafa9f72",
+  "title": "LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "1d7f2f140010b2b4e2e9932be7445c6ff8d3f6d2",
+  "title": "Multimodal autonomous vehicle trajectory planning under an artificial intelligence paradigm",
+  "date": "2026-03-02"
+ },
+ {
+  "id": "96d6644fc1048c55b38a4f6b3211abaf8998e5a2",
+  "title": "DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "41e0015b169fe1d459ddfb8f38f54b6b6718a222",
+  "title": "Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures",
+  "date": "2026-03-01"
+ }
+]

@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_4454a763c891afb3fb8fa6567a367d05b1938e97",
+   "title": "Meta-learning with negative learning rates",
+   "is_B": true
+  },
+  {
+   "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "date": "2017-03-09"
+  },
+  {
+   "id": "688f9db8876fbca45d85e3c313294ab217d7f916",
+   "title": "Modeling and Optimization Trade-off in Meta-learning",
+   "date": "2020-10-24"
+  },
+  {
+   "id": "a491eab02566d7901314e5b1512cdb5e0b28e752",
+   "title": "Adaptive Gradient-Based Meta-Learning Methods",
+   "date": "2019-06-06"
+  },
+  {
+   "id": "6104568e318f140d7adcf646412f182906db69b1",
+   "title": "High-dimensional dynamics of generalization error in neural networks",
+   "date": "2017-10-10"
+  },
+  {
+   "id": "f1b5f17f836bf96d144dc2dd9b669440159abc84",
+   "title": "On the Global Optimality of Model-Agnostic Meta-Learning",
+   "date": "2020-06-23"
+  },
+  {
+   "id": "2bdebf2fb0f5c21907fcaae6d87c7ba5811e778a",
+   "title": "Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm",
+   "date": "2017-10-31"
+  },
+  {
+   "id": "1a385b975983da493645a675a8641916af765323",
+   "title": "Provable Meta-Learning of Linear Representations",
+   "date": "2020-02-26"
+  },
+  {
+   "id": "020bb2ba5f3923858cd6882ba5c5a44ea8041ab6",
+   "title": "Meta-Learning in Neural Networks: A Survey",
+   "date": "2020-04-11"
+  },
+  {
+   "id": "69a575abf40636c967be86a0bde9fda65ca3375a",
+   "title": "Meta-learning for mixed linear regression",
+   "date": "2020-02-20"
+  },
+  {
+   "id": "86e1e0fbb4388d7216973c6385428c11a505e7b5",
+   "title": "Meta-Learning with Neural Tangent Kernels",
+   "date": "2021-02-07"
+  },
+  {
+   "id": "baba60a1c57833ee88ff7585f68a0f02d0efa29f",
+   "title": "Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks",
+   "date": "2020-02-17"
+  },
+  {
+   "id": "abf5478c24664a1380b7e213a3ab1c4af54775d0",
+   "title": "Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML",
+   "date": "2019-09-19"
+  },
+  {
+   "id": "b188462188c52f764e74a8ea269274f690efb29e",
+   "title": "A Sample Complexity Separation between Non-Convex and Convex Meta-Learning",
+   "date": "2020-02-25"
+  },
+  {
+   "id": "46b072cf918ec6f50403568a73d4347ea86b7e66",
+   "title": "Recasting Gradient-Based Meta-Learning as Hierarchical Bayes",
+   "date": "2018-01-26"
+  },
+  {
+   "id": "f5cd085a826825d843bf3a1bceab93418570396c",
+   "title": "How Important is the Train-Validation Split in Meta-Learning?",
+   "date": "2020-10-12"
+  },
+  {
+   "id": "bbb89b44758e585ba3f1d9a496271a3228c29452",
+   "title": "Multi-Step Model-Agnostic Meta-Learning: Convergence and Improved Algorithms",
+   "date": "2020-02-18"
+  },
+  {
+   "id": "62a0bafd54099a79d78a013611a0c7d38e237032",
+   "title": "On Lazy Training in Differentiable Programming",
+   "date": "2018-12-19"
+  },
+  {
+   "id": "d33ad6a25264ba1747d8c93f6621c7f90a7ec601",
+   "title": "Meta-SGD: Learning to Learn Quickly for Few Shot Learning",
+   "date": "2017-07-31"
+  },
+  {
+   "id": "d28c18a3c2a0afdc0a8634d18345af8d36e1f948",
+   "title": "A Constructive Prediction of the Generalization Error Across Scales",
+   "date": "2019-09-27"
+  }
+ ],
+ "n_candidates": 36,
+ "sims": [
+  0.69,
+  0.6778,
+  0.6741,
+  0.6736,
+  0.6632,
+  0.6596,
+  0.6552,
+  0.65,
+  0.6436,
+  0.6434,
+  0.642,
+  0.6419,
+  0.6389,
+  0.6281,
+  0.6272,
+  0.6262,
+  0.6108,
+  0.6068,
+  0.5764
+ ]
+}

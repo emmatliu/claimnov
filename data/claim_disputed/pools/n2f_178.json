@@ -1,0 +1,102 @@
+{
+ "pool": [
+  {
+   "id": "B_f7c410ab241bc972cda2f47993124ea8483003b6",
+   "title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask",
+   "is_B": true
+  },
+  {
+   "id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+   "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+   "date": "2018-03-09"
+  },
+  {
+   "id": "03e0cbeb4604262446a97cb381874c7de1cffea2",
+   "title": "The Lottery Ticket Hypothesis at Scale",
+   "date": "2019-03-05"
+  },
+  {
+   "id": "1ff9a37d766e3a4f39757f5e1b235a42dacf18ff",
+   "title": "Learning both Weights and Connections for Efficient Neural Network",
+   "date": "2015-06-08"
+  },
+  {
+   "id": "a5733ff08daff727af834345b9cfff1d0aa109ec",
+   "title": "BinaryConnect: Training Deep Neural Networks with binary weights during propagations",
+   "date": "2015-11-02"
+  },
+  {
+   "id": "642d0f49b7826adcf986616f4af77e736229990f",
+   "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",
+   "date": "2015-10-01"
+  },
+  {
+   "id": "6eecc808d4c74e7d0d7ef6b8a4112c985ced104d",
+   "title": "Binarized Neural Networks",
+   "date": "2016-02-08"
+  },
+  {
+   "id": "306c7cd74beda5a09662b5f289bba50a2b5ea308",
+   "title": "Big Neural Networks Waste Capacity",
+   "date": "2013-01-15"
+  },
+  {
+   "id": "049fd80f52c0b1fa4d532945d95a24734b62bdf3",
+   "title": "ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression",
+   "date": "2017-07-20"
+  },
+  {
+   "id": "c2a1cb1612ba21e067a5c3ba478a8d73b796b77a",
+   "title": "Pruning Filters for Efficient ConvNets",
+   "date": "2016-08-31"
+  },
+  {
+   "id": "3ac1df952ffb63abb4231a4410f6f8375ccdfe79",
+   "title": "Designing Energy-Efficient Convolutional Neural Networks Using Energy-Aware Pruning",
+   "date": "2016-11-16"
+  },
+  {
+   "id": "7601b995303f953955004db7b9b8b206c0e02ff8",
+   "title": "Learning Structured Sparsity in Deep Neural Networks",
+   "date": "2016-08-12"
+  },
+  {
+   "id": "27a99c21a1324f087b2f144adc119f04137dfd87",
+   "title": "Deep Fried Convnets",
+   "date": "2014-12-22"
+  },
+  {
+   "id": "d55d1d035e91220335edff0fe8f5d249d8c4a00b",
+   "title": "Measuring the Intrinsic Dimension of Objective Landscapes",
+   "date": "2018-02-15"
+  },
+  {
+   "id": "9302e07c4951559ad9a538295029881a171faeec",
+   "title": "Bayesian Compression for Deep Learning",
+   "date": "2017-05-24"
+  },
+  {
+   "id": "eff61216e0136886e1158625b1e5a88ed1a7cbce",
+   "title": "Predicting Parameters in Deep Learning",
+   "date": "2013-06-03"
+  }
+ ],
+ "n_candidates": 15,
+ "sims": [
+  0.6261,
+  0.6039,
+  0.5606,
+  0.557,
+  0.5496,
+  0.5284,
+  0.5189,
+  0.5134,
+  0.5123,
+  0.5038,
+  0.4855,
+  0.4845,
+  0.4728,
+  0.468,
+  0.4656
+ ]
+}

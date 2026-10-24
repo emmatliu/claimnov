@@ -1,0 +1,126 @@
+{
+ "pool": [
+  {
+   "id": "B_f5c66cb689aa9b4404c72afc263023c26433553a",
+   "title": "Differentially Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds",
+   "is_B": true
+  },
+  {
+   "id": "b57c54350769ffa59ff57f79ee5aad918844d298",
+   "title": "Differentially Private Empirical Risk Minimization",
+   "date": "2009-11-30"
+  },
+  {
+   "id": "bff13566f185053645c6f38f3726f02fa6b31382",
+   "title": "The geometry of differential privacy: the sparse and approximate cases",
+   "date": "2012-12-02"
+  },
+  {
+   "id": "029d94fc1cc0aea88071ff5f98857bb97c5e0f72",
+   "title": "Lower Bounds in Differential Privacy",
+   "date": "2011-07-11"
+  },
+  {
+   "id": "ecf54d7e08b2365dc16969ed428c61e471684657",
+   "title": "Fingerprinting codes and the price of approximate differential privacy",
+   "date": "2013-11-13"
+  },
+  {
+   "id": "295b56bf2623f5f561d3b91634e3e1f17d2a548c",
+   "title": "On the geometry of differential privacy",
+   "date": "2009-07-21"
+  },
+  {
+   "id": "4ea0c821f3ec41906e82207db3cdfc858d5112fc",
+   "title": "Private Learning and Sanitization: Pure vs. Approximate Differential Privacy",
+   "date": "2013-08-21"
+  },
+  {
+   "id": "c4b85a9c13864188a6b05d83f108b9b2442b1e1c",
+   "title": "Near-Optimal Algorithms for Differentially-Private Principal Components",
+   "date": "2012-07-12"
+  },
+  {
+   "id": "50f03bae8d4ac97d5ad457e55114b780308bce23",
+   "title": "Sample Complexity Bounds for Differentially Private Learning",
+   "date": "2011-12-21"
+  },
+  {
+   "id": "f8558a09553fc35415b271019be9f7d44354073e",
+   "title": "Boosting and Differential Privacy",
+   "date": "2010-10-23"
+  },
+  {
+   "id": "8671284b7566f9136bc24681fa091cefc476d5c2",
+   "title": "Characterizing the sample complexity of private learners",
+   "date": "2013-01-09"
+  },
+  {
+   "id": "1311443061e0b387fceee95f813022ab5e3c273d",
+   "title": "What Can We Learn Privately?",
+   "date": "2008-03-06"
+  },
+  {
+   "id": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+   "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+   "date": "2006-03-04"
+  },
+  {
+   "id": "e046be2d0da2122dbbdb978bbd12c42b614da607",
+   "title": "Evolving sets, mixing and heat kernel bounds",
+   "date": "2003-05-25"
+  },
+  {
+   "id": "ff673be7a9367a7a79844a96f9299a2da64a41c6",
+   "title": "Information-Theoretic Lower Bounds on the Oracle Complexity of Stochastic Convex Optimization",
+   "date": "2010-09-03"
+  },
+  {
+   "id": "006cb500fd0b25200e12eb5a024756aea3d569ed",
+   "title": "Learning in a Large Function Space: Privacy-Preserving Mechanisms for SVM Learning",
+   "date": "2009-11-30"
+  },
+  {
+   "id": "a77baa2b1cbeca83ca5b4a194a605a959496e4d7",
+   "title": "The Power of Linear Reconstruction Attacks",
+   "date": "2012-10-08"
+  },
+  {
+   "id": "d5066fb9e9ee8c4a341c2372d8e0b2d6ddfbb15c",
+   "title": "Sampling and integration of near log-concave functions",
+   "date": "1991-01-03"
+  },
+  {
+   "id": "295ad29df1ff30052dbb22f9912b0370811b40c5",
+   "title": "Pseudorandom Bits for Polynomials",
+   "date": "2007-10-01"
+  },
+  {
+   "id": "4a8d66e20a3727c848f8a5ef1a7e4406541a8e66",
+   "title": "Online convex optimization in the bandit setting: gradient descent without a gradient",
+   "date": "2004-08-02"
+  }
+ ],
+ "n_candidates": 20,
+ "sims": [
+  0.6821,
+  0.6636,
+  0.6549,
+  0.6504,
+  0.6165,
+  0.5807,
+  0.5694,
+  0.5549,
+  0.5137,
+  0.4752,
+  0.4636,
+  0.4609,
+  0.4547,
+  0.4504,
+  0.45,
+  0.4451,
+  0.4286,
+  0.428,
+  0.4156
+ ]
+}
